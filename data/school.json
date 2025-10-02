@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "sch_1",
+    "english": "student",
+    "spanish": "estudiante",
+    "phonetic": "/ˈstuː.dənt/",
+    "examples": [
+      {"en": "She is a university student.", "es": "Ella es estudiante universitaria."},
+      {"en": "Every student must wear a uniform.", "es": "Cada estudiante debe usar uniforme."},
+      {"en": "He is a good student.", "es": "Él es un buen estudiante."},
+      {"en": "The students are in the classroom.", "es": "Los estudiantes están en el aula."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_2",
+    "english": "teacher",
+    "spanish": "profesor",
+    "phonetic": "/ˈtiː.tʃɚ/",
+    "examples": [
+      {"en": "My teacher explains math clearly.", "es": "Mi profesor explica matemáticas claramente."},
+      {"en": "The teacher assigned homework.", "es": "El profesor asignó tarea."},
+      {"en": "She is a kind and patient teacher.", "es": "Ella es una profesora amable y paciente."},
+      {"en": "Teachers shape the future.", "es": "Los profesores moldean el futuro."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_3",
+    "english": "classroom",
+    "spanish": "aula",
+    "phonetic": "/ˈklæs.ruːm/",
+    "examples": [
+      {"en": "The classroom is on the second floor.", "es": "El aula está en el segundo piso."},
+      {"en": "Students raise their hands in the classroom.", "es": "Los estudiantes levantan la mano en el aula."},
+      {"en": "The classroom has smartboards.", "es": "El aula tiene pizarras inteligentes."},
+      {"en": "Keep the classroom clean.", "es": "Mantén el aula limpia."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_4",
+    "english": "homework",
+    "spanish": "tarea",
+    "phonetic": "/ˈhoʊm.wɝːk/",
+    "examples": [
+      {"en": "I finished my homework early.", "es": "Terminé mi tarea temprano."},
+      {"en": "Homework helps reinforce learning.", "es": "La tarea ayuda a reforzar el aprendizaje."},
+      {"en": "She forgot to do her homework.", "es": "Ella olvidó hacer su tarea."},
+      {"en": "The teacher checked the homework.", "es": "El profesor revisó la tarea."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_5",
+    "english": "exam",
+    "spanish": "examen",
+    "phonetic": "/ɪɡˈzæm/",
+    "examples": [
+      {"en": "He studied hard for the exam.", "es": "Él estudió mucho para el examen."},
+      {"en": "The math exam was difficult.", "es": "El examen de matemáticas fue difícil."},
+      {"en": "She passed the final exam.", "es": "Ella aprobó el examen final."},
+      {"en": "Exams are scheduled for next week.", "es": "Los exámenes están programados para la próxima semana."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_6",
+    "english": "grade",
+    "spanish": "calificación",
+    "phonetic": "/ɡreɪd/",
+    "examples": [
+      {"en": "She got an A on her grade.", "es": "Ella obtuvo una A en su calificación."},
+      {"en": "His grades improved this semester.", "es": "Sus calificaciones mejoraron este semestre."},
+      {"en": "What grade did you get?", "es": "¿Qué calificación obtuviste?"},
+      {"en": "Good grades require effort.", "es": "Las buenas calificaciones requieren esfuerzo."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_7",
+    "english": "school",
+    "spanish": "escuela",
+    "phonetic": "/skuːl/",
+    "examples": [
+      {"en": "I go to school every day.", "es": "Voy a la escuela todos los días."},
+      {"en": "The school has a new science lab.", "es": "La escuela tiene un nuevo laboratorio de ciencias."},
+      {"en": "School starts at 8 a.m.", "es": "La escuela empieza a las 8 a.m."},
+      {"en": "Parents attended the school meeting.", "es": "Los padres asistieron a la reunión escolar."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_8",
+    "english": "principal",
+    "spanish": "director",
+    "phonetic": "/ˈprɪn.sə.pəl/",
+    "examples": [
+      {"en": "The principal gave a speech at graduation.", "es": "El director dio un discurso en la graduación."},
+      {"en": "She met with the school principal.", "es": "Ella se reunió con el director de la escuela."},
+      {"en": "The principal enforces school rules.", "es": "El director hace cumplir las reglas escolares."},
+      {"en": "He is a respected principal.", "es": "Él es un director respetado."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_9",
+    "english": "textbook",
+    "spanish": "libro de texto",
+    "phonetic": "/ˈtekst.bʊk/",
+    "examples": [
+      {"en": "Don’t forget your textbook for class.", "es": "No olvides tu libro de texto para la clase."},
+      {"en": "The textbook costs fifty dollars.", "es": "El libro de texto cuesta cincuenta dólares."},
+      {"en": "She highlighted important parts in the textbook.", "es": "Ella subrayó partes importantes en el libro de texto."},
+      {"en": "We use this textbook for biology.", "es": "Usamos este libro de texto para biología."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_10",
+    "english": "notebook",
+    "spanish": "cuaderno",
+    "phonetic": "/ˈnoʊt.bʊk/",
+    "examples": [
+      {"en": "Write your notes in your notebook.", "es": "Escribe tus apuntes en tu cuaderno."},
+      {"en": "He lost his math notebook.", "es": "Él perdió su cuaderno de matemáticas."},
+      {"en": "The notebook is full of drawings.", "es": "El cuaderno está lleno de dibujos."},
+      {"en": "Use a separate notebook for each subject.", "es": "Usa un cuaderno separado para cada materia."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_11",
+    "english": "pencil",
+    "spanish": "lápiz",
+    "phonetic": "/ˈpen.səl/",
+    "examples": [
+      {"en": "Sharpen your pencil before the test.", "es": "Afila tu lápiz antes del examen."},
+      {"en": "She drew with a pencil.", "es": "Ella dibujó con un lápiz."},
+      {"en": "I need a new pencil.", "es": "Necesito un lápiz nuevo."},
+      {"en": "The pencil broke while writing.", "es": "El lápiz se rompió al escribir."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_12",
+    "english": "backpack",
+    "spanish": "mochila",
+    "phonetic": "/ˈbæk.pæk/",
+    "examples": [
+      {"en": "His backpack is full of books.", "es": "Su mochila está llena de libros."},
+      {"en": "She bought a new backpack for school.", "es": "Ella compró una mochila nueva para la escuela."},
+      {"en": "Don’t forget your backpack!", "es": "¡No olvides tu mochila!"},
+      {"en": "The backpack has a laptop compartment.", "es": "La mochila tiene un compartimento para laptop."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_13",
+    "english": "library",
+    "spanish": "biblioteca",
+    "phonetic": "/ˈlaɪ.brer.i/",
+    "examples": [
+      {"en": "We study in the school library.", "es": "Estudiamos en la biblioteca escolar."},
+      {"en": "The library is quiet.", "es": "La biblioteca es silenciosa."},
+      {"en": "She borrowed a book from the library.", "es": "Ella tomó prestado un libro de la biblioteca."},
+      {"en": "The library has computers for students.", "es": "La biblioteca tiene computadoras para estudiantes."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_14",
+    "english": "math",
+    "spanish": "matemáticas",
+    "phonetic": "/mæθ/",
+    "examples": [
+      {"en": "Math is my favorite subject.", "es": "Las matemáticas son mi materia favorita."},
+      {"en": "He solved the math problem quickly.", "es": "Él resolvió el problema de matemáticas rápidamente."},
+      {"en": "We have math class at 10 a.m.", "es": "Tenemos clase de matemáticas a las 10 a.m."},
+      {"en": "Math helps develop logical thinking.", "es": "Las matemáticas ayudan a desarrollar el pensamiento lógico."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_15",
+    "english": "science",
+    "spanish": "ciencias",
+    "phonetic": "/ˈsaɪ.əns/",
+    "examples": [
+      {"en": "Science class includes lab experiments.", "es": "La clase de ciencias incluye experimentos de laboratorio."},
+      {"en": "She loves biology and chemistry.", "es": "Ella ama la biología y la química."},
+      {"en": "We learned about the solar system in science.", "es": "Aprendimos sobre el sistema solar en ciencias."},
+      {"en": "Science explains how the world works.", "es": "La ciencia explica cómo funciona el mundo."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_16",
+    "english": "history",
+    "spanish": "historia",
+    "phonetic": "/ˈhɪs.tər.i/",
+    "examples": [
+      {"en": "History teaches us about the past.", "es": "La historia nos enseña sobre el pasado."},
+      {"en": "They studied ancient Egypt in history class.", "es": "Estudiaron el antiguo Egipto en clase de historia."},
+      {"en": "The history exam covers World War II.", "es": "El examen de historia cubre la Segunda Guerra Mundial."},
+      {"en": "He is writing a history report.", "es": "Él está escribiendo un informe de historia."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_17",
+    "english": "literature",
+    "spanish": "literatura",
+    "phonetic": "/ˈlɪt̬.ɚ.ə.tʃɚ/",
+    "examples": [
+      {"en": "We read Shakespeare in literature class.", "es": "Leemos a Shakespeare en clase de literatura."},
+      {"en": "She wrote an essay on modern literature.", "es": "Ella escribió un ensayo sobre literatura moderna."},
+      {"en": "Literature helps us understand human emotions.", "es": "La literatura nos ayuda a entender las emociones humanas."},
+      {"en": "The literature textbook is heavy.", "es": "El libro de texto de literatura es pesado."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_18",
+    "english": "art",
+    "spanish": "arte",
+    "phonetic": "/ɑːrt/",
+    "examples": [
+      {"en": "Art class is on Fridays.", "es": "La clase de arte es los viernes."},
+      {"en": "She painted a beautiful landscape in art.", "es": "Ella pintó un paisaje hermoso en arte."},
+      {"en": "Art encourages creativity.", "es": "El arte fomenta la creatividad."},
+      {"en": "The school has an art exhibition.", "es": "La escuela tiene una exposición de arte."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_19",
+    "english": "music",
+    "spanish": "música",
+    "phonetic": "/ˈmjuː.zɪk/",
+    "examples": [
+      {"en": "He plays the piano in music class.", "es": "Él toca el piano en clase de música."},
+      {"en": "Music is part of the curriculum.", "es": "La música es parte del currículo."},
+      {"en": "She sings in the school choir.", "es": "Ella canta en el coro escolar."},
+      {"en": "Music helps with memory and focus.", "es": "La música ayuda con la memoria y la concentración."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_20",
+    "english": "physical education",
+    "spanish": "educación física",
+    "phonetic": "/ˈfɪz.ɪ.kəl ˌedʒ.uˈkeɪ.ʃən/",
+    "examples": [
+      {"en": "We play soccer in physical education.", "es": "Jugamos fútbol en educación física."},
+      {"en": "Physical education is required for all students.", "es": "La educación física es obligatoria para todos los estudiantes."},
+      {"en": "He changed clothes for PE class.", "es": "Él se cambió de ropa para la clase de EF."},
+      {"en": "PE helps students stay healthy.", "es": "La EF ayuda a los estudiantes a mantenerse saludables."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_21",
+    "english": "gym",
+    "spanish": "gimnasio",
+    "phonetic": "/dʒɪm/",
+    "examples": [
+      {"en": "The gym is next to the cafeteria.", "es": "El gimnasio está al lado de la cafetería."},
+      {"en": "We have basketball practice in the gym.", "es": "Tenemos práctica de baloncesto en el gimnasio."},
+      {"en": "The gym has new equipment.", "es": "El gimnasio tiene equipo nuevo."},
+      {"en": "Students line up outside the gym.", "es": "Los estudiantes hacen fila afuera del gimnasio."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_22",
+    "english": "cafeteria",
+    "spanish": "cafetería",
+    "phonetic": "/ˌkæf.əˈtɪr.i.ə/",
+    "examples": [
+      {"en": "Lunch is served in the cafeteria.", "es": "El almuerzo se sirve en la cafetería."},
+      {"en": "She bought a sandwich in the cafeteria.", "es": "Ella compró un sándwich en la cafetería."},
+      {"en": "The cafeteria is crowded at noon.", "es": "La cafetería está llena al mediodía."},
+      {"en": "They offer healthy options in the cafeteria.", "es": "Ofrecen opciones saludables en la cafetería."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_23",
+    "english": "principal's office",
+    "spanish": "oficina del director",
+    "phonetic": "/ˈprɪn.sə.pəlz ˈɑː.fɪs/",
+    "examples": [
+      {"en": "He was sent to the principal's office.", "es": "Él fue enviado a la oficina del director."},
+      {"en": "Parents meet the principal in his office.", "es": "Los padres se reúnen con el director en su oficina."},
+      {"en": "The principal's office is on the first floor.", "es": "La oficina del director está en el primer piso."},
+      {"en": "She received an award in the principal's office.", "es": "Ella recibió un premio en la oficina del director."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_24",
+    "english": "nurse's office",
+    "spanish": "enfermería",
+    "phonetic": "/nɝːsɪz ˈɑː.fɪs/",
+    "examples": [
+      {"en": "She went to the nurse's office with a headache.", "es": "Ella fue a la enfermería con dolor de cabeza."},
+      {"en": "The nurse's office has a bed for sick students.", "es": "La enfermería tiene una cama para estudiantes enfermos."},
+      {"en": "He got a bandage at the nurse's office.", "es": "Él obtuvo una venda en la enfermería."},
+      {"en": "The school nurse works in the nurse's office.", "es": "La enfermera escolar trabaja en la enfermería."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_25",
+    "english": "assignment",
+    "spanish": "tarea asignada",
+    "phonetic": "/əˈsaɪn.mənt/",
+    "examples": [
+      {"en": "The assignment is due tomorrow.", "es": "La tarea asignada se entrega mañana."},
+      {"en": "She completed the writing assignment.", "es": "Ella completó la tarea de escritura."},
+      {"en": "He forgot to submit his assignment.", "es": "Él olvidó entregar su tarea."},
+      {"en": "The teacher graded the assignments.", "es": "El profesor calificó las tareas asignadas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_26",
+    "english": "quiz",
+    "spanish": "cuestionario",
+    "phonetic": "/kwɪz/",
+    "examples": [
+      {"en": "We have a vocabulary quiz today.", "es": "Tenemos un cuestionario de vocabulario hoy."},
+      {"en": "The quiz was only five questions.", "es": "El cuestionario tenía solo cinco preguntas."},
+      {"en": "She studied for the surprise quiz.", "es": "Ella estudió para el cuestionario sorpresa."},
+      {"en": "He got 100% on the quiz.", "es": "Él obtuvo 100% en el cuestionario."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_27",
+    "english": "test",
+    "spanish": "prueba",
+    "phonetic": "/test/",
+    "examples": [
+      {"en": "The spelling test is on Friday.", "es": "La prueba de ortografía es el viernes."},
+      {"en": "She passed the driving test.", "es": "Ella aprobó la prueba de conducir."},
+      {"en": "He failed the chemistry test.", "es": "Él reprobó la prueba de química."},
+      {"en": "Tests measure student understanding.", "es": "Las pruebas miden la comprensión del estudiante."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_28",
+    "english": "project",
+    "spanish": "proyecto",
+    "phonetic": "/ˈprɑː.dʒekt/",
+    "examples": [
+      {"en": "The science project is due next week.", "es": "El proyecto de ciencias se entrega la próxima semana."},
+      {"en": "She built a volcano for her project.", "es": "Ella construyó un volcán para su proyecto."},
+      {"en": "They worked in groups on the project.", "es": "Trabajaron en grupos en el proyecto."},
+      {"en": "The history project included a presentation.", "es": "El proyecto de historia incluyó una presentación."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_29",
+    "english": "presentation",
+    "spanish": "presentación",
+    "phonetic": "/ˌprez.nˈteɪ.ʃən/",
+    "examples": [
+      {"en": "He gave a presentation on climate change.", "es": "Él dio una presentación sobre el cambio climático."},
+      {"en": "The presentation used slides and videos.", "es": "La presentación usó diapositivas y videos."},
+      {"en": "She practiced her presentation at home.", "es": "Ella practicó su presentación en casa."},
+      {"en": "Presentations help develop public speaking skills.", "es": "Las presentaciones ayudan a desarrollar habilidades de oratoria."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_30",
+    "english": "curriculum",
+    "spanish": "currículo",
+    "phonetic": "/ˈkɝː.ə.kjə.ləm/",
+    "examples": [
+      {"en": "The school updated its curriculum.", "es": "La escuela actualizó su currículo."},
+      {"en": "The curriculum includes math and science.", "es": "El currículo incluye matemáticas y ciencias."},
+      {"en": "Teachers follow the national curriculum.", "es": "Los profesores siguen el currículo nacional."},
+      {"en": "The new curriculum emphasizes critical thinking.", "es": "El nuevo currículo enfatiza el pensamiento crítico."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_31",
+    "english": "semester",
+    "spanish": "semestre",
+    "phonetic": "/səˈmes.tɚ/",
+    "examples": [
+      {"en": "The semester ends in December.", "es": "El semestre termina en diciembre."},
+      {"en": "She took five classes this semester.", "es": "Ella tomó cinco clases este semestre."},
+      {"en": "Midterms are halfway through the semester.", "es": "Los exámenes parciales son a mitad del semestre."},
+      {"en": "He failed one class last semester.", "es": "Él reprobó una clase el semestre pasado."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_32",
+    "english": "academic year",
+    "spanish": "año académico",
+    "phonetic": "/ˌæk.əˈdem.ɪk jɪr/",
+    "examples": [
+      {"en": "The academic year starts in August.", "es": "El año académico empieza en agosto."},
+      {"en": "She studied abroad during the academic year.", "es": "Ella estudió en el extranjero durante el año académico."},
+      {"en": "The academic year has two semesters.", "es": "El año académico tiene dos semestres."},
+      {"en": "Grades are recorded for each academic year.", "es": "Las calificaciones se registran por cada año académico."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_33",
+    "english": "kindergarten",
+    "spanish": "jardín de infancia",
+    "phonetic": "/ˈkɪn.dɚ.ɡɑːr.t̬ən/",
+    "examples": [
+      {"en": "My son started kindergarten this year.", "es": "Mi hijo empezó el jardín de infancia este año."},
+      {"en": "Kindergarten focuses on social skills.", "es": "El jardín de infancia se enfoca en habilidades sociales."},
+      {"en": "She teaches kindergarten.", "es": "Ella enseña jardín de infancia."},
+      {"en": "Kindergarten is for children age five.", "es": "El jardín de infancia es para niños de cinco años."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_34",
+    "english": "elementary school",
+    "spanish": "escuela primaria",
+    "phonetic": "/ˌel.əˈmen.tər.i skuːl/",
+    "examples": [
+      {"en": "He went to elementary school nearby.", "es": "Él fue a la escuela primaria cercana."},
+      {"en": "Elementary school includes grades 1 to 5.", "es": "La escuela primaria incluye grados del 1 al 5."},
+      {"en": "She teaches math in elementary school.", "es": "Ella enseña matemáticas en la escuela primaria."},
+      {"en": "Elementary school builds foundational skills.", "es": "La escuela primaria construye habilidades fundamentales."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_35",
+    "english": "middle school",
+    "spanish": "escuela secundaria baja",
+    "phonetic": "/ˈmɪd.əl skuːl/",
+    "examples": [
+      {"en": "Middle school starts in sixth grade.", "es": "La secundaria baja empieza en sexto grado."},
+      {"en": "She plays soccer in middle school.", "es": "Ella juega fútbol en la secundaria baja."},
+      {"en": "Middle school can be challenging.", "es": "La secundaria baja puede ser desafiante."},
+      {"en": "He changed schools after middle school.", "es": "Él cambió de escuela después de la secundaria baja."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_36",
+    "english": "high school",
+    "spanish": "escuela secundaria",
+    "phonetic": "/ˈhaɪ skuːl/",
+    "examples": [
+      {"en": "She graduated from high school last year.", "es": "Ella se graduó de la secundaria el año pasado."},
+      {"en": "High school students take standardized tests.", "es": "Los estudiantes de secundaria toman exámenes estandarizados."},
+      {"en": "He plays in the high school band.", "es": "Él toca en la banda de la secundaria."},
+      {"en": "High school prepares students for college.", "es": "La secundaria prepara a los estudiantes para la universidad."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_37",
+    "english": "college",
+    "spanish": "universidad",
+    "phonetic": "/ˈkɑː.lɪdʒ/",
+    "examples": [
+      {"en": "She is studying engineering in college.", "es": "Ella estudia ingeniería en la universidad."},
+      {"en": "College starts in the fall semester.", "es": "La universidad empieza en el semestre de otoño."},
+      {"en": "He applied to five colleges.", "es": "Él solicitó admisión en cinco universidades."},
+      {"en": "College requires more independence.", "es": "La universidad requiere más independencia."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_38",
+    "english": "university",
+    "spanish": "universidad",
+    "phonetic": "/ˌjuː.nəˈvɝː.sə.t̬i/",
+    "examples": [
+      {"en": "He attends Harvard University.", "es": "Él asiste a la Universidad de Harvard."},
+      {"en": "The university has a large campus.", "es": "La universidad tiene un campus grande."},
+      {"en": "She earned a degree from the university.", "es": "Ella obtuvo un título de la universidad."},
+      {"en": "University research leads to innovation.", "es": "La investigación universitaria lleva a la innovación."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_39",
+    "english": "graduate school",
+    "spanish": "posgrado",
+    "phonetic": "/ˈɡrædʒ.u.ət skuːl/",
+    "examples": [
+      {"en": "She is in graduate school for psychology.", "es": "Ella está en posgrado de psicología."},
+      {"en": "Graduate school requires a bachelor's degree.", "es": "El posgrado requiere una licenciatura."},
+      {"en": "He earned a master's in graduate school.", "es": "Él obtuvo una maestría en posgrado."},
+      {"en": "Graduate school is more specialized.", "es": "El posgrado es más especializado."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_40",
+    "english": "scholarship",
+    "spanish": "beca",
+    "phonetic": "/ˈskɑː.lɚ.ʃɪp/",
+    "examples": [
+      {"en": "She won a scholarship to college.", "es": "Ella ganó una beca para la universidad."},
+      {"en": "The scholarship covers tuition and books.", "es": "La beca cubre matrícula y libros."},
+      {"en": "He applied for a music scholarship.", "es": "Él solicitó una beca de música."},
+      {"en": "Scholarships are awarded based on merit or need.", "es": "Las becas se otorgan por mérito o necesidad."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_41",
+    "english": "tuition",
+    "spanish": "matrícula",
+    "phonetic": "/tuːˈɪʃ.ən/",
+    "examples": [
+      {"en": "University tuition is expensive.", "es": "La matrícula universitaria es cara."},
+      {"en": "They paid tuition for the semester.", "es": "Ellos pagaron la matrícula del semestre."},
+      {"en": "Some scholarships cover full tuition.", "es": "Algunas becas cubren la matrícula completa."},
+      {"en": "Tuition fees vary by institution.", "es": "Las tarifas de matrícula varían por institución."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_42",
+    "english": "diploma",
+    "spanish": "diploma",
+    "phonetic": "/dɪˈplɑː.mə/",
+    "examples": [
+      {"en": "She received her high school diploma.", "es": "Ella recibió su diploma de secundaria."},
+      {"en": "The diploma hangs on the wall.", "es": "El diploma cuelga en la pared."},
+      {"en": "He earned a college diploma in business.", "es": "Él obtuvo un diploma universitario en negocios."},
+      {"en": "Graduation includes a diploma ceremony.", "es": "La graduación incluye una ceremonia de entrega de diplomas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_43",
+    "english": "degree",
+    "spanish": "título universitario",
+    "phonetic": "/dɪˈɡriː/",
+    "examples": [
+      {"en": "She has a degree in biology.", "es": "Ella tiene un título universitario en biología."},
+      {"en": "He is working toward his degree.", "es": "Él está trabajando para obtener su título."},
+      {"en": "A bachelor's degree takes four years.", "es": "Una licenciatura toma cuatro años."},
+      {"en": "The degree is from a prestigious university.", "es": "El título es de una universidad prestigiosa."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_44",
+    "english": "bachelor's degree",
+    "spanish": "licenciatura",
+    "phonetic": "/ˈbætʃ.ə.lɚz dɪˈɡriː/",
+    "examples": [
+      {"en": "She earned a bachelor's degree in 2020.", "es": "Ella obtuvo una licenciatura en 2020."},
+      {"en": "A bachelor's degree is required for many jobs.", "es": "Una licenciatura es requerida para muchos trabajos."},
+      {"en": "He studied computer science for his bachelor's.", "es": "Él estudió ciencias de la computación para su licenciatura."},
+      {"en": "The bachelor's program lasts four years.", "es": "El programa de licenciatura dura cuatro años."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_45",
+    "english": "master's degree",
+    "spanish": "maestría",
+    "phonetic": "/ˈmæs.tɚz dɪˈɡriː/",
+    "examples": [
+      {"en": "She is pursuing a master's degree in education.", "es": "Ella está cursando una maestría en educación."},
+      {"en": "A master's degree takes two years.", "es": "Una maestría toma dos años."},
+      {"en": "He has a master's in engineering.", "es": "Él tiene una maestría en ingeniería."},
+      {"en": "The master's program is competitive.", "es": "El programa de maestría es competitivo."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_46",
+    "english": "doctorate",
+    "spanish": "doctorado",
+    "phonetic": "/ˈdɑː.kt̬ɚ.ət/",
+    "examples": [
+      {"en": "She earned a doctorate in physics.", "es": "Ella obtuvo un doctorado en física."},
+      {"en": "A doctorate requires original research.", "es": "Un doctorado requiere investigación original."},
+      {"en": "He is writing his dissertation for the doctorate.", "es": "Él está escribiendo su tesis para el doctorado."},
+      {"en": "The doctorate is the highest academic degree.", "es": "El doctorado es el título académico más alto."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_47",
+    "english": "lecture",
+    "spanish": "clase magistral",
+    "phonetic": "/ˈlek.tʃɚ/",
+    "examples": [
+      {"en": "The professor gave a lecture on quantum physics.", "es": "El profesor dio una clase magistral sobre física cuántica."},
+      {"en": "Students take notes during the lecture.", "es": "Los estudiantes toman apuntes durante la clase magistral."},
+      {"en": "The lecture lasted one hour.", "es": "La clase magistral duró una hora."},
+      {"en": "He missed the lecture due to illness.", "es": "Él perdió la clase magistral por enfermedad."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_48",
+    "english": "seminar",
+    "spanish": "seminario",
+    "phonetic": "/ˈsem.ɪ.nɑːr/",
+    "examples": [
+      {"en": "The seminar focused on climate policy.", "es": "El seminario se enfocó en política climática."},
+      {"en": "She presented her research in the seminar.", "es": "Ella presentó su investigación en el seminario."},
+      {"en": "Seminars are smaller than lectures.", "es": "Los seminarios son más pequeños que las clases magistrales."},
+      {"en": "He enrolled in a writing seminar.", "es": "Él se inscribió en un seminario de escritura."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_49",
+    "english": "syllabus",
+    "spanish": "programa del curso",
+    "phonetic": "/ˈsɪl.ə.bəs/",
+    "examples": [
+      {"en": "The syllabus lists all assignments and dates.", "es": "El programa del curso enumera todas las tareas y fechas."},
+      {"en": "She reviewed the syllabus on the first day.", "es": "Ella revisó el programa del curso el primer día."},
+      {"en": "The professor updated the syllabus.", "es": "El profesor actualizó el programa del curso."},
+      {"en": "Keep the syllabus for reference.", "es": "Guarda el programa del curso como referencia."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_50",
+    "english": "transcript",
+    "spanish": "expediente académico",
+    "phonetic": "/ˈtræn.skript/",
+    "examples": [
+      {"en": "The university requested his official transcript.", "es": "La universidad solicitó su expediente académico oficial."},
+      {"en": "Her transcript shows all her grades.", "es": "Su expediente académico muestra todas sus calificaciones."},
+      {"en": "He sent his transcript to five colleges.", "es": "Él envió su expediente académico a cinco universidades."},
+      {"en": "Transcripts are needed for scholarship applications.", "es": "Se necesitan expedientes académicos para solicitudes de becas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_51",
+    "english": "advisor",
+    "spanish": "asesor académico",
+    "phonetic": "/ədˈvaɪ.zɚ/",
+    "examples": [
+      {"en": "She met with her academic advisor.", "es": "Ella se reunió con su asesor académico."},
+      {"en": "The advisor helped choose classes.", "es": "El asesor ayudó a elegir clases."},
+      {"en": "He is my thesis advisor.", "es": "Él es mi asesor de tesis."},
+      {"en": "Advisors guide students through their programs.", "es": "Los asesores guían a los estudiantes en sus programas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_52",
+    "english": "counselor",
+    "spanish": "consejero escolar",
+    "phonetic": "/ˈkaʊn.sə.lɚ/",
+    "examples": [
+      {"en": "The school counselor helped with college applications.", "es": "El consejero escolar ayudó con solicitudes universitarias."},
+      {"en": "She talked to the counselor about stress.", "es": "Ella habló con el consejero sobre el estrés."},
+      {"en": "He is the career counselor.", "es": "Él es el consejero de orientación vocacional."},
+      {"en": "Counselors support student well-being.", "es": "Los consejeros apoyan el bienestar de los estudiantes."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_53",
+    "english": "classmate",
+    "spanish": "compañero de clase",
+    "phonetic": "/ˈklæs.meɪt/",
+    "examples": [
+      {"en": "My classmate lent me a pencil.", "es": "Mi compañero de clase me prestó un lápiz."},
+      {"en": "She studies with her classmates.", "es": "Ella estudia con sus compañeros de clase."},
+      {"en": "He became friends with his classmates.", "es": "Él se hizo amigo de sus compañeros de clase."},
+      {"en": "Classmates worked together on the project.", "es": "Los compañeros de clase trabajaron juntos en el proyecto."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_54",
+    "english": "professor",
+    "spanish": "profesor universitario",
+    "phonetic": "/prəˈfes.ɚ/",
+    "examples": [
+      {"en": "The professor teaches philosophy.", "es": "El profesor universitario enseña filosofía."},
+      {"en": "She is a tenured professor.", "es": "Ella es una profesora titular."},
+      {"en": "He published research as a professor.", "es": "Él publicó investigación como profesor."},
+      {"en": "Professors often have office hours.", "es": "Los profesores universitarios suelen tener horas de oficina."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_55",
+    "english": "dean",
+    "spanish": "decano",
+    "phonetic": "/diːn/",
+    "examples": [
+      {"en": "The dean approved the new program.", "es": "El decano aprobó el nuevo programa."},
+      {"en": "She met with the dean of students.", "es": "Ella se reunió con el decano de estudiantes."},
+      {"en": "He is the dean of the engineering school.", "es": "Él es el decano de la escuela de ingeniería."},
+      {"en": "The dean oversees academic affairs.", "es": "El decano supervisa asuntos académicos."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_56",
+    "english": "chalkboard",
+    "spanish": "pizarra",
+    "phonetic": "/ˈtʃɔːk.bɔːrd/",
+    "examples": [
+      {"en": "The teacher wrote on the chalkboard.", "es": "El profesor escribió en la pizarra."},
+      {"en": "The chalkboard needs cleaning.", "es": "La pizarra necesita limpieza."},
+      {"en": "She solved the equation on the chalkboard.", "es": "Ella resolvió la ecuación en la pizarra."},
+      {"en": "Old schools used chalkboards instead of whiteboards.", "es": "Las escuelas antiguas usaban pizarras en lugar de pizarras blancas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_57",
+    "english": "whiteboard",
+    "spanish": "pizarra blanca",
+    "phonetic": "/ˈwaɪt.bɔːrd/",
+    "examples": [
+      {"en": "He used markers on the whiteboard.", "es": "Él usó marcadores en la pizarra blanca."},
+      {"en": "The whiteboard is in the front of the room.", "es": "La pizarra blanca está al frente del salón."},
+      {"en": "She erased the whiteboard after class.", "es": "Ella borró la pizarra blanca después de clase."},
+      {"en": "Whiteboards are common in modern classrooms.", "es": "Las pizarras blancas son comunes en aulas modernas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_58",
+    "english": "marker",
+    "spanish": "marcador",
+    "phonetic": "/ˈmɑːr.kɚ/",
+    "examples": [
+      {"en": "Use a blue marker for the diagram.", "es": "Usa un marcador azul para el diagrama."},
+      {"en": "The marker ran out of ink.", "es": "El marcador se quedó sin tinta."},
+      {"en": "She has a set of colored markers.", "es": "Ella tiene un juego de marcadores de colores."},
+      {"en": "Markers are used on whiteboards.", "es": "Los marcadores se usan en pizarras blancas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_59",
+    "english": "eraser",
+    "spanish": "borrador",
+    "phonetic": "/ɪˈreɪ.zɚ/",
+    "examples": [
+      {"en": "He used an eraser to correct his mistake.", "es": "Él usó un borrador para corregir su error."},
+      {"en": "The eraser is on the teacher's desk.", "es": "El borrador está en el escritorio del profesor."},
+      {"en": "She lost her eraser.", "es": "Ella perdió su borrador."},
+      {"en": "Chalkboard erasers are large.", "es": "Los borradores de pizarra son grandes."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_60",
+    "english": "ruler",
+    "spanish": "regla",
+    "phonetic": "/ˈruː.lɚ/",
+    "examples": [
+      {"en": "Use a ruler to draw a straight line.", "es": "Usa una regla para trazar una línea recta."},
+      {"en": "The ruler measures 30 centimeters.", "es": "La regla mide 30 centímetros."},
+      {"en": "He forgot his ruler for geometry class.", "es": "Él olvidó su regla para la clase de geometría."},
+      {"en": "The ruler has inches and centimeters.", "es": "La regla tiene pulgadas y centímetros."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_61",
+    "english": "calculator",
+    "spanish": "calculadora",
+    "phonetic": "/ˈkæl.kjə.leɪ.t̬ɚ/",
+    "examples": [
+      {"en": "You can use a calculator for the test.", "es": "Puedes usar una calculadora para el examen."},
+      {"en": "She bought a scientific calculator.", "es": "Ella compró una calculadora científica."},
+      {"en": "The calculator battery is dead.", "es": "La batería de la calculadora está muerta."},
+      {"en": "Calculators help with complex math.", "es": "Las calculadoras ayudan con matemáticas complejas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_62",
+    "english": "compass",
+    "spanish": "compás",
+    "phonetic": "/ˈkʌm.pəs/",
+    "examples": [
+      {"en": "Use a compass to draw a circle.", "es": "Usa un compás para trazar un círculo."},
+      {"en": "The compass has a sharp point.", "es": "El compás tiene una punta afilada."},
+      {"en": "He brought his compass to geometry class.", "es": "Él trajo su compás a la clase de geometría."},
+      {"en": "Compasses are used in math and art.", "es": "Los compases se usan en matemáticas y arte."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_63",
+    "english": "protractor",
+    "spanish": "transportador",
+    "phonetic": "/prəˈtræk.tɚ/",
+    "examples": [
+      {"en": "Measure the angle with a protractor.", "es": "Mide el ángulo con un transportador."},
+      {"en": "The protractor is half a circle.", "es": "El transportador es medio círculo."},
+      {"en": "She used a protractor in geometry.", "es": "Ella usó un transportador en geometría."},
+      {"en": "Protractors help draw precise angles.", "es": "Los transportadores ayudan a trazar ángulos precisos."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_64",
+    "english": "glue",
+    "spanish": "pegamento",
+    "phonetic": "/ɡluː/",
+    "examples": [
+      {"en": "Use glue to stick the paper.", "es": "Usa pegamento para pegar el papel."},
+      {"en": "The glue bottle is empty.", "es": "El frasco de pegamento está vacío."},
+      {"en": "She used glue for her art project.", "es": "Ella usó pegamento para su proyecto de arte."},
+      {"en": "School glue is non-toxic.", "es": "El pegamento escolar es no tóxico."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_65",
+    "english": "scissors",
+    "spanish": "tijeras",
+    "phonetic": "/ˈsɪz.ɚz/",
+    "examples": [
+      {"en": "Cut the paper with scissors.", "es": "Corta el papel con tijeras."},
+      {"en": "The scissors are sharp.", "es": "Las tijeras están afiladas."},
+      {"en": "She used safety scissors in kindergarten.", "es": "Ella usó tijeras de seguridad en jardín de infancia."},
+      {"en": "Scissors are kept in the art room.", "es": "Las tijeras se guardan en el salón de arte."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_66",
+    "english": "highlighter",
+    "spanish": "resaltador",
+    "phonetic": "/ˈhaɪ.laɪ.t̬ɚ/",
+    "examples": [
+      {"en": "Use a yellow highlighter for key terms.", "es": "Usa un resaltador amarillo para términos clave."},
+      {"en": "The highlighter ran out of ink.", "es": "El resaltador se quedó sin tinta."},
+      {"en": "She has pink and green highlighters.", "es": "Ella tiene resaltadores rosado y verde."},
+      {"en": "Highlighters help with studying.", "es": "Los resaltadores ayudan con el estudio."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_67",
+    "english": "folder",
+    "spanish": "carpeta",
+    "phonetic": "/ˈfoʊl.dɚ/",
+    "examples": [
+      {"en": "Keep your papers in a folder.", "es": "Guarda tus papeles en una carpeta."},
+      {"en": "The folder is blue and plastic.", "es": "La carpeta es azul y de plástico."},
+      {"en": "He organized notes by subject in folders.", "es": "Él organizó apuntes por materia en carpetas."},
+      {"en": "Folders help keep work neat.", "es": "Las carpetas ayudan a mantener el trabajo ordenado."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_68",
+    "english": "binder",
+    "spanish": "archivador",
+    "phonetic": "/ˈbaɪn.dɚ/",
+    "examples": [
+      {"en": "Use a three-ring binder for class notes.", "es": "Usa un archivador de tres anillas para apuntes de clase."},
+      {"en": "The binder holds all her handouts.", "es": "El archivador guarda todos sus apuntes impresos."},
+      {"en": "He decorated his binder with stickers.", "es": "Él decoró su archivador con calcomanías."},
+      {"en": "Binders are better than notebooks for some students.", "es": "Los archivadores son mejores que los cuadernos para algunos estudiantes."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_69",
+    "english": "locker",
+    "spanish": "casillero",
+    "phonetic": "/ˈlɑː.kɚ/",
+    "examples": [
+      {"en": "She put her books in her locker.", "es": "Ella puso sus libros en su casillero."},
+      {"en": "The locker combination is 12-24-36.", "es": "La combinación del casillero es 12-24-36."},
+      {"en": "He forgot his locker number.", "es": "Él olvidó el número de su casillero."},
+      {"en": "Lockers are assigned at the start of the year.", "es": "Los casilleros se asignan al inicio del año."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_70",
+    "english": "desk",
+    "spanish": "pupitre",
+    "phonetic": "/desk/",
+    "examples": [
+      {"en": "Sit at your desk quietly.", "es": "Siéntate en tu pupitre en silencio."},
+      {"en": "The desk has a name tag.", "es": "El pupitre tiene una etiqueta con nombre."},
+      {"en": "He carved his name into the desk.", "es": "Él talló su nombre en el pupitre."},
+      {"en": "Desks are arranged in rows.", "es": "Los pupitres están dispuestos en filas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_71",
+    "english": "chair",
+    "spanish": "silla",
+    "phonetic": "/tʃer/",
+    "examples": [
+      {"en": "Push in your chair when you leave.", "es": "Empuja tu silla al salir."},
+      {"en": "The chair is uncomfortable.", "es": "La silla es incómoda."},
+      {"en": "She sat in the front chair.", "es": "Ella se sentó en la silla de adelante."},
+      {"en": "Chairs match the desks in color.", "es": "Las sillas combinan con los pupitres en color."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_72",
+    "english": "blackboard",
+    "spanish": "pizarra",
+    "phonetic": "/ˈblæk.bɔːrd/",
+    "examples": [
+      {"en": "The blackboard is covered in equations.", "es": "La pizarra está cubierta de ecuaciones."},
+      {"en": "Chalk dust comes from the blackboard.", "es": "El polvo de tiza viene de la pizarra."},
+      {"en": "He cleaned the blackboard after class.", "es": "Él limpió la pizarra después de clase."},
+      {"en": "Older schools still use blackboards.", "es": "Las escuelas antiguas aún usan pizarras."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_73",
+    "english": "overhead projector",
+    "spanish": "retroproyector",
+    "phonetic": "/ˌoʊ.vɚˈhed prəˈdʒek.tɚ/",
+    "examples": [
+      {"en": "The teacher used an overhead projector.", "es": "El profesor usó un retroproyector."},
+      {"en": "Transparencies go on the overhead projector.", "es": "Las transparencias van en el retroproyector."},
+      {"en": "Overhead projectors are outdated now.", "es": "Los retroproyectores están anticuados ahora."},
+      {"en": "The overhead projector bulb burned out.", "es": "La bombilla del retroproyector se quemó."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_74",
+    "english": "smartboard",
+    "spanish": "pizarra interactiva",
+    "phonetic": "/ˈsmɑːrt.bɔːrd/",
+    "examples": [
+      {"en": "The smartboard connects to the computer.", "es": "La pizarra interactiva se conecta a la computadora."},
+      {"en": "She wrote on the smartboard with her finger.", "es": "Ella escribió en la pizarra interactiva con el dedo."},
+      {"en": "Smartboards make lessons more interactive.", "es": "Las pizarras interactivas hacen las lecciones más interactivas."},
+      {"en": "The school installed smartboards in every classroom.", "es": "La escuela instaló pizarras interactivas en cada aula."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_75",
+    "english": "computer lab",
+    "spanish": "laboratorio de cómputo",
+    "phonetic": "/kəmˈpjuː.t̬ɚ læb/",
+    "examples": [
+      {"en": "We have computer class in the computer lab.", "es": "Tenemos clase de informática en el laboratorio de cómputo."},
+      {"en": "The computer lab has 30 desktops.", "es": "El laboratorio de cómputo tiene 30 computadoras de escritorio."},
+      {"en": "Students must sign in to use the computer lab.", "es": "Los estudiantes deben registrarse para usar el laboratorio de cómputo."},
+      {"en": "The computer lab is open after school.", "es": "El laboratorio de cómputo está abierto después de la escuela."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_76",
+    "english": "science lab",
+    "spanish": "laboratorio de ciencias",
+    "phonetic": "/ˈsaɪ.əns læb/",
+    "examples": [
+      {"en": "We wear goggles in the science lab.", "es": "Usamos gafas en el laboratorio de ciencias."},
+      {"en": "The science lab has Bunsen burners.", "es": "El laboratorio de ciencias tiene mecheros Bunsen."},
+      {"en": "He spilled chemicals in the science lab.", "es": "Él derramó químicos en el laboratorio de ciencias."},
+      {"en": "Science labs require safety rules.", "es": "Los laboratorios de ciencias requieren normas de seguridad."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_77",
+    "english": "microscope",
+    "spanish": "microscopio",
+    "phonetic": "/ˈmaɪ.krə.skəʊp/",
+    "examples": [
+      {"en": "Look at the cells through the microscope.", "es": "Mira las células a través del microscopio."},
+      {"en": "The microscope magnifies tiny objects.", "es": "El microscopio amplifica objetos diminutos."},
+      {"en": "She adjusted the focus on the microscope.", "es": "Ella ajustó el enfoque del microscopio."},
+      {"en": "Microscopes are used in biology class.", "es": "Los microscopios se usan en clase de biología."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_78",
+    "english": "test tube",
+    "spanish": "tubo de ensayo",
+    "phonetic": "/ˈtest ˌtuːb/",
+    "examples": [
+      {"en": "Pour the liquid into the test tube.", "es": "Vierte el líquido en el tubo de ensayo."},
+      {"en": "The test tube turned green.", "es": "El tubo de ensayo se volvió verde."},
+      {"en": "He held the test tube with tongs.", "es": "Él sostuvo el tubo de ensayo con pinzas."},
+      {"en": "Test tubes are common in chemistry labs.", "es": "Los tubos de ensayo son comunes en laboratorios de química."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_79",
+    "english": "beaker",
+    "spanish": "vaso de precipitados",
+    "phonetic": "/ˈbiː.kɚ/",
+    "examples": [
+      {"en": "Measure 100 ml in the beaker.", "es": "Mide 100 ml en el vaso de precipitados."},
+      {"en": "The beaker has measurement lines.", "es": "El vaso de precipitados tiene líneas de medición."},
+      {"en": "She poured acid into the beaker.", "es": "Ella vertió ácido en el vaso de precipitados."},
+      {"en": "Beakers are made of heat-resistant glass.", "es": "Los vasos de precipitados son de vidrio resistente al calor."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_80",
+    "english": "graduated cylinder",
+    "spanish": "cilindro graduado",
+    "phonetic": "/ˈɡrædʒ.u.eɪ.t̬ɪd ˈsɪl.ən.dɚ/",
+    "examples": [
+      {"en": "Use a graduated cylinder for precise volume.", "es": "Usa un cilindro graduado para volumen preciso."},
+      {"en": "The liquid reached 50 ml in the cylinder.", "es": "El líquido llegó a 50 ml en el cilindro."},
+      {"en": "He read the meniscus in the graduated cylinder.", "es": "Él leyó el menisco en el cilindro graduado."},
+      {"en": "Graduated cylinders are more accurate than beakers.", "es": "Los cilindros graduados son más precisos que los vasos de precipitados."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_81",
+    "english": "goggles",
+    "spanish": "gafas de seguridad",
+    "phonetic": "/ˈɡɑː.ɡəlz/",
+    "examples": [
+      {"en": "Wear goggles during the experiment.", "es": "Usa gafas de seguridad durante el experimento."},
+      {"en": "The goggles protect your eyes from chemicals.", "es": "Las gafas de seguridad protegen tus ojos de los químicos."},
+      {"en": "She adjusted her goggles before starting.", "es": "Ella ajustó sus gafas de seguridad antes de empezar."},
+      {"en": "Goggles are required in the science lab.", "es": "Las gafas de seguridad son obligatorias en el laboratorio de ciencias."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_82",
+    "english": "lab coat",
+    "spanish": "bata de laboratorio",
+    "phonetic": "/ˈlæb koʊt/",
+    "examples": [
+      {"en": "Put on your lab coat before entering.", "es": "Ponte la bata de laboratorio antes de entrar."},
+      {"en": "The lab coat is white and buttoned.", "es": "La bata de laboratorio es blanca y abotonada."},
+      {"en": "He stained his lab coat with dye.", "es": "Él manchó su bata de laboratorio con tinte."},
+      {"en": "Lab coats protect clothing from spills.", "es": "Las batas de laboratorio protegen la ropa de derrames."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_83",
+    "english": "gloves",
+    "spanish": "guantes",
+    "phonetic": "/ɡlʌvz/",
+    "examples": [
+      {"en": "Wear gloves when handling chemicals.", "es": "Usa guantes al manipular químicos."},
+      {"en": "The gloves are latex-free.", "es": "Los guantes son libres de látex."},
+      {"en": "She changed gloves between experiments.", "es": "Ella cambió guantes entre experimentos."},
+      {"en": "Gloves are part of lab safety gear.", "es": "Los guantes son parte del equipo de seguridad de laboratorio."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_84",
+    "english": "first aid kit",
+    "spanish": "botiquín de primeros auxilios",
+    "phonetic": "/ˌfɝːst ˈeɪd kɪt/",
+    "examples": [
+      {"en": "The first aid kit is in the nurse's office.", "es": "El botiquín de primeros auxilios está en la enfermería."},
+      {"en": "He used the first aid kit for a cut.", "es": "Él usó el botiquín de primeros auxilios para un corte."},
+      {"en": "The first aid kit has bandages and antiseptic.", "es": "El botiquín tiene vendas y antiséptico."},
+      {"en": "Teachers know how to use the first aid kit.", "es": "Los profesores saben cómo usar el botiquín de primeros auxilios."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_85",
+    "english": "attendance",
+    "spanish": "asistencia",
+    "phonetic": "/əˈten.dəns/",
+    "examples": [
+      {"en": "The teacher took attendance at the start of class.", "es": "El profesor tomó asistencia al inicio de la clase."},
+      {"en": "Good attendance is required.", "es": "Se requiere buena asistencia."},
+      {"en": "Her attendance record is perfect.", "es": "Su registro de asistencia es perfecto."},
+      {"en": "Attendance affects your final grade.", "es": "La asistencia afecta tu calificación final."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_86",
+    "english": "absence",
+    "spanish": "ausencia",
+    "phonetic": "/ˈæb.səns/",
+    "examples": [
+      {"en": "His absence was excused due to illness.", "es": "Su ausencia fue justificada por enfermedad."},
+      {"en": "Too many absences can lower your grade.", "es": "Demasiadas ausencias pueden bajar tu calificación."},
+      {"en": "She explained her absence to the teacher.", "es": "Ella explicó su ausencia al profesor."},
+      {"en": "The school tracks student absences.", "es": "La escuela registra las ausencias de los estudiantes."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_87",
+    "english": "tardy",
+    "spanish": "retraso",
+    "phonetic": "/ˈtɑːr.di/",
+    "examples": [
+      {"en": "He received a tardy for being late.", "es": "Él recibió un retraso por llegar tarde."},
+      {"en": "Three tardies equal one absence.", "es": "Tres retrasos equivalen a una ausencia."},
+      {"en": "She was tardy to first period.", "es": "Ella tuvo retraso en la primera clase."},
+      {"en": "Tardies are recorded in the system.", "es": "Los retrasos se registran en el sistema."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_88",
+    "english": "bell schedule",
+    "spanish": "horario de clases",
+    "phonetic": "/bel ˈskedʒ.uːl/",
+    "examples": [
+      {"en": "Check the bell schedule for lunch time.", "es": "Revisa el horario de clases para la hora del almuerzo."},
+      {"en": "The bell schedule changes on Fridays.", "es": "El horario de clases cambia los viernes."},
+      {"en": "First period starts at 8:00 a.m. according to the bell schedule.", "es": "La primera clase empieza a las 8:00 a.m. según el horario de clases."},
+      {"en": "The bell schedule is posted online.", "es": "El horario de clases está publicado en línea."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_89",
+    "english": "recess",
+    "spanish": "recreo",
+    "phonetic": "/rɪˈses/",
+    "examples": [
+      {"en": "Children play outside during recess.", "es": "Los niños juegan afuera durante el recreo."},
+      {"en": "Recess is 20 minutes long.", "es": "El recreo dura 20 minutos."},
+      {"en": "She stayed in for recess as punishment.", "es": "Ella se quedó adentro durante el recreo como castigo."},
+      {"en": "Recess helps students recharge.", "es": "El recreo ayuda a los estudiantes a recargar energías."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_90",
+    "english": "lunch break",
+    "spanish": "hora del almuerzo",
+    "phonetic": "/lʌntʃ breɪk/",
+    "examples": [
+      {"en": "Lunch break is from 12:00 to 12:30.", "es": "La hora del almuerzo es de 12:00 a 12:30."},
+      {"en": "He eats lunch in the cafeteria during lunch break.", "es": "Él come en la cafetería durante la hora del almuerzo."},
+      {"en": "Students can socialize during lunch break.", "es": "Los estudiantes pueden socializar durante la hora del almuerzo."},
+      {"en": "Lunch break is a time to relax.", "es": "La hora del almuerzo es un momento para relajarse."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_91",
+    "english": "study hall",
+    "spanish": "sala de estudio",
+    "phonetic": "/ˈstʌd.i hɔːl/",
+    "examples": [
+      {"en": "He has study hall sixth period.", "es": "Él tiene sala de estudio en la sexta clase."},
+      {"en": "Students must be quiet in study hall.", "es": "Los estudiantes deben estar callados en la sala de estudio."},
+      {"en": "She uses study hall to do homework.", "es": "Ella usa la sala de estudio para hacer tarea."},
+      {"en": "Study hall is supervised by a teacher.", "es": "La sala de estudio está supervisada por un profesor."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_92",
+    "english": "extracurricular activity",
+    "spanish": "actividad extracurricular",
+    "phonetic": "/ˌek.strə.kəˈrɪk.jə.lɚ ækˈtɪv.ə.t̬i/",
+    "examples": [
+      {"en": "She joined the debate team as an extracurricular activity.", "es": "Ella se unió al equipo de debate como actividad extracurricular."},
+      {"en": "Extracurricular activities look good on college applications.", "es": "Las actividades extracurriculares se ven bien en solicitudes universitarias."},
+      {"en": "He plays soccer as an extracurricular activity.", "es": "Él juega fútbol como actividad extracurricular."},
+      {"en": "The school offers many extracurricular activities.", "es": "La escuela ofrece muchas actividades extracurriculares."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_93",
+    "english": "sports team",
+    "spanish": "equipo deportivo",
+    "phonetic": "/spɔːrts tiːm/",
+    "examples": [
+      {"en": "He made the basketball sports team.", "es": "Él entró al equipo deportivo de baloncesto."},
+      {"en": "The sports team practices after school.", "es": "El equipo deportivo practica después de la escuela."},
+      {"en": "She is captain of the volleyball sports team.", "es": "Ella es capitana del equipo deportivo de voleibol."},
+      {"en": "Sports teams build teamwork and discipline.", "es": "Los equipos deportivos fomentan el trabajo en equipo y la disciplina."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_94",
+    "english": "band",
+    "spanish": "banda escolar",
+    "phonetic": "/bænd/",
+    "examples": [
+      {"en": "He plays trumpet in the school band.", "es": "Él toca trompeta en la banda escolar."},
+      {"en": "The band performed at the football game.", "es": "La banda tocó en el partido de fútbol americano."},
+      {"en": "She joined the marching band.", "es": "Ella se unió a la banda de marcha."},
+      {"en": "Band practice is every Tuesday.", "es": "La práctica de banda es todos los martes."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_95",
+    "english": "choir",
+    "spanish": "coro",
+    "phonetic": "/ˈkwaɪ.ɚ/",
+    "examples": [
+      {"en": "She sings soprano in the school choir.", "es": "Ella canta soprano en el coro escolar."},
+      {"en": "The choir performed at the holiday concert.", "es": "El coro actuó en el concierto navideño."},
+      {"en": "He auditioned for the choir.", "es": "Él hizo una audición para el coro."},
+      {"en": "Choir members rehearse twice a week.", "es": "Los miembros del coro ensayan dos veces por semana."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_96",
+    "english": "drama club",
+    "spanish": "club de teatro",
+    "phonetic": "/ˈdrɑː.mə klʌb/",
+    "examples": [
+      {"en": "She has a lead role in the drama club play.", "es": "Ella tiene un papel principal en la obra del club de teatro."},
+      {"en": "The drama club meets after school.", "es": "El club de teatro se reúne después de la escuela."},
+      {"en": "He built sets for the drama club.", "es": "Él construyó escenarios para el club de teatro."},
+      {"en": "Drama club helps with public speaking.", "es": "El club de teatro ayuda con la oratoria."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_97",
+    "english": "student council",
+    "spanish": "consejo estudiantil",
+    "phonetic": "/ˈstuː.dənt ˈkaʊn.səl/",
+    "examples": [
+      {"en": "She was elected president of the student council.", "es": "Ella fue elegida presidenta del consejo estudiantil."},
+      {"en": "The student council organizes school events.", "es": "El consejo estudiantil organiza eventos escolares."},
+      {"en": "He represents his class in the student council.", "es": "Él representa a su clase en el consejo estudiantil."},
+      {"en": "Student council members wear special badges.", "es": "Los miembros del consejo estudiantil usan insignias especiales."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_98",
+    "english": "yearbook",
+    "spanish": "anuario",
+    "phonetic": "/ˈjɪr.bʊk/",
+    "examples": [
+      {"en": "She is on the yearbook committee.", "es": "Ella está en el comité del anuario."},
+      {"en": "Sign my yearbook before summer!", "es": "¡Firma mi anuario antes del verano!"},
+      {"en": "The yearbook includes photos of all students.", "es": "El anuario incluye fotos de todos los estudiantes."},
+      {"en": "Yearbooks are sold at the end of the year.", "es": "Los anuarios se venden al final del año."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_99",
+    "english": "field trip",
+    "spanish": "excursión escolar",
+    "phonetic": "/ˈfiːld trɪp/",
+    "examples": [
+      {"en": "The class went on a field trip to the museum.", "es": "La clase fue de excursión escolar al museo."},
+      {"en": "Parents chaperoned the field trip.", "es": "Los padres acompañaron la excursión escolar."},
+      {"en": "He brought his lunch for the field trip.", "es": "Él llevó su almuerzo para la excursión escolar."},
+      {"en": "Field trips enhance classroom learning.", "es": "Las excursiones escolares enriquecen el aprendizaje en el aula."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_100",
+    "english": "graduation",
+    "spanish": "graduación",
+    "phonetic": "/ˌɡrædʒ.uˈeɪ.ʃən/",
+    "examples": [
+      {"en": "She will attend her graduation in June.", "es": "Ella asistirá a su graduación en junio."},
+      {"en": "Graduation requires passing all classes.", "es": "La graduación requiere aprobar todas las clases."},
+      {"en": "He wore a cap and gown for graduation.", "es": "Él usó birrete y toga para la graduación."},
+      {"en": "Graduation is a proud moment for families.", "es": "La graduación es un momento de orgullo para las familias."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_101",
+    "english": "valedictorian",
+    "spanish": "orador de la graduación",
+    "phonetic": "/ˌveɪ.ləˈdɪk.tɔːr.i.ən/",
+    "examples": [
+      {"en": "She was the valedictorian of her class.", "es": "Ella fue la oradora de la graduación de su clase."},
+      {"en": "The valedictorian gives a speech at graduation.", "es": "El orador de la graduación da un discurso en la ceremonia."},
+      {"en": "He earned the title of valedictorian with a 4.0 GPA.", "es": "Él obtuvo el título de orador con un promedio de 4.0."},
+      {"en": "Valedictorians are top academic performers.", "es": "Los oradores de la graduación son los mejores estudiantes académicamente."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_102",
+    "english": "salutatorian",
+    "spanish": "segundo orador",
+    "phonetic": "/ˌsæl.jəˈtɔːr.i.ən/",
+    "examples": [
+      {"en": "He was the salutatorian, second in his class.", "es": "Él fue el segundo orador, segundo en su clase."},
+      {"en": "The salutatorian also speaks at graduation.", "es": "El segundo orador también habla en la graduación."},
+      {"en": "She worked hard to become salutatorian.", "es": "Ella trabajó duro para convertirse en segunda oradora."},
+      {"en": "Salutatorians have excellent academic records.", "es": "Los segundos oradores tienen excelentes récords académicos."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_103",
+    "english": "honor roll",
+    "spanish": "lista de honor",
+    "phonetic": "/ˈɑː.nɚ roʊl/",
+    "examples": [
+      {"en": "She made the honor roll this semester.", "es": "Ella entró en la lista de honor este semestre."},
+      {"en": "Honor roll requires a GPA of 3.5 or higher.", "es": "La lista de honor requiere un promedio de 3.5 o más."},
+      {"en": "His name is on the honor roll board.", "es": "Su nombre está en el tablero de la lista de honor."},
+      {"en": "Students celebrate making the honor roll.", "es": "Los estudiantes celebran entrar en la lista de honor."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_104",
+    "english": "detention",
+    "spanish": "detención",
+    "phonetic": "/dɪˈten.ʃən/",
+    "examples": [
+      {"en": "He got detention for talking in class.", "es": "Él tuvo detención por hablar en clase."},
+      {"en": "Detention is after school for one hour.", "es": "La detención es después de la escuela por una hora."},
+      {"en": "She served detention in the library.", "es": "Ella cumplió detención en la biblioteca."},
+      {"en": "Repeated offenses lead to longer detention.", "es": "Las ofensas repetidas llevan a detenciones más largas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_105",
+    "english": "suspension",
+    "spanish": "suspensión",
+    "phonetic": "/səˈspen.ʃən/",
+    "examples": [
+      {"en": "He received a three-day suspension.", "es": "Él recibió una suspensión de tres días."},
+      {"en": "Suspension is a serious disciplinary action.", "es": "La suspensión es una medida disciplinaria seria."},
+      {"en": "She missed classes due to suspension.", "es": "Ella perdió clases por suspensión."},
+      {"en": "Violence can result in suspension.", "es": "La violencia puede resultar en suspensión."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_106",
+    "english": "expulsion",
+    "spanish": "expulsión",
+    "phonetic": "/ɪkˈspʌl.ʃən/",
+    "examples": [
+      {"en": "His expulsion was due to repeated violations.", "es": "Su expulsión fue por violaciones repetidas."},
+      {"en": "Expulsion means permanent removal from school.", "es": "La expulsión significa remoción permanente de la escuela."},
+      {"en": "She appealed the expulsion decision.", "es": "Ella apeló la decisión de expulsión."},
+      {"en": "Expulsion is rare and serious.", "es": "La expulsión es rara y grave."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_107",
+    "english": "curriculum vitae",
+    "spanish": "currículum vitae",
+    "phonetic": "/kəˌrɪk.jə.ləm ˈviː.taɪ/",
+    "examples": [
+      {"en": "He submitted his CV for the teaching position.", "es": "Él envió su CV para el puesto de profesor."},
+      {"en": "A CV includes education and publications.", "es": "Un CV incluye educación y publicaciones."},
+      {"en": "Academics use CVs instead of resumes.", "es": "Los académicos usan CVs en lugar de hojas de vida."},
+      {"en": "Her CV is ten pages long.", "es": "Su CV tiene diez páginas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_108",
+    "english": "thesis",
+    "spanish": "tesis",
+    "phonetic": "/ˈθiː.sɪs/",
+    "examples": [
+      {"en": "She defended her master's thesis.", "es": "Ella defendió su tesis de maestría."},
+      {"en": "The thesis took a year to complete.", "es": "La tesis tomó un año en completarse."},
+      {"en": "He is writing his doctoral thesis.", "es": "Él está escribiendo su tesis doctoral."},
+      {"en": "Theses require original research.", "es": "Las tesis requieren investigación original."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_109",
+    "english": "dissertation",
+    "spanish": "tesis doctoral",
+    "phonetic": "/ˌdɪs.ərˈteɪ.ʃən/",
+    "examples": [
+      {"en": "He submitted his dissertation last month.", "es": "Él entregó su tesis doctoral el mes pasado."},
+      {"en": "The dissertation is 300 pages long.", "es": "La tesis doctoral tiene 300 páginas."},
+      {"en": "She passed her dissertation defense.", "es": "Ella aprobó su defensa de tesis."},
+      {"en": "Dissertations are required for PhDs.", "es": "Las tesis doctorales son requeridas para doctorados."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_110",
+    "english": "plagiarism",
+    "spanish": "plagio",
+    "phonetic": "/ˈpleɪ.dʒə.rɪ.zəm/",
+    "examples": [
+      {"en": "Plagiarism is copying someone else's work.", "es": "El plagio es copiar el trabajo de otra persona."},
+      {"en": "He was accused of plagiarism.", "es": "Él fue acusado de plagio."},
+      {"en": "Plagiarism can lead to failing the course.", "es": "El plagio puede llevar a reprobar el curso."},
+      {"en": "Always cite your sources to avoid plagiarism.", "es": "Siempre cita tus fuentes para evitar el plagio."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_111",
+    "english": "citation",
+    "spanish": "cita bibliográfica",
+    "phonetic": "/saɪˈteɪ.ʃən/",
+    "examples": [
+      {"en": "Use APA style for your citation.", "es": "Usa el estilo APA para tu cita bibliográfica."},
+      {"en": "The essay includes ten citations.", "es": "El ensayo incluye diez citas bibliográficas."},
+      {"en": "Citations give credit to original authors.", "es": "Las citas dan crédito a los autores originales."},
+      {"en": "She forgot to add a citation for the quote.", "es": "Ella olvidó añadir una cita para la cita textual."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_112",
+    "english": "reference",
+    "spanish": "referencia",
+    "phonetic": "/ˈref.rəns/",
+    "examples": [
+      {"en": "List your references at the end of the paper.", "es": "Enumera tus referencias al final del trabajo."},
+      {"en": "The book is a key reference for historians.", "es": "El libro es una referencia clave para historiadores."},
+      {"en": "He used online references for his project.", "es": "Él usó referencias en línea para su proyecto."},
+      {"en": "References must be reliable and recent.", "es": "Las referencias deben ser confiables y recientes."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_113",
+    "english": "outline",
+    "spanish": "esquema",
+    "phonetic": "/ˈaʊt.laɪn/",
+    "examples": [
+      {"en": "Write an outline before the essay.", "es": "Escribe un esquema antes del ensayo."},
+      {"en": "The outline includes main points and subpoints.", "es": "El esquema incluye puntos principales y secundarios."},
+      {"en": "She submitted an outline for approval.", "es": "Ella entregó un esquema para aprobación."},
+      {"en": "Outlines help organize your thoughts.", "es": "Los esquemas ayudan a organizar tus ideas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_114",
+    "english": "draft",
+    "spanish": "borrador",
+    "phonetic": "/dræft/",
+    "examples": [
+      {"en": "Submit your first draft by Friday.", "es": "Entrega tu primer borrador el viernes."},
+      {"en": "She revised her draft three times.", "es": "Ella revisó su borrador tres veces."},
+      {"en": "The draft needs more evidence.", "es": "El borrador necesita más evidencia."},
+      {"en": "Drafts are not final versions.", "es": "Los borradores no son versiones finales."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_115",
+    "english": "final paper",
+    "spanish": "trabajo final",
+    "phonetic": "/ˈfaɪ.nəl ˈpeɪ.pɚ/",
+    "examples": [
+      {"en": "The final paper is due next Monday.", "es": "El trabajo final se entrega el próximo lunes."},
+      {"en": "He spent a week on his final paper.", "es": "Él pasó una semana en su trabajo final."},
+      {"en": "The final paper counts for 40% of the grade.", "es": "El trabajo final cuenta el 40% de la calificación."},
+      {"en": "She got an A on her final paper.", "es": "Ella obtuvo una A en su trabajo final."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_116",
+    "english": "research paper",
+    "spanish": "artículo de investigación",
+    "phonetic": "/rɪˈsɝːtʃ ˈpeɪ.pɚ/",
+    "examples": [
+      {"en": "The research paper must have ten sources.", "es": "El artículo de investigación debe tener diez fuentes."},
+      {"en": "She presented her research paper at a conference.", "es": "Ella presentó su artículo de investigación en una conferencia."},
+      {"en": "He is writing a research paper on climate change.", "es": "Él está escribiendo un artículo de investigación sobre cambio climático."},
+      {"en": "Research papers follow a formal structure.", "es": "Los artículos de investigación siguen una estructura formal."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_117",
+    "english": "essay",
+    "spanish": "ensayo",
+    "phonetic": "/ˈes.eɪ/",
+    "examples": [
+      {"en": "Write a 500-word essay on freedom.", "es": "Escribe un ensayo de 500 palabras sobre la libertad."},
+      {"en": "Her essay won first prize.", "es": "Su ensayo ganó el primer premio."},
+      {"en": "The essay must have an introduction and conclusion.", "es": "El ensayo debe tener introducción y conclusión."},
+      {"en": "He revised his essay for clarity.", "es": "Él revisó su ensayo para mayor claridad."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_118",
+    "english": "book report",
+    "spanish": "informe de lectura",
+    "phonetic": "/bʊk rɪˈpɔːrt/",
+    "examples": [
+      {"en": "The book report is due tomorrow.", "es": "El informe de lectura se entrega mañana."},
+      {"en": "She read 'To Kill a Mockingbird' for her book report.", "es": "Ella leyó 'Matar a un ruiseñor' para su informe de lectura."},
+      {"en": "The book report includes a summary and opinion.", "es": "El informe de lectura incluye resumen y opinión."},
+      {"en": "He got a B on his book report.", "es": "Él obtuvo una B en su informe de lectura."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_119",
+    "english": "pop quiz",
+    "spanish": "cuestionario sorpresa",
+    "phonetic": "/pɑːp kwɪz/",
+    "examples": [
+      {"en": "The teacher gave a pop quiz today.", "es": "El profesor dio un cuestionario sorpresa hoy."},
+      {"en": "She wasn’t ready for the pop quiz.", "es": "Ella no estaba preparada para el cuestionario sorpresa."},
+      {"en": "Pop quizzes encourage daily studying.", "es": "Los cuestionarios sorpresa fomentan el estudio diario."},
+      {"en": "He aced the pop quiz on vocabulary.", "es": "Él sacó una calificación perfecta en el cuestionario sorpresa de vocabulario."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_120",
+    "english": "midterm exam",
+    "spanish": "examen parcial",
+    "phonetic": "/ˈmɪd.tɝːm ɪɡˈzæm/",
+    "examples": [
+      {"en": "The midterm exam covers chapters 1 to 5.", "es": "El examen parcial cubre los capítulos 1 al 5."},
+      {"en": "She studied all weekend for the midterm.", "es": "Ella estudió todo el fin de semana para el parcial."},
+      {"en": "The midterm is worth 30% of the grade.", "es": "El parcial vale el 30% de la calificación."},
+      {"en": "He passed the midterm with a B.", "es": "Él aprobó el parcial con una B."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_121",
+    "english": "final exam",
+    "spanish": "examen final",
+    "phonetic": "/ˈfaɪ.nəl ɪɡˈzæm/",
+    "examples": [
+      {"en": "The final exam is comprehensive.", "es": "El examen final es integral."},
+      {"en": "She reviewed all her notes for the final.", "es": "Ella repasó todos sus apuntes para el final."},
+      {"en": "Final exams are next week.", "es": "Los exámenes finales son la próxima semana."},
+      {"en": "He needs a C to pass the course.", "es": "Él necesita una C para aprobar el curso."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_122",
+    "english": "open-book exam",
+    "spanish": "examen con libro abierto",
+    "phonetic": "/ˌoʊ.pən bʊk ɪɡˈzæm/",
+    "examples": [
+      {"en": "The history exam is open-book.", "es": "El examen de historia es con libro abierto."},
+      {"en": "You can use your textbook in an open-book exam.", "es": "Puedes usar tu libro de texto en un examen con libro abierto."},
+      {"en": "Open-book exams test understanding, not memorization.", "es": "Los exámenes con libro abierto evalúan comprensión, no memorización."},
+      {"en": "She still studied for the open-book exam.", "es": "Ella aún estudió para el examen con libro abierto."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_123",
+    "english": "take-home exam",
+    "spanish": "examen para llevar a casa",
+    "phonetic": "/ˈteɪk hoʊm ɪɡˈzæm/",
+    "examples": [
+      {"en": "The take-home exam is due Friday.", "es": "El examen para llevar a casa se entrega el viernes."},
+      {"en": "Take-home exams allow more time to think.", "es": "Los exámenes para llevar a casa permiten más tiempo para pensar."},
+      {"en": "He worked on the take-home exam all night.", "es": "Él trabajó en el examen para llevar a casa toda la noche."},
+      {"en": "Plagiarism rules still apply to take-home exams.", "es": "Las reglas contra el plagio aún aplican a los exámenes para llevar a casa."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_124",
+    "english": "group work",
+    "spanish": "trabajo en grupo",
+    "phonetic": "/ɡruːp wɝːk/",
+    "examples": [
+      {"en": "The project requires group work.", "es": "El proyecto requiere trabajo en grupo."},
+      {"en": "She enjoys group work because it’s collaborative.", "es": "Ella disfruta el trabajo en grupo porque es colaborativo."},
+      {"en": "He was assigned to a group of four.", "es": "Él fue asignado a un grupo de cuatro."},
+      {"en": "Group work teaches teamwork skills.", "es": "El trabajo en grupo enseña habilidades de trabajo en equipo."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_125",
+    "english": "peer review",
+    "spanish": "revisión por pares",
+    "phonetic": "/pɪr rɪˈvjuː/",
+    "examples": [
+      {"en": "We did peer review of each other's essays.", "es": "Hicimos revisión por pares de los ensayos de cada uno."},
+      {"en": "Peer review helps improve writing.", "es": "La revisión por pares ayuda a mejorar la escritura."},
+      {"en": "She gave constructive feedback in peer review.", "es": "Ella dio retroalimentación constructiva en la revisión por pares."},
+      {"en": "Peer review is common in writing classes.", "es": "La revisión por pares es común en clases de escritura."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_126",
+    "english": "rubric",
+    "spanish": "rúbrica",
+    "phonetic": "/ˈruː.brɪk/",
+    "examples": [
+      {"en": "The rubric shows how the project will be graded.", "es": "La rúbrica muestra cómo se calificará el proyecto."},
+      {"en": "She checked her work against the rubric.", "es": "Ella revisó su trabajo contra la rúbrica."},
+      {"en": "The rubric includes criteria like creativity and accuracy.", "es": "La rúbrica incluye criterios como creatividad y precisión."},
+      {"en": "Teachers use rubrics for fair grading.", "es": "Los profesores usan rúbricas para calificar de forma justa."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_127",
+    "english": "academic integrity",
+    "spanish": "integridad académica",
+    "phonetic": "/ˌæk.əˈdem.ɪk ɪnˈteɡ.rə.t̬i/",
+    "examples": [
+      {"en": "Academic integrity means honesty in schoolwork.", "es": "La integridad académica significa honestidad en el trabajo escolar."},
+      {"en": "Plagiarism violates academic integrity.", "es": "El plagio viola la integridad académica."},
+      {"en": "The school has an academic integrity policy.", "es": "La escuela tiene una política de integridad académica."},
+      {"en": "Students sign an academic integrity pledge.", "es": "Los estudiantes firman un compromiso de integridad académica."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_128",
+    "english": "learning disability",
+    "spanish": "discapacidad de aprendizaje",
+    "phonetic": "/ˈlɝː.nɪŋ ˌdɪs.əˈbɪl.ə.t̬i/",
+    "examples": [
+      {"en": "He has a learning disability in reading.", "es": "Él tiene una discapacidad de aprendizaje en lectura."},
+      {"en": "Schools provide support for learning disabilities.", "es": "Las escuelas brindan apoyo para discapacidades de aprendizaje."},
+      {"en": "Dyslexia is a common learning disability.", "es": "La dislexia es una discapacidad de aprendizaje común."},
+      {"en": "She has an IEP for her learning disability.", "es": "Ella tiene un IEP para su discapacidad de aprendizaje."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_129",
+    "english": "IEP",
+    "spanish": "Plan Educativo Individualizado",
+    "phonetic": "/aɪ iː piː/",
+    "examples": [
+      {"en": "His IEP includes extra test time.", "es": "Su Plan Educativo Individualizado incluye tiempo extra en exámenes."},
+      {"en": "The IEP is developed by a team of educators.", "es": "El PEI es desarrollado por un equipo de educadores."},
+      {"en": "She reviews her child's IEP annually.", "es": "Ella revisa el PEI de su hijo anualmente."},
+      {"en": "IEPs are for students with special needs.", "es": "Los PEIs son para estudiantes con necesidades especiales."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_130",
+    "english": "special education",
+    "spanish": "educación especial",
+    "phonetic": "/ˈspeʃ.əl ˌedʒ.uˈkeɪ.ʃən/",
+    "examples": [
+      {"en": "He receives special education services.", "es": "Él recibe servicios de educación especial."},
+      {"en": "The school has a special education department.", "es": "La escuela tiene un departamento de educación especial."},
+      {"en": "Special education teachers are highly trained.", "es": "Los profesores de educación especial están altamente capacitados."},
+      {"en": "Special education supports diverse learners.", "es": "La educación especial apoya a estudiantes diversos."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_131",
+    "english": "gifted program",
+    "spanish": "programa para superdotados",
+    "phonetic": "/ˈɡɪf.tɪd ˈproʊ.ɡræm/",
+    "examples": [
+      {"en": "She was accepted into the gifted program.", "es": "Ella fue aceptada en el programa para superdotados."},
+      {"en": "The gifted program offers advanced coursework.", "es": "El programa para superdotados ofrece cursos avanzados."},
+      {"en": "He skipped a grade in the gifted program.", "es": "Él saltó un grado en el programa para superdotados."},
+      {"en": "Gifted programs challenge high-achieving students.", "es": "Los programas para superdotados desafían a estudiantes de alto rendimiento."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_132",
+    "english": "remedial class",
+    "spanish": "clase de recuperación",
+    "phonetic": "/rɪˈmiː.di.əl klæs/",
+    "examples": [
+      {"en": "He takes a remedial math class.", "es": "Él toma una clase de recuperación de matemáticas."},
+      {"en": "Remedial classes help students catch up.", "es": "Las clases de recuperación ayudan a los estudiantes a ponerse al día."},
+      {"en": "She passed the remedial class and moved on.", "es": "Ella aprobó la clase de recuperación y avanzó."},
+      {"en": "Remedial classes are not for credit.", "es": "Las clases de recuperación no dan créditos."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_133",
+    "english": "credit",
+    "spanish": "crédito",
+    "phonetic": "/ˈkred.ɪt/",
+    "examples": [
+      {"en": "You need 120 credits to graduate.", "es": "Necesitas 120 créditos para graduarte."},
+      {"en": "Each class is worth 3 credits.", "es": "Cada clase vale 3 créditos."},
+      {"en": "He earned credit for his internship.", "es": "Él obtuvo créditos por su pasantía."},
+      {"en": "Transfer credits come from another school.", "es": "Los créditos transferidos vienen de otra escuela."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_134",
+    "english": "prerequisite",
+    "spanish": "requisito previo",
+    "phonetic": "/ˌpriːˈre.kwə.zə.t̬ɪt/",
+    "examples": [
+      {"en": "Calculus is a prerequisite for physics.", "es": "El cálculo es un requisito previo para la física."},
+      {"en": "She completed the prerequisite last semester.", "es": "Ella completó el requisito previo el semestre pasado."},
+      {"en": "Check prerequisites before enrolling.", "es": "Revisa los requisitos previos antes de inscribirte."},
+      {"en": "The course has no prerequisites.", "es": "El curso no tiene requisitos previos."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_135",
+    "english": "elective",
+    "spanish": "materia optativa",
+    "phonetic": "/ɪˈlek.tɪv/",
+    "examples": [
+      {"en": "Photography is an elective course.", "es": "Fotografía es una materia optativa."},
+      {"en": "She chose Spanish as her elective.", "es": "Ella eligió español como su materia optativa."},
+      {"en": "Electives allow students to explore interests.", "es": "Las materias optativas permiten a los estudiantes explorar intereses."},
+      {"en": "You must take two electives this year.", "es": "Debes tomar dos materias optativas este año."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_136",
+    "english": "core class",
+    "spanish": "materia obligatoria",
+    "phonetic": "/kɔːr klæs/",
+    "examples": [
+      {"en": "Math is a core class for all students.", "es": "Matemáticas es una materia obligatoria para todos los estudiantes."},
+      {"en": "Core classes include English and science.", "es": "Las materias obligatorias incluyen inglés y ciencias."},
+      {"en": "He passed all his core classes.", "es": "Él aprobó todas sus materias obligatorias."},
+      {"en": "Core classes form the foundation of education.", "es": "Las materias obligatorias forman la base de la educación."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_137",
+    "english": "class schedule",
+    "spanish": "horario de clases",
+    "phonetic": "/klæs ˈskedʒ.uːl/",
+    "examples": [
+      {"en": "Her class schedule has six periods.", "es": "Su horario de clases tiene seis periodos."},
+      {"en": "He changed his class schedule online.", "es": "Él cambió su horario de clases en línea."},
+      {"en": "The class schedule is posted on the door.", "es": "El horario de clases está publicado en la puerta."},
+      {"en": "Students receive their class schedule before school starts.", "es": "Los estudiantes reciben su horario de clases antes del inicio escolar."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_138",
+    "english": "period",
+    "spanish": "clase",
+    "phonetic": "/ˈpɪr.i.əd/",
+    "examples": [
+      {"en": "First period starts at 8 a.m.", "es": "La primera clase empieza a las 8 a.m."},
+      {"en": "He has math during third period.", "es": "Él tiene matemáticas en la tercera clase."},
+      {"en": "She skipped fifth period.", "es": "Ella faltó a la quinta clase."},
+      {"en": "Each period is 50 minutes long.", "es": "Cada clase dura 50 minutos."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_139",
+    "english": "semester system",
+    "spanish": "sistema semestral",
+    "phonetic": "/ˈsem.es.tɚ ˈsɪs.təm/",
+    "examples": [
+      {"en": "The university uses a semester system.", "es": "La universidad usa un sistema semestral."},
+      {"en": "The semester system has two terms per year.", "es": "El sistema semestral tiene dos términos por año."},
+      {"en": "She prefers the semester system over quarters.", "es": "Ella prefiere el sistema semestral sobre los trimestres."},
+      {"en": "Midterms and finals are part of the semester system.", "es": "Los parciales y finales son parte del sistema semestral."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_140",
+    "english": "quarter system",
+    "spanish": "sistema trimestral",
+    "phonetic": "/ˈkwɔːr.t̬ɚ ˈsɪs.təm/",
+    "examples": [
+      {"en": "The college uses a quarter system.", "es": "La universidad usa un sistema trimestral."},
+      {"en": "The quarter system has three terms per year.", "es": "El sistema trimestral tiene tres términos por año."},
+      {"en": "Each quarter lasts 10 weeks.", "es": "Cada trimestre dura 10 semanas."},
+      {"en": "He transferred from a semester to a quarter system.", "es": "Él se transfirió de un sistema semestral a uno trimestral."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_141",
+    "english": "academic calendar",
+    "spanish": "calendario académico",
+    "phonetic": "/ˌæk.əˈdem.ɪk ˈkæl.ən.dɚ/",
+    "examples": [
+      {"en": "The academic calendar shows holidays and breaks.", "es": "El calendario académico muestra días festivos y vacaciones."},
+      {"en": "Finals week is marked on the academic calendar.", "es": "La semana de finales está marcada en el calendario académico."},
+      {"en": "She checked the academic calendar for registration dates.", "es": "Ella revisó el calendario académico para fechas de inscripción."},
+      {"en": "The academic calendar runs from August to May.", "es": "El calendario académico va de agosto a mayo."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_142",
+    "english": "registration",
+    "spanish": "inscripción",
+    "phonetic": "/ˌredʒ.ɪˈstreɪ.ʃən/",
+    "examples": [
+      {"en": "Registration for fall classes opens next week.", "es": "La inscripción para clases de otoño abre la próxima semana."},
+      {"en": "He completed online registration.", "es": "Él completó la inscripción en línea."},
+      {"en": "Late registration has a fee.", "es": "La inscripción tardía tiene una tarifa."},
+      {"en": "Students must register before the semester starts.", "es": "Los estudiantes deben inscribirse antes del inicio del semestre."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_143",
+    "english": "enrollment",
+    "spanish": "matrícula",
+    "phonetic": "/ɪnˈroʊl.mənt/",
+    "examples": [
+      {"en": "Enrollment for the new school year is in July.", "es": "La matrícula para el nuevo año escolar es en julio."},
+      {"en": "The university has high enrollment this year.", "es": "La universidad tiene alta matrícula este año."},
+      {"en": "She confirmed her enrollment online.", "es": "Ella confirmó su matrícula en línea."},
+      {"en": "Enrollment numbers affect funding.", "es": "Los números de matrícula afectan la financiación."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_144",
+    "english": "dropout",
+    "spanish": "abandono escolar",
+    "phonetic": "/ˈdrɑːp.aʊt/",
+    "examples": [
+      {"en": "The school works to reduce dropout rates.", "es": "La escuela trabaja para reducir las tasas de abandono escolar."},
+      {"en": "He was a high school dropout.", "es": "Él fue un desertor de la secundaria."},
+      {"en": "Dropout prevention programs help at-risk students.", "es": "Los programas de prevención del abandono ayudan a estudiantes en riesgo."},
+      {"en": "She returned to school after being a dropout.", "es": "Ella regresó a la escuela después de haber desertado."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_145",
+    "english": "GED",
+    "spanish": "Certificado de Desarrollo General",
+    "phonetic": "/dʒiː iː diː/",
+    "examples": [
+      {"en": "He earned his GED after leaving high school.", "es": "Él obtuvo su GED después de dejar la secundaria."},
+      {"en": "The GED is equivalent to a high school diploma.", "es": "El GED es equivalente a un diploma de secundaria."},
+      {"en": "She studied for the GED exam for six months.", "es": "Ella estudió para el examen GED durante seis meses."},
+      {"en": "GED preparation classes are available at the community center.", "es": "Hay clases de preparación para el GED en el centro comunitario."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_146",
+    "english": "homeschooling",
+    "spanish": "educación en casa",
+    "phonetic": "/ˌhoʊmˈskuː.lɪŋ/",
+    "examples": [
+      {"en": "They practice homeschooling for religious reasons.", "es": "Ellos practican la educación en casa por razones religiosas."},
+      {"en": "Homeschooling requires a structured schedule.", "es": "La educación en casa requiere un horario estructurado."},
+      {"en": "She uses online resources for homeschooling.", "es": "Ella usa recursos en línea para la educación en casa."},
+      {"en": "Homeschooling is legal in all 50 states.", "es": "La educación en casa es legal en los 50 estados."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_147",
+    "english": "online learning",
+    "spanish": "aprendizaje en línea",
+    "phonetic": "/ˌɑːn.laɪn ˈlɝː.nɪŋ/",
+    "examples": [
+      {"en": "Online learning became popular during the pandemic.", "es": "El aprendizaje en línea se volvió popular durante la pandemia."},
+      {"en": "She takes online learning courses at night.", "es": "Ella toma cursos de aprendizaje en línea por la noche."},
+      {"en": "Online learning requires self-discipline.", "es": "El aprendizaje en línea requiere autodisciplina."},
+      {"en": "The university offers online learning degrees.", "es": "La universidad ofrece títulos mediante aprendizaje en línea."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_148",
+    "english": "hybrid learning",
+    "spanish": "aprendizaje híbrido",
+    "phonetic": "/ˈhaɪ.brɪd ˈlɝː.nɪŋ/",
+    "examples": [
+      {"en": "Hybrid learning combines in-person and online classes.", "es": "El aprendizaje híbrido combina clases presenciales y en línea."},
+      {"en": "He attends hybrid learning on Mondays and Wednesdays.", "es": "Él asiste al aprendizaje híbrido los lunes y miércoles."},
+      {"en": "Hybrid learning offers flexibility.", "es": "El aprendizaje híbrido ofrece flexibilidad."},
+      {"en": "The school adopted hybrid learning after the lockdown.", "es": "La escuela adoptó el aprendizaje híbrido después del confinamiento."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_149",
+    "english": "virtual classroom",
+    "spanish": "aula virtual",
+    "phonetic": "/ˈvɝː.tʃu.əl ˈklæs.ruːm/",
+    "examples": [
+      {"en": "The virtual classroom uses Zoom and Google Classroom.", "es": "El aula virtual usa Zoom y Google Classroom."},
+      {"en": "She participates in the virtual classroom daily.", "es": "Ella participa en el aula virtual diariamente."},
+      {"en": "Virtual classrooms have chat and video features.", "es": "Los aulas virtuales tienen funciones de chat y video."},
+      {"en": "Teachers assign work in the virtual classroom.", "es": "Los profesores asignan trabajo en el aula virtual."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_150",
+    "english": "MOOC",
+    "spanish": "curso en línea masivo y abierto",
+    "phonetic": "/muːk/",
+    "examples": [
+      {"en": "She took a MOOC on computer science.", "es": "Ella tomó un curso en línea masivo y abierto de ciencias de la computación."},
+      {"en": "MOOCs are free or low-cost.", "es": "Los MOOCs son gratuitos o de bajo costo."},
+      {"en": "Platforms like Coursera offer MOOCs.", "es": "Plataformas como Coursera ofrecen MOOCs."},
+      {"en": "He earned a certificate from a MOOC.", "es": "Él obtuvo un certificado de un MOOC."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_151",
+    "english": "literacy",
+    "spanish": "alfabetización",
+    "phonetic": "/ˈlɪt̬.ɚ.ə.si/",
+    "examples": [
+      {"en": "The program promotes childhood literacy.", "es": "El programa promueve la alfabetización infantil."},
+      {"en": "Digital literacy is important today.", "es": "La alfabetización digital es importante hoy."},
+      {"en": "She volunteers to teach adult literacy.", "es": "Ella es voluntaria para enseñar alfabetización a adultos."},
+      {"en": "Literacy rates have improved globally.", "es": "Las tasas de alfabetización han mejorado globalmente."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_152",
+    "english": "numeracy",
+    "spanish": "alfabetización numérica",
+    "phonetic": "/ˈnuː.mə.rə.si/",
+    "examples": [
+      {"en": "Numeracy is the ability to understand numbers.", "es": "La alfabetización numérica es la capacidad de entender números."},
+      {"en": "The curriculum emphasizes numeracy skills.", "es": "El currículo enfatiza habilidades numéricas."},
+      {"en": "She helps students with numeracy challenges.", "es": "Ella ayuda a estudiantes con dificultades numéricas."},
+      {"en": "Numeracy is as important as literacy.", "es": "La alfabetización numérica es tan importante como la lectoescritura."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_153",
+    "english": "critical thinking",
+    "spanish": "pensamiento crítico",
+    "phonetic": "/ˈkrɪt.ɪ.kəl ˈθɪŋ.kɪŋ/",
+    "examples": [
+      {"en": "Schools teach critical thinking skills.", "es": "Las escuelas enseñan habilidades de pensamiento crítico."},
+      {"en": "Critical thinking helps solve complex problems.", "es": "El pensamiento crítico ayuda a resolver problemas complejos."},
+      {"en": "She analyzed the text with critical thinking.", "es": "Ella analizó el texto con pensamiento crítico."},
+      {"en": "Debates encourage critical thinking.", "es": "Los debates fomentan el pensamiento crítico."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_154",
+    "english": "problem-solving",
+    "spanish": "resolución de problemas",
+    "phonetic": "/ˈprɑː.bləm ˌsɑːl.vɪŋ/",
+    "examples": [
+      {"en": "Math class develops problem-solving skills.", "es": "La clase de matemáticas desarrolla habilidades de resolución de problemas."},
+      {"en": "He used problem-solving to fix the error.", "es": "Él usó resolución de problemas para arreglar el error."},
+      {"en": "Problem-solving is essential in science.", "es": "La resolución de problemas es esencial en ciencias."},
+      {"en": "The project required creative problem-solving.", "es": "El proyecto requirió resolución de problemas creativa."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_155",
+    "english": "collaboration",
+    "spanish": "colaboración",
+    "phonetic": "/kəˌlæb.əˈreɪ.ʃən/",
+    "examples": [
+      {"en": "Group projects teach collaboration.", "es": "Los proyectos en grupo enseñan colaboración."},
+      {"en": "Collaboration leads to better ideas.", "es": "La colaboración lleva a mejores ideas."},
+      {"en": "She values collaboration in the classroom.", "es": "Ella valora la colaboración en el aula."},
+      {"en": "Modern workplaces require collaboration skills.", "es": "Los lugares de trabajo modernos requieren habilidades de colaboración."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_156",
+    "english": "creativity",
+    "spanish": "creatividad",
+    "phonetic": "/ˌkriː.eɪˈtɪv.ə.t̬i/",
+    "examples": [
+      {"en": "Art class encourages creativity.", "es": "La clase de arte fomenta la creatividad."},
+      {"en": "Creativity is important in writing and design.", "es": "La creatividad es importante en escritura y diseño."},
+      {"en": "He solved the problem with creativity.", "es": "Él resolvió el problema con creatividad."},
+      {"en": "Schools should nurture creativity.", "es": "Las escuelas deberían fomentar la creatividad."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_157",
+    "english": "digital literacy",
+    "spanish": "alfabetización digital",
+    "phonetic": "/ˈdɪdʒ.ɪ.t̬əl ˈlɪt̬.ɚ.ə.si/",
+    "examples": [
+      {"en": "Digital literacy includes using email and spreadsheets.", "es": "La alfabetización digital incluye usar correo electrónico y hojas de cálculo."},
+      {"en": "Students need digital literacy for modern jobs.", "es": "Los estudiantes necesitan alfabetización digital para trabajos modernos."},
+      {"en": "The course teaches digital literacy skills.", "es": "El curso enseña habilidades de alfabetización digital."},
+      {"en": "Digital literacy helps evaluate online information.", "es": "La alfabetización digital ayuda a evaluar información en línea."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_158",
+    "english": "media literacy",
+    "spanish": "alfabetización mediática",
+    "phonetic": "/ˈmiː.di.ə ˈlɪt̬.ɚ.ə.si/",
+    "examples": [
+      {"en": "Media literacy helps identify fake news.", "es": "La alfabetización mediática ayuda a identificar noticias falsas."},
+      {"en": "She teaches media literacy in social studies.", "es": "Ella enseña alfabetización mediática en estudios sociales."},
+      {"en": "Media literacy is part of the curriculum now.", "es": "La alfabetización mediática es parte del currículo ahora."},
+      {"en": "Students analyze advertisements for media literacy.", "es": "Los estudiantes analizan anuncios publicitarios para alfabetización mediática."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_159",
+    "english": "financial literacy",
+    "spanish": "alfabetización financiera",
+    "phonetic": "/faɪˈnæn.ʃəl ˈlɪt̬.ɚ.ə.si/",
+    "examples": [
+      {"en": "Financial literacy teaches budgeting and saving.", "es": "La alfabetización financiera enseña presupuesto y ahorro."},
+      {"en": "High schools now offer financial literacy courses.", "es": "Las secundarias ahora ofrecen cursos de alfabetización financiera."},
+      {"en": "He learned financial literacy from his parents.", "es": "Él aprendió alfabetización financiera de sus padres."},
+      {"en": "Financial literacy prevents debt problems.", "es": "La alfabetización financiera previene problemas de deuda."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_160",
+    "english": "emotional intelligence",
+    "spanish": "inteligencia emocional",
+    "phonetic": "/ɪˈmoʊ.ʃən.əl ˌɪn.təˈlɪdʒ.əns/",
+    "examples": [
+      {"en": "Emotional intelligence helps in teamwork.", "es": "La inteligencia emocional ayuda en el trabajo en equipo."},
+      {"en": "Schools teach emotional intelligence through SEL.", "es": "Las escuelas enseñan inteligencia emocional mediante aprendizaje socioemocional."},
+      {"en": "She has high emotional intelligence.", "es": "Ella tiene alta inteligencia emocional."},
+      {"en": "Emotional intelligence includes empathy and self-control.", "es": "La inteligencia emocional incluye empatía y autocontrol."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_161",
+    "english": "SEL",
+    "spanish": "aprendizaje socioemocional",
+    "phonetic": "/es iː el/",
+    "examples": [
+      {"en": "SEL programs reduce bullying in schools.", "es": "Los programas de aprendizaje socioemocional reducen el acoso escolar."},
+      {"en": "She leads the SEL committee at school.", "es": "Ella dirige el comité de aprendizaje socioemocional en la escuela."},
+      {"en": "SEL teaches self-awareness and relationship skills.", "es": "El aprendizaje socioemocional enseña autoconciencia y habilidades sociales."},
+      {"en": "SEL is part of the daily routine in her classroom.", "es": "El aprendizaje socioemocional es parte de la rutina diaria en su aula."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_162",
+    "english": "bullying",
+    "spanish": "acoso escolar",
+    "phonetic": "/ˈbʊl.i.ɪŋ/",
+    "examples": [
+      {"en": "The school has a zero-tolerance policy on bullying.", "es": "La escuela tiene una política de tolerancia cero contra el acoso escolar."},
+      {"en": "She reported bullying to the counselor.", "es": "Ella reportó el acoso escolar al consejero."},
+      {"en": "Bullying can cause long-term emotional harm.", "es": "El acoso escolar puede causar daño emocional a largo plazo."},
+      {"en": "Anti-bullying campaigns raise awareness.", "es": "Las campañas contra el acoso escolar generan conciencia."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_163",
+    "english": "cyberbullying",
+    "spanish": "ciberacoso",
+    "phonetic": "/ˌsaɪ.bɚˈbʊl.i.ɪŋ/",
+    "examples": [
+      {"en": "Cyberbullying happens on social media.", "es": "El ciberacoso ocurre en redes sociales."},
+      {"en": "The school teaches students about cyberbullying.", "es": "La escuela enseña a los estudiantes sobre ciberacoso."},
+      {"en": "He was a victim of cyberbullying.", "es": "Él fue víctima de ciberacoso."},
+      {"en": "Cyberbullying can be reported to authorities.", "es": "El ciberacoso puede reportarse a las autoridades."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_164",
+    "english": "school safety",
+    "spanish": "seguridad escolar",
+    "phonetic": "/skuːl ˈseɪf.ti/",
+    "examples": [
+      {"en": "School safety includes fire drills and lockdowns.", "es": "La seguridad escolar incluye simulacros de incendio y confinamientos."},
+      {"en": "She feels safe at her school.", "es": "Ella se siente segura en su escuela."},
+      {"en": "The district invested in school safety measures.", "es": "El distrito invirtió en medidas de seguridad escolar."},
+      {"en": "School safety is a top priority.", "es": "La seguridad escolar es una prioridad máxima."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_165",
+    "english": "lockdown drill",
+    "spanish": "simulacro de confinamiento",
+    "phonetic": "/ˈlɑːk.daʊn drɪl/",
+    "examples": [
+      {"en": "The school practiced a lockdown drill today.", "es": "La escuela practicó un simulacro de confinamiento hoy."},
+      {"en": "Students must stay quiet during a lockdown drill.", "es": "Los estudiantes deben estar callados durante un simulacro de confinamiento."},
+      {"en": "Lockdown drills prepare for emergencies.", "es": "Los simulacros de confinamiento preparan para emergencias."},
+      {"en": "He felt anxious during the lockdown drill.", "es": "Él se sintió ansioso durante el simulacro de confinamiento."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_166",
+    "english": "fire drill",
+    "spanish": "simulacro de incendio",
+    "phonetic": "/ˈfaɪr drɪl/",
+    "examples": [
+      {"en": "We had a fire drill this morning.", "es": "Tuvimos un simulacro de incendio esta mañana."},
+      {"en": "During a fire drill, exit the building quickly.", "es": "Durante un simulacro de incendio, sal del edificio rápidamente."},
+      {"en": "Fire drills are required monthly.", "es": "Los simulacros de incendio son obligatorios mensualmente."},
+      {"en": "The fire drill lasted ten minutes.", "es": "El simulacro de incendio duró diez minutos."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_167",
+    "english": "emergency plan",
+    "spanish": "plan de emergencia",
+    "phonetic": "/ɪˈmer.dʒən.si plæn/",
+    "examples": [
+      {"en": "The school updated its emergency plan.", "es": "La escuela actualizó su plan de emergencia."},
+      {"en": "Teachers reviewed the emergency plan with students.", "es": "Los profesores revisaron el plan de emergencia con los estudiantes."},
+      {"en": "The emergency plan includes evacuation routes.", "es": "El plan de emergencia incluye rutas de evacuación."},
+      {"en": "Every classroom has a copy of the emergency plan.", "es": "Cada aula tiene una copia del plan de emergencia."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_168",
+    "english": "school board",
+    "spanish": "consejo escolar",
+    "phonetic": "/skuːl bɔːrd/",
+    "examples": [
+      {"en": "The school board approved the new budget.", "es": "El consejo escolar aprobó el nuevo presupuesto."},
+      {"en": "She was elected to the school board.", "es": "Ella fue elegida para el consejo escolar."},
+      {"en": "The school board sets education policies.", "es": "El consejo escolar establece políticas educativas."},
+      {"en": "Parents can attend school board meetings.", "es": "Los padres pueden asistir a reuniones del consejo escolar."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_169",
+    "english": "PTA",
+    "spanish": "Asociación de Padres y Maestros",
+    "phonetic": "/piː tiː eɪ/",
+    "examples": [
+      {"en": "The PTA organized a fundraiser.", "es": "La Asociación de Padres y Maestros organizó una recaudación de fondos."},
+      {"en": "She is president of the PTA.", "es": "Ella es presidenta de la APM."},
+      {"en": "PTA meetings are held monthly.", "es": "Las reuniones de la APM se celebran mensualmente."},
+      {"en": "The PTA supports school events and programs.", "es": "La APM apoya eventos y programas escolares."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_170",
+    "english": "parent-teacher conference",
+    "spanish": "reunión de padres y maestros",
+    "phonetic": "/ˈper.ənt ˈtiː.tʃɚ ˈkɑːn.fɚ.əns/",
+    "examples": [
+      {"en": "The parent-teacher conference is next Thursday.", "es": "La reunión de padres y maestros es el próximo jueves."},
+      {"en": "She discussed her son's progress at the conference.", "es": "Ella discutió el progreso de su hijo en la reunión."},
+      {"en": "Parent-teacher conferences last 15 minutes each.", "es": "Las reuniones de padres y maestros duran 15 minutos cada una."},
+      {"en": "He attended his first parent-teacher conference.", "es": "Él asistió a su primera reunión de padres y maestros."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_171",
+    "english": "report card",
+    "spanish": "boletín de calificaciones",
+    "phonetic": "/rɪˈpɔːrt kɑːrd/",
+    "examples": [
+      {"en": "She got all A's on her report card.", "es": "Ella obtuvo todas A en su boletín de calificaciones."},
+      {"en": "Report cards are issued every quarter.", "es": "Los boletines de calificaciones se emiten cada trimestre."},
+      {"en": "He was disappointed with his report card.", "es": "Él estaba decepcionado con su boletín."},
+      {"en": "Parents sign the report card.", "es": "Los padres firman el boletín de calificaciones."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_172",
+    "english": "progress report",
+    "spanish": "informe de progreso",
+    "phonetic": "/ˈproʊ.ɡres rɪˈpɔːrt/",
+    "examples": [
+      {"en": "The progress report shows improvement in math.", "es": "El informe de progreso muestra mejora en matemáticas."},
+      {"en": "Progress reports are sent mid-quarter.", "es": "Los informes de progreso se envían a mitad de trimestre."},
+      {"en": "She reviewed the progress report with her teacher.", "es": "Ella revisó el informe de progreso con su profesora."},
+      {"en": "Progress reports help catch issues early.", "es": "Los informes de progreso ayudan a detectar problemas temprano."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_173",
+    "english": "standardized test",
+    "spanish": "examen estandarizado",
+    "phonetic": "/ˈstæn.dɚ.dɪz.d test/",
+    "examples": [
+      {"en": "SAT is a standardized test for college admission.", "es": "El SAT es un examen estandarizado para admisión universitaria."},
+      {"en": "Students take standardized tests in spring.", "es": "Los estudiantes toman exámenes estandarizados en primavera."},
+      {"en": "He prepared for the standardized test for months.", "es": "Él se preparó para el examen estandarizado durante meses."},
+      {"en": "Standardized tests measure academic achievement.", "es": "Los exámenes estandarizados miden el logro académico."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_174",
+    "english": "SAT",
+    "spanish": "SAT",
+    "phonetic": "/es eɪ tiː/",
+    "examples": [
+      {"en": "She scored 1400 on the SAT.", "es": "Ella obtuvo 1400 en el SAT."},
+      {"en": "The SAT includes math and evidence-based reading.", "es": "El SAT incluye matemáticas y lectura basada en evidencia."},
+      {"en": "He took the SAT in his junior year.", "es": "Él tomó el SAT en su penúltimo año de secundaria."},
+      {"en": "Many colleges require the SAT for admission.", "es": "Muchas universidades requieren el SAT para admisión."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_175",
+    "english": "ACT",
+    "spanish": "ACT",
+    "phonetic": "/eɪ siː tiː/",
+    "examples": [
+      {"en": "He took the ACT instead of the SAT.", "es": "Él tomó el ACT en lugar del SAT."},
+      {"en": "The ACT has a science section.", "es": "El ACT tiene una sección de ciencias."},
+      {"en": "She got a 32 on the ACT.", "es": "Ella obtuvo 32 en el ACT."},
+      {"en": "ACT scores are used for college placement.", "es": "Las puntuaciones del ACT se usan para ubicación universitaria."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_176",
+    "english": "AP exam",
+    "spanish": "examen de Colocación Avanzada",
+    "phonetic": "/eɪ piː ɪɡˈzæm/",
+    "examples": [
+      {"en": "She took the AP Biology exam.", "es": "Ella tomó el examen de Biología de Colocación Avanzada."},
+      {"en": "AP exams can earn college credit.", "es": "Los exámenes de CA pueden dar créditos universitarios."},
+      {"en": "He studied all night for the AP exam.", "es": "Él estudió toda la noche para el examen de CA."},
+      {"en": "AP exam scores range from 1 to 5.", "es": "Las puntuaciones de los exámenes de CA van de 1 a 5."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_177",
+    "english": "IB program",
+    "spanish": "programa del Bachillerato Internacional",
+    "phonetic": "/aɪ biː ˈproʊ.ɡræm/",
+    "examples": [
+      {"en": "She is in the IB program at her school.", "es": "Ella está en el programa del Bachillerato Internacional en su escuela."},
+      {"en": "The IB program is rigorous and international.", "es": "El programa del BI es riguroso e internacional."},
+      {"en": "He completed the IB diploma requirements.", "es": "Él completó los requisitos del diploma del BI."},
+      {"en": "IB programs emphasize critical thinking.", "es": "Los programas del BI enfatizan el pensamiento crítico."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_178",
+    "english": "vocational training",
+    "spanish": "formación profesional",
+    "phonetic": "/voʊˈkeɪ.ʃən.əl ˈtreɪ.nɪŋ/",
+    "examples": [
+      {"en": "He enrolled in vocational training for welding.", "es": "Él se inscribió en formación profesional para soldadura."},
+      {"en": "Vocational training leads to skilled jobs.", "es": "La formación profesional lleva a empleos calificados."},
+      {"en": "The school offers vocational training in automotive repair.", "es": "La escuela ofrece formación profesional en reparación automotriz."},
+      {"en": "Vocational training is an alternative to college.", "es": "La formación profesional es una alternativa a la universidad."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_179",
+    "english": "apprenticeship",
+    "spanish": "aprendizaje",
+    "phonetic": "/əˈprent.ɪs.ʃɪp/",
+    "examples": [
+      {"en": "He started an apprenticeship with an electrician.", "es": "Él empezó un aprendizaje con un electricista."},
+      {"en": "Apprenticeships combine work and learning.", "es": "Los aprendizajes combinan trabajo y aprendizaje."},
+      {"en": "She completed a four-year apprenticeship.", "es": "Ella completó un aprendizaje de cuatro años."},
+      {"en": "Apprenticeships are common in trades.", "es": "Los aprendizajes son comunes en oficios."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_180",
+    "english": "internship",
+    "spanish": "pasantía",
+    "phonetic": "/ˈɪn.t̬ɚn.ʃɪp/",
+    "examples": [
+      {"en": "She got an internship at a marketing firm.", "es": "Ella consiguió una pasantía en una empresa de marketing."},
+      {"en": "Internships provide real-world experience.", "es": "Las pasantías brindan experiencia en el mundo real."},
+      {"en": "He earned college credit for his internship.", "es": "Él obtuvo créditos universitarios por su pasantía."},
+      {"en": "Many internships are unpaid.", "es": "Muchas pasantías no son remuneradas."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_181",
+    "english": "mentor",
+    "spanish": "mentor",
+    "phonetic": "/ˈmen.t̬ɚ/",
+    "examples": [
+      {"en": "Her professor became her mentor.", "es": "Su profesor se convirtió en su mentor."},
+      {"en": "The school has a mentor program for freshmen.", "es": "La escuela tiene un programa de mentores para estudiantes de primer año."},
+      {"en": "He mentors young engineers.", "es": "Él es mentor de jóvenes ingenieros."},
+      {"en": "Mentors provide guidance and support.", "es": "Los mentores brindan orientación y apoyo."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_182",
+    "english": "mentee",
+    "spanish": "aprendiz",
+    "phonetic": "/menˈtiː/",
+    "examples": [
+      {"en": "She is a mentee in the leadership program.", "es": "Ella es aprendiz en el programa de liderazgo."},
+      {"en": "The mentee meets with his mentor weekly.", "es": "El aprendiz se reúne con su mentor semanalmente."},
+      {"en": "Mentees gain confidence through the program.", "es": "Los aprendices ganan confianza mediante el programa."},
+      {"en": "He was a mentee during his first year of college.", "es": "Él fue aprendiz durante su primer año universitario."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_183",
+    "english": "academic advisor",
+    "spanish": "asesor académico",
+    "phonetic": "/ˌæk.əˈdem.ɪk ədˈvaɪ.zɚ/",
+    "examples": [
+      {"en": "She met with her academic advisor to plan courses.", "es": "Ella se reunió con su asesor académico para planear cursos."},
+      {"en": "The academic advisor helps with degree requirements.", "es": "El asesor académico ayuda con los requisitos del título."},
+      {"en": "He changed his major with his academic advisor's approval.", "es": "Él cambió su especialidad con la aprobación de su asesor académico."},
+      {"en": "Every student is assigned an academic advisor.", "es": "A cada estudiante se le asigna un asesor académico."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_184",
+    "english": "career counselor",
+    "spanish": "consejero de orientación vocacional",
+    "phonetic": "/ˈker.ɪr ˈkaʊn.sə.lɚ/",
+    "examples": [
+      {"en": "The career counselor helped her choose a major.", "es": "El consejero de orientación vocacional la ayudó a elegir una especialidad."},
+      {"en": "He visited the career counselor for resume help.", "es": "Él visitó al consejero de orientación para ayuda con su currículum."},
+      {"en": "Career counselors offer job search strategies.", "es": "Los consejeros de orientación ofrecen estrategias para buscar empleo."},
+      {"en": "The school has a full-time career counselor.", "es": "La escuela tiene un consejero de orientación vocacional a tiempo completo."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_185",
+    "english": "college counselor",
+    "spanish": "consejero universitario",
+    "phonetic": "/ˈkɑː.lɪdʒ ˈkaʊn.sə.lɚ/",
+    "examples": [
+      {"en": "The college counselor reviewed her application essay.", "es": "El consejero universitario revisó su ensayo de solicitud."},
+      {"en": "He met with the college counselor about scholarships.", "es": "Él se reunió con el consejero universitario sobre becas."},
+      {"en": "College counselors help with university selection.", "es": "Los consejeros universitarios ayudan con la selección de universidades."},
+      {"en": "The high school has two college counselors.", "es": "La secundaria tiene dos consejeros universitarios."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_186",
+    "english": "guidance counselor",
+    "spanish": "consejero escolar",
+    "phonetic": "/ˈɡaɪ.dəns ˈkaʊn.sə.lɚ/",
+    "examples": [
+      {"en": "The guidance counselor helped him with stress.", "es": "El consejero escolar lo ayudó con el estrés."},
+      {"en": "She scheduled a meeting with the guidance counselor.", "es": "Ella programó una reunión con el consejero escolar."},
+      {"en": "Guidance counselors support social and emotional needs.", "es": "Los consejeros escolares apoyan necesidades sociales y emocionales."},
+      {"en": "Every student can see the guidance counselor.", "es": "Cada estudiante puede ver al consejero escolar."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_187",
+    "english": "substitute teacher",
+    "spanish": "maestro sustituto",
+    "phonetic": "/ˈsʌb.stɪ.tuːt ˈtiː.tʃɚ/",
+    "examples": [
+      {"en": "The substitute teacher followed the lesson plan.", "es": "El maestro sustituto siguió el plan de lección."},
+      {"en": "She works as a substitute teacher three days a week.", "es": "Ella trabaja como maestra sustituta tres días a la semana."},
+      {"en": "The regular teacher is sick, so we have a substitute.", "es": "El maestro habitual está enfermo, así que tenemos un sustituto."},
+      {"en": "Substitute teachers need flexibility.", "es": "Los maestros sustitutos necesitan flexibilidad."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_188",
+    "english": "teaching assistant",
+    "spanish": "ayudante de profesor",
+    "phonetic": "/ˈtiː.tʃɪŋ əˈsɪs.tənt/",
+    "examples": [
+      {"en": "The teaching assistant graded the quizzes.", "es": "El ayudante de profesor calificó los cuestionarios."},
+      {"en": "She is a teaching assistant for calculus.", "es": "Ella es ayudante de profesor para cálculo."},
+      {"en": "Teaching assistants hold office hours.", "es": "Los ayudantes de profesor tienen horas de oficina."},
+      {"en": "He became a teaching assistant to gain experience.", "es": "Él se convirtió en ayudante de profesor para ganar experiencia."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_189",
+    "english": "paraprofessional",
+    "spanish": "paraprofesional",
+    "phonetic": "/ˌper.ə.proʊˈfeʃ.ən.əl/",
+    "examples": [
+      {"en": "The paraprofessional helps students with special needs.", "es": "El paraprofesional ayuda a estudiantes con necesidades especiales."},
+      {"en": "She works as a paraprofessional in a kindergarten class.", "es": "Ella trabaja como paraprofesional en una clase de jardín de infancia."},
+      {"en": "Paraprofessionals support teachers in the classroom.", "es": "Los paraprofesionales apoyan a los profesores en el aula."},
+      {"en": "He is a bilingual paraprofessional.", "es": "Él es un paraprofesional bilingüe."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_190",
+    "english": "bus driver",
+    "spanish": "conductor de autobús escolar",
+    "phonetic": "/ˈbʌs ˈdraɪ.vɚ/",
+    "examples": [
+      {"en": "The bus driver picks up students at 7 a.m.", "es": "El conductor de autobús escolar recoge a los estudiantes a las 7 a.m."},
+      {"en": "She has been a school bus driver for 10 years.", "es": "Ella ha sido conductora de autobús escolar durante 10 años."},
+      {"en": "The bus driver ensures student safety.", "es": "El conductor de autobús escolar asegura la seguridad de los estudiantes."},
+      {"en": "He checks the bus before each route.", "es": "Él revisa el autobús antes de cada ruta."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_191",
+    "english": "cafeteria worker",
+    "spanish": "trabajador de la cafetería",
+    "phonetic": "/ˌkæf.əˈtɪr.i.ə ˈwɝː.kɚ/",
+    "examples": [
+      {"en": "The cafeteria worker served lunch today.", "es": "El trabajador de la cafetería sirvió el almuerzo hoy."},
+      {"en": "She prepares healthy meals for students.", "es": "Ella prepara comidas saludables para los estudiantes."},
+      {"en": "Cafeteria workers follow strict hygiene rules.", "es": "Los trabajadores de la cafetería siguen normas estrictas de higiene."},
+      {"en": "He has worked in the cafeteria for five years.", "es": "Él ha trabajado en la cafetería durante cinco años."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_192",
+    "english": "janitor",
+    "spanish": "conserje",
+    "phonetic": "/ˈdʒæn.ɪ.t̬ɚ/",
+    "examples": [
+      {"en": "The janitor cleaned the science lab after class.", "es": "El conserje limpió el laboratorio de ciencias después de clase."},
+      {"en": "She mops the floors every evening.", "es": "Ella friega los pisos todas las noches."},
+      {"en": "Janitors keep the school clean and safe.", "es": "Los conserjes mantienen la escuela limpia y segura."},
+      {"en": "He fixed a leaky faucet as the school janitor.", "es": "Él arregló un grifo que goteaba como conserje escolar."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_193",
+    "english": "school nurse",
+    "spanish": "enfermera escolar",
+    "phonetic": "/skuːl nɝːs/",
+    "examples": [
+      {"en": "The school nurse treated his scraped knee.", "es": "La enfermera escolar trató su rodilla raspada."},
+      {"en": "She administers medication to students.", "es": "Ella administra medicamentos a los estudiantes."},
+      {"en": "The school nurse conducts vision screenings.", "es": "La enfermera escolar realiza pruebas de visión."},
+      {"en": "He visited the school nurse with a fever.", "es": "Él visitó a la enfermera escolar con fiebre."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_194",
+    "english": "librarian",
+    "spanish": "bibliotecario escolar",
+    "phonetic": "/laɪˈbrer.i.ən/",
+    "examples": [
+      {"en": "The school librarian helped her find a book.", "es": "El bibliotecario escolar la ayudó a encontrar un libro."},
+      {"en": "She teaches research skills in the library.", "es": "Ella enseña habilidades de investigación en la biblioteca."},
+      {"en": "The librarian organized a reading challenge.", "es": "El bibliotecario organizó un reto de lectura."},
+      {"en": "He checks out books for students.", "es": "Él presta libros a los estudiantes."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_195",
+    "english": "coach",
+    "spanish": "entrenador escolar",
+    "phonetic": "/koʊtʃ/",
+    "examples": [
+      {"en": "The coach trained the soccer team after school.", "es": "El entrenador escolar entrenó al equipo de fútbol después de la escuela."},
+      {"en": "She is the volleyball coach.", "es": "Ella es la entrenadora de voleibol."},
+      {"en": "The coach emphasizes sportsmanship.", "es": "El entrenador enfatiza el espíritu deportivo."},
+      {"en": "He became a coach after retiring as a player.", "es": "Él se convirtió en entrenador después de retirarse como jugador."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_196",
+    "english": "tutor",
+    "spanish": "tutor",
+    "phonetic": "/ˈtuː.t̬ɚ/",
+    "examples": [
+      {"en": "She hired a tutor for math.", "es": "Ella contrató un tutor para matemáticas."},
+      {"en": "He works as a peer tutor after school.", "es": "Él trabaja como tutor entre pares después de la escuela."},
+      {"en": "The tutor helped him understand algebra.", "es": "El tutor le ayudó a entender álgebra."},
+      {"en": "Tutoring sessions are twice a week.", "es": "Las sesiones de tutoría son dos veces por semana."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_197",
+    "english": "volunteer",
+    "spanish": "voluntario escolar",
+    "phonetic": "/ˈvɑː.lən.tɪr/",
+    "examples": [
+      {"en": "Parents volunteer in the classroom.", "es": "Los padres son voluntarios en el aula."},
+      {"en": "She volunteers as a reading buddy.", "es": "Ella es voluntaria como compañera de lectura."},
+      {"en": "Volunteers help with school events.", "es": "Los voluntarios ayudan con eventos escolares."},
+      {"en": "He is a volunteer math tutor.", "es": "Él es un tutor de matemáticas voluntario."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_198",
+    "english": "alumni",
+    "spanish": "exalumnos",
+    "phonetic": "/əˈlʌm.naɪ/",
+    "examples": [
+      {"en": "The alumni donated to the school.", "es": "Los exalumnos donaron a la escuela."},
+      {"en": "She attended the alumni reunion.", "es": "Ella asistió a la reunión de exalumnos."},
+      {"en": "Alumni often mentor current students.", "es": "Los exalumnos a menudo son mentores de estudiantes actuales."},
+      {"en": "He is a proud alumni of Harvard.", "es": "Él es un exalumno orgulloso de Harvard."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_199",
+    "english": "commencement",
+    "spanish": "ceremonia de graduación",
+    "phonetic": "/kəˈmen.sə.mənt/",
+    "examples": [
+      {"en": "Commencement is on May 15th.", "es": "La ceremonia de graduación es el 15 de mayo."},
+      {"en": "She walked at commencement with her class.", "es": "Ella caminó en la ceremonia de graduación con su clase."},
+      {"en": "The commencement speaker was a famous author.", "es": "El orador de la ceremonia fue un autor famoso."},
+      {"en": "Commencement marks the end of one journey and the start of another.", "es": "La ceremonia de graduación marca el fin de un viaje y el inicio de otro."}
+    ],
+    "category": "School & Education"
+  },
+  {
+    "id": "sch_200",
+    "english": "cap and gown",
+    "spanish": "birrete y toga",
+    "phonetic": "/kæp ənd ɡaʊn/",
+    "examples": [
+      {"en": "Graduates wear cap and gown at commencement.", "es": "Los graduados usan birrete y toga en la ceremonia de graduación."},
+      {"en": "She ordered her cap and gown online.", "es": "Ella pidió su birrete y toga en línea."},
+      {"en": "The cap and gown are traditional academic attire.", "es": "El birrete y la toga son atuendos académicos tradicionales."},
+      {"en": "He kept his cap and gown as a souvenir.", "es": "Él guardó su birrete y toga como recuerdo."}
+    ],
+    "category": "School & Education"
+  }
+]

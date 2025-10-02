@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "fam_1",
+    "english": "mother",
+    "spanish": "madre",
+    "phonetic": "/ˈmʌð.ɚ/",
+    "examples": [
+      {"en": "My mother is very kind.", "es": "Mi madre es muy amable."},
+      {"en": "She called her mother yesterday.", "es": "Ella llamó a su madre ayer."},
+      {"en": "Every child loves their mother.", "es": "Cada niño ama a su madre."},
+      {"en": "My mother cooks delicious food.", "es": "Mi madre cocina comida deliciosa."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_2",
+    "english": "father",
+    "spanish": "padre",
+    "phonetic": "/ˈfɑː.ðɚ/",
+    "examples": [
+      {"en": "My father works as a doctor.", "es": "Mi padre trabaja como médico."},
+      {"en": "He visits his father every weekend.", "es": "Él visita a su padre cada fin de semana."},
+      {"en": "Her father taught her how to ride a bike.", "es": "Su padre le enseñó a montar en bicicleta."},
+      {"en": "My father always tells funny stories.", "es": "Mi padre siempre cuenta historias divertidas."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_3",
+    "english": "brother",
+    "spanish": "hermano",
+    "phonetic": "/ˈbrʌð.ɚ/",
+    "examples": [
+      {"en": "I have an older brother.", "es": "Tengo un hermano mayor."},
+      {"en": "My brother plays soccer very well.", "es": "Mi hermano juega muy bien al fútbol."},
+      {"en": "He gave his brother a birthday gift.", "es": "Él le dio un regalo de cumpleaños a su hermano."},
+      {"en": "My brother and I share a room.", "es": "Mi hermano y yo compartimos una habitación."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_4",
+    "english": "sister",
+    "spanish": "hermana",
+    "phonetic": "/ˈsɪs.tɚ/",
+    "examples": [
+      {"en": "She is my younger sister.", "es": "Ella es mi hermana menor."},
+      {"en": "My sister loves to paint.", "es": "Mi hermana le encanta pintar."},
+      {"en": "They went shopping with their sister.", "es": "Fueron de compras con su hermana."},
+      {"en": "My sister helps me with homework.", "es": "Mi hermana me ayuda con la tarea."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_5",
+    "english": "grandmother",
+    "spanish": "abuela",
+    "phonetic": "/ˈɡræn.mʌð.ɚ/",
+    "examples": [
+      {"en": "My grandmother bakes the best cookies.", "es": "Mi abuela hornea las mejores galletas."},
+      {"en": "We visited our grandmother last Sunday.", "es": "Visitamos a nuestra abuela el domingo pasado."},
+      {"en": "Her grandmother tells wonderful stories.", "es": "Su abuela cuenta historias maravillosas."},
+      {"en": "My grandmother lives in the countryside.", "es": "Mi abuela vive en el campo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_6",
+    "english": "grandfather",
+    "spanish": "abuelo",
+    "phonetic": "/ˈɡræn.fɑː.ðɚ/",
+    "examples": [
+      {"en": "My grandfather grows vegetables in his garden.", "es": "Mi abuelo cultiva verduras en su jardín."},
+      {"en": "He learned chess from his grandfather.", "es": "Él aprendió ajedrez de su abuelo."},
+      {"en": "My grandfather is 85 years old.", "es": "Mi abuelo tiene 85 años."},
+      {"en": "They spent summer with their grandfather.", "es": "Pasaron el verano con su abuelo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_7",
+    "english": "aunt",
+    "spanish": "tía",
+    "phonetic": "/ænt/",
+    "examples": [
+      {"en": "My aunt lives in New York.", "es": "Mi tía vive en Nueva York."},
+      {"en": "She received a gift from her aunt.", "es": "Ella recibió un regalo de su tía."},
+      {"en": "My aunt is a teacher.", "es": "Mi tía es profesora."},
+      {"en": "We had dinner at my aunt’s house.", "es": "Cenamos en la casa de mi tía."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_8",
+    "english": "uncle",
+    "spanish": "tío",
+    "phonetic": "/ˈʌŋ.kəl/",
+    "examples": [
+      {"en": "My uncle drives a truck.", "es": "Mi tío conduce un camión."},
+      {"en": "He went fishing with his uncle.", "es": "Fue a pescar con su tío."},
+      {"en": "My uncle speaks three languages.", "es": "Mi tío habla tres idiomas."},
+      {"en": "They visited their uncle during the holidays.", "es": "Visitaron a su tío durante las vacaciones."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_9",
+    "english": "cousin",
+    "spanish": "primo / prima",
+    "phonetic": "/ˈkʌz.ən/",
+    "examples": [
+      {"en": "My cousin is coming to visit next week.", "es": "Mi primo viene a visitarnos la próxima semana."},
+      {"en": "She plays video games with her cousin.", "es": "Ella juega videojuegos con su prima."},
+      {"en": "We have many cousins on my mother’s side.", "es": "Tenemos muchos primos del lado de mi madre."},
+      {"en": "My cousin lives in Canada.", "es": "Mi primo vive en Canadá."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_10",
+    "english": "nephew",
+    "spanish": "sobrino",
+    "phonetic": "/ˈnef.juː/",
+    "examples": [
+      {"en": "My nephew just started school.", "es": "Mi sobrino acaba de empezar la escuela."},
+      {"en": "She bought a toy for her nephew.", "es": "Ella compró un juguete para su sobrino."},
+      {"en": "My nephew loves dinosaurs.", "es": "Mi sobrino ama los dinosaurios."},
+      {"en": "He takes his nephew to the park every Saturday.", "es": "Él lleva a su sobrino al parque todos los sábados."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_11",
+    "english": "niece",
+    "spanish": "sobrina",
+    "phonetic": "/niːs/",
+    "examples": [
+      {"en": "My niece is learning to play the piano.", "es": "Mi sobrina está aprendiendo a tocar el piano."},
+      {"en": "He gave his niece a beautiful dress.", "es": "Él le dio un vestido hermoso a su sobrina."},
+      {"en": "My niece draws very well.", "es": "Mi sobrina dibuja muy bien."},
+      {"en": "We celebrated my niece’s birthday yesterday.", "es": "Celebramos el cumpleaños de mi sobrina ayer."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_12",
+    "english": "son",
+    "spanish": "hijo",
+    "phonetic": "/sʌn/",
+    "examples": [
+      {"en": "Their son is studying engineering.", "es": "Su hijo estudia ingeniería."},
+      {"en": "He is a proud father of two sons.", "es": "Es un padre orgulloso de dos hijos."},
+      {"en": "My son loves playing with Legos.", "es": "Mi hijo le encanta jugar con Legos."},
+      {"en": "She took her son to the doctor.", "es": "Ella llevó a su hijo al médico."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_13",
+    "english": "daughter",
+    "spanish": "hija",
+    "phonetic": "/ˈdɔː.t̬ɚ/",
+    "examples": [
+      {"en": "Their daughter is a talented singer.", "es": "Su hija es una cantante talentosa."},
+      {"en": "He bought a doll for his daughter.", "es": "Él le compró una muñeca a su hija."},
+      {"en": "My daughter started kindergarten this year.", "es": "Mi hija empezó el jardín de infancia este año."},
+      {"en": "She walks her daughter to school every morning.", "es": "Ella lleva a su hija a la escuela cada mañana."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_14",
+    "english": "husband",
+    "spanish": "esposo",
+    "phonetic": "/ˈhʌz.bənd/",
+    "examples": [
+      {"en": "Her husband works abroad.", "es": "Su esposo trabaja en el extranjero."},
+      {"en": "My husband cooks dinner every night.", "es": "Mi esposo cocina la cena todas las noches."},
+      {"en": "They celebrated their husband’s promotion.", "es": "Celebraron el ascenso de su esposo."},
+      {"en": "He bought flowers for his husband.", "es": "Él compró flores para su esposo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_15",
+    "english": "wife",
+    "spanish": "esposa",
+    "phonetic": "/waɪf/",
+    "examples": [
+      {"en": "His wife is a nurse.", "es": "Su esposa es enfermera."},
+      {"en": "My wife and I went on vacation.", "es": "Mi esposa y yo fuimos de vacaciones."},
+      {"en": "She surprised her wife with a gift.", "es": "Ella sorprendió a su esposa con un regalo."},
+      {"en": "They met their wife’s parents last weekend.", "es": "Conocieron a los padres de su esposa el fin de semana pasado."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_16",
+    "english": "parents",
+    "spanish": "padres",
+    "phonetic": "/ˈper.ənts/",
+    "examples": [
+      {"en": "My parents are visiting next month.", "es": "Mis padres vienen a visitarnos el próximo mes."},
+      {"en": "Her parents live in Spain.", "es": "Sus padres viven en España."},
+      {"en": "Parents should support their children.", "es": "Los padres deben apoyar a sus hijos."},
+      {"en": "He called his parents yesterday.", "es": "Él llamó a sus padres ayer."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_17",
+    "english": "children",
+    "spanish": "hijos / niños",
+    "phonetic": "/ˈtʃɪl.drən/",
+    "examples": [
+      {"en": "They have three children.", "es": "Tienen tres hijos."},
+      {"en": "The children are playing in the yard.", "es": "Los niños están jugando en el patio."},
+      {"en": "She teaches children English.", "es": "Ella enseña inglés a niños."},
+      {"en": "Their children go to the same school.", "es": "Sus hijos van a la misma escuela."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_18",
+    "english": "grandchildren",
+    "spanish": "nietos",
+    "phonetic": "/ˌɡrænˈtʃɪl.drən/",
+    "examples": [
+      {"en": "My grandparents adore their grandchildren.", "es": "Mis abuelos adoran a sus nietos."},
+      {"en": "She baked cookies for her grandchildren.", "es": "Ella horneó galletas para sus nietos."},
+      {"en": "The grandchildren visit every Sunday.", "es": "Los nietos visitan cada domingo."},
+      {"en": "He takes photos of his grandchildren.", "es": "Él toma fotos de sus nietos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_19",
+    "english": "stepmother",
+    "spanish": "madrastra",
+    "phonetic": "/ˈstepˌmʌð.ɚ/",
+    "examples": [
+      {"en": "His stepmother is very kind to him.", "es": "Su madrastra es muy amable con él."},
+      {"en": "She lives with her father and stepmother.", "es": "Ella vive con su padre y su madrastra."},
+      {"en": "My stepmother helps me with my homework.", "es": "Mi madrastra me ayuda con la tarea."},
+      {"en": "They invited their stepmother to the party.", "es": "Invitaron a su madrastra a la fiesta."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_20",
+    "english": "stepfather",
+    "spanish": "padrastro",
+    "phonetic": "/ˈstepˌfɑː.ðɚ/",
+    "examples": [
+      {"en": "Her stepfather taught her to drive.", "es": "Su padrastro le enseñó a conducir."},
+      {"en": "He gets along well with his stepfather.", "es": "Él se lleva bien con su padrastro."},
+      {"en": "My stepfather works as an engineer.", "es": "Mi padrastro trabaja como ingeniero."},
+      {"en": "They went on a trip with their stepfather.", "es": "Fueron de viaje con su padrastro."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_21",
+    "english": "grandparents",
+    "spanish": "abuelos",
+    "phonetic": "/ˈɡrænˌper.ənts/",
+    "examples": [
+      {"en": "We spend Christmas with our grandparents.", "es": "Pasamos la Navidad con nuestros abuelos."},
+      {"en": "Her grandparents live in a small village.", "es": "Sus abuelos viven en un pueblo pequeño."},
+      {"en": "My grandparents have been married for 60 years.", "es": "Mis abuelos llevan casados 60 años."},
+      {"en": "The children love visiting their grandparents.", "es": "A los niños les encanta visitar a sus abuelos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_22",
+    "english": "in-laws",
+    "spanish": "suegros / familia política",
+    "phonetic": "/ˈɪnˌlɔːz/",
+    "examples": [
+      {"en": "We’re having dinner with my in-laws tonight.", "es": "Vamos a cenar con mis suegros esta noche."},
+      {"en": "Her in-laws are very welcoming.", "es": "Sus suegros son muy acogedores."},
+      {"en": "He gets along well with his in-laws.", "es": "Él se lleva bien con su familia política."},
+      {"en": "My in-laws live in another country.", "es": "Mis suegros viven en otro país."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_23",
+    "english": "mother-in-law",
+    "spanish": "suegra",
+    "phonetic": "/ˈmʌð.ɚ.ɪnˌlɔː/",
+    "examples": [
+      {"en": "My mother-in-law cooks amazing food.", "es": "Mi suegra cocina comida increíble."},
+      {"en": "She calls her mother-in-law every Sunday.", "es": "Ella llama a su suegra todos los domingos."},
+      {"en": "His mother-in-law gave him good advice.", "es": "Su suegra le dio buenos consejos."},
+      {"en": "They visited their mother-in-law last weekend.", "es": "Visitaron a su suegra el fin de semana pasado."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_24",
+    "english": "father-in-law",
+    "spanish": "suegro",
+    "phonetic": "/ˈfɑː.ðɚ.ɪnˌlɔː/",
+    "examples": [
+      {"en": "My father-in-law is a retired teacher.", "es": "Mi suegro es un profesor jubilado."},
+      {"en": "He asked his father-in-law for help.", "es": "Él le pidió ayuda a su suegro."},
+      {"en": "Her father-in-law owns a small business.", "es": "Su suegro tiene un pequeño negocio."},
+      {"en": "They went fishing with their father-in-law.", "es": "Fueron a pescar con su suegro."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_25",
+    "english": "sister-in-law",
+    "spanish": "cuñada",
+    "phonetic": "/ˈsɪs.tɚ.ɪnˌlɔː/",
+    "examples": [
+      {"en": "My sister-in-law is a nurse.", "es": "Mi cuñada es enfermera."},
+      {"en": "She went shopping with her sister-in-law.", "es": "Fue de compras con su cuñada."},
+      {"en": "His sister-in-law lives in Chicago.", "es": "Su cuñada vive en Chicago."},
+      {"en": "We invited our sister-in-law to the party.", "es": "Invitamos a nuestra cuñada a la fiesta."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_26",
+    "english": "brother-in-law",
+    "spanish": "cuñado",
+    "phonetic": "/ˈbrʌð.ɚ.ɪnˌlɔː/",
+    "examples": [
+      {"en": "My brother-in-law works as a pilot.", "es": "Mi cuñado trabaja como piloto."},
+      {"en": "He plays tennis with his brother-in-law.", "es": "Él juega tenis con su cuñado."},
+      {"en": "Her brother-in-law is very funny.", "es": "Su cuñado es muy divertido."},
+      {"en": "They met their brother-in-law for the first time.", "es": "Conocieron a su cuñado por primera vez."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_27",
+    "english": "son-in-law",
+    "spanish": "yerno",
+    "phonetic": "/ˈsʌn.ɪnˌlɔː/",
+    "examples": [
+      {"en": "My son-in-law is from Canada.", "es": "Mi yerno es de Canadá."},
+      {"en": "She loves her son-in-law like her own son.", "es": "Ella quiere a su yerno como si fuera su propio hijo."},
+      {"en": "His son-in-law proposed to his daughter last year.", "es": "Su yerno le pidió matrimonio a su hija el año pasado."},
+      {"en": "They invited their son-in-law to the family reunion.", "es": "Invitaron a su yerno a la reunión familiar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_28",
+    "english": "daughter-in-law",
+    "spanish": "nuera",
+    "phonetic": "/ˈdɔː.t̬ɚ.ɪnˌlɔː/",
+    "examples": [
+      {"en": "My daughter-in-law is expecting a baby.", "es": "Mi nuera espera un bebé."},
+      {"en": "She gets along well with her daughter-in-law.", "es": "Ella se lleva bien con su nuera."},
+      {"en": "His daughter-in-law is a lawyer.", "es": "Su nuera es abogada."},
+      {"en": "They celebrated their daughter-in-law’s birthday.", "es": "Celebraron el cumpleaños de su nuera."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_29",
+    "english": "twins",
+    "spanish": "gemelos / mellizos",
+    "phonetic": "/twɪnz/",
+    "examples": [
+      {"en": "She has twin boys.", "es": "Ella tiene dos niños gemelos."},
+      {"en": "The twins look exactly alike.", "es": "Los gemelos se parecen exactamente."},
+      {"en": "My cousins are twins.", "es": "Mis primos son gemelos."},
+      {"en": "Twins often share a special bond.", "es": "Los gemelos suelen tener un vínculo especial."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_30",
+    "english": "identical twins",
+    "spanish": "gemelos idénticos",
+    "phonetic": "/aɪˈden.tɪ.kəl twɪnz/",
+    "examples": [
+      {"en": "They are identical twins.", "es": "Son gemelos idénticos."},
+      {"en": "Identical twins share the same DNA.", "es": "Los gemelos idénticos comparten el mismo ADN."},
+      {"en": "It’s hard to tell the identical twins apart.", "es": "Es difícil distinguir a los gemelos idénticos."},
+      {"en": "Her identical twin lives in London.", "es": "Su gemela idéntica vive en Londres."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_31",
+    "english": "fraternal twins",
+    "spanish": "mellizos",
+    "phonetic": "/frəˈtɝː.nəl twɪnz/",
+    "examples": [
+      {"en": "They are fraternal twins—a boy and a girl.", "es": "Son mellizos: un niño y una niña."},
+      {"en": "Fraternal twins don’t look exactly alike.", "es": "Los mellizos no se parecen exactamente."},
+      {"en": "My aunt had fraternal twins last year.", "es": "Mi tía tuvo mellizos el año pasado."},
+      {"en": "Fraternal twins develop from two eggs.", "es": "Los mellizos se desarrollan a partir de dos óvulos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_32",
+    "english": "half-brother",
+    "spanish": "medio hermano",
+    "phonetic": "/ˌhæfˈbrʌð.ɚ/",
+    "examples": [
+      {"en": "He has a half-brother from his father’s second marriage.", "es": "Él tiene un medio hermano del segundo matrimonio de su padre."},
+      {"en": "My half-brother lives in Texas.", "es": "Mi medio hermano vive en Texas."},
+      {"en": "They share the same mother but different fathers.", "es": "Comparten la misma madre pero tienen padres diferentes."},
+      {"en": "She gets along well with her half-brother.", "es": "Ella se lleva bien con su medio hermano."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_33",
+    "english": "half-sister",
+    "spanish": "media hermana",
+    "phonetic": "/ˌhæfˈsɪs.tɚ/",
+    "examples": [
+      {"en": "I have a half-sister named Ana.", "es": "Tengo una media hermana llamada Ana."},
+      {"en": "Her half-sister is two years younger.", "es": "Su media hermana tiene dos años menos."},
+      {"en": "They met their half-sister for the first time.", "es": "Conocieron a su media hermana por primera vez."},
+      {"en": "My half-sister and I share the same dad.", "es": "Mi media hermana y yo compartimos el mismo papá."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_34",
+    "english": "godfather",
+    "spanish": "padrino",
+    "phonetic": "/ˈɡɑːdˌfɑː.ðɚ/",
+    "examples": [
+      {"en": "My godfather gave me a watch for my birthday.", "es": "Mi padrino me regaló un reloj por mi cumpleaños."},
+      {"en": "He is my son’s godfather.", "es": "Él es el padrino de mi hijo."},
+      {"en": "Her godfather lives in Italy.", "es": "Su padrino vive en Italia."},
+      {"en": "They asked their best friend to be godfather.", "es": "Le pidieron a su mejor amigo que fuera padrino."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_35",
+    "english": "godmother",
+    "spanish": "madrina",
+    "phonetic": "/ˈɡɑːdˌmʌð.ɚ/",
+    "examples": [
+      {"en": "My godmother visits us every summer.", "es": "Mi madrina nos visita cada verano."},
+      {"en": "She is my daughter’s godmother.", "es": "Ella es la madrina de mi hija."},
+      {"en": "His godmother sent him a birthday card.", "es": "Su madrina le envió una tarjeta de cumpleaños."},
+      {"en": "They chose their sister as godmother.", "es": "Ellos eligieron a su hermana como madrina."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_36",
+    "english": "godchild",
+    "spanish": "ahijado / ahijada",
+    "phonetic": "/ˈɡɑːdˌtʃaɪld/",
+    "examples": [
+      {"en": "My godchild just started school.", "es": "Mi ahijado acaba de empezar la escuela."},
+      {"en": "She bought a gift for her godchild.", "es": "Ella compró un regalo para su ahijada."},
+      {"en": "He is the godfather of my godchild.", "es": "Él es el padrino de mi ahijado."},
+      {"en": "We celebrate our godchild’s birthday every year.", "es": "Celebramos el cumpleaños de nuestro ahijado cada año."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_37",
+    "english": "foster parent",
+    "spanish": "padre/madre de acogida",
+    "phonetic": "/ˈfɔː.stɚ ˈper.ənt/",
+    "examples": [
+      {"en": "She became a foster parent last year.", "es": "Ella se convirtió en madre de acogida el año pasado."},
+      {"en": "My foster parents were very kind to me.", "es": "Mis padres de acogida fueron muy amables conmigo."},
+      {"en": "They are looking for a foster parent for the child.", "es": "Están buscando un padre de acogida para el niño."},
+      {"en": "He lives with his foster parent temporarily.", "es": "Él vive temporalmente con su padre de acogida."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_38",
+    "english": "foster child",
+    "spanish": "niño/a de acogida",
+    "phonetic": "/ˈfɔː.stɚ tʃaɪld/",
+    "examples": [
+      {"en": "They welcomed a foster child into their home.", "es": "Dieron la bienvenida a un niño de acogida en su hogar."},
+      {"en": "The foster child is adjusting well.", "es": "El niño de acogida se está adaptando bien."},
+      {"en": "She has been a foster child for two years.", "es": "Ella ha sido una niña de acogida durante dos años."},
+      {"en": "Many foster children need love and support.", "es": "Muchos niños de acogida necesitan amor y apoyo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_39",
+    "english": "adopted child",
+    "spanish": "hijo/a adoptivo/a",
+    "phonetic": "/əˈdɑːp.tɪd tʃaɪld/",
+    "examples": [
+      {"en": "They have an adopted child from Colombia.", "es": "Tienen un hijo adoptivo de Colombia."},
+      {"en": "My adopted child is now ten years old.", "es": "Mi hijo adoptivo tiene ahora diez años."},
+      {"en": "Adopted children are loved just as much.", "es": "Los hijos adoptivos son igual de amados."},
+      {"en": "She always knew she was an adopted child.", "es": "Ella siempre supo que era una hija adoptiva."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_40",
+    "english": "adoptive parents",
+    "spanish": "padres adoptivos",
+    "phonetic": "/əˈdɑːp.tɪv ˈper.ənts/",
+    "examples": [
+      {"en": "Her adoptive parents are very supportive.", "es": "Sus padres adoptivos son muy solidarios."},
+      {"en": "They became adoptive parents last spring.", "es": "Se convirtieron en padres adoptivos la primavera pasada."},
+      {"en": "My adoptive parents gave me a loving home.", "es": "Mis padres adoptivos me dieron un hogar lleno de amor."},
+      {"en": "Adoptive parents go through a legal process.", "es": "Los padres adoptivos pasan por un proceso legal."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_41",
+    "english": "great-grandmother",
+    "spanish": "bisabuela",
+    "phonetic": "/ˌɡreɪtˈɡrænˌmʌð.ɚ/",
+    "examples": [
+      {"en": "My great-grandmother lived to be 102.", "es": "Mi bisabuela vivió hasta los 102 años."},
+      {"en": "She inherited a ring from her great-grandmother.", "es": "Heredó un anillo de su bisabuela."},
+      {"en": "We visited my great-grandmother in the nursing home.", "es": "Visitamos a mi bisabuela en la residencia."},
+      {"en": "His great-grandmother was born in 1910.", "es": "Su bisabuela nació en 1910."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_42",
+    "english": "great-grandfather",
+    "spanish": "bisabuelo",
+    "phonetic": "/ˌɡreɪtˈɡrænˌfɑː.ðɚ/",
+    "examples": [
+      {"en": "My great-grandfather fought in World War II.", "es": "Mi bisabuelo luchó en la Segunda Guerra Mundial."},
+      {"en": "He looks just like his great-grandfather.", "es": "Se parece mucho a su bisabuelo."},
+      {"en": "Her great-grandfather built this house.", "es": "Su bisabuelo construyó esta casa."},
+      {"en": "They found old photos of their great-grandfather.", "es": "Encontraron fotos antiguas de su bisabuelo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_43",
+    "english": "great-grandparents",
+    "spanish": "bisabuelos",
+    "phonetic": "/ˌɡreɪtˈɡrænˌper.ənts/",
+    "examples": [
+      {"en": "My great-grandparents came from Italy.", "es": "Mis bisabuelos vinieron de Italia."},
+      {"en": "She never met her great-grandparents.", "es": "Ella nunca conoció a sus bisabuelos."},
+      {"en": "Their great-grandparents were farmers.", "es": "Sus bisabuelos eran agricultores."},
+      {"en": "We have a portrait of our great-grandparents.", "es": "Tenemos un retrato de nuestros bisabuelos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_44",
+    "english": "great-aunt",
+    "spanish": "tía abuela",
+    "phonetic": "/ˌɡreɪtˈænt/",
+    "examples": [
+      {"en": "My great-aunt lives in Portugal.", "es": "Mi tía abuela vive en Portugal."},
+      {"en": "She visited her great-aunt last summer.", "es": "Ella visitó a su tía abuela el verano pasado."},
+      {"en": "My great-aunt is my grandmother’s sister.", "es": "Mi tía abuela es la hermana de mi abuela."},
+      {"en": "He inherited a book from his great-aunt.", "es": "Él heredó un libro de su tía abuela."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_45",
+    "english": "great-uncle",
+    "spanish": "tío abuelo",
+    "phonetic": "/ˌɡreɪtˈʌŋ.kəl/",
+    "examples": [
+      {"en": "My great-uncle served in the navy.", "es": "Mi tío abuelo sirvió en la marina."},
+      {"en": "They named their son after his great-uncle.", "es": "Llamaron a su hijo como su tío abuelo."},
+      {"en": "Her great-uncle plays the violin.", "es": "Su tío abuelo toca el violín."},
+      {"en": "We attended our great-uncle’s 90th birthday.", "es": "Asistimos al 90 cumpleaños de nuestro tío abuelo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_46",
+    "english": "second cousin",
+    "spanish": "primo segundo",
+    "phonetic": "/ˌsek.ənd ˈkʌz.ən/",
+    "examples": [
+      {"en": "My second cousin lives in Australia.", "es": "Mi primo segundo vive en Australia."},
+      {"en": "We met our second cousins at the reunion.", "es": "Conocimos a nuestros primos segundos en la reunión."},
+      {"en": "Her second cousin is a scientist.", "es": "Su primo segundo es científico."},
+      {"en": "Second cousins share great-grandparents.", "es": "Los primos segundos comparten bisabuelos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_47",
+    "english": "first cousin once removed",
+    "spanish": "primo/a en primer grado una vez eliminado",
+    "phonetic": "/fɝːst ˈkʌz.ən wʌns rɪˈmuːvd/",
+    "examples": [
+      {"en": "My first cousin once removed is my dad’s cousin.", "es": "Mi primo en primer grado una vez eliminado es el primo de mi papá."},
+      {"en": "She is my daughter’s first cousin once removed.", "es": "Ella es la prima en primer grado una vez eliminada de mi hija."},
+      {"en": "It’s confusing, but he’s my first cousin once removed.", "es": "Es confuso, pero él es mi primo en primer grado una vez eliminado."},
+      {"en": "We share the same great-grandparents.", "es": "Compartimos los mismos bisabuelos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_48",
+    "english": "stepchildren",
+    "spanish": "hijastros / hijastras",
+    "phonetic": "/ˈstepˌtʃɪl.drən/",
+    "examples": [
+      {"en": "She loves her stepchildren like her own.", "es": "Ella quiere a sus hijastros como si fueran suyos."},
+      {"en": "He helps his stepchildren with homework.", "es": "Él ayuda a sus hijastros con la tarea."},
+      {"en": "My stepchildren call me 'mom'.", "es": "Mis hijastras me llaman 'mamá'."},
+      {"en": "They went on vacation with their stepchildren.", "es": "Fueron de vacaciones con sus hijastros."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_49",
+    "english": "stepsiblings",
+    "spanish": "hermanastros / hermanastras",
+    "phonetic": "/ˈstepˌsɪb.lɪŋz/",
+    "examples": [
+      {"en": "I have two stepsiblings.", "es": "Tengo dos hermanastros."},
+      {"en": "They became stepsiblings after their parents married.", "es": "Se convirtieron en hermanastros después de que sus padres se casaran."},
+      {"en": "My stepsister is in the same class as me.", "es": "Mi hermanastra está en la misma clase que yo."},
+      {"en": "He plays video games with his stepsiblings.", "es": "Él juega videojuegos con sus hermanastros."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_50",
+    "english": "ex-husband",
+    "spanish": "exesposo",
+    "phonetic": "/eksˈhʌz.bənd/",
+    "examples": [
+      {"en": "Her ex-husband lives in another city.", "es": "Su exesposo vive en otra ciudad."},
+      {"en": "They share custody of their children with her ex-husband.", "es": "Comparten la custodia de sus hijos con su exesposo."},
+      {"en": "My ex-husband still helps with school fees.", "es": "Mi exesposo sigue ayudando con los gastos escolares."},
+      {"en": "She invited her ex-husband to the graduation.", "es": "Ella invitó a su exesposo a la graduación."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_51",
+    "english": "ex-wife",
+    "spanish": "exesposa",
+    "phonetic": "/eksˈwaɪf/",
+    "examples": [
+      {"en": "His ex-wife remarried last year.", "es": "Su exesposa se volvió a casar el año pasado."},
+      {"en": "They remain friends after the divorce.", "es": "Siguen siendo amigos después del divorcio."},
+      {"en": "My ex-wife and I co-parent our son.", "es": "Mi exesposa y yo criamos juntos a nuestro hijo."},
+      {"en": "He sends gifts to his ex-wife on her birthday.", "es": "Él le envía regalos a su exesposa en su cumpleaños."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_52",
+    "english": "widow",
+    "spanish": "viuda",
+    "phonetic": "/ˈwɪd.oʊ/",
+    "examples": [
+      {"en": "She became a widow last winter.", "es": "Ella se convirtió en viuda el invierno pasado."},
+      {"en": "The widow lives alone in the countryside.", "es": "La viuda vive sola en el campo."},
+      {"en": "Her husband passed away five years ago; she’s a widow now.", "es": "Su esposo falleció hace cinco años; ahora es viuda."},
+      {"en": "They support the widow in their community.", "es": "Apoyan a la viuda en su comunidad."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_53",
+    "english": "widower",
+    "spanish": "viudo",
+    "phonetic": "/ˈwɪd.oʊ.ɚ/",
+    "examples": [
+      {"en": "He is a widower with three children.", "es": "Él es un viudo con tres hijos."},
+      {"en": "The widower visits his wife’s grave every Sunday.", "es": "El viudo visita la tumba de su esposa todos los domingos."},
+      {"en": "After losing his wife, he became a widower.", "es": "Después de perder a su esposa, se convirtió en viudo."},
+      {"en": "They invited the widower to the family dinner.", "es": "Invitaron al viudo a la cena familiar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_54",
+    "english": "orphan",
+    "spanish": "huérfano / huérfana",
+    "phonetic": "/ˈɔːr.fən/",
+    "examples": [
+      {"en": "The orphan was adopted by a loving family.", "es": "El huérfano fue adoptado por una familia amorosa."},
+      {"en": "She works at an orphanage for orphans.", "es": "Ella trabaja en un orfanato para huérfanos."},
+      {"en": "Many orphans dream of finding a forever home.", "es": "Muchos huérfanos sueñan con encontrar un hogar para siempre."},
+      {"en": "He became an orphan at the age of six.", "es": "Él se convirtió en huérfano a los seis años."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_55",
+    "english": "guardian",
+    "spanish": "tutor / guardián",
+    "phonetic": "/ˈɡɑːr.di.ən/",
+    "examples": [
+      {"en": "Her aunt became her legal guardian.", "es": "Su tía se convirtió en su tutora legal."},
+      {"en": "The court appointed him as the child’s guardian.", "es": "El tribunal lo nombró tutor del niño."},
+      {"en": "Every child needs a loving guardian.", "es": "Cada niño necesita un tutor amoroso."},
+      {"en": "He acts as guardian for his younger siblings.", "es": "Él actúa como guardián de sus hermanos menores."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_56",
+    "english": "ward",
+    "spanish": "pupilo / pupila",
+    "phonetic": "/wɔːrd/",
+    "examples": [
+      {"en": "The child is now a ward of the state.", "es": "El niño es ahora pupilo del estado."},
+      {"en": "She became the ward of her grandmother.", "es": "Ella se convirtió en pupila de su abuela."},
+      {"en": "The court placed him under the care of a guardian as a ward.", "es": "El tribunal lo puso bajo el cuidado de un tutor como pupilo."},
+      {"en": "Many wards find stability with foster families.", "es": "Muchos pupilos encuentran estabilidad con familias de acogida."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_57",
+    "english": "single parent",
+    "spanish": "padre/madre soltero/a",
+    "phonetic": "/ˈsɪŋ.ɡəl ˈper.ənt/",
+    "examples": [
+      {"en": "She is a single parent raising two kids.", "es": "Ella es una madre soltera criando a dos hijos."},
+      {"en": "He became a single parent after the divorce.", "es": "Él se convirtió en padre soltero después del divorcio."},
+      {"en": "Single parents often work extra hours.", "es": "Los padres solteros suelen trabajar horas extra."},
+      {"en": "They support single parents in their community.", "es": "Apoyan a los padres solteros en su comunidad."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_58",
+    "english": "only child",
+    "spanish": "hijo/a único/a",
+    "phonetic": "/ˈoʊn.li tʃaɪld/",
+    "examples": [
+      {"en": "He is an only child.", "es": "Él es hijo único."},
+      {"en": "As an only child, she got all the attention.", "es": "Como hija única, recibió toda la atención."},
+      {"en": "Only children often develop strong bonds with parents.", "es": "Los hijos únicos suelen desarrollar fuertes vínculos con sus padres."},
+      {"en": "My only child starts college next month.", "es": "Mi hijo único empieza la universidad el próximo mes."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_59",
+    "english": "eldest child",
+    "spanish": "hijo/a mayor",
+    "phonetic": "/ˈel.dɪst tʃaɪld/",
+    "examples": [
+      {"en": "She is the eldest child in the family.", "es": "Ella es la hija mayor de la familia."},
+      {"en": "The eldest child often helps with chores.", "es": "El hijo mayor suele ayudar con las tareas del hogar."},
+      {"en": "He gave the family heirloom to his eldest child.", "es": "Él le dio la reliquia familiar a su hijo mayor."},
+      {"en": "As the eldest child, she felt responsible for her siblings.", "es": "Como hija mayor, se sentía responsable de sus hermanos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_60",
+    "english": "youngest child",
+    "spanish": "hijo/a menor",
+    "phonetic": "/ˈjʌŋ.ɡɪst tʃaɪld/",
+    "examples": [
+      {"en": "He is the youngest child.", "es": "Él es el hijo menor."},
+      {"en": "The youngest child gets lots of attention.", "es": "El hijo menor recibe mucha atención."},
+      {"en": "She is the youngest child and very spoiled.", "es": "Ella es la hija menor y muy consentida."},
+      {"en": "They bought a special gift for the youngest child.", "es": "Compraron un regalo especial para el hijo menor."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_61",
+    "english": "middle child",
+    "spanish": "hijo/a del medio",
+    "phonetic": "/ˈmɪd.əl tʃaɪld/",
+    "examples": [
+      {"en": "She’s the middle child and often feels overlooked.", "es": "Ella es la hija del medio y a menudo se siente ignorada."},
+      {"en": "The middle child tends to be diplomatic.", "es": "El hijo del medio suele ser diplomático."},
+      {"en": "He is the middle child between two sisters.", "es": "Él es el hijo del medio entre dos hermanas."},
+      {"en": "As the middle child, he learned to share everything.", "es": "Como hijo del medio, aprendió a compartirlo todo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_62",
+    "english": "sibling",
+    "spanish": "hermano/a",
+    "phonetic": "/ˈsɪb.lɪŋ/",
+    "examples": [
+      {"en": "She has three siblings.", "es": "Ella tiene tres hermanos."},
+      {"en": "Siblings often argue but also protect each other.", "es": "Los hermanos a menudo discuten pero también se protegen."},
+      {"en": "He is the oldest of four siblings.", "es": "Él es el mayor de cuatro hermanos."},
+      {"en": "My sibling and I share the same birthday.", "es": "Mi hermano y yo compartimos el mismo cumpleaños."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_63",
+    "english": "newborn",
+    "spanish": "recién nacido/a",
+    "phonetic": "/ˈnuː.bɔːrn/",
+    "examples": [
+      {"en": "They brought home their newborn yesterday.", "es": "Trajeron a casa a su recién nacido ayer."},
+      {"en": "The newborn sleeps most of the day.", "es": "El recién nacido duerme la mayor parte del día."},
+      {"en": "She is learning to care for her newborn.", "es": "Ella está aprendiendo a cuidar a su recién nacida."},
+      {"en": "Visitors came to see the newborn.", "es": "Vinieron visitas a ver al recién nacido."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_64",
+    "english": "infant",
+    "spanish": "bebé / lactante",
+    "phonetic": "/ˈɪn.fənt/",
+    "examples": [
+      {"en": "The infant is only two months old.", "es": "El bebé tiene solo dos meses."},
+      {"en": "She works in an infant care center.", "es": "Ella trabaja en un centro de cuidado infantil."},
+      {"en": "Infants need constant attention.", "es": "Los bebés necesitan atención constante."},
+      {"en": "They adopted an infant from Guatemala.", "es": "Adoptaron un bebé de Guatemala."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_65",
+    "english": "toddler",
+    "spanish": "niño/a que empieza a caminar",
+    "phonetic": "/ˈtɑː.dlɚ/",
+    "examples": [
+      {"en": "My toddler loves to run around the park.", "es": "Mi niño que empieza a caminar le encanta correr por el parque."},
+      {"en": "She has a toddler and a baby.", "es": "Ella tiene un niño pequeño y un bebé."},
+      {"en": "Toddlers are full of energy.", "es": "Los niños pequeños están llenos de energía."},
+      {"en": "He is a two-year-old toddler.", "es": "Él es un niño de dos años que empieza a caminar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_66",
+    "english": "teenager",
+    "spanish": "adolescente",
+    "phonetic": "/ˈtiːn.eɪ.dʒɚ/",
+    "examples": [
+      {"en": "Their teenager just got a driver’s license.", "es": "Su adolescente acaba de obtener la licencia de conducir."},
+      {"en": "She is the mother of three teenagers.", "es": "Ella es madre de tres adolescentes."},
+      {"en": "Teenagers often seek independence.", "es": "Los adolescentes suelen buscar independencia."},
+      {"en": "He grounded his teenager for breaking curfew.", "es": "Castigó a su adolescente por romper el toque de queda."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_67",
+    "english": "adult child",
+    "spanish": "hijo/a adulto/a",
+    "phonetic": "/əˈdʌlt tʃaɪld/",
+    "examples": [
+      {"en": "Her adult children live in different cities.", "es": "Sus hijos adultos viven en ciudades diferentes."},
+      {"en": "He still supports his adult child financially.", "es": "Él todavía apoya económicamente a su hijo adulto."},
+      {"en": "Adult children often care for aging parents.", "es": "Los hijos adultos suelen cuidar a padres mayores."},
+      {"en": "My adult child moved back home temporarily.", "es": "Mi hijo adulto regresó temporalmente a casa."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_68",
+    "english": "parental figure",
+    "spanish": "figura paterna/materna",
+    "phonetic": "/pəˈren.t̬əl ˈfɪɡ.jɚ/",
+    "examples": [
+      {"en": "His coach became a parental figure.", "es": "Su entrenador se convirtió en una figura paterna."},
+      {"en": "She looks for a parental figure in her teacher.", "es": "Ella busca una figura materna en su maestra."},
+      {"en": "Not all parental figures are biological parents.", "es": "No todas las figuras parentales son padres biológicos."},
+      {"en": "He provided guidance as a parental figure.", "es": "Él brindó orientación como figura paterna."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_69",
+    "english": "household",
+    "spanish": "hogar / casa",
+    "phonetic": "/ˈhaʊs.hoʊld/",
+    "examples": [
+      {"en": "There are five people in our household.", "es": "Hay cinco personas en nuestro hogar."},
+      {"en": "She manages the entire household.", "es": "Ella maneja todo el hogar."},
+      {"en": "Their household includes grandparents and children.", "es": "Su hogar incluye abuelos y niños."},
+      {"en": "He contributes to the household expenses.", "es": "Él contribuye a los gastos del hogar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_70",
+    "english": "nuclear family",
+    "spanish": "familia nuclear",
+    "phonetic": "/ˈnuː.kli.ɚ ˈfæm.əl.i/",
+    "examples": [
+      {"en": "The nuclear family consists of parents and children.", "es": "La familia nuclear consiste en padres e hijos."},
+      {"en": "They represent a traditional nuclear family.", "es": "Ellos representan una familia nuclear tradicional."},
+      {"en": "Not all families are nuclear families.", "es": "No todas las familias son nucleares."},
+      {"en": "He grew up in a nuclear family.", "es": "Él creció en una familia nuclear."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_71",
+    "english": "extended family",
+    "spanish": "familia extendida",
+    "phonetic": "/ɪkˈsten.dɪd ˈfæm.əl.i/",
+    "examples": [
+      {"en": "They live with their extended family.", "es": "Viven con su familia extendida."},
+      {"en": "In many cultures, the extended family lives together.", "es": "En muchas culturas, la familia extendida vive junta."},
+      {"en": "Her extended family includes aunts, uncles, and cousins.", "es": "Su familia extendida incluye tías, tíos y primos."},
+      {"en": "We celebrate holidays with our extended family.", "es": "Celebramos las fiestas con nuestra familia extendida."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_72",
+    "english": "blended family",
+    "spanish": "familia ensamblada / reconstituida",
+    "phonetic": "/ˈblen.dɪd ˈfæm.əl.i/",
+    "examples": [
+      {"en": "They formed a blended family after remarrying.", "es": "Formaron una familia ensamblada después de volver a casarse."},
+      {"en": "Blended families include stepchildren and stepsiblings.", "es": "Las familias ensambladas incluyen hijastros y hermanastros."},
+      {"en": "Adjusting to a blended family takes time.", "es": "Adaptarse a una familia ensamblada lleva tiempo."},
+      {"en": "She loves her blended family deeply.", "es": "Ella quiere profundamente a su familia reconstituida."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_73",
+    "english": "surrogate mother",
+    "spanish": "madre sustituta",
+    "phonetic": "/sərˈrɒɡ.ət ˈmʌð.ɚ/",
+    "examples": [
+      {"en": "They used a surrogate mother to have a baby.", "es": "Usaron una madre sustituta para tener un bebé."},
+      {"en": "The surrogate mother carried the baby for nine months.", "es": "La madre sustituta llevó al bebé durante nueve meses."},
+      {"en": "She is grateful to the surrogate mother.", "es": "Ella está agradecida con la madre sustituta."},
+      {"en": "Surrogate mothers help families who can’t conceive.", "es": "Las madres sustitutas ayudan a familias que no pueden concebir."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_74",
+    "english": "birth mother",
+    "spanish": "madre biológica",
+    "phonetic": "/ˈbɝːθ ˈmʌð.ɚ/",
+    "examples": [
+      {"en": "He met his birth mother last year.", "es": "Él conoció a su madre biológica el año pasado."},
+      {"en": "The birth mother made an adoption plan.", "es": "La madre biológica hizo un plan de adopción."},
+      {"en": "She keeps in touch with her birth mother.", "es": "Ella mantiene contacto con su madre biológica."},
+      {"en": "Not all adopted children know their birth mother.", "es": "No todos los niños adoptados conocen a su madre biológica."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_75",
+    "english": "birth father",
+    "spanish": "padre biológico",
+    "phonetic": "/ˈbɝːθ ˈfɑː.ðɚ/",
+    "examples": [
+      {"en": "His birth father lives in another country.", "es": "Su padre biológico vive en otro país."},
+      {"en": "She searched for her birth father for years.", "es": "Ella buscó a su padre biológico durante años."},
+      {"en": "The birth father signed over his rights.", "es": "El padre biológico renunció a sus derechos."},
+      {"en": "They reunited with their birth father after 20 years.", "es": "Se reunieron con su padre biológico después de 20 años."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_76",
+    "english": "legal guardian",
+    "spanish": "tutor legal",
+    "phonetic": "/ˈliː.ɡəl ˈɡɑːr.di.ən/",
+    "examples": [
+      {"en": "Her grandmother is her legal guardian.", "es": "Su abuela es su tutora legal."},
+      {"en": "The court named him legal guardian of the child.", "es": "El tribunal lo nombró tutor legal del niño."},
+      {"en": "A legal guardian makes decisions for a minor.", "es": "Un tutor legal toma decisiones por un menor."},
+      {"en": "They appointed a legal guardian after the parents died.", "es": "Nombraron un tutor legal después de que los padres murieron."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_77",
+    "english": "custody",
+    "spanish": "custodia",
+    "phonetic": "/ˈkʌs.tə.di/",
+    "examples": [
+      {"en": "She has full custody of the children.", "es": "Ella tiene la custodia completa de los hijos."},
+      {"en": "They share joint custody of their son.", "es": "Comparten la custodia conjunta de su hijo."},
+      {"en": "The court decided on custody last month.", "es": "El tribunal decidió sobre la custodia el mes pasado."},
+      {"en": "Custody battles can be emotionally difficult.", "es": "Las disputas de custodia pueden ser emocionalmente difíciles."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_78",
+    "english": "visitation rights",
+    "spanish": "derechos de visita",
+    "phonetic": "/ˌvɪz.ɪˈteɪ.ʃən raɪts/",
+    "examples": [
+      {"en": "He has visitation rights every other weekend.", "es": "Él tiene derechos de visita cada fin de semana alterno."},
+      {"en": "The court granted her visitation rights.", "es": "El tribunal le otorgó derechos de visita."},
+      {"en": "Visitation rights ensure time with the child.", "es": "Los derechos de visita garantizan tiempo con el niño."},
+      {"en": "They follow the visitation rights schedule strictly.", "es": "Siguen estrictamente el horario de derechos de visita."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_79",
+    "english": "family tree",
+    "spanish": "árbol genealógico",
+    "phonetic": "/ˈfæm.əl.i triː/",
+    "examples": [
+      {"en": "She is building her family tree.", "es": "Ella está construyendo su árbol genealógico."},
+      {"en": "Our family tree goes back to the 1700s.", "es": "Nuestro árbol genealógico se remonta a los años 1700."},
+      {"en": "He found a famous ancestor in his family tree.", "es": "Él encontró un antepasado famoso en su árbol genealógico."},
+      {"en": "They use DNA to complete their family tree.", "es": "Usan ADN para completar su árbol genealógico."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_80",
+    "english": "ancestor",
+    "spanish": "antepasado / ancestro",
+    "phonetic": "/ˈæn.ses.tɚ/",
+    "examples": [
+      {"en": "His ancestors came from Ireland.", "es": "Sus antepasados vinieron de Irlanda."},
+      {"en": "We honor our ancestors during the holiday.", "es": "Honramos a nuestros ancestros durante la fiesta."},
+      {"en": "She researched her ancestors online.", "es": "Ella investigó a sus antepasados en línea."},
+      {"en": "All humans share common ancestors.", "es": "Todos los humanos compartimos ancestros comunes."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_81",
+    "english": "descendant",
+    "spanish": "descendiente",
+    "phonetic": "/dɪˈsen.dənt/",
+    "examples": [
+      {"en": "He is a descendant of royalty.", "es": "Él es descendiente de la realeza."},
+      {"en": "She is a direct descendant of Mayflower passengers.", "es": "Ella es descendiente directa de pasajeros del Mayflower."},
+      {"en": "All of us are descendants of early humans.", "es": "Todos somos descendientes de humanos primitivos."},
+      {"en": "They traced their descendants through records.", "es": "Rastrearon a sus descendientes mediante registros."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_82",
+    "english": "heir",
+    "spanish": "heredero / heredera",
+    "phonetic": "/er/",
+    "examples": [
+      {"en": "He is the heir to the family fortune.", "es": "Él es el heredero de la fortuna familiar."},
+      {"en": "She is the only heir of her grandfather’s estate.", "es": "Ella es la única heredera de la herencia de su abuelo."},
+      {"en": "The eldest son was traditionally the heir.", "es": "El hijo mayor era tradicionalmente el heredero."},
+      {"en": "They named their daughter as heir.", "es": "Nombraron a su hija como heredera."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_83",
+    "english": "heiress",
+    "spanish": "heredera",
+    "phonetic": "/ˈer.əs/",
+    "examples": [
+      {"en": "She is an heiress to a large company.", "es": "Ella es heredera de una gran empresa."},
+      {"en": "The young heiress donated to charity.", "es": "La joven heredera donó a la caridad."},
+      {"en": "As an heiress, she inherited millions.", "es": "Como heredera, heredó millones."},
+      {"en": "They protect the heiress from the media.", "es": "Protegen a la heredera de los medios."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_84",
+    "english": "legacy",
+    "spanish": "legado",
+    "phonetic": "/ˈleɡ.ə.si/",
+    "examples": [
+      {"en": "He left a legacy of kindness.", "es": "Él dejó un legado de amabilidad."},
+      {"en": "The family legacy includes a famous recipe.", "es": "El legado familiar incluye una receta famosa."},
+      {"en": "She wants to build a legacy for her children.", "es": "Ella quiere construir un legado para sus hijos."},
+      {"en": "Their legacy lives on through their grandchildren.", "es": "Su legado vive a través de sus nietos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_85",
+    "english": "lineage",
+    "spanish": "linaje",
+    "phonetic": "/ˈlɪn.i.ɪdʒ/",
+    "examples": [
+      {"en": "His lineage traces back to ancient warriors.", "es": "Su linaje se remonta a guerreros antiguos."},
+      {"en": "She is proud of her royal lineage.", "es": "Ella está orgullosa de su linaje real."},
+      {"en": "DNA tests can reveal your lineage.", "es": "Las pruebas de ADN pueden revelar tu linaje."},
+      {"en": "The family’s lineage includes scholars and artists.", "es": "El linaje familiar incluye académicos y artistas."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_86",
+    "english": "clan",
+    "spanish": "clan",
+    "phonetic": "/klæn/",
+    "examples": [
+      {"en": "His clan has lived in the Highlands for centuries.", "es": "Su clan ha vivido en las Tierras Altas durante siglos."},
+      {"en": "The clan gathers every summer for a reunion.", "es": "El clan se reúne cada verano para una reunión."},
+      {"en": "She belongs to the MacDonald clan.", "es": "Ella pertenece al clan MacDonald."},
+      {"en": "In some cultures, the clan is more important than the nuclear family.", "es": "En algunas culturas, el clan es más importante que la familia nuclear."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_87",
+    "english": "dynasty",
+    "spanish": "dinastía",
+    "phonetic": "/ˈdaɪ.nə.sti/",
+    "examples": [
+      {"en": "The royal dynasty ruled for 300 years.", "es": "La dinastía real gobernó durante 300 años."},
+      {"en": "Their family business became a dynasty.", "es": "Su negocio familiar se convirtió en una dinastía."},
+      {"en": "He comes from a political dynasty.", "es": "Él proviene de una dinastía política."},
+      {"en": "The sports dynasty includes three generations.", "es": "La dinastía deportiva incluye tres generaciones."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_88",
+    "english": "blood relative",
+    "spanish": "pariente consanguíneo",
+    "phonetic": "/blʌd ˈrel.ə.tɪv/",
+    "examples": [
+      {"en": "She is my only blood relative.", "es": "Ella es mi único pariente consanguíneo."},
+      {"en": "Not all family members are blood relatives.", "es": "No todos los miembros de la familia son parientes consanguíneos."},
+      {"en": "He donated a kidney to his blood relative.", "es": "Él donó un riñón a su pariente consanguíneo."},
+      {"en": "They share DNA as blood relatives.", "es": "Comparten ADN como parientes consanguíneos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_89",
+    "english": "maternal",
+    "spanish": "materno / materna",
+    "phonetic": "/məˈtɝː.nəl/",
+    "examples": [
+      {"en": "Her maternal grandmother lives nearby.", "es": "Su abuela materna vive cerca."},
+      {"en": "He inherited his eyes from his maternal side.", "es": "Él heredó sus ojos del lado materno."},
+      {"en": "Maternal instincts are strong in her.", "es": "Los instintos maternos son fuertes en ella."},
+      {"en": "The maternal uncle is her mother’s brother.", "es": "El tío materno es el hermano de su madre."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_90",
+    "english": "paternal",
+    "spanish": "paterno / paterna",
+    "phonetic": "/pəˈtɝː.nəl/",
+    "examples": [
+      {"en": "His paternal grandfather was a soldier.", "es": "Su abuelo paterno fue soldado."},
+      {"en": "She looks like her paternal aunt.", "es": "Ella se parece a su tía paterna."},
+      {"en": "Paternal love can be just as strong.", "es": "El amor paterno puede ser igual de fuerte."},
+      {"en": "The paternal side of the family is from Spain.", "es": "El lado paterno de la familia es de España."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_91",
+    "english": "kin",
+    "spanish": "familia / parientes",
+    "phonetic": "/kɪn/",
+    "examples": [
+      {"en": "She is my closest kin.", "es": "Ella es mi pariente más cercano."},
+      {"en": "He has no living kin.", "es": "Él no tiene parientes vivos."},
+      {"en": "They invited all their kin to the wedding.", "es": "Invitaron a todos sus parientes a la boda."},
+      {"en": "Blood is thicker than water among kin.", "es": "La sangre es más espesa que el agua entre parientes."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_92",
+    "english": "next of kin",
+    "spanish": "pariente más cercano",
+    "phonetic": "/ˌnekst əv ˈkɪn/",
+    "examples": [
+      {"en": "In case of emergency, contact my next of kin.", "es": "En caso de emergencia, contacta a mi pariente más cercano."},
+      {"en": "Her next of kin is her sister.", "es": "Su pariente más cercano es su hermana."},
+      {"en": "The hospital asked for his next of kin.", "es": "El hospital pidió su pariente más cercano."},
+      {"en": "He listed his son as next of kin.", "es": "Él puso a su hijo como pariente más cercano."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_93",
+    "english": "relative",
+    "spanish": "pariente / familiar",
+    "phonetic": "/ˈrel.ə.tɪv/",
+    "examples": [
+      {"en": "She invited all her relatives to the party.", "es": "Ella invitó a todos sus parientes a la fiesta."},
+      {"en": "He has relatives in five countries.", "es": "Él tiene parientes en cinco países."},
+      {"en": "Not all relatives are close family.", "es": "No todos los parientes son familia cercana."},
+      {"en": "They are distant relatives.", "es": "Son parientes lejanos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_94",
+    "english": "distant relative",
+    "spanish": "pariente lejano",
+    "phonetic": "/ˈdɪs.tənt ˈrel.ə.tɪv/",
+    "examples": [
+      {"en": "He discovered a distant relative through DNA testing.", "es": "Él descubrió un pariente lejano mediante una prueba de ADN."},
+      {"en": "She met a distant relative at the conference.", "es": "Ella conoció a un pariente lejano en la conferencia."},
+      {"en": "They share a great-great-grandfather as distant relatives.", "es": "Comparten un tatarabuelo como parientes lejanos."},
+      {"en": "Distant relatives may not know each other.", "es": "Los parientes lejanos pueden no conocerse."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_95",
+    "english": "immediate family",
+    "spanish": "familia inmediata",
+    "phonetic": "/ɪˈmiː.di.ət ˈfæm.əl.i/",
+    "examples": [
+      {"en": "Only immediate family attended the funeral.", "es": "Solo la familia inmediata asistió al funeral."},
+      {"en": "Her immediate family includes her parents and siblings.", "es": "Su familia inmediata incluye a sus padres y hermanos."},
+      {"en": "Companies often give leave for immediate family emergencies.", "es": "Las empresas suelen dar licencia por emergencias de la familia inmediata."},
+      {"en": "He considers his wife and children his immediate family.", "es": "Él considera a su esposa e hijos su familia inmediata."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_96",
+    "english": "family member",
+    "spanish": "miembro de la familia",
+    "phonetic": "/ˈfæm.əl.i ˌmem.bɚ/",
+    "examples": [
+      {"en": "Every family member has a role.", "es": "Cada miembro de la familia tiene un rol."},
+      {"en": "She is a beloved family member.", "es": "Ella es un miembro querido de la familia."},
+      {"en": "All family members were present at the reunion.", "es": "Todos los miembros de la familia estuvieron presentes en la reunión."},
+      {"en": "He treats his dog like a family member.", "es": "Él trata a su perro como un miembro de la familia."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_97",
+    "english": "family reunion",
+    "spanish": "reunión familiar",
+    "phonetic": "/ˈfæm.əl.i riˈjuː.njən/",
+    "examples": [
+      {"en": "They have a family reunion every summer.", "es": "Tienen una reunión familiar cada verano."},
+      {"en": "Over 50 relatives attended the family reunion.", "es": "Más de 50 parientes asistieron a la reunión familiar."},
+      {"en": "The family reunion was held at a park.", "es": "La reunión familiar se celebró en un parque."},
+      {"en": "She looks forward to the annual family reunion.", "es": "Ella espera con ansias la reunión familiar anual."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_98",
+    "english": "family values",
+    "spanish": "valores familiares",
+    "phonetic": "/ˈfæm.əl.i ˈvæl.juːz/",
+    "examples": [
+      {"en": "They raised their children with strong family values.", "es": "Criaron a sus hijos con sólidos valores familiares."},
+      {"en": "Honesty and respect are part of their family values.", "es": "La honestidad y el respeto son parte de sus valores familiares."},
+      {"en": "Family values differ across cultures.", "es": "Los valores familiares varían según las culturas."},
+      {"en": "He lives by his family values.", "es": "Él vive según sus valores familiares."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_99",
+    "english": "family tradition",
+    "spanish": "tradición familiar",
+    "phonetic": "/ˈfæm.əl.i trəˈdɪʃ.ən/",
+    "examples": [
+      {"en": "Making tamales is a family tradition at Christmas.", "es": "Hacer tamales es una tradición familiar en Navidad."},
+      {"en": "They keep the family tradition alive.", "es": "Mantienen viva la tradición familiar."},
+      {"en": "Every Sunday dinner is a family tradition.", "es": "Cada cena dominical es una tradición familiar."},
+      {"en": "He passed down the family tradition to his son.", "es": "Él transmitió la tradición familiar a su hijo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_100",
+    "english": "family heirloom",
+    "spanish": "reliquia familiar",
+    "phonetic": "/ˈfæm.əl.i ˈer.lum/",
+    "examples": [
+      {"en": "The ring is a family heirloom.", "es": "El anillo es una reliquia familiar."},
+      {"en": "She inherited a family heirloom from her grandmother.", "es": "Ella heredó una reliquia familiar de su abuela."},
+      {"en": "They keep the family heirloom in a safe.", "es": "Guardan la reliquia familiar en una caja fuerte."},
+      {"en": "This watch has been a family heirloom for generations.", "es": "Este reloj ha sido una reliquia familiar durante generaciones."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_101",
+    "english": "godparents",
+    "spanish": "padrinos",
+    "phonetic": "/ˈɡɑːdˌper.ənts/",
+    "examples": [
+      {"en": "They chose their best friends as godparents.", "es": "Ellos eligieron a sus mejores amigos como padrinos."},
+      {"en": "Godparents often give special gifts at baptisms.", "es": "Los padrinos suelen dar regalos especiales en los bautismos."},
+      {"en": "Her godparents visit her every birthday.", "es": "Sus padrinos la visitan cada cumpleaños."},
+      {"en": "He is the godparent of three children.", "es": "Él es padrino de tres niños."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_102",
+    "english": "maternal uncle",
+    "spanish": "tío materno",
+    "phonetic": "/məˈtɝː.nəl ˈʌŋ.kəl/",
+    "examples": [
+      {"en": "My maternal uncle lives in Mexico City.", "es": "Mi tío materno vive en la Ciudad de México."},
+      {"en": "She inherited her love of music from her maternal uncle.", "es": "Ella heredó su amor por la música de su tío materno."},
+      {"en": "His maternal uncle taught him to fish.", "es": "Su tío materno le enseñó a pescar."},
+      {"en": "They visited their maternal uncle during summer break.", "es": "Visitaron a su tío materno durante las vacaciones de verano."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_103",
+    "english": "paternal aunt",
+    "spanish": "tía paterna",
+    "phonetic": "/pəˈtɝː.nəl ænt/",
+    "examples": [
+      {"en": "My paternal aunt is a doctor.", "es": "Mi tía paterna es doctora."},
+      {"en": "She looks just like her paternal aunt.", "es": "Se parece mucho a su tía paterna."},
+      {"en": "His paternal aunt lives in Argentina.", "es": "Su tía paterna vive en Argentina."},
+      {"en": "They spent Christmas with their paternal aunt.", "es": "Pasaron Navidad con su tía paterna."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_104",
+    "english": "cousin-in-law",
+    "spanish": "primo/a político/a",
+    "phonetic": "/ˈkʌz.ən ɪn lɔː/",
+    "examples": [
+      {"en": "My cousin-in-law is married to my sister.", "es": "Mi primo político está casado con mi hermana."},
+      {"en": "She invited her cousin-in-law to the wedding.", "es": "Ella invitó a su prima política a la boda."},
+      {"en": "His cousin-in-law lives in Canada.", "es": "Su primo político vive en Canadá."},
+      {"en": "They met their cousin-in-law for the first time.", "es": "Conocieron a su primo político por primera vez."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_105",
+    "english": "great-niece",
+    "spanish": "sobrina nieta",
+    "phonetic": "/ˌɡreɪtˈniːs/",
+    "examples": [
+      {"en": "My great-niece just learned to walk.", "es": "Mi sobrina nieta acaba de aprender a caminar."},
+      {"en": "She bought a doll for her great-niece.", "es": "Ella compró una muñeca para su sobrina nieta."},
+      {"en": "His great-niece calls him 'great-uncle'.", "es": "Su sobrina nieta lo llama 'tío abuelo'."},
+      {"en": "They celebrated their great-niece’s first birthday.", "es": "Celebraron el primer cumpleaños de su sobrina nieta."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_106",
+    "english": "great-nephew",
+    "spanish": "sobrino nieto",
+    "phonetic": "/ˌɡreɪtˈnef.juː/",
+    "examples": [
+      {"en": "My great-nephew is two years old.", "es": "Mi sobrino nieto tiene dos años."},
+      {"en": "He takes his great-nephew to the zoo.", "es": "Él lleva a su sobrino nieto al zoológico."},
+      {"en": "She knitted a sweater for her great-nephew.", "es": "Ella tejió un suéter para su sobrino nieto."},
+      {"en": "They are proud of their great-nephew’s achievements.", "es": "Están orgullosos de los logros de su sobrino nieto."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_107",
+    "english": "grandniece",
+    "spanish": "sobrina nieta",
+    "phonetic": "/ˌɡrænˈniːs/",
+    "examples": [
+      {"en": "My grandniece has her mother’s eyes.", "es": "Mi sobrina nieta tiene los ojos de su madre."},
+      {"en": "She sends gifts to her grandniece every holiday.", "es": "Ella envía regalos a su sobrina nieta en cada fiesta."},
+      {"en": "His grandniece lives in California.", "es": "Su sobrina nieta vive en California."},
+      {"en": "They video call their grandniece weekly.", "es": "Hacen videollamadas a su sobrina nieta semanalmente."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_108",
+    "english": "grandnephew",
+    "spanish": "sobrino nieto",
+    "phonetic": "/ˌɡrænˈnef.juː/",
+    "examples": [
+      {"en": "My grandnephew started kindergarten.", "es": "Mi sobrino nieto empezó el jardín de infancia."},
+      {"en": "He taught his grandnephew to ride a bike.", "es": "Él le enseñó a su sobrino nieto a montar en bicicleta."},
+      {"en": "She is proud of her grandnephew’s soccer skills.", "es": "Ella está orgullosa de las habilidades futbolísticas de su sobrino nieto."},
+      {"en": "They took their grandnephew to the museum.", "es": "Llevaron a su sobrino nieto al museo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_109",
+    "english": "baby",
+    "spanish": "bebé",
+    "phonetic": "/ˈbeɪ.bi/",
+    "examples": [
+      {"en": "Their baby was born last night.", "es": "Su bebé nació anoche."},
+      {"en": "She rocked the baby to sleep.", "es": "Ella meció al bebé hasta dormirlo."},
+      {"en": "The baby smiled for the first time today.", "es": "El bebé sonrió por primera vez hoy."},
+      {"en": "He changed the baby’s diaper.", "es": "Él le cambió el pañal al bebé."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_110",
+    "english": "child",
+    "spanish": "niño / niña",
+    "phonetic": "/tʃaɪld/",
+    "examples": [
+      {"en": "Every child deserves love and care.", "es": "Cada niño merece amor y cuidado."},
+      {"en": "She is the youngest child in the class.", "es": "Ella es la niña más joven de la clase."},
+      {"en": "He taught his child to read.", "es": "Él le enseñó a leer a su hijo."},
+      {"en": "They have three children.", "es": "Tienen tres hijos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_111",
+    "english": "boy",
+    "spanish": "niño",
+    "phonetic": "/bɔɪ/",
+    "examples": [
+      {"en": "The boy is playing with his dog.", "es": "El niño está jugando con su perro."},
+      {"en": "She has two boys and one girl.", "es": "Ella tiene dos niños y una niña."},
+      {"en": "He was a shy boy as a child.", "es": "Él era un niño tímido de pequeño."},
+      {"en": "The boy helped his mother with groceries.", "es": "El niño ayudó a su madre con las compras."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_112",
+    "english": "girl",
+    "spanish": "niña",
+    "phonetic": "/ɡɝːl/",
+    "examples": [
+      {"en": "The girl loves to draw.", "es": "La niña le encanta dibujar."},
+      {"en": "She is the oldest girl in the family.", "es": "Ella es la niña mayor de la familia."},
+      {"en": "He has two girls.", "es": "Él tiene dos niñas."},
+      {"en": "The girl shared her toy with her brother.", "es": "La niña compartió su juguete con su hermano."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_113",
+    "english": "man",
+    "spanish": "hombre",
+    "phonetic": "/mæn/",
+    "examples": [
+      {"en": "He is a good man and a loving father.", "es": "Él es un buen hombre y un padre amoroso."},
+      {"en": "The man raised his children alone.", "es": "El hombre crió a sus hijos solo."},
+      {"en": "She married a kind man.", "es": "Ella se casó con un hombre amable."},
+      {"en": "That man is my uncle.", "es": "Ese hombre es mi tío."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_114",
+    "english": "woman",
+    "spanish": "mujer",
+    "phonetic": "/ˈwʊm.ən/",
+    "examples": [
+      {"en": "She is a strong woman and a devoted mother.", "es": "Ella es una mujer fuerte y una madre devota."},
+      {"en": "The woman takes care of her grandchildren.", "es": "La mujer cuida a sus nietos."},
+      {"en": "He respects that woman as his mother-in-law.", "es": "Él respeta a esa mujer como su suegra."},
+      {"en": "That woman is my aunt.", "es": "Esa mujer es mi tía."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_115",
+    "english": "spouse",
+    "spanish": "cónyuge",
+    "phonetic": "/spaʊs/",
+    "examples": [
+      {"en": "Her spouse works overseas.", "es": "Su cónyuge trabaja en el extranjero."},
+      {"en": "They support each other as spouses.", "es": "Se apoyan mutuamente como cónyuges."},
+      {"en": "He listed his spouse as emergency contact.", "es": "Él puso a su cónyuge como contacto de emergencia."},
+      {"en": "Same-sex spouses have equal rights.", "es": "Los cónyuges del mismo sexo tienen derechos iguales."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_116",
+    "english": "partner",
+    "spanish": "pareja",
+    "phonetic": "/ˈpɑːrt.nɚ/",
+    "examples": [
+      {"en": "Her partner is very supportive.", "es": "Su pareja es muy solidaria."},
+      {"en": "They’ve been partners for ten years.", "es": "Han sido pareja durante diez años."},
+      {"en": "He introduced his partner to his parents.", "es": "Él presentó a su pareja a sus padres."},
+      {"en": "As life partners, they share everything.", "es": "Como pareja de vida, comparten todo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_117",
+    "english": "significant other",
+    "spanish": "pareja sentimental",
+    "phonetic": "/sɪɡˈnɪf.ɪ.kənt ˈʌð.ɚ/",
+    "examples": [
+      {"en": "She brought her significant other to the party.", "es": "Ella trajo a su pareja sentimental a la fiesta."},
+      {"en": "He lives with his significant other.", "es": "Él vive con su pareja sentimental."},
+      {"en": "They invited their significant others to dinner.", "es": "Invitaron a sus parejas sentimentales a cenar."},
+      {"en": "My significant other means the world to me.", "es": "Mi pareja sentimental significa el mundo para mí."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_118",
+    "english": "fiancé",
+    "spanish": "prometido",
+    "phonetic": "/fiˈɑːn.seɪ/",
+    "examples": [
+      {"en": "Her fiancé proposed on a beach.", "es": "Su prometido le propuso matrimonio en una playa."},
+      {"en": "He introduced his fiancé to his family.", "es": "Él presentó a su prometido a su familia."},
+      {"en": "They’re getting married next spring; he’s her fiancé.", "es": "Se casan la próxima primavera; él es su prometido."},
+      {"en": "His fiancé is a doctor.", "es": "Su prometido es médico."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_119",
+    "english": "fiancée",
+    "spanish": "prometida",
+    "phonetic": "/fiˈɑːn.seɪ/",
+    "examples": [
+      {"en": "His fiancée is from France.", "es": "Su prometida es de Francia."},
+      {"en": "She wore her engagement ring; she’s his fiancée.", "es": "Llevaba su anillo de compromiso; es su prometida."},
+      {"en": "They announced their engagement; she’s his fiancée.", "es": "Anunciaron su compromiso; ella es su prometida."},
+      {"en": "Her fiancée planned a surprise party.", "es": "Su prometida planeó una fiesta sorpresa."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_120",
+    "english": "bride",
+    "spanish": "novia",
+    "phonetic": "/braɪd/",
+    "examples": [
+      {"en": "The bride wore a white dress.", "es": "La novia llevaba un vestido blanco."},
+      {"en": "She is the bride in tomorrow’s wedding.", "es": "Ella es la novia en la boda de mañana."},
+      {"en": "Her mother helped the bride get ready.", "es": "Su madre ayudó a la novia a prepararse."},
+      {"en": "Everyone admired the beautiful bride.", "es": "Todos admiraron a la hermosa novia."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_121",
+    "english": "groom",
+    "spanish": "novio",
+    "phonetic": "/ɡruːm/",
+    "examples": [
+      {"en": "The groom was nervous but happy.", "es": "El novio estaba nervioso pero feliz."},
+      {"en": "He is the groom in Saturday’s ceremony.", "es": "Él es el novio en la ceremonia del sábado."},
+      {"en": "His father walked the groom to the altar.", "es": "Su padre acompañó al novio al altar."},
+      {"en": "The groom gave a heartfelt speech.", "es": "El novio dio un discurso sincero."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_122",
+    "english": "best man",
+    "spanish": "padrino de boda",
+    "phonetic": "/ˌbest ˈmæn/",
+    "examples": [
+      {"en": "His brother is the best man.", "es": "Su hermano es el padrino de boda."},
+      {"en": "The best man gave a funny speech.", "es": "El padrino de boda dio un discurso divertido."},
+      {"en": "He asked his best friend to be best man.", "es": "Le pidió a su mejor amigo que fuera padrino de boda."},
+      {"en": "The best man holds the rings.", "es": "El padrino de boda lleva los anillos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_123",
+    "english": "maid of honor",
+    "spanish": "dama de honor",
+    "phonetic": "/ˌmeɪd əv ˈɑː.nɚ/",
+    "examples": [
+      {"en": "Her sister is the maid of honor.", "es": "Su hermana es la dama de honor."},
+      {"en": "The maid of honor helped with the wedding plans.", "es": "La dama de honor ayudó con los planes de la boda."},
+      {"en": "She chose her best friend as maid of honor.", "es": "Ella eligió a su mejor amiga como dama de honor."},
+      {"en": "The maid of honor gave a touching toast.", "es": "La dama de honor dio un brindis emotivo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_124",
+    "english": "bridesmaid",
+    "spanish": "dama de honor /伴娘",
+    "phonetic": "/ˈbraɪdz.meɪd/",
+    "examples": [
+      {"en": "She is a bridesmaid in her cousin’s wedding.", "es": "Ella es dama de honor en la boda de su prima."},
+      {"en": "The bridesmaids wore blue dresses.", "es": "Las damas de honor llevaban vestidos azules."},
+      {"en": "He has three bridesmaids in the wedding party.", "es": "Ella tiene tres damas de honor en la ceremonia."},
+      {"en": "Bridesmaids help the bride on her big day.", "es": "Las damas de honor ayudan a la novia en su gran día."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_125",
+    "english": "groomsman",
+    "spanish": "acompañante del novio",
+    "phonetic": "/ˈɡruːmz.mən/",
+    "examples": [
+      {"en": "His college roommate is a groomsman.", "es": "Su compañero de universidad es acompañante del novio."},
+      {"en": "The groomsmen wore matching suits.", "es": "Los acompañantes del novio llevaban trajes a juego."},
+      {"en": "She invited her brother to be a groomsman.", "es": "Él invitó a su hermano a ser acompañante del novio."},
+      {"en": "Groomsmen support the groom before the wedding.", "es": "Los acompañantes del novio apoyan al novio antes de la boda."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_126",
+    "english": "flower girl",
+    "spanish": "niña de las flores",
+    "phonetic": "/ˈflaʊ.ɚ ˌɡɝːl/",
+    "examples": [
+      {"en": "The flower girl scattered petals down the aisle.", "es": "La niña de las flores esparció pétalos por el pasillo."},
+      {"en": "Her niece is the flower girl.", "es": "Su sobrina es la niña de las flores."},
+      {"en": "The flower girl is four years old.", "es": "La niña de las flores tiene cuatro años."},
+      {"en": "They chose their youngest cousin as flower girl.", "es": "Ellos eligieron a su prima más joven como niña de las flores."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_127",
+    "english": "ring bearer",
+    "spanish": "portador de los anillos",
+    "phonetic": "/ˈrɪŋ ˌber.ɚ/",
+    "examples": [
+      {"en": "The ring bearer is the groom’s nephew.", "es": "El portador de los anillos es el sobrino del novio."},
+      {"en": "The ring bearer walked down the aisle carefully.", "es": "El portador de los anillos caminó con cuidado por el pasillo."},
+      {"en": "He is only three but was the ring bearer.", "es": "Él tiene solo tres años pero fue el portador de los anillos."},
+      {"en": "They gave fake rings to the ring bearer.", "es": "Le dieron anillos falsos al portador de los anillos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_128",
+    "english": "offspring",
+    "spanish": "descendencia / hijos",
+    "phonetic": "/ˈɔːf.sprɪŋ/",
+    "examples": [
+      {"en": "They have two offspring.", "es": "Tienen dos hijos."},
+      {"en": "His offspring all live abroad.", "es": "Su descendencia vive en el extranjero."},
+      {"en": "The couple is proud of their offspring.", "es": "La pareja está orgullosa de su descendencia."},
+      {"en": "Offspring inherit traits from both parents.", "es": "Los hijos heredan rasgos de ambos padres."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_129",
+    "english": "progeny",
+    "spanish": "progenie",
+    "phonetic": "/prəˈdʒen.i/",
+    "examples": [
+      {"en": "His progeny includes five grandchildren.", "es": "Su progenie incluye cinco nietos."},
+      {"en": "The king’s progeny ruled for centuries.", "es": "La progenie del rey gobernó durante siglos."},
+      {"en": "She is concerned about her progeny’s future.", "es": "Ella está preocupada por el futuro de su progenie."},
+      {"en": "Genetic traits pass to progeny.", "es": "Los rasgos genéticos se transmiten a la progenie."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_130",
+    "english": "forefather",
+    "spanish": "antepasado varón",
+    "phonetic": "/ˈfɔːrˌfɑː.ðɚ/",
+    "examples": [
+      {"en": "Our forefathers built this town.", "es": "Nuestros antepasados varones construyeron este pueblo."},
+      {"en": "He honors his forefathers every year.", "es": "Él honra a sus antepasados varones cada año."},
+      {"en": "The forefathers fought for freedom.", "es": "Los antepasados varones lucharon por la libertad."},
+      {"en": "She researched her forefathers’ history.", "es": "Ella investigó la historia de sus antepasados varones."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_131",
+    "english": "foremother",
+    "spanish": "antepasada",
+    "phonetic": "/ˈfɔːrˌmʌð.ɚ/",
+    "examples": [
+      {"en": "Her foremothers were strong women.", "es": "Sus antepasadas fueron mujeres fuertes."},
+      {"en": "We honor our foremothers during Women’s History Month.", "es": "Honramos a nuestras antepasadas durante el Mes de la Historia de la Mujer."},
+      {"en": "His foremothers came from Ireland.", "es": "Sus antepasadas vinieron de Irlanda."},
+      {"en": "She named her daughter after a foremother.", "es": "Ella nombró a su hija en honor a una antepasada."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_132",
+    "english": "matriarch",
+    "spanish": "matriarca",
+    "phonetic": "/ˈmeɪ.tri.ɑːrk/",
+    "examples": [
+      {"en": "Her grandmother is the family matriarch.", "es": "Su abuela es la matriarca de la familia."},
+      {"en": "The matriarch makes all the big decisions.", "es": "La matriarca toma todas las decisiones importantes."},
+      {"en": "They gathered around the matriarch for advice.", "es": "Se reunieron alrededor de la matriarca para pedir consejo."},
+      {"en": "She became the matriarch after her mother passed away.", "es": "Ella se convirtió en matriarca después de que su madre falleció."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_133",
+    "english": "patriarch",
+    "spanish": "patriarca",
+    "phonetic": "/ˈpeɪ.tri.ɑːrk/",
+    "examples": [
+      {"en": "His grandfather is the family patriarch.", "es": "Su abuelo es el patriarca de la familia."},
+      {"en": "The patriarch leads the family business.", "es": "El patriarca dirige el negocio familiar."},
+      {"en": "They respect the patriarch’s wisdom.", "es": "Respetan la sabiduría del patriarca."},
+      {"en": "After his father died, he became the patriarch.", "es": "Después de que su padre murió, se convirtió en patriarca."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_134",
+    "english": "sibling rivalry",
+    "spanish": "rivalidad entre hermanos",
+    "phonetic": "/ˈsɪb.lɪŋ ˈraɪ.vəl.ri/",
+    "examples": [
+      {"en": "Sibling rivalry is common in large families.", "es": "La rivalidad entre hermanos es común en familias numerosas."},
+      {"en": "They overcame their sibling rivalry as adults.", "es": "Superaron su rivalidad entre hermanos al hacerse adultos."},
+      {"en": "Parents should manage sibling rivalry fairly.", "es": "Los padres deben manejar la rivalidad entre hermanos con justicia."},
+      {"en": "Their sibling rivalry started over toys.", "es": "Su rivalidad entre hermanos comenzó por juguetes."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_135",
+    "english": "family bond",
+    "spanish": "vínculo familiar",
+    "phonetic": "/ˈfæm.əl.i bɑːnd/",
+    "examples": [
+      {"en": "The family bond grew stronger after the crisis.", "es": "El vínculo familiar se fortaleció después de la crisis."},
+      {"en": "They share a deep family bond.", "es": "Comparten un vínculo familiar profundo."},
+      {"en": "Time together strengthens the family bond.", "es": "El tiempo juntos fortalece el vínculo familiar."},
+      {"en": "Even distance can’t break their family bond.", "es": "Ni siquiera la distancia puede romper su vínculo familiar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_136",
+    "english": "family support",
+    "spanish": "apoyo familiar",
+    "phonetic": "/ˈfæm.əl.i səˈpɔːrt/",
+    "examples": [
+      {"en": "She succeeded thanks to family support.", "es": "Ella tuvo éxito gracias al apoyo familiar."},
+      {"en": "Family support is crucial during hard times.", "es": "El apoyo familiar es crucial en tiempos difíciles."},
+      {"en": "He provides emotional family support.", "es": "Él brinda apoyo familiar emocional."},
+      {"en": "They rely on each other for family support.", "es": "Se apoyan mutuamente con apoyo familiar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_137",
+    "english": "family crisis",
+    "spanish": "crisis familiar",
+    "phonetic": "/ˈfæm.əl.i ˈkraɪ.sɪs/",
+    "examples": [
+      {"en": "They faced a family crisis last year.", "es": "Enfrentaron una crisis familiar el año pasado."},
+      {"en": "Professional help can ease a family crisis.", "es": "La ayuda profesional puede aliviar una crisis familiar."},
+      {"en": "The illness caused a family crisis.", "es": "La enfermedad causó una crisis familiar."},
+      {"en": "They pulled together during the family crisis.", "es": "Se unieron durante la crisis familiar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_138",
+    "english": "family therapy",
+    "spanish": "terapia familiar",
+    "phonetic": "/ˈfæm.əl.i ˈθer.ə.pi/",
+    "examples": [
+      {"en": "They started family therapy to improve communication.", "es": "Empezaron terapia familiar para mejorar la comunicación."},
+      {"en": "Family therapy helped them resolve conflicts.", "es": "La terapia familiar les ayudó a resolver conflictos."},
+      {"en": "She recommended family therapy for the teenagers.", "es": "Ella recomendó terapia familiar para los adolescentes."},
+      {"en": "Family therapy requires honesty and openness.", "es": "La terapia familiar requiere honestidad y apertura."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_139",
+    "english": "family history",
+    "spanish": "historia familiar",
+    "phonetic": "/ˈfæm.əl.i ˈhɪs.tə.ri/",
+    "examples": [
+      {"en": "She researched her family history online.", "es": "Ella investigó su historia familiar en línea."},
+      {"en": "Family history can reveal health risks.", "es": "La historia familiar puede revelar riesgos de salud."},
+      {"en": "He wrote a book about his family history.", "es": "Él escribió un libro sobre su historia familiar."},
+      {"en": "They share a rich family history.", "es": "Comparten una rica historia familiar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_140",
+    "english": "family photo",
+    "spanish": "foto familiar",
+    "phonetic": "/ˈfæm.əl.i ˈfoʊ.toʊ/",
+    "examples": [
+      {"en": "They took a family photo at Christmas.", "es": "Tomaron una foto familiar en Navidad."},
+      {"en": "The family photo hangs in the living room.", "es": "La foto familiar cuelga en la sala."},
+      {"en": "She keeps the family photo in her wallet.", "es": "Ella guarda la foto familiar en su billetera."},
+      {"en": "Everyone smiled for the family photo.", "es": "Todos sonrieron para la foto familiar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_141",
+    "english": "family album",
+    "spanish": "álbum familiar",
+    "phonetic": "/ˈfæm.əl.i ˈæl.bəm/",
+    "examples": [
+      {"en": "She showed me her family album.", "es": "Ella me mostró su álbum familiar."},
+      {"en": "The family album is full of old memories.", "es": "El álbum familiar está lleno de recuerdos antiguos."},
+      {"en": "He added new pictures to the family album.", "es": "Él añadió nuevas fotos al álbum familiar."},
+      {"en": "They look through the family album every year.", "es": "Revisan el álbum familiar cada año."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_142",
+    "english": "family name",
+    "spanish": "apellido familiar",
+    "phonetic": "/ˈfæm.əl.i neɪm/",
+    "examples": [
+      {"en": "Her family name is García.", "es": "Su apellido familiar es García."},
+      {"en": "He changed his family name after adoption.", "es": "Él cambió su apellido familiar después de la adopción."},
+      {"en": "The family name has been passed down for generations.", "es": "El apellido familiar se ha transmitido durante generaciones."},
+      {"en": "In some cultures, the family name comes first.", "es": "En algunas culturas, el apellido familiar va primero."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_143",
+    "english": "maiden name",
+    "spanish": "apellido de soltera",
+    "phonetic": "/ˈmeɪ.dən neɪm/",
+    "examples": [
+      {"en": "Her maiden name was López.", "es": "Su apellido de soltera era López."},
+      {"en": "She kept her maiden name after marriage.", "es": "Ella conservó su apellido de soltera después del matrimonio."},
+      {"en": "He found records under her maiden name.", "es": "Él encontró registros con su apellido de soltera."},
+      {"en": "Some women use both their maiden name and married name.", "es": "Algunas mujeres usan tanto su apellido de soltera como el de casada."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_144",
+    "english": "married name",
+    "spanish": "apellido de casada",
+    "phonetic": "/ˈmer.id neɪm/",
+    "examples": [
+      {"en": "She uses her married name professionally.", "es": "Ella usa su apellido de casada profesionalmente."},
+      {"en": "His wife changed her married name legally.", "es": "Su esposa cambió legalmente su apellido de casada."},
+      {"en": "The document lists her married name.", "es": "El documento incluye su apellido de casada."},
+      {"en": "Not all women take a married name.", "es": "No todas las mujeres adoptan un apellido de casada."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_145",
+    "english": "birth certificate",
+    "spanish": "acta de nacimiento",
+    "phonetic": "/ˈbɝːθ sərˈtɪf.ɪ.kət/",
+    "examples": [
+      {"en": "He needed his birth certificate to apply for a passport.", "es": "Necesitaba su acta de nacimiento para solicitar un pasaporte."},
+      {"en": "The birth certificate lists both parents’ names.", "es": "El acta de nacimiento incluye los nombres de ambos padres."},
+      {"en": "She ordered a copy of her birth certificate online.", "es": "Ella pidió una copia de su acta de nacimiento en línea."},
+      {"en": "The birth certificate is an important family document.", "es": "El acta de nacimiento es un documento familiar importante."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_146",
+    "english": "marriage certificate",
+    "spanish": "acta de matrimonio",
+    "phonetic": "/ˈmer.idʒ sərˈtɪf.ɪ.kət/",
+    "examples": [
+      {"en": "They framed their marriage certificate.", "es": "Enmarcaron su acta de matrimonio."},
+      {"en": "The marriage certificate proves they are legally married.", "es": "El acta de matrimonio prueba que están legalmente casados."},
+      {"en": "She filed for divorce and needed the marriage certificate.", "es": "Ella solicitó el divorcio y necesitaba el acta de matrimonio."},
+      {"en": "The marriage certificate includes the wedding date.", "es": "El acta de matrimonio incluye la fecha de la boda."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_147",
+    "english": "divorce decree",
+    "spanish": "sentencia de divorcio",
+    "phonetic": "/dɪˈvɔːrs dɪˈkriː/",
+    "examples": [
+      {"en": "The divorce decree was finalized last month.", "es": "La sentencia de divorcio se finalizó el mes pasado."},
+      {"en": "He received a copy of the divorce decree.", "es": "Él recibió una copia de la sentencia de divorcio."},
+      {"en": "The divorce decree includes custody arrangements.", "es": "La sentencia de divorcio incluye acuerdos de custodia."},
+      {"en": "She kept the divorce decree in a safe place.", "es": "Ella guardó la sentencia de divorcio en un lugar seguro."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_148",
+    "english": "will",
+    "spanish": "testamento",
+    "phonetic": "/wɪl/",
+    "examples": [
+      {"en": "He updated his will after his children were born.", "es": "Él actualizó su testamento después de que nacieron sus hijos."},
+      {"en": "The will names her son as the main heir.", "es": "El testamento nombra a su hijo como heredero principal."},
+      {"en": "They read the will after the funeral.", "es": "Leyeron el testamento después del funeral."},
+      {"en": "A lawyer helped him write his will.", "es": "Un abogado le ayudó a redactar su testamento."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_149",
+    "english": "estate",
+    "spanish": "herencia / patrimonio",
+    "phonetic": "/ɪˈsteɪt/",
+    "examples": [
+      {"en": "The estate was divided among the children.", "es": "La herencia se dividió entre los hijos."},
+      {"en": "He left his entire estate to charity.", "es": "Él dejó todo su patrimonio a la caridad."},
+      {"en": "The lawyer manages the family estate.", "es": "El abogado gestiona el patrimonio familiar."},
+      {"en": "The estate includes land, houses, and money.", "es": "La herencia incluye tierras, casas y dinero."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_150",
+    "english": "trust fund",
+    "spanish": "fondo fiduciario",
+    "phonetic": "/ˈtrʌst ˌfʌnd/",
+    "examples": [
+      {"en": "Her grandparents set up a trust fund for her.", "es": "Sus abuelos crearon un fondo fiduciario para ella."},
+      {"en": "The trust fund pays for his college tuition.", "es": "El fondo fiduciario paga su matrícula universitaria."},
+      {"en": "He won’t get access to the trust fund until he’s 25.", "es": "No tendrá acceso al fondo fiduciario hasta los 25 años."},
+      {"en": "The trust fund is managed by a bank.", "es": "El fondo fiduciario lo gestiona un banco."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_151",
+    "english": "co-parenting",
+    "spanish": "coparentalidad",
+    "phonetic": "/ˌkoʊˈper.ən.tɪŋ/",
+    "examples": [
+      {"en": "They practice co-parenting after the divorce.", "es": "Practican la coparentalidad después del divorcio."},
+      {"en": "Co-parenting requires good communication.", "es": "La coparentalidad requiere buena comunicación."},
+      {"en": "She and her ex-husband share co-parenting duties.", "es": "Ella y su exesposo comparten las responsabilidades de coparentalidad."},
+      {"en": "Co-parenting benefits the children.", "es": "La coparentalidad beneficia a los hijos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_152",
+    "english": "joint custody",
+    "spanish": "custodia compartida",
+    "phonetic": "/ˌdʒɔɪnt ˈkʌs.tə.di/",
+    "examples": [
+      {"en": "They have joint custody of their daughter.", "es": "Tienen custodia compartida de su hija."},
+      {"en": "Joint custody means both parents share time.", "es": "La custodia compartida significa que ambos padres comparten el tiempo."},
+      {"en": "The court awarded joint custody.", "es": "El tribunal otorgó custodia compartida."},
+      {"en": "Joint custody works well for their family.", "es": "La custodia compartida funciona bien para su familia."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_153",
+    "english": "sole custody",
+    "spanish": "custodia exclusiva",
+    "phonetic": "/ˌsoʊl ˈkʌs.tə.di/",
+    "examples": [
+      {"en": "She was granted sole custody of the children.", "es": "Se le otorgó la custodia exclusiva de los hijos."},
+      {"en": "Sole custody means one parent has full legal rights.", "es": "La custodia exclusiva significa que un padre tiene todos los derechos legales."},
+      {"en": "He fought for sole custody in court.", "es": "Él luchó por la custodia exclusiva en los tribunales."},
+      {"en": "The judge decided on sole custody for safety reasons.", "es": "El juez decidió la custodia exclusiva por razones de seguridad."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_154",
+    "english": "child support",
+    "spanish": "pensión alimenticia",
+    "phonetic": "/ˈtʃaɪld səˈpɔːrt/",
+    "examples": [
+      {"en": "He pays child support every month.", "es": "Él paga la pensión alimenticia cada mes."},
+      {"en": "Child support helps cover the kids’ expenses.", "es": "La pensión alimenticia ayuda a cubrir los gastos de los niños."},
+      {"en": "She receives child support from her ex-husband.", "es": "Ella recibe pensión alimenticia de su exesposo."},
+      {"en": "The court ordered child support payments.", "es": "El tribunal ordenó pagos de pensión alimenticia."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_155",
+    "english": "alimony",
+    "spanish": "pensión compensatoria",
+    "phonetic": "/ˈæl.ə.mə.ni/",
+    "examples": [
+      {"en": "He pays alimony to his ex-wife.", "es": "Él paga pensión compensatoria a su exesposa."},
+      {"en": "The alimony was part of the divorce settlement.", "es": "La pensión compensatoria fue parte del acuerdo de divorcio."},
+      {"en": "She receives alimony for five years.", "es": "Ella recibe pensión compensatoria durante cinco años."},
+      {"en": "Alimony helps maintain the standard of living after divorce.", "es": "La pensión compensatoria ayuda a mantener el nivel de vida tras el divorcio."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_156",
+    "english": "engagement",
+    "spanish": "compromiso",
+    "phonetic": "/ɪnˈɡeɪdʒ.mənt/",
+    "examples": [
+      {"en": "Their engagement lasted one year.", "es": "Su compromiso duró un año."},
+      {"en": "She showed off her engagement ring.", "es": "Ella mostró su anillo de compromiso."},
+      {"en": "They announced their engagement on social media.", "es": "Anunciaron su compromiso en redes sociales."},
+      {"en": "The engagement party was beautiful.", "es": "La fiesta de compromiso fue hermosa."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_157",
+    "english": "wedding",
+    "spanish": "boda",
+    "phonetic": "/ˈwed.ɪŋ/",
+    "examples": [
+      {"en": "Their wedding was held at the beach.", "es": "Su boda se celebró en la playa."},
+      {"en": "She cried during the wedding ceremony.", "es": "Ella lloró durante la ceremonia de boda."},
+      {"en": "They invited 200 guests to their wedding.", "es": "Invitaron a 200 invitados a su boda."},
+      {"en": "The wedding photos turned out beautifully.", "es": "Las fotos de la boda quedaron hermosas."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_158",
+    "english": "anniversary",
+    "spanish": "aniversario",
+    "phonetic": "/ˌæn.ɪˈvɝː.sər.i/",
+    "examples": [
+      {"en": "They celebrated their 25th wedding anniversary.", "es": "Celebraron su 25 aniversario de bodas."},
+      {"en": "He forgot their anniversary again.", "es": "Él olvidó su aniversario otra vez."},
+      {"en": "They go on a trip every anniversary.", "es": "Hacen un viaje cada aniversario."},
+      {"en": "The family threw a party for their parents’ anniversary.", "es": "La familia organizó una fiesta por el aniversario de sus padres."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_159",
+    "english": "honeymoon",
+    "spanish": "luna de miel",
+    "phonetic": "/ˈhʌn.i.muːn/",
+    "examples": [
+      {"en": "They went to Hawaii for their honeymoon.", "es": "Fueron a Hawái para su luna de miel."},
+      {"en": "The honeymoon was relaxing and romantic.", "es": "La luna de miel fue relajante y romántica."},
+      {"en": "After the wedding, they left for their honeymoon.", "es": "Después de la boda, se fueron de luna de miel."},
+      {"en": "She saved photos from their honeymoon.", "es": "Ella guardó fotos de su luna de miel."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_160",
+    "english": "baby shower",
+    "spanish": "baby shower",
+    "phonetic": "/ˈbeɪ.bi ˌʃaʊ.ɚ/",
+    "examples": [
+      {"en": "They threw a baby shower for their daughter.", "es": "Organizaron un baby shower para su hija."},
+      {"en": "She received many gifts at her baby shower.", "es": "Ella recibió muchos regalos en su baby shower."},
+      {"en": "The baby shower was full of pink decorations.", "es": "El baby shower estaba lleno de decoraciones rosadas."},
+      {"en": "Friends and family attended the baby shower.", "es": "Amigos y familia asistieron al baby shower."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_161",
+    "english": "gender reveal",
+    "spanish": "revelación del sexo",
+    "phonetic": "/ˈdʒen.dɚ rɪˈviːl/",
+    "examples": [
+      {"en": "They had a gender reveal party with blue balloons.", "es": "Tuvieron una fiesta de revelación del sexo con globos azules."},
+      {"en": "The gender reveal surprised everyone.", "es": "La revelación del sexo sorprendió a todos."},
+      {"en": "She posted the gender reveal on Instagram.", "es": "Ella publicó la revelación del sexo en Instagram."},
+      {"en": "They cut a cake for the gender reveal.", "es": "Cortaron un pastel para la revelación del sexo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_162",
+    "english": "baptism",
+    "spanish": "bautismo",
+    "phonetic": "/ˈbæp.tɪ.zəm/",
+    "examples": [
+      {"en": "The baby’s baptism was last Sunday.", "es": "El bautismo del bebé fue el domingo pasado."},
+      {"en": "They chose godparents for the baptism.", "es": "Ellos eligieron padrinos para el bautismo."},
+      {"en": "She wore a white dress to her baptism.", "es": "Ella llevó un vestido blanco a su bautismo."},
+      {"en": "The whole family attended the baptism.", "es": "Toda la familia asistió al bautismo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_163",
+    "english": "christening",
+    "spanish": "bautizo",
+    "phonetic": "/ˈkrɪs.nɪŋ/",
+    "examples": [
+      {"en": "His christening was in the old church.", "es": "Su bautizo fue en la iglesia antigua."},
+      {"en": "They saved the christening gown as a keepsake.", "es": "Guardaron la túnica de bautizo como recuerdo."},
+      {"en": "The christening was followed by a family lunch.", "es": "El bautizo fue seguido por un almuerzo familiar."},
+      {"en": "She was the first in her family to have a christening.", "es": "Ella fue la primera en su familia en tener un bautizo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_164",
+    "english": "bar mitzvah",
+    "spanish": "bar mitzvah",
+    "phonetic": "/ˌbɑːr ˈmɪt.zvə/",
+    "examples": [
+      {"en": "His bar mitzvah was a big celebration.", "es": "Su bar mitzvah fue una gran celebración."},
+      {"en": "He studied for months before his bar mitzvah.", "es": "Él estudió durante meses antes de su bar mitzvah."},
+      {"en": "The family traveled from all over for the bar mitzvah.", "es": "La familia viajó desde todas partes para el bar mitzvah."},
+      {"en": "At 13, he had his bar mitzvah.", "es": "A los 13 años, tuvo su bar mitzvah."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_165",
+    "english": "bat mitzvah",
+    "spanish": "bat mitzvah",
+    "phonetic": "/ˌbæt ˈmɪt.zvə/",
+    "examples": [
+      {"en": "Her bat mitzvah was held at the synagogue.", "es": "Su bat mitzvah se celebró en la sinagoga."},
+      {"en": "She read from the Torah at her bat mitzvah.", "es": "Ella leyó de la Torá en su bat mitzvah."},
+      {"en": "The bat mitzvah party had dancing and music.", "es": "La fiesta de bat mitzvah tuvo baile y música."},
+      {"en": "At 12, she celebrated her bat mitzvah.", "es": "A los 12 años, celebró su bat mitzvah."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_166",
+    "english": "quinceañera",
+    "spanish": "quinceañera",
+    "phonetic": "/ˌkiːn.seɪˈæn.jeɪ.rə/",
+    "examples": [
+      {"en": "Her quinceañera was a beautiful celebration.", "es": "Su quinceañera fue una celebración hermosa."},
+      {"en": "They spent a year planning the quinceañera.", "es": "Pasaron un año planeando la quinceañera."},
+      {"en": "The quinceañera wore a pink gown.", "es": "La quinceañera llevaba un vestido rosa."},
+      {"en": "Family and friends came from all over for the quinceañera.", "es": "Familia y amigos vinieron de todas partes para la quinceañera."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_167",
+    "english": "coming-of-age",
+    "spanish": "mayoría de edad / ceremonia de paso",
+    "phonetic": "/ˌkʌm.ɪŋ əv ˈeɪdʒ/",
+    "examples": [
+      {"en": "The coming-of-age ceremony marks adulthood.", "es": "La ceremonia de paso marca la adultez."},
+      {"en": "In Japan, they celebrate coming-of-age at 20.", "es": "En Japón, celebran la mayoría de edad a los 20 años."},
+      {"en": "His coming-of-age was celebrated with a party.", "es": "Su mayoría de edad se celebró con una fiesta."},
+      {"en": "Coming-of-age traditions vary by culture.", "es": "Las tradiciones de mayoría de edad varían según la cultura."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_168",
+    "english": "funeral",
+    "spanish": "funeral",
+    "phonetic": "/ˈfjuː.nɚ.əl/",
+    "examples": [
+      {"en": "The whole family attended the funeral.", "es": "Toda la familia asistió al funeral."},
+      {"en": "She gave a eulogy at her father’s funeral.", "es": "Ella dio un discurso fúnebre en el funeral de su padre."},
+      {"en": "The funeral was held at the church.", "es": "El funeral se celebró en la iglesia."},
+      {"en": "They wore black to the funeral.", "es": "Llevaron ropa negra al funeral."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_169",
+    "english": "memorial service",
+    "spanish": "servicio conmemorativo",
+    "phonetic": "/məˈmɔː.ri.əl ˈsɝː.vɪs/",
+    "examples": [
+      {"en": "They held a memorial service in the park.", "es": "Celebraron un servicio conmemorativo en el parque."},
+      {"en": "The memorial service honored her life.", "es": "El servicio conmemorativo honró su vida."},
+      {"en": "Family shared stories at the memorial service.", "es": "La familia compartió historias en el servicio conmemorativo."},
+      {"en": "He played her favorite song at the memorial service.", "es": "Él tocó su canción favorita en el servicio conmemorativo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_170",
+    "english": "wake",
+    "spanish": "velorio",
+    "phonetic": "/weɪk/",
+    "examples": [
+      {"en": "They held a wake before the funeral.", "es": "Celebraron un velorio antes del funeral."},
+      {"en": "Friends came to the wake to pay respects.", "es": "Amigos vinieron al velorio a rendir homenaje."},
+      {"en": "The wake lasted all night.", "es": "El velorio duró toda la noche."},
+      {"en": "She stayed with the family during the wake.", "es": "Ella se quedó con la familia durante el velorio."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_171",
+    "english": "burial",
+    "spanish": "entierro",
+    "phonetic": "/ˈber.i.əl/",
+    "examples": [
+      {"en": "The burial took place at noon.", "es": "El entierro tuvo lugar al mediodía."},
+      {"en": "They chose a burial instead of cremation.", "es": "Ellos eligieron un entierro en lugar de cremación."},
+      {"en": "The family gathered at the gravesite for the burial.", "es": "La familia se reunió en la tumba para el entierro."},
+      {"en": "His burial was private.", "es": "Su entierro fue privado."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_172",
+    "english": "cremation",
+    "spanish": "cremación",
+    "phonetic": "/krɪˈmeɪ.ʃən/",
+    "examples": [
+      {"en": "They chose cremation for environmental reasons.", "es": "Ellos eligieron la cremación por razones ambientales."},
+      {"en": "Her ashes were scattered at sea after cremation.", "es": "Sus cenizas se esparcieron en el mar después de la cremación."},
+      {"en": "The cremation was followed by a memorial.", "es": "La cremación fue seguida por una ceremonia conmemorativa."},
+      {"en": "He left instructions for his cremation.", "es": "Él dejó instrucciones para su cremación."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_173",
+    "english": "ashes",
+    "spanish": "cenizas",
+    "phonetic": "/ˈæʃ.ɪz/",
+    "examples": [
+      {"en": "They kept his ashes in an urn.", "es": "Guardaron sus cenizas en una urna."},
+      {"en": "She scattered her mother’s ashes in the mountains.", "es": "Ella esparció las cenizas de su madre en las montañas."},
+      {"en": "The ashes were buried under a tree.", "es": "Las cenizas fueron enterradas bajo un árbol."},
+      {"en": "He visits the place where her ashes rest.", "es": "Él visita el lugar donde descansan sus cenizas."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_174",
+    "english": "heirloom",
+    "spanish": "reliquia familiar",
+    "phonetic": "/ˈer.lum/",
+    "examples": [
+      {"en": "The necklace is a family heirloom.", "es": "El collar es una reliquia familiar."},
+      {"en": "She inherited the heirloom from her great-grandmother.", "es": "Ella heredó la reliquia de su bisabuela."},
+      {"en": "They preserve the heirloom carefully.", "es": "Preservan la reliquia con cuidado."},
+      {"en": "This quilt is a cherished heirloom.", "es": "Esta colcha es una reliquia apreciada."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_175",
+    "english": "keepsake",
+    "spanish": "recuerdo / objeto guardado",
+    "phonetic": "/ˈkiːp.seɪk/",
+    "examples": [
+      {"en": "She keeps her baby shoes as a keepsake.", "es": "Ella guarda sus zapatos de bebé como recuerdo."},
+      {"en": "The letter is a precious keepsake.", "es": "La carta es un recuerdo precioso."},
+      {"en": "He gave her a locket as a keepsake.", "es": "Él le dio un medallón como recuerdo."},
+      {"en": "They made a photo album as a keepsake.", "es": "Hicieron un álbum de fotos como recuerdo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_176",
+    "english": "memento",
+    "spanish": "recuerdo",
+    "phonetic": "/məˈmen.toʊ/",
+    "examples": [
+      {"en": "The seashell is a memento from their vacation.", "es": "La concha es un recuerdo de sus vacaciones."},
+      {"en": "She keeps a memento of her wedding day.", "es": "Ella guarda un recuerdo de su día de boda."},
+      {"en": "He carries a memento of his father.", "es": "Él lleva un recuerdo de su padre."},
+      {"en": "The photo is a cherished memento.", "es": "La foto es un recuerdo apreciado."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_177",
+    "english": "family crest",
+    "spanish": "escudo familiar",
+    "phonetic": "/ˈfæm.əl.i krest/",
+    "examples": [
+      {"en": "Their family crest has a lion on it.", "es": "Su escudo familiar tiene un león."},
+      {"en": "He researched his family crest online.", "es": "Él investigó su escudo familiar en línea."},
+      {"en": "The family crest dates back to the 1500s.", "es": "El escudo familiar se remonta a los años 1500."},
+      {"en": "They wear rings with the family crest.", "es": "Llevan anillos con el escudo familiar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_178",
+    "english": "coat of arms",
+    "spanish": "escudo de armas",
+    "phonetic": "/ˌkoʊt əv ˈɑːrmz/",
+    "examples": [
+      {"en": "The coat of arms includes symbols of their heritage.", "es": "El escudo de armas incluye símbolos de su herencia."},
+      {"en": "His family’s coat of arms is displayed in the castle.", "es": "El escudo de armas de su familia se exhibe en el castillo."},
+      {"en": "They found their coat of arms in an old book.", "es": "Encontraron su escudo de armas en un libro antiguo."},
+      {"en": "The coat of arms represents noble ancestry.", "es": "El escudo de armas representa ascendencia noble."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_179",
+    "english": "surname",
+    "spanish": "apellido",
+    "phonetic": "/ˈsɝː.neɪm/",
+    "examples": [
+      {"en": "Her surname is difficult to pronounce.", "es": "Su apellido es difícil de pronunciar."},
+      {"en": "In Spain, people have two surnames.", "es": "En España, las personas tienen dos apellidos."},
+      {"en": "He changed his surname after marriage.", "es": "Él cambió su apellido después del matrimonio."},
+      {"en": "The surname is passed from father to child.", "es": "El apellido se transmite del padre al hijo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_180",
+    "english": "given name",
+    "spanish": "nombre de pila",
+    "phonetic": "/ˈɡɪv.ən neɪm/",
+    "examples": [
+      {"en": "Her given name is María, but she goes by Mary.", "es": "Su nombre de pila es María, pero se hace llamar Mary."},
+      {"en": "In official documents, use your given name.", "es": "En documentos oficiales, usa tu nombre de pila."},
+      {"en": "He has two given names: James Robert.", "es": "Él tiene dos nombres de pila: James Robert."},
+      {"en": "The given name comes before the surname.", "es": "El nombre de pila va antes del apellido."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_181",
+    "english": "nickname",
+    "spanish": "apodo",
+    "phonetic": "/ˈnɪk.neɪm/",
+    "examples": [
+      {"en": "His nickname is 'Speedy' because he runs fast.", "es": "Su apodo es 'Veloz' porque corre rápido."},
+      {"en": "She’s called 'Lulu' as a nickname.", "es": "La llaman 'Lulu' como apodo."},
+      {"en": "Family gave him the nickname when he was a baby.", "es": "La familia le puso el apodo cuando era bebé."},
+      {"en": "He prefers his nickname over his real name.", "es": "Él prefiere su apodo sobre su nombre real."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_182",
+    "english": "middle name",
+    "spanish": "segundo nombre",
+    "phonetic": "/ˈmɪd.əl neɪm/",
+    "examples": [
+      {"en": "His middle name is Alexander.", "es": "Su segundo nombre es Alexander."},
+      {"en": "She uses her middle name as her professional name.", "es": "Ella usa su segundo nombre como nombre profesional."},
+      {"en": "In some cultures, the middle name is the father’s name.", "es": "En algunas culturas, el segundo nombre es el nombre del padre."},
+      {"en": "He doesn’t like his middle name.", "es": "Él no le gusta su segundo nombre."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_183",
+    "english": "full name",
+    "spanish": "nombre completo",
+    "phonetic": "/ˌfʊl ˈneɪm/",
+    "examples": [
+      {"en": "Please write your full name on the form.", "es": "Por favor, escriba su nombre completo en el formulario."},
+      {"en": "Her full name is Elizabeth Anne Smith.", "es": "Su nombre completo es Elizabeth Anne Smith."},
+      {"en": "He introduced himself with his full name.", "es": "Él se presentó con su nombre completo."},
+      {"en": "The certificate shows his full name.", "es": "El certificado muestra su nombre completo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_184",
+    "english": "legal name",
+    "spanish": "nombre legal",
+    "phonetic": "/ˈliː.ɡəl neɪm/",
+    "examples": [
+      {"en": "She changed her legal name after marriage.", "es": "Ella cambió su nombre legal después del matrimonio."},
+      {"en": "Use your legal name on official documents.", "es": "Use su nombre legal en documentos oficiales."},
+      {"en": "His legal name is different from his stage name.", "es": "Su nombre legal es diferente de su nombre artístico."},
+      {"en": "The court approved his legal name change.", "es": "El tribunal aprobó su cambio de nombre legal."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_185",
+    "english": "stage name",
+    "spanish": "nombre artístico",
+    "phonetic": "/ˈsteɪdʒ neɪm/",
+    "examples": [
+      {"en": "Her stage name is Luna Star.", "es": "Su nombre artístico es Luna Star."},
+      {"en": "He uses a stage name for his music career.", "es": "Él usa un nombre artístico para su carrera musical."},
+      {"en": "The actor’s real name is different from his stage name.", "es": "El nombre real del actor es diferente de su nombre artístico."},
+      {"en": "She chose a stage name that’s easy to remember.", "es": "Ella eligió un nombre artístico fácil de recordar."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_186",
+    "english": "pen name",
+    "spanish": "seudónimo",
+    "phonetic": "/ˈpen neɪm/",
+    "examples": [
+      {"en": "The author writes under a pen name.", "es": "El autor escribe bajo un seudónimo."},
+      {"en": "Her pen name is more famous than her real name.", "es": "Su seudónimo es más famoso que su nombre real."},
+      {"en": "He chose a pen name to protect his privacy.", "es": "Él eligió un seudónimo para proteger su privacidad."},
+      {"en": "Many female writers used male pen names historically.", "es": "Muchas escritoras usaron seudónimos masculinos históricamente."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_187",
+    "english": "generation",
+    "spanish": "generación",
+    "phonetic": "/ˌdʒen.əˈreɪ.ʃən/",
+    "examples": [
+      {"en": "She is part of the younger generation.", "es": "Ella es parte de la generación más joven."},
+      {"en": "Three generations live under one roof.", "es": "Tres generaciones viven bajo el mismo techo."},
+      {"en": "The older generation has different values.", "es": "La generación mayor tiene valores diferentes."},
+      {"en": "He represents the new generation of leaders.", "es": "Él representa la nueva generación de líderes."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_188",
+    "english": "generation gap",
+    "spanish": "brecha generacional",
+    "phonetic": "/ˌdʒen.əˈreɪ.ʃən ɡæp/",
+    "examples": [
+      {"en": "The generation gap causes misunderstandings.", "es": "La brecha generacional causa malentendidos."},
+      {"en": "They try to bridge the generation gap.", "es": "Ellos intentan cerrar la brecha generacional."},
+      {"en": "Technology widens the generation gap.", "es": "La tecnología amplía la brecha generacional."},
+      {"en": "Despite the generation gap, they get along well.", "es": "A pesar de la brecha generacional, se llevan bien."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_189",
+    "english": "boomer",
+    "spanish": "baby boomer",
+    "phonetic": "/ˈbuː.mɚ/",
+    "examples": [
+      {"en": "Her parents are boomers.", "es": "Sus padres son baby boomers."},
+      {"en": "Boomers grew up in the 1950s and 60s.", "es": "Los baby boomers crecieron en los años 50 y 60."},
+      {"en": "He is a boomer who loves classic rock.", "es": "Él es un baby boomer al que le encanta el rock clásico."},
+      {"en": "The term 'boomer' refers to a specific generation.", "es": "El término 'baby boomer' se refiere a una generación específica."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_190",
+    "english": "millennial",
+    "spanish": "milenial",
+    "phonetic": "/mɪˈlen.i.əl/",
+    "examples": [
+      {"en": "She is a millennial who works remotely.", "es": "Ella es una milenial que trabaja de forma remota."},
+      {"en": "Millennials value work-life balance.", "es": "Los mileniales valoran el equilibrio entre trabajo y vida."},
+      {"en": "He is a millennial parent.", "es": "Él es un padre milenial."},
+      {"en": "Many millennials live with their parents longer.", "es": "Muchos mileniales viven con sus padres más tiempo."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_191",
+    "english": "Gen Z",
+    "spanish": "Generación Z",
+    "phonetic": "/ˌdʒen ˈziː/",
+    "examples": [
+      {"en": "Her daughter is part of Gen Z.", "es": "Su hija es parte de la Generación Z."},
+      {"en": "Gen Z is tech-savvy and socially conscious.", "es": "La Generación Z es hábil con la tecnología y consciente socialmente."},
+      {"en": "He teaches Gen Z students.", "es": "Él enseña a estudiantes de la Generación Z."},
+      {"en": "Gen Z prefers short-form video content.", "es": "La Generación Z prefiere contenido de video corto."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_192",
+    "english": "Gen Alpha",
+    "spanish": "Generación Alfa",
+    "phonetic": "/ˌdʒen ˈæl.fə/",
+    "examples": [
+      {"en": "Their son is part of Gen Alpha.", "es": "Su hijo es parte de la Generación Alfa."},
+      {"en": "Gen Alpha is the first generation born entirely in the 21st century.", "es": "La Generación Alfa es la primera generación nacida completamente en el siglo XXI."},
+      {"en": "Gen Alpha grows up with AI and smart devices.", "es": "La Generación Alfa crece con IA y dispositivos inteligentes."},
+      {"en": "She studies trends among Gen Alpha children.", "es": "Ella estudia tendencias entre los niños de la Generación Alfa."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_193",
+    "english": "empty nest",
+    "spanish": "nido vacío",
+    "phonetic": "/ˈem.p.ti nest/",
+    "examples": [
+      {"en": "They’re experiencing empty nest syndrome.", "es": "Están experimentando el síndrome del nido vacío."},
+      {"en": "After the kids left, they had an empty nest.", "es": "Después de que los hijos se fueron, tuvieron un nido vacío."},
+      {"en": "Empty nest gave them time to travel.", "es": "El nido vacío les dio tiempo para viajar."},
+      {"en": "She felt sad about the empty nest.", "es": "Ella se sintió triste por el nido vacío."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_194",
+    "english": "boomerang child",
+    "spanish": "hijo boomerang",
+    "phonetic": "/ˈbuː.mɚ.æŋ tʃaɪld/",
+    "examples": [
+      {"en": "Their boomerang child moved back home after college.", "es": "Su hijo boomerang regresó a casa después de la universidad."},
+      {"en": "Boomerang children are common in tough economies.", "es": "Los hijos boomerang son comunes en economías difíciles."},
+      {"en": "He is a boomerang child saving for a house.", "es": "Él es un hijo boomerang ahorrando para una casa."},
+      {"en": "They welcome their boomerang child with open arms.", "es": "Ellos dan la bienvenida a su hijo boomerang con los brazos abiertos."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_195",
+    "english": "sandwich generation",
+    "spanish": "generación sándwich",
+    "phonetic": "/ˈsæn.dwɪtʃ ˌdʒen.əˈreɪ.ʃən/",
+    "examples": [
+      {"en": "She is part of the sandwich generation—caring for kids and parents.", "es": "Ella es parte de la generación sándwich: cuida a sus hijos y a sus padres."},
+      {"en": "The sandwich generation faces financial pressure.", "es": "La generación sándwich enfrenta presión financiera."},
+      {"en": "He supports his children and his aging mother.", "es": "Él apoya a sus hijos y a su madre anciana."},
+      {"en": "Many in the sandwich generation feel overwhelmed.", "es": "Muchos en la generación sándwich se sienten abrumados."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_196",
+    "english": "caregiver",
+    "spanish": "cuidador / cuidadora",
+    "phonetic": "/ˈker.ɡɪv.ɚ/",
+    "examples": [
+      {"en": "She is the primary caregiver for her father.", "es": "Ella es la cuidadora principal de su padre."},
+      {"en": "He became a caregiver after his wife got sick.", "es": "Él se convirtió en cuidador después de que su esposa enfermó."},
+      {"en": "Caregivers often sacrifice their own needs.", "es": "Los cuidadores a menudo sacrifican sus propias necesidades."},
+      {"en": "They hired a professional caregiver.", "es": "Contrataron a un cuidador profesional."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_197",
+    "english": "elder care",
+    "spanish": "cuidado de ancianos",
+    "phonetic": "/ˈel.dɚ ker/",
+    "examples": [
+      {"en": "They provide elder care at home.", "es": "Ellos brindan cuidado de ancianos en casa."},
+      {"en": "Elder care includes medical and emotional support.", "es": "El cuidado de ancianos incluye apoyo médico y emocional."},
+      {"en": "She works in elder care.", "es": "Ella trabaja en el cuidado de ancianos."},
+      {"en": "They researched elder care options for their mother.", "es": "Investigaron opciones de cuidado de ancianos para su madre."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_198",
+    "english": "childcare",
+    "spanish": "cuidado infantil",
+    "phonetic": "/ˈtʃaɪld.ker/",
+    "examples": [
+      {"en": "They pay for childcare while they work.", "es": "Ellos pagan por el cuidado infantil mientras trabajan."},
+      {"en": "Good childcare is essential for working parents.", "es": "El cuidado infantil de calidad es esencial para padres que trabajan."},
+      {"en": "She provides childcare for her neighbors.", "es": "Ella brinda cuidado infantil a sus vecinos."},
+      {"en": "The government offers childcare subsidies.", "es": "El gobierno ofrece subsidios para el cuidado infantil."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_199",
+    "english": "homeschooling",
+    "spanish": "educación en casa",
+    "phonetic": "/ˌhoʊmˈskuː.lɪŋ/",
+    "examples": [
+      {"en": "They chose homeschooling for their children.", "es": "Ellos eligieron la educación en casa para sus hijos."},
+      {"en": "Homeschooling requires dedication and time.", "es": "La educación en casa requiere dedicación y tiempo."},
+      {"en": "She teaches math during homeschooling.", "es": "Ella enseña matemáticas durante la educación en casa."},
+      {"en": "Homeschooling has become more popular recently.", "es": "La educación en casa se ha vuelto más popular recientemente."}
+    ],
+    "category": "Family"
+  },
+  {
+    "id": "fam_200",
+    "english": "family leave",
+    "spanish": "licencia familiar",
+    "phonetic": "/ˈfæm.əl.i liːv/",
+    "examples": [
+      {"en": "He took family leave when his child was born.", "es": "Él tomó licencia familiar cuando nació su hijo."},
+      {"en": "The company offers paid family leave.", "es": "La empresa ofrece licencia familiar pagada."},
+      {"en": "She used family leave to care for her sick mother.", "es": "Ella usó la licencia familiar para cuidar a su madre enferma."},
+      {"en": "Family leave helps parents bond with newborns.", "es": "La licencia familiar ayuda a los padres a crear vínculos con sus recién nacidos."}
+    ],
+    "category": "Family"
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "tech_1",
+    "english": "phone",
+    "spanish": "teléfono",
+    "phonetic": "/foʊn/",
+    "examples": [
+      {"en": "I lost my phone yesterday.", "es": "Perdí mi teléfono ayer."},
+      {"en": "Please turn off your phone.", "es": "Por favor, apaga tu teléfono."},
+      {"en": "He called me on his new phone.", "es": "Él me llamó desde su teléfono nuevo."},
+      {"en": "My phone battery died.", "es": "La batería de mi teléfono se agotó."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_2",
+    "english": "smartphone",
+    "spanish": "teléfono inteligente",
+    "phonetic": "/ˈsmɑːrt.foʊn/",
+    "examples": [
+      {"en": "She uses her smartphone for everything.", "es": "Ella usa su teléfono inteligente para todo."},
+      {"en": "The new smartphone has a better camera.", "es": "El nuevo teléfono inteligente tiene una cámara mejor."},
+      {"en": "He dropped his smartphone and cracked the screen.", "es": "Él dejó caer su teléfono inteligente y se le agrietó la pantalla."},
+      {"en": "Smartphones connect to the internet via Wi-Fi or cellular data.", "es": "Los teléfonos inteligentes se conectan a internet mediante Wi-Fi o datos móviles."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_3",
+    "english": "computer",
+    "spanish": "computadora",
+    "phonetic": "/kəmˈpjuː.t̬ɚ/",
+    "examples": [
+      {"en": "I work on my computer every day.", "es": "Trabajo en mi computadora todos los días."},
+      {"en": "The computer crashed during the presentation.", "es": "La computadora se bloqueó durante la presentación."},
+      {"en": "She bought a new computer for college.", "es": "Ella compró una computadora nueva para la universidad."},
+      {"en": "Computers store data on hard drives or SSDs.", "es": "Las computadoras almacenan datos en discos duros o SSD."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_4",
+    "english": "laptop",
+    "spanish": "computadora portátil",
+    "phonetic": "/ˈlæp.tɑːp/",
+    "examples": [
+      {"en": "He takes his laptop to work every day.", "es": "Él lleva su computadora portátil al trabajo todos los días."},
+      {"en": "The laptop battery lasts eight hours.", "es": "La batería de la computadora portátil dura ocho horas."},
+      {"en": "She spilled coffee on her laptop.", "es": "Ella derramó café en su computadora portátil."},
+      {"en": "Laptops are portable and powerful.", "es": "Las computadoras portátiles son portátiles y potentes."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_5",
+    "english": "tablet",
+    "spanish": "tableta",
+    "phonetic": "/ˈtæb.lət/",
+    "examples": [
+      {"en": "She reads books on her tablet.", "es": "Ella lee libros en su tableta."},
+      {"en": "The tablet has a 10-inch screen.", "es": "La tableta tiene una pantalla de 10 pulgadas."},
+      {"en": "He uses a tablet for digital drawing.", "es": "Él usa una tableta para dibujo digital."},
+      {"en": "Tablets are great for watching videos.", "es": "Las tabletas son geniales para ver videos."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_6",
+    "english": "desktop",
+    "spanish": "computadora de escritorio",
+    "phonetic": "/ˈdes.ktɑːp/",
+    "examples": [
+      {"en": "He prefers a desktop for gaming.", "es": "Él prefiere una computadora de escritorio para jugar."},
+      {"en": "The desktop has a large monitor and keyboard.", "es": "La computadora de escritorio tiene un monitor grande y un teclado."},
+      {"en": "She upgraded her desktop with more RAM.", "es": "Ella actualizó su computadora de escritorio con más RAM."},
+      {"en": "Desktops are less portable but more powerful than laptops.", "es": "Las computadoras de escritorio son menos portátiles pero más potentes que las portátiles."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_7",
+    "english": "screen",
+    "spanish": "pantalla",
+    "phonetic": "/skriːn/",
+    "examples": [
+      {"en": "The screen is cracked—needs repair.", "es": "La pantalla está agrietada: necesita reparación."},
+      {"en": "She adjusted the brightness of her screen.", "es": "Ella ajustó el brillo de su pantalla."},
+      {"en": "His phone has a 6.5-inch screen.", "es": "Su teléfono tiene una pantalla de 6.5 pulgadas."},
+      {"en": "OLED screens have better contrast.", "es": "Las pantallas OLED tienen mejor contraste."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_8",
+    "english": "battery",
+    "spanish": "batería",
+    "phonetic": "/ˈbæt̬.ɚ.i/",
+    "examples": [
+      {"en": "My phone battery lasts all day.", "es": "La batería de mi teléfono dura todo el día."},
+      {"en": "He replaced the laptop battery.", "es": "Él reemplazó la batería de la computadora portátil."},
+      {"en": "Lithium-ion batteries are common in devices.", "es": "Las baterías de iones de litio son comunes en dispositivos."},
+      {"en": "Don’t leave your device in extreme heat—it damages the battery.", "es": "No dejes tu dispositivo en calor extremo: daña la batería."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_9",
+    "english": "charger",
+    "spanish": "cargador",
+    "phonetic": "/ˈtʃɑːr.dʒɚ/",
+    "examples": [
+      {"en": "I forgot my phone charger at home.", "es": "Olvidé mi cargador de teléfono en casa."},
+      {"en": "She uses a wireless charger for her phone.", "es": "Ella usa un cargador inalámbrico para su teléfono."},
+      {"en": "The charger is USB-C compatible.", "es": "El cargador es compatible con USB-C."},
+      {"en": "Fast chargers reduce charging time significantly.", "es": "Los cargadores rápidos reducen significativamente el tiempo de carga."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_10",
+    "english": "cable",
+    "spanish": "cable",
+    "phonetic": "/ˈkeɪ.bəl/",
+    "examples": [
+      {"en": "The charging cable is tangled.", "es": "El cable de carga está enredado."},
+      {"en": "He bought a longer HDMI cable for his TV.", "es": "Él compró un cable HDMI más largo para su televisor."},
+      {"en": "USB cables transfer data and power.", "es": "Los cables USB transfieren datos y energía."},
+      {"en": "Keep spare cables in your bag.", "es": "Guarda cables de repuesto en tu bolso."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_11",
+    "english": "headphones",
+    "spanish": "audífonos",
+    "phonetic": "/ˈhed.fəʊnz/",
+    "examples": [
+      {"en": "She listens to music with wireless headphones.", "es": "Ella escucha música con audífonos inalámbricos."},
+      {"en": "Noise-canceling headphones block outside sound.", "es": "Los audífonos con cancelación de ruido bloquean el sonido exterior."},
+      {"en": "He lost one earbud from his headphones.", "es": "Él perdió un auricular de sus audífonos."},
+      {"en": "Gaming headphones often include a microphone.", "es": "Los audífonos para juegos suelen incluir un micrófono."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_12",
+    "english": "speaker",
+    "spanish": "altavoz",
+    "phonetic": "/ˈspiː.kɚ/",
+    "examples": [
+      {"en": "The Bluetooth speaker is portable.", "es": "El altavoz Bluetooth es portátil."},
+      {"en": "She connected her phone to the speaker.", "es": "Ella conectó su teléfono al altavoz."},
+      {"en": "Smart speakers can play music and answer questions.", "es": "Los altavoces inteligentes pueden reproducir música y responder preguntas."},
+      {"en": "He bought a waterproof speaker for the beach.", "es": "Él compró un altavoz resistente al agua para la playa."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_13",
+    "english": "microphone",
+    "spanish": "micrófono",
+    "phonetic": "/ˈmaɪ.krə.foʊn/",
+    "examples": [
+      {"en": "The microphone picks up voice clearly.", "es": "El micrófono capta la voz con claridad."},
+      {"en": "She uses an external microphone for her podcast.", "es": "Ella usa un micrófono externo para su podcast."},
+      {"en": "His laptop has a built-in microphone.", "es": "Su computadora portátil tiene un micrófono integrado."},
+      {"en": "Professional microphones reduce background noise.", "es": "Los micrófonos profesionales reducen el ruido de fondo."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_14",
+    "english": "webcam",
+    "spanish": "cámara web",
+    "phonetic": "/ˈweb.kæm/",
+    "examples": [
+      {"en": "He turned on his webcam for the meeting.", "es": "Él encendió su cámara web para la reunión."},
+      {"en": "The webcam has 1080p resolution.", "es": "La cámara web tiene resolución 1080p."},
+      {"en": "She bought an external webcam for better quality.", "es": "Ella compró una cámara web externa para mejor calidad."},
+      {"en": "Many laptops have built-in webcams.", "es": "Muchas computadoras portátiles tienen cámaras web integradas."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_15",
+    "english": "keyboard",
+    "spanish": "teclado",
+    "phonetic": "/ˈkiː.bɔːrd/",
+    "examples": [
+      {"en": "He cleaned the dust from his keyboard.", "es": "Él limpió el polvo de su teclado."},
+      {"en": "Mechanical keyboards are popular with gamers.", "es": "Los teclados mecánicos son populares entre los jugadores."},
+      {"en": "She uses a wireless keyboard with her tablet.", "es": "Ella usa un teclado inalámbrico con su tableta."},
+      {"en": "The keyboard layout is QWERTY.", "es": "La distribución del teclado es QWERTY."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_16",
+    "english": "mouse",
+    "spanish": "ratón",
+    "phonetic": "/maʊs/",
+    "examples": [
+      {"en": "The wireless mouse needs new batteries.", "es": "El ratón inalámbrico necesita pilas nuevas."},
+      {"en": "She prefers an ergonomic mouse for long work sessions.", "es": "Ella prefiere un ratón ergonómico para sesiones largas de trabajo."},
+      {"en": "He uses a gaming mouse with extra buttons.", "es": "Él usa un ratón para juegos con botones extra."},
+      {"en": "Optical mice track movement more accurately.", "es": "Los ratones ópticos rastrean el movimiento con mayor precisión."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_17",
+    "english": "monitor",
+    "spanish": "monitor",
+    "phonetic": "/ˈmɑː.nɪ.t̬ɚ/",
+    "examples": [
+      {"en": "He has a dual-monitor setup for work.", "es": "Él tiene una configuración de doble monitor para trabajar."},
+      {"en": "The monitor resolution is 4K.", "es": "La resolución del monitor es 4K."},
+      {"en": "She adjusted the monitor height for better posture.", "es": "Ella ajustó la altura del monitor para una mejor postura."},
+      {"en": "Curved monitors provide immersive viewing.", "es": "Los monitores curvos ofrecen una visualización inmersiva."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_18",
+    "english": "printer",
+    "spanish": "impresora",
+    "phonetic": "/ˈprɪn.t̬ɚ/",
+    "examples": [
+      {"en": "The printer ran out of ink.", "es": "La impresora se quedó sin tinta."},
+      {"en": "She printed the document in color.", "es": "Ella imprimió el documento a color."},
+      {"en": "He uses a wireless printer at home.", "es": "Él usa una impresora inalámbrica en casa."},
+      {"en": "Laser printers are faster than inkjet printers.", "es": "Las impresoras láser son más rápidas que las de inyección de tinta."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_19",
+    "english": "scanner",
+    "spanish": "escáner",
+    "phonetic": "/ˈskæn.ɚ/",
+    "examples": [
+      {"en": "She scanned the document and emailed it.", "es": "Ella escaneó el documento y lo envió por correo."},
+      {"en": "The scanner creates high-resolution digital copies.", "es": "El escáner crea copias digitales de alta resolución."},
+      {"en": "He uses a portable scanner for receipts.", "es": "Él usa un escáner portátil para recibos."},
+      {"en": "Flatbed scanners are common in offices.", "es": "Los escáneres de cama plana son comunes en oficinas."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_20",
+    "english": "router",
+    "spanish": "enrutador",
+    "phonetic": "/ˈruː.t̬ɚ/",
+    "examples": [
+      {"en": "The Wi-Fi router is in the living room.", "es": "El enrutador Wi-Fi está en la sala."},
+      {"en": "She reset the router to fix the internet.", "es": "Ella reinició el enrutador para arreglar el internet."},
+      {"en": "Dual-band routers offer better performance.", "es": "Los enrutadores de doble banda ofrecen mejor rendimiento."},
+      {"en": "He upgraded to a mesh router system.", "es": "Él actualizó a un sistema de enrutador en malla."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_21",
+    "english": "modem",
+    "spanish": "módem",
+    "phonetic": "/ˈmoʊ.dem/",
+    "examples": [
+      {"en": "The modem connects to the internet service provider.", "es": "El módem se conecta al proveedor de servicios de internet."},
+      {"en": "She replaced the old modem with a new one.", "es": "Ella reemplazó el módem viejo con uno nuevo."},
+      {"en": "Modems and routers are sometimes combined in one device.", "es": "Los módems y enrutadores a veces se combinan en un solo dispositivo."},
+      {"en": "His modem light is blinking red—there’s a problem.", "es": "La luz de su módem parpadea en rojo: hay un problema."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_22",
+    "english": "Wi-Fi",
+    "spanish": "Wi-Fi",
+    "phonetic": "/ˈwaɪ.faɪ/",
+    "examples": [
+      {"en": "The café offers free Wi-Fi to customers.", "es": "El café ofrece Wi-Fi gratis a los clientes."},
+      {"en": "She connected her phone to the Wi-Fi network.", "es": "Ella conectó su teléfono a la red Wi-Fi."},
+      {"en": "Wi-Fi signals can be blocked by walls.", "es": "Las señales Wi-Fi pueden ser bloqueadas por paredes."},
+      {"en": "He changed the Wi-Fi password for security.", "es": "Él cambió la contraseña del Wi-Fi por seguridad."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_23",
+    "english": "internet",
+    "spanish": "internet",
+    "phonetic": "/ˈɪn.t̬ɚ.net/",
+    "examples": [
+      {"en": "The internet is down in our neighborhood.", "es": "El internet está caído en nuestro vecindario."},
+      {"en": "She uses the internet for research and shopping.", "es": "Ella usa internet para investigar y comprar."},
+      {"en": "High-speed internet is essential for remote work.", "es": "El internet de alta velocidad es esencial para el trabajo remoto."},
+      {"en": "He pays for internet service monthly.", "es": "Él paga el servicio de internet mensualmente."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_24",
+    "english": "browser",
+    "spanish": "navegador",
+    "phonetic": "/ˈbraʊ.zɚ/",
+    "examples": [
+      {"en": "She uses Chrome as her default browser.", "es": "Ella usa Chrome como su navegador predeterminado."},
+      {"en": "Clear your browser cache to fix loading issues.", "es": "Limpia la caché de tu navegador para arreglar problemas de carga."},
+      {"en": "He has ten tabs open in his browser.", "es": "Él tiene diez pestañas abiertas en su navegador."},
+      {"en": "Firefox is a privacy-focused browser.", "es": "Firefox es un navegador enfocado en la privacidad."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_25",
+    "english": "website",
+    "spanish": "sitio web",
+    "phonetic": "/ˈweb.saɪt/",
+    "examples": [
+      {"en": "The company launched a new website.", "es": "La empresa lanzó un nuevo sitio web."},
+      {"en": "She found the information on a government website.", "es": "Ella encontró la información en un sitio web gubernamental."},
+      {"en": "The website loads slowly on my phone.", "es": "El sitio web se carga lentamente en mi teléfono."},
+      {"en": "He designed a website for his small business.", "es": "Él diseñó un sitio web para su pequeño negocio."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_26",
+    "english": "app",
+    "spanish": "aplicación",
+    "phonetic": "/æp/",
+    "examples": [
+      {"en": "She downloaded a fitness app.", "es": "Ella descargó una aplicación de fitness."},
+      {"en": "The banking app lets you deposit checks remotely.", "es": "La aplicación bancaria te permite depositar cheques de forma remota."},
+      {"en": "He uses a language-learning app daily.", "es": "Él usa una aplicación de aprendizaje de idiomas diariamente."},
+      {"en": "Free apps often include ads.", "es": "Las aplicaciones gratuitas suelen incluir anuncios."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_27",
+    "english": "software",
+    "spanish": "software",
+    "phonetic": "/ˈsɔːf.twer/",
+    "examples": [
+      {"en": "The software updates automatically.", "es": "El software se actualiza automáticamente."},
+      {"en": "She uses photo editing software for her work.", "es": "Ella usa software de edición de fotos para su trabajo."},
+      {"en": "He installed new software on his computer.", "es": "Él instaló nuevo software en su computadora."},
+      {"en": "Open-source software is free to use and modify.", "es": "El software de código abierto es gratuito para usar y modificar."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_28",
+    "english": "hardware",
+    "spanish": "hardware",
+    "phonetic": "/ˈhɑːr.dwer/",
+    "examples": [
+      {"en": "The hardware includes the CPU, RAM, and hard drive.", "es": "El hardware incluye la CPU, la RAM y el disco duro."},
+      {"en": "She upgraded her computer’s hardware for gaming.", "es": "Ella actualizó el hardware de su computadora para jugar."},
+      {"en": "Hardware problems can cause system crashes.", "es": "Los problemas de hardware pueden causar bloqueos del sistema."},
+      {"en": "He works in computer hardware design.", "es": "Él trabaja en diseño de hardware informático."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_29",
+    "english": "operating system",
+    "spanish": "sistema operativo",
+    "phonetic": "/ˈɑː.pə.reɪ.t̬ɪŋ ˈsɪs.təm/",
+    "examples": [
+      {"en": "Windows, macOS, and Linux are operating systems.", "es": "Windows, macOS y Linux son sistemas operativos."},
+      {"en": "She updated her phone’s operating system.", "es": "Ella actualizó el sistema operativo de su teléfono."},
+      {"en": "The operating system manages hardware and software resources.", "es": "El sistema operativo gestiona los recursos de hardware y software."},
+      {"en": "He prefers Android as his mobile operating system.", "es": "Él prefiere Android como su sistema operativo móvil."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_30",
+    "english": "processor",
+    "spanish": "procesador",
+    "phonetic": "/ˈprɑː.ses.ɚ/",
+    "examples": [
+      {"en": "A faster processor improves computer performance.", "es": "Un procesador más rápido mejora el rendimiento de la computadora."},
+      {"en": "Her laptop has an Intel Core i7 processor.", "es": "Su computadora portátil tiene un procesador Intel Core i7."},
+      {"en": "He compared processor speeds before buying.", "es": "Él comparó velocidades de procesador antes de comprar."},
+      {"en": "Processors generate heat and need cooling.", "es": "Los procesadores generan calor y necesitan refrigeración."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_31",
+    "english": "RAM",
+    "spanish": "memoria RAM",
+    "phonetic": "/ræm/",
+    "examples": [
+      {"en": "More RAM allows you to run more programs at once.", "es": "Más RAM te permite ejecutar más programas a la vez."},
+      {"en": "She upgraded her computer from 8GB to 16GB of RAM.", "es": "Ella actualizó su computadora de 8 GB a 16 GB de RAM."},
+      {"en": "Insufficient RAM can slow down your device.", "es": "La RAM insuficiente puede ralentizar tu dispositivo."},
+      {"en": "RAM is temporary memory used while the computer is on.", "es": "La RAM es memoria temporal usada mientras la computadora está encendida."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_32",
+    "english": "hard drive",
+    "spanish": "disco duro",
+    "phonetic": "/ˈhɑːrd draɪv/",
+    "examples": [
+      {"en": "He backed up his files to an external hard drive.", "es": "Él respaldó sus archivos en un disco duro externo."},
+      {"en": "The hard drive failed and lost all data.", "es": "El disco duro falló y perdió todos los datos."},
+      {"en": "Traditional hard drives use spinning disks.", "es": "Los discos duros tradicionales usan discos giratorios."},
+      {"en": "She replaced her hard drive with an SSD.", "es": "Ella reemplazó su disco duro con un SSD."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_33",
+    "english": "SSD",
+    "spanish": "unidad de estado sólido",
+    "phonetic": "/es es diː/",
+    "examples": [
+      {"en": "SSDs are faster and more durable than hard drives.", "es": "Las SSD son más rápidas y duraderas que los discos duros."},
+      {"en": "He installed a 1TB SSD in his gaming PC.", "es": "Él instaló una SSD de 1 TB en su PC para juegos."},
+      {"en": "SSDs have no moving parts.", "es": "Las SSD no tienen partes móviles."},
+      {"en": "Upgrading to an SSD speeds up your computer significantly.", "es": "Actualizar a una SSD acelera tu computadora significativamente."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_34",
+    "english": "cloud",
+    "spanish": "nube",
+    "phonetic": "/klaʊd/",
+    "examples": [
+      {"en": "She stores her photos in the cloud.", "es": "Ella guarda sus fotos en la nube."},
+      {"en": "Cloud storage allows access from any device.", "es": "El almacenamiento en la nube permite el acceso desde cualquier dispositivo."},
+      {"en": "He uses Google Drive for cloud backup.", "es": "Él usa Google Drive para respaldo en la nube."},
+      {"en": "Cloud computing powers many modern apps.", "es": "La computación en la nube impulsa muchas aplicaciones modernas."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_35",
+    "english": "email",
+    "spanish": "correo electrónico",
+    "phonetic": "/ˈiː.meɪl/",
+    "examples": [
+      {"en": "She sent the document by email.", "es": "Ella envió el documento por correo electrónico."},
+      {"en": "Check your email for the confirmation message.", "es": "Revisa tu correo electrónico para el mensaje de confirmación."},
+      {"en": "He created a new email account.", "es": "Él creó una nueva cuenta de correo electrónico."},
+      {"en": "Email is faster than traditional mail.", "es": "El correo electrónico es más rápido que el correo tradicional."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_36",
+    "english": "password",
+    "spanish": "contraseña",
+    "phonetic": "/ˈpæs.wɝːd/",
+    "examples": [
+      {"en": "Use a strong password with letters, numbers, and symbols.", "es": "Usa una contraseña fuerte con letras, números y símbolos."},
+      {"en": "She forgot her password and had to reset it.", "es": "Ella olvidó su contraseña y tuvo que restablecerla."},
+      {"en": "Never share your password with anyone.", "es": "Nunca compartas tu contraseña con nadie."},
+      {"en": "He uses a password manager to store his passwords.", "es": "Él usa un gestor de contraseñas para almacenar sus contraseñas."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_37",
+    "english": "firewall",
+    "spanish": "cortafuegos",
+    "phonetic": "/ˈfaɪr.wɔːl/",
+    "examples": [
+      {"en": "The firewall blocks unauthorized access to the network.", "es": "El cortafuegos bloquea el acceso no autorizado a la red."},
+      {"en": "She enabled the firewall for extra security.", "es": "Ella activó el cortafuegos para mayor seguridad."},
+      {"en": "Windows has a built-in firewall.", "es": "Windows tiene un cortafuegos integrado."},
+      {"en": "Firewalls protect against cyber threats.", "es": "Los cortafuegos protegen contra amenazas cibernéticas."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_38",
+    "english": "antivirus",
+    "spanish": "antivirus",
+    "phonetic": "/ˌæn.tiˈvaɪ.rəs/",
+    "examples": [
+      {"en": "Install antivirus software to protect your computer.", "es": "Instala software antivirus para proteger tu computadora."},
+      {"en": "The antivirus detected a virus in the download.", "es": "El antivirus detectó un virus en la descarga."},
+      {"en": "She runs a weekly antivirus scan.", "es": "Ella ejecuta un análisis antivirus semanal."},
+      {"en": "Antivirus programs update regularly to fight new threats.", "es": "Los programas antivirus se actualizan regularmente para combatir nuevas amenazas."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_39",
+    "english": "update",
+    "spanish": "actualización",
+    "phonetic": "/ʌpˈdeɪt/",
+    "examples": [
+      {"en": "Your phone needs a software update.", "es": "Tu teléfono necesita una actualización de software."},
+      {"en": "She installed the latest security update.", "es": "Ella instaló la última actualización de seguridad."},
+      {"en": "Updates often fix bugs and improve performance.", "es": "Las actualizaciones suelen corregir errores y mejorar el rendimiento."},
+      {"en": "He set his devices to update automatically.", "es": "Él configuró sus dispositivos para que se actualicen automáticamente."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_40",
+    "english": "download",
+    "spanish": "descargar",
+    "phonetic": "/ˌdaʊnˈloʊd/",
+    "examples": [
+      {"en": "She downloaded a movie to watch offline.", "es": "Ella descargó una película para verla sin conexión."},
+      {"en": "The file will take five minutes to download.", "es": "El archivo tardará cinco minutos en descargarse."},
+      {"en": "He downloaded the app from the App Store.", "es": "Él descargó la aplicación desde la App Store."},
+      {"en": "Downloads use internet data.", "es": "Las descargas usan datos de internet."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_41",
+    "english": "upload",
+    "spanish": "subir",
+    "phonetic": "/ʌpˈloʊd/",
+    "examples": [
+      {"en": "She uploaded photos to her social media account.", "es": "Ella subió fotos a su cuenta de redes sociales."},
+      {"en": "The upload failed due to a weak connection.", "es": "La subida falló por una conexión débil."},
+      {"en": "He uploaded his resume to the job website.", "es": "Él subió su currículum al sitio web de empleo."},
+      {"en": "Upload speed is slower than download speed for most users.", "es": "La velocidad de subida es más lenta que la de descarga para la mayoría de los usuarios."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_42",
+    "english": "streaming",
+    "spanish": "transmisión en línea",
+    "phonetic": "/ˈstriː.mɪŋ/",
+    "examples": [
+      {"en": "They watch movies through streaming services.", "es": "Ellos ven películas mediante servicios de transmisión en línea."},
+      {"en": "Streaming requires a stable internet connection.", "es": "La transmisión en línea requiere una conexión estable a internet."},
+      {"en": "She subscribes to three streaming platforms.", "es": "Ella tiene suscripción a tres plataformas de transmisión."},
+      {"en": "Live streaming is popular for gaming and events.", "es": "La transmisión en vivo es popular para juegos y eventos."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_43",
+    "english": "Bluetooth",
+    "spanish": "Bluetooth",
+    "phonetic": "/ˈbluː.tuːθ/",
+    "examples": [
+      {"en": "She connected her headphones via Bluetooth.", "es": "Ella conectó sus audífonos mediante Bluetooth."},
+      {"en": "Bluetooth has a range of about 30 feet.", "es": "Bluetooth tiene un alcance de aproximadamente 10 metros."},
+      {"en": "He uses Bluetooth to transfer files between phones.", "es": "Él usa Bluetooth para transferir archivos entre teléfonos."},
+      {"en": "Turn off Bluetooth when not in use to save battery.", "es": "Apaga Bluetooth cuando no lo uses para ahorrar batería."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_44",
+    "english": "GPS",
+    "spanish": "GPS",
+    "phonetic": "/dʒiː piː es/",
+    "examples": [
+      {"en": "The GPS guided him to the destination.", "es": "El GPS lo guió hasta el destino."},
+      {"en": "She uses GPS on her phone for navigation.", "es": "Ella usa GPS en su teléfono para navegación."},
+      {"en": "GPS stands for Global Positioning System.", "es": "GPS significa Sistema de Posicionamiento Global."},
+      {"en": "GPS works using satellites orbiting Earth.", "es": "El GPS funciona mediante satélites que orbitan la Tierra."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_45",
+    "english": "camera",
+    "spanish": "cámara",
+    "phonetic": "/ˈkæm.ɚ.ə/",
+    "examples": [
+      {"en": "His phone has a 48-megapixel camera.", "es": "Su teléfono tiene una cámara de 48 megapíxeles."},
+      {"en": "She takes professional photos with a DSLR camera.", "es": "Ella toma fotos profesionales con una cámara DSLR."},
+      {"en": "The security camera records 24/7.", "es": "La cámara de seguridad graba las 24 horas."},
+      {"en": "Webcams are built into most laptops.", "es": "Las cámaras web están integradas en la mayoría de las computadoras portátiles."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_46",
+    "english": "pixel",
+    "spanish": "píxel",
+    "phonetic": "/ˈpɪk.səl/",
+    "examples": [
+      {"en": "Higher resolution means more pixels.", "es": "Mayor resolución significa más píxeles."},
+      {"en": "The image is blurry because it has too few pixels.", "es": "La imagen está borrosa porque tiene muy pocos píxeles."},
+      {"en": "She bought a 4K TV with over 8 million pixels.", "es": "Ella compró una TV 4K con más de 8 millones de píxeles."},
+      {"en": "Each pixel displays a tiny dot of color.", "es": "Cada píxel muestra un pequeño punto de color."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_47",
+    "english": "resolution",
+    "spanish": "resolución",
+    "phonetic": "/ˌrez.əˈluː.ʃən/",
+    "examples": [
+      {"en": "The monitor has a resolution of 1920x1080.", "es": "El monitor tiene una resolución de 1920x1080."},
+      {"en": "Higher resolution provides sharper images.", "es": "Mayor resolución proporciona imágenes más nítidas."},
+      {"en": "She changed the video resolution to 720p.", "es": "Ella cambió la resolución del video a 720p."},
+      {"en": "4K resolution is four times HD.", "es": "La resolución 4K es cuatro veces la de HD."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_48",
+    "english": "touchscreen",
+    "spanish": "pantalla táctil",
+    "phonetic": "/ˈtʌtʃ.skriːn/",
+    "examples": [
+      {"en": "The smartphone has a responsive touchscreen.", "es": "El teléfono inteligente tiene una pantalla táctil sensible."},
+      {"en": "She uses a touchscreen tablet for drawing.", "es": "Ella usa una tableta con pantalla táctil para dibujar."},
+      {"en": "Touchscreens recognize finger gestures like pinch and swipe.", "es": "Las pantallas táctiles reconocen gestos con los dedos como pellizcar y deslizar."},
+      {"en": "Some laptops have touchscreen displays.", "es": "Algunas computadoras portátiles tienen pantallas táctiles."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_49",
+    "english": "biometrics",
+    "spanish": "biometría",
+    "phonetic": "/ˌbaɪ.oʊˈmet.rɪks/",
+    "examples": [
+      {"en": "The phone uses biometrics like fingerprint and face recognition.", "es": "El teléfono usa biometría como reconocimiento de huella dactilar y facial."},
+      {"en": "Biometrics provide secure device unlocking.", "es": "La biometría proporciona desbloqueo seguro del dispositivo."},
+      {"en": "She set up facial recognition as her biometric login.", "es": "Ella configuró el reconocimiento facial como su inicio de sesión biométrico."},
+      {"en": "Biometric data is stored securely on the device.", "es": "Los datos biométricos se almacenan de forma segura en el dispositivo."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_50",
+    "english": "fingerprint scanner",
+    "spanish": "lector de huellas dactilares",
+    "phonetic": "/ˈfɪŋ.ɡɚ.prɪnt ˌskæn.ɚ/",
+    "examples": [
+      {"en": "He unlocked his phone with the fingerprint scanner.", "es": "Él desbloqueó su teléfono con el lector de huellas dactilares."},
+      {"en": "The laptop has a fingerprint scanner next to the touchpad.", "es": "La computadora portátil tiene un lector de huellas dactilares al lado del panel táctil."},
+      {"en": "Fingerprint scanners are more secure than passwords.", "es": "Los lectores de huellas dactilares son más seguros que las contraseñas."},
+      {"en": "She registered her fingerprint for quick access.", "es": "Ella registró su huella dactilar para acceso rápido."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_51",
+    "english": "face recognition",
+    "spanish": "reconocimiento facial",
+    "phonetic": "/feɪs ˌrek.əɡˈnɪʃ.ən/",
+    "examples": [
+      {"en": "Face recognition unlocked her phone instantly.", "es": "El reconocimiento facial desbloqueó su teléfono al instante."},
+      {"en": "The security system uses face recognition to identify people.", "es": "El sistema de seguridad usa reconocimiento facial para identificar personas."},
+      {"en": "He disabled face recognition for privacy reasons.", "es": "Él desactivó el reconocimiento facial por razones de privacidad."},
+      {"en": "Modern phones use infrared for accurate face recognition.", "es": "Los teléfonos modernos usan infrarrojos para un reconocimiento facial preciso."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_52",
+    "english": "artificial intelligence",
+    "spanish": "inteligencia artificial",
+    "phonetic": "/ˌɑːr.t̬əˈfɪʃ.əl ɪnˈtel.ɪ.dʒəns/",
+    "examples": [
+      {"en": "Artificial intelligence powers voice assistants like Siri.", "es": "La inteligencia artificial impulsa asistentes de voz como Siri."},
+      {"en": "She studies artificial intelligence at university.", "es": "Ella estudia inteligencia artificial en la universidad."},
+      {"en": "AI can analyze data faster than humans.", "es": "La IA puede analizar datos más rápido que los humanos."},
+      {"en": "Artificial intelligence is transforming healthcare and finance.", "es": "La inteligencia artificial está transformando la salud y las finanzas."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_53",
+    "english": "machine learning",
+    "spanish": "aprendizaje automático",
+    "phonetic": "/məˈʃiːn ˈlɝː.nɪŋ/",
+    "examples": [
+      {"en": "Machine learning algorithms improve with more data.", "es": "Los algoritmos de aprendizaje automático mejoran con más datos."},
+      {"en": "He works on machine learning models for image recognition.", "es": "Él trabaja en modelos de aprendizaje automático para reconocimiento de imágenes."},
+      {"en": "Machine learning is a subset of artificial intelligence.", "es": "El aprendizaje automático es un subconjunto de la inteligencia artificial."},
+      {"en": "Spam filters use machine learning to detect junk email.", "es": "Los filtros de spam usan aprendizaje automático para detectar correos no deseados."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_54",
+    "english": "virtual reality",
+    "spanish": "realidad virtual",
+    "phonetic": "/ˌvɝː.tʃu.əl riˈæl.ə.t̬i/",
+    "examples": [
+      {"en": "Virtual reality creates immersive 3D environments.", "es": "La realidad virtual crea entornos inmersivos en 3D."},
+      {"en": "She plays games using a virtual reality headset.", "es": "Ella juega usando un casco de realidad virtual."},
+      {"en": "VR is used for training in medicine and aviation.", "es": "La RV se usa para entrenamiento en medicina y aviación."},
+      {"en": "Virtual reality requires special goggles and sensors.", "es": "La realidad virtual requiere gafas y sensores especiales."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_55",
+    "english": "augmented reality",
+    "spanish": "realidad aumentada",
+    "phonetic": "/ˌɔː.ɡənˈtɪd riˈæl.ə.t̬i/",
+    "examples": [
+      {"en": "Augmented reality overlays digital info on the real world.", "es": "La realidad aumentada superpone información digital en el mundo real."},
+      {"en": "He used an AR app to see how furniture looks in his room.", "es": "Él usó una aplicación de RA para ver cómo se ve el mueble en su habitación."},
+      {"en": "Pokémon GO is a popular augmented reality game.", "es": "Pokémon GO es un juego popular de realidad aumentada."},
+      {"en": "AR is used in education and retail.", "es": "La RA se usa en educación y comercio minorista."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_56",
+    "english": "smart home",
+    "spanish": "hogar inteligente",
+    "phonetic": "/smɑːrt hoʊm/",
+    "examples": [
+      {"en": "Their smart home adjusts lights and temperature automatically.", "es": "Su hogar inteligente ajusta luces y temperatura automáticamente."},
+      {"en": "She controls her smart home with voice commands.", "es": "Ella controla su hogar inteligente con comandos de voz."},
+      {"en": "Smart homes use Wi-Fi and IoT devices.", "es": "Los hogares inteligentes usan Wi-Fi y dispositivos IoT."},
+      {"en": "He installed smart locks and cameras for security.", "es": "Él instaló cerraduras y cámaras inteligentes para seguridad."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_57",
+    "english": "IoT",
+    "spanish": "Internet de las cosas",
+    "phonetic": "/aɪ oʊ tiː/",
+    "examples": [
+      {"en": "IoT connects everyday devices to the internet.", "es": "El IoT conecta dispositivos cotidianos a internet."},
+      {"en": "Smart thermostats and lights are part of IoT.", "es": "Los termostatos y luces inteligentes son parte del IoT."},
+      {"en": "She tracks her fitness with an IoT wearable.", "es": "Ella rastrea su condición física con un dispositivo portátil IoT."},
+      {"en": "IoT devices collect and share data automatically.", "es": "Los dispositivos IoT recopilan y comparten datos automáticamente."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_58",
+    "english": "wearable",
+    "spanish": "dispositivo portátil",
+    "phonetic": "/ˈwer.ə.bəl/",
+    "examples": [
+      {"en": "His smartwatch is a popular wearable.", "es": "Su reloj inteligente es un dispositivo portátil popular."},
+      {"en": "She tracks her steps with a fitness wearable.", "es": "Ella rastrea sus pasos con un dispositivo portátil de fitness."},
+      {"en": "Wearables monitor heart rate and sleep patterns.", "es": "Los dispositivos portátiles monitorean frecuencia cardíaca y patrones de sueño."},
+      {"en": "AR glasses are an emerging type of wearable.", "es": "Las gafas de RA son un tipo emergente de dispositivo portátil."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_59",
+    "english": "smartwatch",
+    "spanish": "reloj inteligente",
+    "phonetic": "/ˈsmɑːrt.wɑːtʃ/",
+    "examples": [
+      {"en": "He checks notifications on his smartwatch.", "es": "Él revisa notificaciones en su reloj inteligente."},
+      {"en": "The smartwatch tracks his daily activity and heart rate.", "es": "El reloj inteligente rastrea su actividad diaria y frecuencia cardíaca."},
+      {"en": "She uses her smartwatch to make payments.", "es": "Ella usa su reloj inteligente para hacer pagos."},
+      {"en": "Smartwatches sync with smartphones via Bluetooth.", "es": "Los relojes inteligentes se sincronizan con teléfonos inteligentes mediante Bluetooth."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_60",
+    "english": "fitness tracker",
+    "spanish": "rastreador de actividad física",
+    "phonetic": "/ˈfɪt.nəs ˌtræk.ɚ/",
+    "examples": [
+      {"en": "Her fitness tracker counts steps and calories burned.", "es": "Su rastreador de actividad física cuenta pasos y calorías quemadas."},
+      {"en": "He wears a fitness tracker on his wrist 24/7.", "es": "Él lleva un rastreador de actividad física en la muñeca las 24 horas."},
+      {"en": "Fitness trackers help users stay motivated.", "es": "Los rastreadores de actividad física ayudan a los usuarios a mantenerse motivados."},
+      {"en": "The fitness tracker syncs data to a mobile app.", "es": "El rastreador de actividad física sincroniza datos con una aplicación móvil."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_61",
+    "english": "drone",
+    "spanish": "dron",
+    "phonetic": "/droʊn/",
+    "examples": [
+      {"en": "He flies a drone to take aerial photos.", "es": "Él vuela un dron para tomar fotos aéreas."},
+      {"en": "Drones are used in agriculture for crop monitoring.", "es": "Los drones se usan en agricultura para monitoreo de cultivos."},
+      {"en": "She bought a drone with a 4K camera.", "es": "Ella compró un dron con una cámara 4K."},
+      {"en": "Drone regulations vary by country.", "es": "Las regulaciones de drones varían según el país."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_62",
+    "english": "robot",
+    "spanish": "robot",
+    "phonetic": "/ˈroʊ.bɑːt/",
+    "examples": [
+      {"en": "The factory uses robots for assembly.", "es": "La fábrica usa robots para ensamblaje."},
+      {"en": "She programmed a robot to follow a line.", "es": "Ella programó un robot para seguir una línea."},
+      {"en": "Home robots can vacuum floors automatically.", "es": "Los robots domésticos pueden aspirar pisos automáticamente."},
+      {"en": "Robots are becoming more common in healthcare.", "es": "Los robots se están volviendo más comunes en la salud."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_63",
+    "english": "automation",
+    "spanish": "automatización",
+    "phonetic": "/ˌɔː.t̬əˈmeɪ.ʃən/",
+    "examples": [
+      {"en": "Home automation controls lights, locks, and temperature.", "es": "La automatización del hogar controla luces, cerraduras y temperatura."},
+      {"en": "She set up email automation for her business.", "es": "Ella configuró automatización de correo electrónico para su negocio."},
+      {"en": "Industrial automation increases efficiency.", "es": "La automatización industrial aumenta la eficiencia."},
+      {"en": "Automation reduces the need for manual tasks.", "es": "La automatización reduce la necesidad de tareas manuales."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_64",
+    "english": "algorithm",
+    "spanish": "algoritmo",
+    "phonetic": "/ˈæl.ɡə.rɪ.ðəm/",
+    "examples": [
+      {"en": "Search engines use complex algorithms to rank websites.", "es": "Los motores de búsqueda usan algoritmos complejos para clasificar sitios web."},
+      {"en": "She wrote an algorithm to sort the data.", "es": "Ella escribió un algoritmo para ordenar los datos."},
+      {"en": "Social media algorithms show you personalized content.", "es": "Los algoritmos de redes sociales te muestran contenido personalizado."},
+      {"en": "Machine learning relies on training algorithms.", "es": "El aprendizaje automático depende de algoritmos de entrenamiento."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_65",
+    "english": "data",
+    "spanish": "datos",
+    "phonetic": "/ˈdeɪ.t̬ə/",
+    "examples": [
+      {"en": "Big data helps companies understand customer behavior.", "es": "Los macrodatos ayudan a las empresas a entender el comportamiento del cliente."},
+      {"en": "She analyzed the data using statistical software.", "es": "Ella analizó los datos usando software estadístico."},
+      {"en": "Mobile data usage increased with video streaming.", "es": "El uso de datos móviles aumentó con la transmisión de video."},
+      {"en": "Protect your personal data online.", "es": "Protege tus datos personales en línea."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_66",
+    "english": "database",
+    "spanish": "base de datos",
+    "phonetic": "/ˈdeɪ.t̬ə.beɪs/",
+    "examples": [
+      {"en": "The company stores customer information in a database.", "es": "La empresa almacena información de clientes en una base de datos."},
+      {"en": "She manages a relational database for the university.", "es": "Ella gestiona una base de datos relacional para la universidad."},
+      {"en": "SQL is a common language for databases.", "es": "SQL es un lenguaje común para bases de datos."},
+      {"en": "Cloud databases are scalable and accessible.", "es": "Las bases de datos en la nube son escalables y accesibles."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_67",
+    "english": "server",
+    "spanish": "servidor",
+    "phonetic": "/ˈsɝː.vɚ/",
+    "examples": [
+      {"en": "The website is hosted on a remote server.", "es": "El sitio web está alojado en un servidor remoto."},
+      {"en": "He works as a server administrator.", "es": "Él trabaja como administrador de servidores."},
+      {"en": "Cloud servers provide on-demand computing power.", "es": "Los servidores en la nube proporcionan potencia informática bajo demanda."},
+      {"en": "The server crashed during the traffic spike.", "es": "El servidor se bloqueó durante el pico de tráfico."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_68",
+    "english": "network",
+    "spanish": "red",
+    "phonetic": "/ˈnet.wɝːk/",
+    "examples": [
+      {"en": "The office has a secure internal network.", "es": "La oficina tiene una red interna segura."},
+      {"en": "She connected her laptop to the Wi-Fi network.", "es": "Ella conectó su computadora portátil a la red Wi-Fi."},
+      {"en": "Social networks connect people worldwide.", "es": "Las redes sociales conectan personas en todo el mundo."},
+      {"en": "Network speed affects streaming quality.", "es": "La velocidad de la red afecta la calidad de la transmisión."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_69",
+    "english": "bandwidth",
+    "spanish": "ancho de banda",
+    "phonetic": "/ˈbænd.wɪdθ/",
+    "examples": [
+      {"en": "Video calls require high bandwidth.", "es": "Las videollamadas requieren alto ancho de banda."},
+      {"en": "She upgraded her internet plan for more bandwidth.", "es": "Ella actualizó su plan de internet para más ancho de banda."},
+      {"en": "Limited bandwidth slows down downloads.", "es": "El ancho de banda limitado ralentiza las descargas."},
+      {"en": "Bandwidth is measured in megabits per second (Mbps).", "es": "El ancho de banda se mide en megabits por segundo (Mbps)."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_70",
+    "english": "latency",
+    "spanish": "latencia",
+    "phonetic": "/ˈleɪ.t̬ən.si/",
+    "examples": [
+      {"en": "Low latency is crucial for online gaming.", "es": "La baja latencia es crucial para los juegos en línea."},
+      {"en": "She tested the network latency with a ping command.", "es": "Ella probó la latencia de la red con un comando ping."},
+      {"en": "High latency causes delays in video calls.", "es": "La alta latencia causa retrasos en videollamadas."},
+      {"en": "5G networks reduce latency significantly.", "es": "Las redes 5G reducen significativamente la latencia."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_71",
+    "english": "5G",
+    "spanish": "5G",
+    "phonetic": "/faɪv dʒiː/",
+    "examples": [
+      {"en": "5G offers faster speeds and lower latency than 4G.", "es": "5G ofrece velocidades más rápidas y menor latencia que 4G."},
+      {"en": "She upgraded to a 5G phone last year.", "es": "Ella actualizó a un teléfono 5G el año pasado."},
+      {"en": "5G enables new technologies like autonomous cars.", "es": "5G habilita nuevas tecnologías como autos autónomos."},
+      {"en": "5G coverage is expanding in major cities.", "es": "La cobertura 5G se está expandiendo en ciudades principales."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_72",
+    "english": "cybersecurity",
+    "spanish": "ciberseguridad",
+    "phonetic": "/ˌsaɪ.bɚ.sɪˈkjʊr.ə.t̬i/",
+    "examples": [
+      {"en": "Cybersecurity protects systems from digital attacks.", "es": "La ciberseguridad protege los sistemas de ataques digitales."},
+      {"en": "She works in cybersecurity for a financial firm.", "es": "Ella trabaja en ciberseguridad para una empresa financiera."},
+      {"en": "Strong passwords are part of good cybersecurity.", "es": "Las contraseñas fuertes son parte de una buena ciberseguridad."},
+      {"en": "Cybersecurity threats are increasing worldwide.", "es": "Las amenazas de ciberseguridad están aumentando en todo el mundo."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_73",
+    "english": "hacker",
+    "spanish": "pirata informático",
+    "phonetic": "/ˈhæk.ɚ/",
+    "examples": [
+      {"en": "Ethical hackers help find security flaws.", "es": "Los piratas informáticos éticos ayudan a encontrar fallas de seguridad."},
+      {"en": "The company hired a hacker to test their system.", "es": "La empresa contrató a un pirata informático para probar su sistema."},
+      {"en": "Malicious hackers steal personal data.", "es": "Los piratas informáticos maliciosos roban datos personales."},
+      {"en": "Not all hackers are criminals—some work for good.", "es": "No todos los piratas informáticos son criminales: algunos trabajan para el bien."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_74",
+    "english": "encryption",
+    "spanish": "cifrado",
+    "phonetic": "/ɪnˈkrɪp.ʃən/",
+    "examples": [
+      {"en": "Encryption protects your messages from eavesdroppers.", "es": "El cifrado protege tus mensajes de espías."},
+      {"en": "She uses end-to-end encryption in her messaging app.", "es": "Ella usa cifrado de extremo a extremo en su aplicación de mensajería."},
+      {"en": "Encrypted files can only be opened with a key.", "es": "Los archivos cifrados solo se pueden abrir con una clave."},
+      {"en": "HTTPS uses encryption for secure web browsing.", "es": "HTTPS usa cifrado para navegación web segura."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_75",
+    "english": "two-factor authentication",
+    "spanish": "autenticación de dos factores",
+    "phonetic": "/tuː ˈfæk.tɚ ɔːˌθen.tɪˈkeɪ.ʃən/",
+    "examples": [
+      {"en": "Two-factor authentication adds extra security to your account.", "es": "La autenticación de dos factores añade seguridad extra a tu cuenta."},
+      {"en": "She enabled two-factor authentication on her email.", "es": "Ella activó la autenticación de dos factores en su correo electrónico."},
+      {"en": "It usually requires a password and a code from your phone.", "es": "Generalmente requiere una contraseña y un código de tu teléfono."},
+      {"en": "Two-factor authentication prevents unauthorized access.", "es": "La autenticación de dos factores previene el acceso no autorizado."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_76",
+    "english": "cloud storage",
+    "spanish": "almacenamiento en la nube",
+    "phonetic": "/klaʊd ˈstɔːr.ɪdʒ/",
+    "examples": [
+      {"en": "He backs up his photos to cloud storage.", "es": "Él respalda sus fotos en almacenamiento en la nube."},
+      {"en": "Cloud storage lets you access files from anywhere.", "es": "El almacenamiento en la nube te permite acceder a archivos desde cualquier lugar."},
+      {"en": "She pays for 1TB of cloud storage.", "es": "Ella paga por 1 TB de almacenamiento en la nube."},
+      {"en": "Popular cloud storage services include Dropbox and Google Drive.", "es": "Servicios populares de almacenamiento en la nube incluyen Dropbox y Google Drive."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_77",
+    "english": "sync",
+    "spanish": "sincronizar",
+    "phonetic": "/sɪŋk/",
+    "examples": [
+      {"en": "Her phone and computer sync automatically.", "es": "Su teléfono y computadora se sincronizan automáticamente."},
+      {"en": "He synced his calendar across all devices.", "es": "Él sincronizó su calendario en todos los dispositivos."},
+      {"en": "Sync your files to avoid losing data.", "es": "Sincroniza tus archivos para evitar perder datos."},
+      {"en": "The app syncs data when connected to Wi-Fi.", "es": "La aplicación sincroniza datos cuando está conectada a Wi-Fi."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_78",
+    "english": "backup",
+    "spanish": "copia de seguridad",
+    "phonetic": "/ˈbæk.ʌp/",
+    "examples": [
+      {"en": "Always keep a backup of important files.", "es": "Siempre guarda una copia de seguridad de archivos importantes."},
+      {"en": "She uses an external drive for backup.", "es": "Ella usa una unidad externa para copia de seguridad."},
+      {"en": "Automatic cloud backup runs every night.", "es": "La copia de seguridad automática en la nube se ejecuta cada noche."},
+      {"en": "Backups saved her data after the hard drive failed.", "es": "Las copias de seguridad salvaron sus datos después de que falló el disco duro."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_79",
+    "english": "malware",
+    "spanish": "malware",
+    "phonetic": "/ˈmæl.wer/",
+    "examples": [
+      {"en": "Malware includes viruses, spyware, and ransomware.", "es": "El malware incluye virus, spyware y ransomware."},
+      {"en": "She avoided malware by not clicking suspicious links.", "es": "Ella evitó el malware al no hacer clic en enlaces sospechosos."},
+      {"en": "Antivirus software detects and removes malware.", "es": "El software antivirus detecta y elimina malware."},
+      {"en": "Malware can steal passwords and personal information.", "es": "El malware puede robar contraseñas e información personal."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_80",
+    "english": "phishing",
+    "spanish": "phishing",
+    "phonetic": "/ˈfɪʃ.ɪŋ/",
+    "examples": [
+      {"en": "Phishing emails try to steal your login credentials.", "es": "Los correos de phishing intentan robar tus credenciales de inicio de sesión."},
+      {"en": "She recognized a phishing attempt and deleted it.", "es": "Ella reconoció un intento de phishing y lo eliminó."},
+      {"en": "Never enter your password on a suspicious website.", "es": "Nunca ingreses tu contraseña en un sitio web sospechoso."},
+      {"en": "Phishing is a common form of cybercrime.", "es": "El phishing es una forma común de ciberdelito."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_81",
+    "english": "firewall",
+    "spanish": "cortafuegos",
+    "phonetic": "/ˈfaɪr.wɔːl/",
+    "examples": [
+      {"en": "The firewall blocked a hacking attempt.", "es": "El cortafuegos bloqueó un intento de pirateo."},
+      {"en": "She configured the firewall settings for her home network.", "es": "Ella configuró la configuración del cortafuegos para su red doméstica."},
+      {"en": "Firewalls monitor incoming and outgoing traffic.", "es": "Los cortafuegos monitorean el tráfico entrante y saliente."},
+      {"en": "Both hardware and software firewalls exist.", "es": "Existen cortafuegos tanto de hardware como de software."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_82",
+    "english": "VPN",
+    "spanish": "VPN",
+    "phonetic": "/viː piː en/",
+    "examples": [
+      {"en": "He uses a VPN to protect his privacy online.", "es": "Él usa una VPN para proteger su privacidad en línea."},
+      {"en": "A VPN encrypts your internet connection.", "es": "Una VPN cifra tu conexión a internet."},
+      {"en": "She connects to a VPN when using public Wi-Fi.", "es": "Ella se conecta a una VPN al usar Wi-Fi público."},
+      {"en": "VPNs can also bypass geographic content restrictions.", "es": "Las VPN también pueden eludir restricciones geográficas de contenido."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_83",
+    "english": "cookie",
+    "spanish": "cookie",
+    "phonetic": "/ˈkʊk.i/",
+    "examples": [
+      {"en": "Websites use cookies to remember your preferences.", "es": "Los sitios web usan cookies para recordar tus preferencias."},
+      {"en": "She cleared her browser cookies for privacy.", "es": "Ella borró las cookies de su navegador por privacidad."},
+      {"en": "Cookies help websites track user behavior.", "es": "Las cookies ayudan a los sitios web a rastrear el comportamiento del usuario."},
+      {"en": "You can block third-party cookies in settings.", "es": "Puedes bloquear cookies de terceros en la configuración."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_84",
+    "english": "cache",
+    "spanish": "caché",
+    "phonetic": "/kæʃ/",
+    "examples": [
+      {"en": "Clear your browser cache to fix loading issues.", "es": "Limpia la caché de tu navegador para arreglar problemas de carga."},
+      {"en": "The app stores data in cache for faster access.", "es": "La aplicación almacena datos en caché para un acceso más rápido."},
+      {"en": "He cleared the cache on his phone to free up space.", "es": "Él borró la caché de su teléfono para liberar espacio."},
+      {"en": "Cache improves performance by storing temporary files.", "es": "La caché mejora el rendimiento al almacenar archivos temporales."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_85",
+    "english": "plugin",
+    "spanish": "complemento",
+    "phonetic": "/ˈplʌɡ.ɪn/",
+    "examples": [
+      {"en": "She installed a plugin to add features to her browser.", "es": "Ella instaló un complemento para añadir funciones a su navegador."},
+      {"en": "The photo editor uses plugins for special effects.", "es": "El editor de fotos usa complementos para efectos especiales."},
+      {"en": "Some plugins can slow down your software.", "es": "Algunos complementos pueden ralentizar tu software."},
+      {"en": "He developed a plugin for WordPress.", "es": "Él desarrolló un complemento para WordPress."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_86",
+    "english": "extension",
+    "spanish": "extensión",
+    "phonetic": "/ɪkˈsten.ʃən/",
+    "examples": [
+      {"en": "She added a grammar-checking extension to Chrome.", "es": "Ella añadió una extensión de corrección gramatical a Chrome."},
+      {"en": "Browser extensions add functionality to your web experience.", "es": "Las extensiones de navegador añaden funcionalidad a tu experiencia web."},
+      {"en": "He disabled unnecessary extensions to improve speed.", "es": "Él desactivó extensiones innecesarias para mejorar la velocidad."},
+      {"en": "Only install extensions from trusted sources.", "es": "Instala extensiones solo de fuentes confiables."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_87",
+    "english": "operating system update",
+    "spanish": "actualización del sistema operativo",
+    "phonetic": "/ˈɑː.pə.reɪ.t̬ɪŋ ˈsɪs.təm ʌpˈdeɪt/",
+    "examples": [
+      {"en": "The operating system update fixed security vulnerabilities.", "es": "La actualización del sistema operativo corrigió vulnerabilidades de seguridad."},
+      {"en": "She scheduled the OS update for tonight.", "es": "Ella programó la actualización del SO para esta noche."},
+      {"en": "Always back up your data before an OS update.", "es": "Siempre haz una copia de seguridad de tus datos antes de una actualización del SO."},
+      {"en": "The update added new features and improved performance.", "es": "La actualización añadió nuevas funciones y mejoró el rendimiento."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_88",
+    "english": "user interface",
+    "spanish": "interfaz de usuario",
+    "phonetic": "/ˈjuː.zɚ ˈɪn.t̬ɚ.feɪs/",
+    "examples": [
+      {"en": "The app has a clean and intuitive user interface.", "es": "La aplicación tiene una interfaz de usuario limpia e intuitiva."},
+      {"en": "He designs user interfaces for mobile apps.", "es": "Él diseña interfaces de usuario para aplicaciones móviles."},
+      {"en": "A good UI makes software easy to use.", "es": "Una buena interfaz de usuario hace que el software sea fácil de usar."},
+      {"en": "User interface includes buttons, menus, and icons.", "es": "La interfaz de usuario incluye botones, menús e íconos."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_89",
+    "english": "user experience",
+    "spanish": "experiencia de usuario",
+    "phonetic": "/ˈjuː.zɚ ɪkˈspɪr.i.əns/",
+    "examples": [
+      {"en": "User experience focuses on how users feel when using a product.", "es": "La experiencia de usuario se enfoca en cómo se sienten los usuarios al usar un producto."},
+      {"en": "She works as a UX designer.", "es": "Ella trabaja como diseñadora de UX."},
+      {"en": "Good UX leads to higher customer satisfaction.", "es": "Una buena UX lleva a una mayor satisfacción del cliente."},
+      {"en": "UX research involves user testing and feedback.", "es": "La investigación de UX implica pruebas de usuario y retroalimentación."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_90",
+    "english": "debug",
+    "spanish": "depurar",
+    "phonetic": "/diːˈbʌɡ/",
+    "examples": [
+      {"en": "He spent hours to debug the software error.", "es": "Él pasó horas depurando el error del software."},
+      {"en": "Debugging is an essential part of programming.", "es": "Depurar es una parte esencial de la programación."},
+      {"en": "She used debugging tools to find the bug.", "es": "Ella usó herramientas de depuración para encontrar el error."},
+      {"en": "The debugger helps step through code line by line.", "es": "El depurador ayuda a recorrer el código línea por línea."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_91",
+    "english": "code",
+    "spanish": "código",
+    "phonetic": "/koʊd/",
+    "examples": [
+      {"en": "She writes code in Python and JavaScript.", "es": "Ella escribe código en Python y JavaScript."},
+      {"en": "The software developer reviewed the code before release.", "es": "El desarrollador de software revisó el código antes del lanzamiento."},
+      {"en": "Open-source code is available for anyone to view.", "es": "El código de código abierto está disponible para que cualquiera lo vea."},
+      {"en": "Clean code is easier to maintain and understand.", "es": "El código limpio es más fácil de mantener y entender."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_92",
+    "english": "programming",
+    "spanish": "programación",
+    "phonetic": "/ˈproʊ.ɡræ.mɪŋ/",
+    "examples": [
+      {"en": "He is learning programming through online courses.", "es": "Él está aprendiendo programación mediante cursos en línea."},
+      {"en": "Programming languages include Java, C++, and Python.", "es": "Los lenguajes de programación incluyen Java, C++ y Python."},
+      {"en": "She enjoys programming because it’s creative and logical.", "es": "A ella le gusta la programación porque es creativa y lógica."},
+      {"en": "Programming skills are in high demand.", "es": "Las habilidades de programación tienen mucha demanda."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_93",
+    "english": "developer",
+    "spanish": "desarrollador",
+    "phonetic": "/dɪˈvel.ə.pɚ/",
+    "examples": [
+      {"en": "She is a mobile app developer.", "es": "Ella es desarrolladora de aplicaciones móviles."},
+      {"en": "The developer fixed the bug in the latest update.", "es": "El desarrollador corrigió el error en la última actualización."},
+      {"en": "He works as a web developer for a startup.", "es": "Él trabaja como desarrollador web para una startup."},
+      {"en": "Software developers write and test code.", "es": "Los desarrolladores de software escriben y prueban código."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_94",
+    "english": "startup",
+    "spanish": "startup",
+    "phonetic": "/ˈstɑːr.tʌp/",
+    "examples": [
+      {"en": "He founded a tech startup last year.", "es": "Él fundó una startup tecnológica el año pasado."},
+      {"en": "The startup develops AI-powered educational tools.", "es": "La startup desarrolla herramientas educativas impulsadas por IA."},
+      {"en": "She works for a startup in Silicon Valley.", "es": "Ella trabaja para una startup en Silicon Valley."},
+      {"en": "Startups often seek venture capital funding.", "es": "Las startups suelen buscar financiamiento de capital de riesgo."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_95",
+    "english": "blockchain",
+    "spanish": "cadena de bloques",
+    "phonetic": "/ˈblɑːk.tʃeɪn/",
+    "examples": [
+      {"en": "Blockchain is the technology behind Bitcoin.", "es": "La cadena de bloques es la tecnología detrás de Bitcoin."},
+      {"en": "She studies blockchain applications in supply chains.", "es": "Ella estudia aplicaciones de cadena de bloques en cadenas de suministro."},
+      {"en": "Blockchain provides secure, transparent record-keeping.", "es": "La cadena de bloques proporciona un registro seguro y transparente."},
+      {"en": "Blockchain is decentralized and tamper-resistant.", "es": "La cadena de bloques es descentralizada y resistente a manipulaciones."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_96",
+    "english": "cryptocurrency",
+    "spanish": "criptomoneda",
+    "phonetic": "/ˌkrɪp.toʊˈkʌr.ən.si/",
+    "examples": [
+      {"en": "Bitcoin is the most well-known cryptocurrency.", "es": "Bitcoin es la criptomoneda más conocida."},
+      {"en": "He invests in cryptocurrency as a long-term asset.", "es": "Él invierte en criptomoneda como un activo a largo plazo."},
+      {"en": "Cryptocurrency transactions are recorded on a blockchain.", "es": "Las transacciones de criptomoneda se registran en una cadena de bloques."},
+      {"en": "She uses a digital wallet to store her cryptocurrency.", "es": "Ella usa una billetera digital para almacenar su criptomoneda."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_97",
+    "english": "digital wallet",
+    "spanish": "billetera digital",
+    "phonetic": "/ˈdɪdʒ.ɪ.t̬əl ˈwɑː.lɪt/",
+    "examples": [
+      {"en": "She pays with her digital wallet at the store.", "es": "Ella paga con su billetera digital en la tienda."},
+      {"en": "Apple Pay and Google Pay are popular digital wallets.", "es": "Apple Pay y Google Pay son billeteras digitales populares."},
+      {"en": "Digital wallets store payment info securely.", "es": "Las billeteras digitales almacenan información de pago de forma segura."},
+      {"en": "He uses a digital wallet for cryptocurrency and credit cards.", "es": "Él usa una billetera digital para criptomoneda y tarjetas de crédito."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_98",
+    "english": "touch ID",
+    "spanish": "Touch ID",
+    "phonetic": "/tʌtʃ aɪ diː/",
+    "examples": [
+      {"en": "She unlocks her phone with Touch ID.", "es": "Ella desbloquea su teléfono con Touch ID."},
+      {"en": "Touch ID uses fingerprint recognition for security.", "es": "Touch ID usa reconocimiento de huella dactilar para seguridad."},
+      {"en": "He set up Touch ID for app purchases.", "es": "Él configuró Touch ID para compras de aplicaciones."},
+      {"en": "Touch ID is a feature on Apple devices.", "es": "Touch ID es una función en dispositivos Apple."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_99",
+    "english": "Face ID",
+    "spanish": "Face ID",
+    "phonetic": "/feɪs aɪ diː/",
+    "examples": [
+      {"en": "Face ID unlocks her iPhone with a glance.", "es": "Face ID desbloquea su iPhone con una mirada."},
+      {"en": "Face ID uses infrared technology for accuracy.", "es": "Face ID usa tecnología infrarroja para precisión."},
+      {"en": "He enabled Face ID for secure authentication.", "es": "Él activó Face ID para autenticación segura."},
+      {"en": "Face ID works even in the dark.", "es": "Face ID funciona incluso en la oscuridad."}
+    ],
+    "category": "Technology"
+  },
+  {
+    "id": "tech_100",
+    "english": "wireless",
+    "spanish": "inalámbrico",
+    "phonetic": "/ˈwaɪr.ləs/",
+    "examples": [
+      {"en": "She uses wireless headphones with her laptop.", "es": "Ella usa audífonos inalámbricos con su computadora portátil."},
+      {"en": "The keyboard and mouse are wireless.", "es": "El teclado y el ratón son inalámbricos."},
+      {"en": "Wireless charging pads eliminate cables.", "es": "Las bases de carga inalámbrica eliminan los cables."},
+      {"en": "Most modern devices support wireless connectivity.", "es": "La mayoría de los dispositivos modernos admiten conectividad inalámbrica."}
+    ],
+    "category": "Technology"
+  }
+]

@@ -1,0 +1,2589 @@
+[
+  {
+    "id": "anim_1",
+    "english": "dog",
+    "spanish": "perro",
+    "phonetic": "/dɔːɡ/",
+    "examples": [
+      {"en": "I have a dog named Max.", "es": "Tengo un perro llamado Max."},
+      {"en": "The dog is barking loudly.", "es": "El perro está ladrando fuerte."},
+      {"en": "Dogs are loyal animals.", "es": "Los perros son animales leales."},
+      {"en": "She walks her dog every morning.", "es": "Ella pasea a su perro cada mañana."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_2",
+    "english": "cat",
+    "spanish": "gato",
+    "phonetic": "/kæt/",
+    "examples": [
+      {"en": "She has a black cat.", "es": "Ella tiene un gato negro."},
+      {"en": "The cat is sleeping on the sofa.", "es": "El gato está durmiendo en el sofá."},
+      {"en": "Cats love to chase mice.", "es": "A los gatos les encanta perseguir ratones."},
+      {"en": "He adopted a stray cat.", "es": "Él adoptó un gato callejero."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_3",
+    "english": "bird",
+    "spanish": "pájaro",
+    "phonetic": "/bɜːrd/",
+    "examples": [
+      {"en": "A bird is singing in the tree.", "es": "Un pájaro está cantando en el árbol."},
+      {"en": "She feeds the birds every day.", "es": "Ella alimenta a los pájaros todos los días."},
+      {"en": "Birds can fly long distances.", "es": "Los pájaros pueden volar largas distancias."},
+      {"en": "That bird has colorful feathers.", "es": "Ese pájaro tiene plumas coloridas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_4",
+    "english": "fish",
+    "spanish": "pez",
+    "phonetic": "/fɪʃ/",
+    "examples": [
+      {"en": "He has a fish in a tank.", "es": "Él tiene un pez en una pecera."},
+      {"en": "The fish is swimming fast.", "es": "El pez está nadando rápido."},
+      {"en": "Fish need clean water to live.", "es": "Los peces necesitan agua limpia para vivir."},
+      {"en": "She caught a big fish.", "es": "Ella atrapó un pez grande."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_5",
+    "english": "horse",
+    "spanish": "caballo",
+    "phonetic": "/hɔːrs/",
+    "examples": [
+      {"en": "He rides a horse every weekend.", "es": "Él monta a caballo cada fin de semana."},
+      {"en": "The horse is very strong.", "es": "El caballo es muy fuerte."},
+      {"en": "Horses can run very fast.", "es": "Los caballos pueden correr muy rápido."},
+      {"en": "She has a white horse.", "es": "Ella tiene un caballo blanco."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_6",
+    "english": "cow",
+    "spanish": "vaca",
+    "phonetic": "/kaʊ/",
+    "examples": [
+      {"en": "The cow is eating grass.", "es": "La vaca está comiendo pasto."},
+      {"en": "Cows give us milk.", "es": "Las vacas nos dan leche."},
+      {"en": "They have five cows on the farm.", "es": "Ellos tienen cinco vacas en la granja."},
+      {"en": "The cow is brown and white.", "es": "La vaca es marrón y blanca."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_7",
+    "english": "pig",
+    "spanish": "cerdo",
+    "phonetic": "/pɪɡ/",
+    "examples": [
+      {"en": "The pig is rolling in the mud.", "es": "El cerdo está revolcándose en el lodo."},
+      {"en": "Pigs are very intelligent animals.", "es": "Los cerdos son animales muy inteligentes."},
+      {"en": "They raise pigs on their farm.", "es": "Ellos crían cerdos en su granja."},
+      {"en": "The pig is pink and fat.", "es": "El cerdo es rosado y gordo."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_8",
+    "english": "sheep",
+    "spanish": "oveja",
+    "phonetic": "/ʃiːp/",
+    "examples": [
+      {"en": "The sheep is white and fluffy.", "es": "La oveja es blanca y esponjosa."},
+      {"en": "Sheep give us wool.", "es": "Las ovejas nos dan lana."},
+      {"en": "There are many sheep in the field.", "es": "Hay muchas ovejas en el campo."},
+      {"en": "He counts sheep to fall asleep.", "es": "Él cuenta ovejas para dormirse."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_9",
+    "english": "goat",
+    "spanish": "cabra",
+    "phonetic": "/ɡoʊt/",
+    "examples": [
+      {"en": "The goat climbed the mountain.", "es": "La cabra trepó la montaña."},
+      {"en": "Goats eat almost anything.", "es": "Las cabras comen casi cualquier cosa."},
+      {"en": "They have two goats on the farm.", "es": "Ellos tienen dos cabras en la granja."},
+      {"en": "The goat has long horns.", "es": "La cabra tiene cuernos largos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_10",
+    "english": "chicken",
+    "spanish": "pollo",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "examples": [
+      {"en": "The chicken is laying an egg.", "es": "La gallina está poniendo un huevo."},
+      {"en": "Chickens live in coops.", "es": "Los pollos viven en gallineros."},
+      {"en": "They raise chickens for eggs.", "es": "Ellos crían pollos para huevos."},
+      {"en": "The chicken is running in the yard.", "es": "El pollo está corriendo en el patio."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_11",
+    "english": "duck",
+    "spanish": "pato",
+    "phonetic": "/dʌk/",
+    "examples": [
+      {"en": "The duck is swimming in the pond.", "es": "El pato está nadando en el estanque."},
+      {"en": "Ducks quack loudly.", "es": "Los patos graznan fuerte."},
+      {"en": "She feeds bread to the ducks.", "es": "Ella da pan a los patos."},
+      {"en": "The duck has yellow feathers.", "es": "El pato tiene plumas amarillas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_12",
+    "english": "rabbit",
+    "spanish": "conejo",
+    "phonetic": "/ˈræbɪt/",
+    "examples": [
+      {"en": "The rabbit has long ears.", "es": "El conejo tiene orejas largas."},
+      {"en": "Rabbits eat carrots and lettuce.", "es": "Los conejos comen zanahorias y lechuga."},
+      {"en": "She has a pet rabbit.", "es": "Ella tiene un conejo mascota."},
+      {"en": "The rabbit jumped into the bush.", "es": "El conejo saltó al arbusto."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_13",
+    "english": "mouse",
+    "spanish": "ratón",
+    "phonetic": "/maʊs/",
+    "examples": [
+      {"en": "The mouse is small and gray.", "es": "El ratón es pequeño y gris."},
+      {"en": "Mice are afraid of cats.", "es": "Los ratones tienen miedo de los gatos."},
+      {"en": "He saw a mouse in the kitchen.", "es": "Él vio un ratón en la cocina."},
+      {"en": "The mouse ran under the table.", "es": "El ratón corrió bajo la mesa."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_14",
+    "english": "elephant",
+    "spanish": "elefante",
+    "phonetic": "/ˈelɪfənt/",
+    "examples": [
+      {"en": "The elephant has a long trunk.", "es": "El elefante tiene una trompa larga."},
+      {"en": "Elephants are very intelligent.", "es": "Los elefantes son muy inteligentes."},
+      {"en": "They saw elephants at the zoo.", "es": "Ellos vieron elefantes en el zoológico."},
+      {"en": "The elephant is the largest land animal.", "es": "El elefante es el animal terrestre más grande."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_15",
+    "english": "lion",
+    "spanish": "león",
+    "phonetic": "/ˈlaɪən/",
+    "examples": [
+      {"en": "The lion is the king of the jungle.", "es": "El león es el rey de la selva."},
+      {"en": "Lions live in Africa.", "es": "Los leones viven en África."},
+      {"en": "The lion roared loudly.", "es": "El león rugió fuerte."},
+      {"en": "She saw a lion at the safari.", "es": "Ella vio un león en el safari."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_16",
+    "english": "tiger",
+    "spanish": "tigre",
+    "phonetic": "/ˈtaɪɡər/",
+    "examples": [
+      {"en": "The tiger has orange fur with black stripes.", "es": "El tigre tiene pelaje naranja con rayas negras."},
+      {"en": "Tigers are endangered animals.", "es": "Los tigres son animales en peligro de extinción."},
+      {"en": "He saw a tiger in India.", "es": "Él vio un tigre en la India."},
+      {"en": "The tiger is a powerful hunter.", "es": "El tigre es un cazador poderoso."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_17",
+    "english": "bear",
+    "spanish": "oso",
+    "phonetic": "/ber/",
+    "examples": [
+      {"en": "The bear is eating honey.", "es": "El oso está comiendo miel."},
+      {"en": "Bears hibernate in winter.", "es": "Los osos hibernan en invierno."},
+      {"en": "They saw a bear in the forest.", "es": "Ellos vieron un oso en el bosque."},
+      {"en": "The bear is very large and strong.", "es": "El oso es muy grande y fuerte."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_18",
+    "english": "wolf",
+    "spanish": "lobo",
+    "phonetic": "/wʊlf/",
+    "examples": [
+      {"en": "The wolf howls at the moon.", "es": "El lobo aúlla a la luna."},
+      {"en": "Wolves live in packs.", "es": "Los lobos viven en manadas."},
+      {"en": "He heard a wolf in the mountains.", "es": "Él escuchó un lobo en las montañas."},
+      {"en": "The wolf is a wild animal.", "es": "El lobo es un animal salvaje."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_19",
+    "english": "fox",
+    "spanish": "zorro",
+    "phonetic": "/fɑːks/",
+    "examples": [
+      {"en": "The fox is very clever.", "es": "El zorro es muy astuto."},
+      {"en": "A fox ran across the road.", "es": "Un zorro cruzó la carretera."},
+      {"en": "Foxes have bushy tails.", "es": "Los zorros tienen colas peludas."},
+      {"en": "The fox lives in the forest.", "es": "El zorro vive en el bosque."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_20",
+    "english": "deer",
+    "spanish": "ciervo",
+    "phonetic": "/dɪr/",
+    "examples": [
+      {"en": "The deer has big antlers.", "es": "El ciervo tiene grandes astas."},
+      {"en": "Deer are shy animals.", "es": "Los ciervos son animales tímidos."},
+      {"en": "They saw a deer in the woods.", "es": "Ellos vieron un ciervo en el bosque."},
+      {"en": "The deer ran quickly through the field.", "es": "El ciervo corrió rápidamente por el campo."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_21",
+    "english": "monkey",
+    "spanish": "mono",
+    "phonetic": "/ˈmʌŋki/",
+    "examples": [
+      {"en": "The monkey is climbing a tree.", "es": "El mono está trepando un árbol."},
+      {"en": "Monkeys eat bananas.", "es": "Los monos comen plátanos."},
+      {"en": "She saw monkeys at the zoo.", "es": "Ella vio monos en el zoológico."},
+      {"en": "The monkey is very playful.", "es": "El mono es muy juguetón."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_22",
+    "english": "gorilla",
+    "spanish": "gorila",
+    "phonetic": "/ɡəˈrɪlə/",
+    "examples": [
+      {"en": "The gorilla is very strong.", "es": "El gorila es muy fuerte."},
+      {"en": "Gorillas live in Africa.", "es": "Los gorilas viven en África."},
+      {"en": "He saw a gorilla at the zoo.", "es": "Él vio un gorila en el zoológico."},
+      {"en": "Gorillas are intelligent primates.", "es": "Los gorilas son primates inteligentes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_23",
+    "english": "zebra",
+    "spanish": "cebra",
+    "phonetic": "/ˈziːbrə/",
+    "examples": [
+      {"en": "The zebra has black and white stripes.", "es": "La cebra tiene rayas negras y blancas."},
+      {"en": "Zebras live in Africa.", "es": "Las cebras viven en África."},
+      {"en": "They saw zebras on safari.", "es": "Ellos vieron cebras en el safari."},
+      {"en": "Each zebra has a unique pattern.", "es": "Cada cebra tiene un patrón único."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_24",
+    "english": "giraffe",
+    "spanish": "jirafa",
+    "phonetic": "/dʒəˈræf/",
+    "examples": [
+      {"en": "The giraffe has a very long neck.", "es": "La jirafa tiene un cuello muy largo."},
+      {"en": "Giraffes eat leaves from tall trees.", "es": "Las jirafas comen hojas de árboles altos."},
+      {"en": "She saw a giraffe at the zoo.", "es": "Ella vio una jirafa en el zoológico."},
+      {"en": "Giraffes are the tallest animals.", "es": "Las jirafas son los animales más altos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_25",
+    "english": "hippopotamus",
+    "spanish": "hipopótamo",
+    "phonetic": "/ˌhɪpəˈpɑːtəməs/",
+    "examples": [
+      {"en": "The hippopotamus spends time in water.", "es": "El hipopótamo pasa tiempo en el agua."},
+      {"en": "Hippos are very heavy animals.", "es": "Los hipopótamos son animales muy pesados."},
+      {"en": "They saw a hippo in the river.", "es": "Ellos vieron un hipopótamo en el río."},
+      {"en": "The hippopotamus has a big mouth.", "es": "El hipopótamo tiene una boca grande."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_26",
+    "english": "rhinoceros",
+    "spanish": "rinoceronte",
+    "phonetic": "/raɪˈnɑːsərəs/",
+    "examples": [
+      {"en": "The rhinoceros has a thick skin.", "es": "El rinoceronte tiene una piel gruesa."},
+      {"en": "Rhinos are endangered.", "es": "Los rinocerontes están en peligro de extinción."},
+      {"en": "He saw a rhino in Kenya.", "es": "Él vio un rinoceronte en Kenia."},
+      {"en": "The rhinoceros has one or two horns.", "es": "El rinoceronte tiene uno o dos cuernos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_27",
+    "english": "kangaroo",
+    "spanish": "canguro",
+    "phonetic": "/ˌkæŋɡəˈruː/",
+    "examples": [
+      {"en": "The kangaroo jumps with its strong legs.", "es": "El canguro salta con sus patas fuertes."},
+      {"en": "Kangaroos live in Australia.", "es": "Los canguros viven en Australia."},
+      {"en": "The baby kangaroo is in the pouch.", "es": "El bebé canguro está en la bolsa."},
+      {"en": "She saw kangaroos in the wild.", "es": "Ella vio canguros en estado salvaje."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_28",
+    "english": "panda",
+    "spanish": "panda",
+    "phonetic": "/ˈpændə/",
+    "examples": [
+      {"en": "The panda eats bamboo.", "es": "El panda come bambú."},
+      {"en": "Pandas are black and white.", "es": "Los pandas son negros y blancos."},
+      {"en": "They saw a panda at the zoo.", "es": "Ellos vieron un panda en el zoológico."},
+      {"en": "Pandas are endangered animals.", "es": "Los pandas son animales en peligro de extinción."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_29",
+    "english": "penguin",
+    "spanish": "pingüino",
+    "phonetic": "/ˈpeŋɡwɪn/",
+    "examples": [
+      {"en": "The penguin cannot fly but swims well.", "es": "El pingüino no puede volar pero nada bien."},
+      {"en": "Penguins live in cold places.", "es": "Los pingüinos viven en lugares fríos."},
+      {"en": "She saw penguins in Antarctica.", "es": "Ella vio pingüinos en la Antártida."},
+      {"en": "The penguin waddles when it walks.", "es": "El pingüino se tambalea al caminar."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_30",
+    "english": "dolphin",
+    "spanish": "delfín",
+    "phonetic": "/ˈdɑːlfɪn/",
+    "examples": [
+      {"en": "The dolphin jumps out of the water.", "es": "El delfín salta fuera del agua."},
+      {"en": "Dolphins are very intelligent.", "es": "Los delfines son muy inteligentes."},
+      {"en": "They saw dolphins at the beach.", "es": "Ellos vieron delfines en la playa."},
+      {"en": "Dolphins live in the ocean.", "es": "Los delfines viven en el océano."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_31",
+    "english": "whale",
+    "spanish": "ballena",
+    "phonetic": "/weɪl/",
+    "examples": [
+      {"en": "The whale is the largest animal on Earth.", "es": "La ballena es el animal más grande de la Tierra."},
+      {"en": "Whales breathe air through a blowhole.", "es": "Las ballenas respiran aire por un espiráculo."},
+      {"en": "They went whale watching.", "es": "Ellos fueron a observar ballenas."},
+      {"en": "The blue whale is enormous.", "es": "La ballena azul es enorme."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_32",
+    "english": "shark",
+    "spanish": "tiburón",
+    "phonetic": "/ʃɑːrk/",
+    "examples": [
+      {"en": "The shark has sharp teeth.", "es": "El tiburón tiene dientes afilados."},
+      {"en": "Sharks live in the ocean.", "es": "Los tiburones viven en el océano."},
+      {"en": "He saw a shark while diving.", "es": "Él vio un tiburón mientras buceaba."},
+      {"en": "Not all sharks are dangerous.", "es": "No todos los tiburones son peligrosos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_33",
+    "english": "octopus",
+    "spanish": "pulpo",
+    "phonetic": "/ˈɑːktəpəs/",
+    "examples": [
+      {"en": "The octopus has eight arms.", "es": "El pulpo tiene ocho brazos."},
+      {"en": "Octopuses can change color.", "es": "Los pulpos pueden cambiar de color."},
+      {"en": "She saw an octopus at the aquarium.", "es": "Ella vio un pulpo en el acuario."},
+      {"en": "The octopus hides in rocks.", "es": "El pulpo se esconde entre las rocas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_34",
+    "english": "crab",
+    "spanish": "cangrejo",
+    "phonetic": "/kræb/",
+    "examples": [
+      {"en": "The crab walks sideways.", "es": "El cangrejo camina de lado."},
+      {"en": "Crabs live on the beach.", "es": "Los cangrejos viven en la playa."},
+      {"en": "He found a crab in the tide pool.", "es": "Él encontró un cangrejo en la poza de marea."},
+      {"en": "The crab has a hard shell.", "es": "El cangrejo tiene un caparazón duro."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_35",
+    "english": "lobster",
+    "spanish": "langosta",
+    "phonetic": "/ˈlɑːbstər/",
+    "examples": [
+      {"en": "The lobster is red when cooked.", "es": "La langosta es roja cuando se cocina."},
+      {"en": "Lobsters live in the ocean.", "es": "Las langostas viven en el océano."},
+      {"en": "He ordered lobster at the restaurant.", "es": "Él pidió langosta en el restaurante."},
+      {"en": "The lobster has big claws.", "es": "La langosta tiene grandes pinzas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_36",
+    "english": "frog",
+    "spanish": "rana",
+    "phonetic": "/frɔːɡ/",
+    "examples": [
+      {"en": "The frog jumps very high.", "es": "La rana salta muy alto."},
+      {"en": "Frogs live near water.", "es": "Las ranas viven cerca del agua."},
+      {"en": "She heard frogs croaking at night.", "es": "Ella escuchó ranas croando por la noche."},
+      {"en": "The frog is green and slimy.", "es": "La rana es verde y resbaladiza."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_37",
+    "english": "toad",
+    "spanish": "sapo",
+    "phonetic": "/toʊd/",
+    "examples": [
+      {"en": "The toad has dry, bumpy skin.", "es": "El sapo tiene piel seca y con bultos."},
+      {"en": "Toads are often found in gardens.", "es": "Los sapos se encuentran a menudo en jardines."},
+      {"en": "He saw a toad under a rock.", "es": "Él vio un sapo bajo una roca."},
+      {"en": "Toads eat insects.", "es": "Los sapos comen insectos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_38",
+    "english": "snake",
+    "spanish": "serpiente",
+    "phonetic": "/sneɪk/",
+    "examples": [
+      {"en": "The snake is long and thin.", "es": "La serpiente es larga y delgada."},
+      {"en": "Snakes don’t have legs.", "es": "Las serpientes no tienen patas."},
+      {"en": "She saw a snake in the grass.", "es": "Ella vio una serpiente en la hierba."},
+      {"en": "Some snakes are venomous.", "es": "Algunas serpientes son venenosas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_39",
+    "english": "lizard",
+    "spanish": "lagarto",
+    "phonetic": "/ˈlɪzərd/",
+    "examples": [
+      {"en": "The lizard is sunbathing on a rock.", "es": "El lagarto está tomando el sol en una roca."},
+      {"en": "Lizards have scaly skin.", "es": "Los lagartos tienen piel escamosa."},
+      {"en": "He caught a small lizard.", "es": "Él atrapó un lagarto pequeño."},
+      {"en": "Some lizards can change color.", "es": "Algunos lagartos pueden cambiar de color."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_40",
+    "english": "turtle",
+    "spanish": "tortuga",
+    "phonetic": "/ˈtɜːrtl/",
+    "examples": [
+      {"en": "The turtle has a hard shell.", "es": "La tortuga tiene un caparazón duro."},
+      {"en": "Turtles move slowly.", "es": "Las tortugas se mueven lentamente."},
+      {"en": "She saw a sea turtle at the beach.", "es": "Ella vio una tortuga marina en la playa."},
+      {"en": "The turtle lives for many years.", "es": "La tortuga vive muchos años."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_41",
+    "english": "crocodile",
+    "spanish": "cocodrilo",
+    "phonetic": "/ˈkrɑːkədaɪl/",
+    "examples": [
+      {"en": "The crocodile has sharp teeth.", "es": "El cocodrilo tiene dientes afilados."},
+      {"en": "Crocodiles live in rivers and swamps.", "es": "Los cocodrilos viven en ríos y pantanos."},
+      {"en": "He saw a crocodile in Africa.", "es": "Él vio un cocodrilo en África."},
+      {"en": "Crocodiles are dangerous predators.", "es": "Los cocodrilos son depredadores peligrosos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_42",
+    "english": "alligator",
+    "spanish": "caimán",
+    "phonetic": "/ˈælɪɡeɪtər/",
+    "examples": [
+      {"en": "The alligator lives in freshwater.", "es": "El caimán vive en agua dulce."},
+      {"en": "Alligators are found in the southern US.", "es": "Los caimanes se encuentran en el sur de EE.UU."},
+      {"en": "He saw an alligator in Florida.", "es": "Él vio un caimán en Florida."},
+      {"en": "The alligator has a broad snout.", "es": "El caimán tiene un hocico ancho."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_43",
+    "english": "bat",
+    "spanish": "murciélago",
+    "phonetic": "/bæt/",
+    "examples": [
+      {"en": "The bat flies at night.", "es": "El murciélago vuela por la noche."},
+      {"en": "Bats use echolocation to navigate.", "es": "Los murciélagos usan ecolocalización para navegar."},
+      {"en": "She saw bats in the cave.", "es": "Ella vio murciélagos en la cueva."},
+      {"en": "Bats are mammals, not birds.", "es": "Los murciélagos son mamíferos, no aves."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_44",
+    "english": "butterfly",
+    "spanish": "mariposa",
+    "phonetic": "/ˈbʌtərflaɪ/",
+    "examples": [
+      {"en": "The butterfly has colorful wings.", "es": "La mariposa tiene alas coloridas."},
+      {"en": "Butterflies drink nectar from flowers.", "es": "Las mariposas beben néctar de las flores."},
+      {"en": "She saw a butterfly in the garden.", "es": "Ella vio una mariposa en el jardín."},
+      {"en": "Butterflies start as caterpillars.", "es": "Las mariposas comienzan como orugas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_45",
+    "english": "bee",
+    "spanish": "abeja",
+    "phonetic": "/biː/",
+    "examples": [
+      {"en": "The bee is collecting nectar.", "es": "La abeja está recolectando néctar."},
+      {"en": "Bees make honey.", "es": "Las abejas hacen miel."},
+      {"en": "He got stung by a bee.", "es": "Él fue picado por una abeja."},
+      {"en": "Bees are important for pollination.", "es": "Las abejas son importantes para la polinización."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_46",
+    "english": "ant",
+    "spanish": "hormiga",
+    "phonetic": "/ænt/",
+    "examples": [
+      {"en": "The ant is very small.", "es": "La hormiga es muy pequeña."},
+      {"en": "Ants live in colonies.", "es": "Las hormigas viven en colonias."},
+      {"en": "She saw ants on the picnic table.", "es": "Ella vio hormigas en la mesa de picnic."},
+      {"en": "Ants can carry heavy things.", "es": "Las hormigas pueden cargar cosas pesadas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_47",
+    "english": "spider",
+    "spanish": "araña",
+    "phonetic": "/ˈspaɪdər/",
+    "examples": [
+      {"en": "The spider is making a web.", "es": "La araña está haciendo una telaraña."},
+      {"en": "Spiders have eight legs.", "es": "Las arañas tienen ocho patas."},
+      {"en": "He found a spider in the bathroom.", "es": "Él encontró una araña en el baño."},
+      {"en": "Most spiders are harmless.", "es": "La mayoría de las arañas son inofensivas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_48",
+    "english": "worm",
+    "spanish": "gusano",
+    "phonetic": "/wɜːrm/",
+    "examples": [
+      {"en": "The worm is in the soil.", "es": "El gusano está en la tierra."},
+      {"en": "Worms help plants grow.", "es": "Los gusanos ayudan a las plantas a crecer."},
+      {"en": "She found a worm after the rain.", "es": "Ella encontró un gusano después de la lluvia."},
+      {"en": "Fishermen use worms as bait.", "es": "Los pescadores usan gusanos como cebo."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_49",
+    "english": "snail",
+    "spanish": "caracol",
+    "phonetic": "/sneɪl/",
+    "examples": [
+      {"en": "The snail moves very slowly.", "es": "El caracol se mueve muy lentamente."},
+      {"en": "Snails have shells on their backs.", "es": "Los caracoles tienen conchas en la espalda."},
+      {"en": "He saw a snail in the garden.", "es": "Él vio un caracol en el jardín."},
+      {"en": "Snails leave a slimy trail.", "es": "Los caracoles dejan un rastro viscoso."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_50",
+    "english": "scorpion",
+    "spanish": "escorpión",
+    "phonetic": "/ˈskɔːrpiən/",
+    "examples": [
+      {"en": "The scorpion has a stinger on its tail.", "es": "El escorpión tiene un aguijón en la cola."},
+      {"en": "Scorpions live in deserts.", "es": "Los escorpiones viven en desiertos."},
+      {"en": "He saw a scorpion in Arizona.", "es": "Él vio un escorpión en Arizona."},
+      {"en": "Some scorpions are venomous.", "es": "Algunos escorpiones son venenosos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_51",
+    "english": "owl",
+    "spanish": "búho",
+    "phonetic": "/aʊl/",
+    "examples": [
+      {"en": "The owl hunts at night.", "es": "El búho caza por la noche."},
+      {"en": "Owls have big eyes and can turn their heads.", "es": "Los búhos tienen ojos grandes y pueden girar la cabeza."},
+      {"en": "She heard an owl in the forest.", "es": "Ella escuchó un búho en el bosque."},
+      {"en": "Owls are symbols of wisdom.", "es": "Los búhos son símbolos de sabiduría."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_52",
+    "english": "eagle",
+    "spanish": "águila",
+    "phonetic": "/ˈiːɡl/",
+    "examples": [
+      {"en": "The eagle flies high in the sky.", "es": "El águila vuela alto en el cielo."},
+      {"en": "Eagles have sharp vision.", "es": "Las águilas tienen visión aguda."},
+      {"en": "He saw an eagle near the mountain.", "es": "Él vio un águila cerca de la montaña."},
+      {"en": "The bald eagle is a US symbol.", "es": "El águila calva es un símbolo de EE.UU."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_53",
+    "english": "hawk",
+    "spanish": "halcón",
+    "phonetic": "/hɔːk/",
+    "examples": [
+      {"en": "The hawk is hunting for mice.", "es": "El halcón está cazando ratones."},
+      {"en": "Hawks have sharp talons.", "es": "Los halcones tienen garras afiladas."},
+      {"en": "She saw a hawk circling above.", "es": "Ella vio un halcón dando vueltas arriba."},
+      {"en": "Hawks are birds of prey.", "es": "Los halcones son aves de presa."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_54",
+    "english": "parrot",
+    "spanish": "loro",
+    "phonetic": "/ˈpærət/",
+    "examples": [
+      {"en": "The parrot can mimic human speech.", "es": "El loro puede imitar el habla humana."},
+      {"en": "Parrots have colorful feathers.", "es": "Los loros tienen plumas coloridas."},
+      {"en": "He has a pet parrot named Coco.", "es": "Él tiene un loro mascota llamado Coco."},
+      {"en": "The parrot lives in the tropics.", "es": "El loro vive en los trópicos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_55",
+    "english": "peacock",
+    "spanish": "pavo real",
+    "phonetic": "/ˈpiːkɑːk/",
+    "examples": [
+      {"en": "The peacock has beautiful tail feathers.", "es": "El pavo real tiene hermosas plumas de cola."},
+      {"en": "Peacocks display their feathers to attract mates.", "es": "Los pavos reales despliegan sus plumas para atraer parejas."},
+      {"en": "She saw a peacock at the park.", "es": "Ella vio un pavo real en el parque."},
+      {"en": "The peacock is blue and green.", "es": "El pavo real es azul y verde."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_56",
+    "english": "swan",
+    "spanish": "cisne",
+    "phonetic": "/swɑːn/",
+    "examples": [
+      {"en": "The swan is swimming gracefully.", "es": "El cisne está nadando grácilmente."},
+      {"en": "Swans are usually white.", "es": "Los cisnes suelen ser blancos."},
+      {"en": "They saw swans on the lake.", "es": "Ellos vieron cisnes en el lago."},
+      {"en": "Swans mate for life.", "es": "Los cisnes se emparejan de por vida."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_57",
+    "english": "goose",
+    "spanish": "ganso",
+    "phonetic": "/ɡuːs/",
+    "examples": [
+      {"en": "The goose is honking loudly.", "es": "El ganso está graznando fuerte."},
+      {"en": "Geese fly in a V formation.", "es": "Los gansos vuelan en formación de V."},
+      {"en": "She saw geese in the field.", "es": "Ella vio gansos en el campo."},
+      {"en": "Geese can be aggressive.", "es": "Los gansos pueden ser agresivos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_58",
+    "english": "turkey",
+    "spanish": "pavo",
+    "phonetic": "/ˈtɜːrki/",
+    "examples": [
+      {"en": "The turkey is large and brown.", "es": "El pavo es grande y marrón."},
+      {"en": "People eat turkey on Thanksgiving.", "es": "La gente come pavo en Acción de Gracias."},
+      {"en": "He saw wild turkeys in the forest.", "es": "Él vio pavos silvestres en el bosque."},
+      {"en": "The turkey gobbles loudly.", "es": "El pavo grazna fuerte."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_59",
+    "english": "rooster",
+    "spanish": "gallo",
+    "phonetic": "/ˈruːstər/",
+    "examples": [
+      {"en": "The rooster crows at sunrise.", "es": "El gallo canta al amanecer."},
+      {"en": "Roosters have red combs on their heads.", "es": "Los gallos tienen crestas rojas en la cabeza."},
+      {"en": "He heard the rooster early in the morning.", "es": "Él escuchó al gallo temprano en la mañana."},
+      {"en": "The rooster protects the hens.", "es": "El gallo protege a las gallinas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_60",
+    "english": "hen",
+    "spanish": "gallina",
+    "phonetic": "/hen/",
+    "examples": [
+      {"en": "The hen is laying eggs.", "es": "La gallina está poniendo huevos."},
+      {"en": "Hens cluck softly.", "es": "Las gallinas cacarean suavemente."},
+      {"en": "She has ten hens on her farm.", "es": "Ella tiene diez gallinas en su granja."},
+      {"en": "The hen is brown and white.", "es": "La gallina es marrón y blanca."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_61",
+    "english": "pigeon",
+    "spanish": "paloma",
+    "phonetic": "/ˈpɪdʒɪn/",
+    "examples": [
+      {"en": "The pigeon is sitting on the roof.", "es": "La paloma está sentada en el techo."},
+      {"en": "Pigeons live in cities.", "es": "Las palomas viven en ciudades."},
+      {"en": "He feeds pigeons in the park.", "es": "Él alimenta palomas en el parque."},
+      {"en": "Pigeons were used to carry messages.", "es": "Las palomas se usaban para llevar mensajes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_62",
+    "english": "seagull",
+    "spanish": "gaviota",
+    "phonetic": "/ˈsiːɡʌl/",
+    "examples": [
+      {"en": "The seagull is flying over the ocean.", "es": "La gaviota está volando sobre el océano."},
+      {"en": "Seagulls eat fish and garbage.", "es": "Las gaviotas comen pescado y basura."},
+      {"en": "She saw seagulls at the beach.", "es": "Ella vio gaviotas en la playa."},
+      {"en": "The seagull is white and gray.", "es": "La gaviota es blanca y gris."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_63",
+    "english": "crow",
+    "spanish": "cuervo",
+    "phonetic": "/kroʊ/",
+    "examples": [
+      {"en": "The crow is black and very smart.", "es": "El cuervo es negro y muy inteligente."},
+      {"en": "Crows caw loudly.", "es": "Los cuervos graznan fuerte."},
+      {"en": "He saw a crow in the tree.", "es": "Él vio un cuervo en el árbol."},
+      {"en": "Crows can recognize human faces.", "es": "Los cuervos pueden reconocer rostros humanos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_64",
+    "english": "raven",
+    "spanish": "cuervo grande",
+    "phonetic": "/ˈreɪvn/",
+    "examples": [
+      {"en": "The raven is larger than a crow.", "es": "El cuervo grande es más grande que un cuervo."},
+      {"en": "Ravens are very intelligent birds.", "es": "Los cuervos grandes son aves muy inteligentes."},
+      {"en": "She saw a raven on the fence.", "es": "Ella vio un cuervo grande en la cerca."},
+      {"en": "Ravens appear in many myths.", "es": "Los cuervos grandes aparecen en muchos mitos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_65",
+    "english": "flamingo",
+    "spanish": "flamenco",
+    "phonetic": "/fləˈmɪŋɡoʊ/",
+    "examples": [
+      {"en": "The flamingo stands on one leg.", "es": "El flamenco se para en una pata."},
+      {"en": "Flamingos are pink because of their diet.", "es": "Los flamencos son rosados por su dieta."},
+      {"en": "They saw flamingos in the zoo.", "es": "Ellos vieron flamencos en el zoológico."},
+      {"en": "Flamingos live in wetlands.", "es": "Los flamencos viven en humedales."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_66",
+    "english": "ostrich",
+    "spanish": "avestruz",
+    "phonetic": "/ˈɑːstrɪtʃ/",
+    "examples": [
+      {"en": "The ostrich is the largest bird.", "es": "El avestruz es el ave más grande."},
+      {"en": "Ostriches cannot fly but run fast.", "es": "Los avestruces no pueden volar pero corren rápido."},
+      {"en": "He saw an ostrich in Africa.", "es": "Él vio un avestruz en África."},
+      {"en": "Ostriches have long necks and legs.", "es": "Los avestruces tienen cuellos y patas largos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_67",
+    "english": "emu",
+    "spanish": "emu",
+    "phonetic": "/ˈiːmuː/",
+    "examples": [
+      {"en": "The emu is a large flightless bird.", "es": "El emu es un ave grande que no vuela."},
+      {"en": "Emus live in Australia.", "es": "Los emus viven en Australia."},
+      {"en": "She saw an emu at the wildlife park.", "es": "Ella vio un emu en el parque de vida silvestre."},
+      {"en": "Emus can run very fast.", "es": "Los emus pueden correr muy rápido."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_68",
+    "english": "pelican",
+    "spanish": "pelícano",
+    "phonetic": "/ˈpelɪkən/",
+    "examples": [
+      {"en": "The pelican has a large beak with a pouch.", "es": "El pelícano tiene un pico grande con una bolsa."},
+      {"en": "Pelicans catch fish by diving.", "es": "Los pelícanos atrapan peces zambulléndose."},
+      {"en": "He saw pelicans at the coast.", "es": "Él vio pelícanos en la costa."},
+      {"en": "Pelicans live near water.", "es": "Los pelícanos viven cerca del agua."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_69",
+    "english": "woodpecker",
+    "spanish": "pájaro carpintero",
+    "phonetic": "/ˈwʊdˌpekər/",
+    "examples": [
+      {"en": "The woodpecker pecks on trees.", "es": "El pájaro carpintero pica los árboles."},
+      {"en": "Woodpeckers have strong beaks.", "es": "Los pájaros carpinteros tienen picos fuertes."},
+      {"en": "She heard a woodpecker in the forest.", "es": "Ella escuchó un pájaro carpintero en el bosque."},
+      {"en": "Woodpeckers help control insects.", "es": "Los pájaros carpinteros ayudan a controlar insectos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_70",
+    "english": "hummingbird",
+    "spanish": "colibrí",
+    "phonetic": "/ˈhʌmɪŋbɜːrd/",
+    "examples": [
+      {"en": "The hummingbird hovers near flowers.", "es": "El colibrí se mantiene suspendido cerca de las flores."},
+      {"en": "Hummingbirds are very small and fast.", "es": "Los colibríes son muy pequeños y rápidos."},
+      {"en": "She saw a hummingbird in her garden.", "es": "Ella vio un colibrí en su jardín."},
+      {"en": "Hummingbirds drink nectar.", "es": "Los colibríes beben néctar."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_71",
+    "english": "squirrel",
+    "spanish": "ardilla",
+    "phonetic": "/ˈskwɜːrəl/",
+    "examples": [
+      {"en": "The squirrel is climbing a tree.", "es": "La ardilla está trepando un árbol."},
+      {"en": "Squirrels store nuts for winter.", "es": "Las ardillas almacenan nueces para el invierno."},
+      {"en": "He saw a squirrel in the park.", "es": "Él vio una ardilla en el parque."},
+      {"en": "The squirrel has a bushy tail.", "es": "La ardilla tiene una cola peluda."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_72",
+    "english": "raccoon",
+    "spanish": "mapache",
+    "phonetic": "/ræˈkuːn/",
+    "examples": [
+      {"en": "The raccoon has a black mask on its face.", "es": "El mapache tiene una máscara negra en la cara."},
+      {"en": "Raccoons wash their food.", "es": "Los mapaches lavan su comida."},
+      {"en": "She saw a raccoon at night.", "es": "Ella vio un mapache por la noche."},
+      {"en": "Raccoons live in forests and cities.", "es": "Los mapaches viven en bosques y ciudades."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_73",
+    "english": "skunk",
+    "spanish": "mofeta",
+    "phonetic": "/skʌŋk/",
+    "examples": [
+      {"en": "The skunk has a strong smell.", "es": "La mofeta tiene un olor fuerte."},
+      {"en": "Skunks spray when they feel threatened.", "es": "Las mofetas rocían cuando se sienten amenazadas."},
+      {"en": "He saw a skunk in his backyard.", "es": "Él vio una mofeta en su patio trasero."},
+      {"en": "The skunk is black with white stripes.", "es": "La mofeta es negra con rayas blancas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_74",
+    "english": "porcupine",
+    "spanish": "puercoespín",
+    "phonetic": "/ˈpɔːrkjəpaɪn/",
+    "examples": [
+      {"en": "The porcupine has sharp quills.", "es": "El puercoespín tiene púas afiladas."},
+      {"en": "Porcupines are slow-moving animals.", "es": "Los puercoespines son animales de movimiento lento."},
+      {"en": "She saw a porcupine in the woods.", "es": "Ella vio un puercoespín en el bosque."},
+      {"en": "Porcupines live in North America.", "es": "Los puercoespines viven en Norteamérica."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_75",
+    "english": "armadillo",
+    "spanish": "armadillo",
+    "phonetic": "/ˌɑːrməˈdɪloʊ/",
+    "examples": [
+      {"en": "The armadillo has a hard shell.", "es": "El armadillo tiene un caparazón duro."},
+      {"en": "Armadillos roll into a ball for protection.", "es": "Los armadillos se enrollan en una bola para protegerse."},
+      {"en": "He saw an armadillo in Texas.", "es": "Él vio un armadillo en Texas."},
+      {"en": "Armadillos dig holes in the ground.", "es": "Los armadillos cavan hoyos en la tierra."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_76",
+    "english": "otter",
+    "spanish": "nutria",
+    "phonetic": "/ˈɑːtər/",
+    "examples": [
+      {"en": "The otter plays in the water.", "es": "La nutria juega en el agua."},
+      {"en": "Otters hold hands while sleeping.", "es": "Las nutrias se toman de las manos al dormir."},
+      {"en": "She saw otters at the aquarium.", "es": "Ella vio nutrias en el acuario."},
+      {"en": "Otters eat fish and shellfish.", "es": "Las nutrias comen pescado y mariscos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_77",
+    "english": "beaver",
+    "spanish": "castor",
+    "phonetic": "/ˈbiːvər/",
+    "examples": [
+      {"en": "The beaver builds dams in rivers.", "es": "El castor construye presas en los ríos."},
+      {"en": "Beavers have large front teeth.", "es": "Los castores tienen dientes frontales grandes."},
+      {"en": "He saw a beaver in Canada.", "es": "Él vio un castor en Canadá."},
+      {"en": "Beavers are good swimmers.", "es": "Los castores son buenos nadadores."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_78",
+    "english": "moose",
+    "spanish": "alce",
+    "phonetic": "/muːs/",
+    "examples": [
+      {"en": "The moose is very tall with big antlers.", "es": "El alce es muy alto con grandes astas."},
+      {"en": "Moose live in cold forests.", "es": "Los alces viven en bosques fríos."},
+      {"en": "She saw a moose in Alaska.", "es": "Ella vio un alce en Alaska."},
+      {"en": "Moose are the largest deer species.", "es": "Los alces son la especie de ciervo más grande."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_79",
+    "english": "elk",
+    "spanish": "ciervo alce",
+    "phonetic": "/elk/",
+    "examples": [
+      {"en": "The elk has large antlers.", "es": "El ciervo alce tiene grandes astas."},
+      {"en": "Elk live in forests and mountains.", "es": "Los ciervos alces viven en bosques y montañas."},
+      {"en": "He saw an elk in Yellowstone.", "es": "Él vio un ciervo alce en Yellowstone."},
+      {"en": "Elk are larger than deer.", "es": "Los ciervos alces son más grandes que los ciervos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_80",
+    "english": "buffalo",
+    "spanish": "bisonte",
+    "phonetic": "/ˈbʌfəloʊ/",
+    "examples": [
+      {"en": "The buffalo is large and strong.", "es": "El bisonte es grande y fuerte."},
+      {"en": "Buffalo live in North America.", "es": "Los bisontes viven en Norteamérica."},
+      {"en": "They saw buffalo in the national park.", "es": "Ellos vieron bisontes en el parque nacional."},
+      {"en": "Buffalo have thick fur.", "es": "Los bisontes tienen pelaje grueso."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_81",
+    "english": "bison",
+    "spanish": "bisonte americano",
+    "phonetic": "/ˈbaɪsn/",
+    "examples": [
+      {"en": "The bison is the national mammal of the US.", "es": "El bisonte es el mamífero nacional de EE.UU."},
+      {"en": "Bison roam the Great Plains.", "es": "Los bisontes recorren las Grandes Llanuras."},
+      {"en": "He saw a bison herd in Montana.", "es": "Él vio una manada de bisontes en Montana."},
+      {"en": "Bison are different from buffalo.", "es": "Los bisontes son diferentes de los búfalos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_82",
+    "english": "camel",
+    "spanish": "camello",
+    "phonetic": "/ˈkæml/",
+    "examples": [
+      {"en": "The camel has a hump on its back.", "es": "El camello tiene una joroba en la espalda."},
+      {"en": "Camels live in deserts.", "es": "Los camellos viven en desiertos."},
+      {"en": "She rode a camel in Egypt.", "es": "Ella montó un camello en Egipto."},
+      {"en": "Camels can go without water for days.", "es": "Los camellos pueden pasar sin agua durante días."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_83",
+    "english": "llama",
+    "spanish": "llama",
+    "phonetic": "/ˈlɑːmə/",
+    "examples": [
+      {"en": "The llama has long woolly fur.", "es": "La llama tiene un pelaje lanudo largo."},
+      {"en": "Llamas live in the Andes Mountains.", "es": "Las llamas viven en las montañas de los Andes."},
+      {"en": "He saw llamas in Peru.", "es": "Él vio llamas en Perú."},
+      {"en": "Llamas can carry heavy loads.", "es": "Las llamas pueden cargar pesos pesados."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_84",
+    "english": "alpaca",
+    "spanish": "alpaca",
+    "phonetic": "/ælˈpækə/",
+    "examples": [
+      {"en": "The alpaca has soft wool.", "es": "La alpaca tiene lana suave."},
+      {"en": "Alpacas are smaller than llamas.", "es": "Las alpacas son más pequeñas que las llamas."},
+      {"en": "She visited an alpaca farm.", "es": "Ella visitó una granja de alpacas."},
+      {"en": "Alpacas are gentle animals.", "es": "Las alpacas son animales tranquilos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_85",
+    "english": "donkey",
+    "spanish": "burro",
+    "phonetic": "/ˈdɑːŋki/",
+    "examples": [
+      {"en": "The donkey is carrying a heavy load.", "es": "El burro está cargando una carga pesada."},
+      {"en": "Donkeys are strong and stubborn.", "es": "Los burros son fuertes y tercos."},
+      {"en": "He has a donkey on his farm.", "es": "Él tiene un burro en su granja."},
+      {"en": "The donkey brays loudly.", "es": "El burro rebuzna fuerte."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_86",
+    "english": "mule",
+    "spanish": "mula",
+    "phonetic": "/mjuːl/",
+    "examples": [
+      {"en": "The mule is a cross between a horse and a donkey.", "es": "La mula es un cruce entre un caballo y un burro."},
+      {"en": "Mules are strong and hardworking.", "es": "Las mulas son fuertes y trabajadoras."},
+      {"en": "He uses a mule to carry supplies.", "es": "Él usa una mula para llevar suministros."},
+      {"en": "Mules cannot have babies.", "es": "Las mulas no pueden tener crías."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_87",
+    "english": "zebu",
+    "spanish": "cebu",
+    "phonetic": "/ˈziːbuː/",
+    "examples": [
+      {"en": "The zebu has a hump on its back.", "es": "El cebú tiene una joroba en la espalda."},
+      {"en": "Zebus are common in India.", "es": "Los cebúes son comunes en la India."},
+      {"en": "He saw a zebu in a rural village.", "es": "Él vio un cebú en un pueblo rural."},
+      {"en": "Zebus are a type of cattle.", "es": "Los cebúes son un tipo de ganado."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_88",
+    "english": "yak",
+    "spanish": "yak",
+    "phonetic": "/jæk/",
+    "examples": [
+      {"en": "The yak has long hair and lives in cold mountains.", "es": "El yak tiene pelo largo y vive en montañas frías."},
+      {"en": "Yaks are used in Tibet for milk and transport.", "es": "Los yaks se usan en el Tíbet para leche y transporte."},
+      {"en": "She saw yaks in the Himalayas.", "es": "Ella vio yaks en el Himalaya."},
+      {"en": "Yaks have thick fur to stay warm.", "es": "Los yaks tienen pelaje grueso para mantenerse calientes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_89",
+    "english": "reindeer",
+    "spanish": "reno",
+    "phonetic": "/ˈreɪndɪr/",
+    "examples": [
+      {"en": "The reindeer pulls Santa’s sleigh.", "es": "El reno tira del trineo de Santa."},
+      {"en": "Reindeer live in the Arctic.", "es": "Los renos viven en el Ártico."},
+      {"en": "He saw reindeer in Lapland.", "es": "Él vio renos en Laponia."},
+      {"en": "Both male and female reindeer have antlers.", "es": "Tanto los renos machos como hembras tienen astas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_90",
+    "english": "walrus",
+    "spanish": "morsa",
+    "phonetic": "/ˈwɔːlrəs/",
+    "examples": [
+      {"en": "The walrus has long tusks.", "es": "La morsa tiene colmillos largos."},
+      {"en": "Walruses live in the Arctic Ocean.", "es": "Las morsas viven en el Océano Ártico."},
+      {"en": "She saw a walrus on an ice floe.", "es": "Ella vio una morsa en un témpano de hielo."},
+      {"en": "Walruses are large marine mammals.", "es": "Las morsas son mamíferos marinos grandes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_91",
+    "english": "seal",
+    "spanish": "foca",
+    "phonetic": "/siːl/",
+    "examples": [
+      {"en": "The seal is swimming in the ocean.", "es": "La foca está nadando en el océano."},
+      {"en": "Seals have flippers for swimming.", "es": "Las focas tienen aletas para nadar."},
+      {"en": "He saw seals on the beach.", "es": "Él vio focas en la playa."},
+      {"en": "Seals are playful animals.", "es": "Las focas son animales juguetones."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_92",
+    "english": "sea lion",
+    "spanish": "león marino",
+    "phonetic": "/ˈsiː ˌlaɪən/",
+    "examples": [
+      {"en": "The sea lion barks loudly.", "es": "El león marino ladra fuerte."},
+      {"en": "Sea lions can walk on land with their flippers.", "es": "Los leones marinos pueden caminar en tierra con sus aletas."},
+      {"en": "She saw sea lions at the pier.", "es": "Ella vio leones marinos en el muelle."},
+      {"en": "Sea lions are social animals.", "es": "Los leones marinos son animales sociales."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_93",
+    "english": "manatee",
+    "spanish": "manatí",
+    "phonetic": "/ˈmænətiː/",
+    "examples": [
+      {"en": "The manatee is a gentle sea cow.", "es": "El manatí es una vaca marina gentil."},
+      {"en": "Manatees eat sea grass.", "es": "Los manatíes comen pasto marino."},
+      {"en": "He saw a manatee in Florida.", "es": "Él vio un manatí en Florida."},
+      {"en": "Manatees are endangered.", "es": "Los manatíes están en peligro de extinción."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_94",
+    "english": "platypus",
+    "spanish": "ornitorrinco",
+    "phonetic": "/ˈplætɪpəs/",
+    "examples": [
+      {"en": "The platypus has a duck-like bill.", "es": "El ornitorrinco tiene un pico similar al de un pato."},
+      {"en": "Platypuses lay eggs but are mammals.", "es": "Los ornitorrincos ponen huevos pero son mamíferos."},
+      {"en": "She saw a platypus in Australia.", "es": "Ella vio un ornitorrinco en Australia."},
+      {"en": "The platypus is a unique animal.", "es": "El ornitorrinco es un animal único."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_95",
+    "english": "echidna",
+    "spanish": "equidna",
+    "phonetic": "/ɪˈkɪdnə/",
+    "examples": [
+      {"en": "The echidna has spines like a porcupine.", "es": "La equidna tiene espinas como un puercoespín."},
+      {"en": "Echidnas lay eggs.", "es": "Las equidnas ponen huevos."},
+      {"en": "He saw an echidna in the wild.", "es": "Él vio una equidna en estado salvaje."},
+      {"en": "Echidnas eat ants and termites.", "es": "Las equidnas comen hormigas y termitas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_96",
+    "english": "koala",
+    "spanish": "koala",
+    "phonetic": "/koʊˈɑːlə/",
+    "examples": [
+      {"en": "The koala sleeps in eucalyptus trees.", "es": "El koala duerme en árboles de eucalipto."},
+      {"en": "Koalas eat eucalyptus leaves.", "es": "Los koalas comen hojas de eucalipto."},
+      {"en": "She saw a koala in Australia.", "es": "Ella vio un koala en Australia."},
+      {"en": "Koalas are marsupials.", "es": "Los koalas son marsupiales."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_97",
+    "english": "wombat",
+    "spanish": "vombato",
+    "phonetic": "/ˈwɑːmbæt/",
+    "examples": [
+      {"en": "The wombat digs burrows in the ground.", "es": "El vombato cava madrigueras en la tierra."},
+      {"en": "Wombats are nocturnal animals.", "es": "Los vombatos son animales nocturnos."},
+      {"en": "He saw a wombat at the zoo.", "es": "Él vio un vombato en el zoológico."},
+      {"en": "Wombats have strong claws.", "es": "Los vombatos tienen garras fuertes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_98",
+    "english": "sloth",
+    "spanish": "perezoso",
+    "phonetic": "/sloʊθ/",
+    "examples": [
+      {"en": "The sloth moves very slowly.", "es": "El perezoso se mueve muy lentamente."},
+      {"en": "Sloths live in trees in the rainforest.", "es": "Los perezosos viven en árboles en la selva tropical."},
+      {"en": "She saw a sloth in Costa Rica.", "es": "Ella vio un perezoso en Costa Rica."},
+      {"en": "Sloths sleep up to 20 hours a day.", "es": "Los perezosos duermen hasta 20 horas al día."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_99",
+    "english": "anteater",
+    "spanish": "oso hormiguero",
+    "phonetic": "/ˈæntˌiːtər/",
+    "examples": [
+      {"en": "The anteater has a long snout.", "es": "El oso hormiguero tiene un hocico largo."},
+      {"en": "Anteaters eat ants and termites.", "es": "Los osos hormigueros comen hormigas y termitas."},
+      {"en": "He saw an anteater in Brazil.", "es": "Él vio un oso hormiguero en Brasil."},
+      {"en": "Anteaters have long claws.", "es": "Los osos hormigueros tienen garras largas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_100",
+    "english": "armadillo",
+    "spanish": "armadillo",
+    "phonetic": "/ˌɑːrməˈdɪloʊ/",
+    "examples": [
+      {"en": "The armadillo curls into a ball when scared.", "es": "El armadillo se enrolla en una bola cuando tiene miedo."},
+      {"en": "Armadillos have bony plates on their back.", "es": "Los armadillos tienen placas óseas en la espalda."},
+      {"en": "She saw an armadillo at night.", "es": "Ella vio un armadillo por la noche."},
+      {"en": "Armadillos are native to the Americas.", "es": "Los armadillos son nativos de América."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_101",
+    "english": "jellyfish",
+    "spanish": "medusa",
+    "phonetic": "/ˈdʒɛlifɪʃ/",
+    "examples": [
+      {"en": "The jellyfish floats in the ocean.", "es": "La medusa flota en el océano."},
+      {"en": "Some jellyfish can sting.", "es": "Algunas medusas pueden picar."},
+      {"en": "He saw a jellyfish at the aquarium.", "es": "Él vio una medusa en el acuario."},
+      {"en": "Jellyfish have no brain or heart.", "es": "Las medusas no tienen cerebro ni corazón."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_102",
+    "english": "starfish",
+    "spanish": "estrella de mar",
+    "phonetic": "/ˈstɑːrfɪʃ/",
+    "examples": [
+      {"en": "The starfish has five arms.", "es": "La estrella de mar tiene cinco brazos."},
+      {"en": "Starfish can regrow lost arms.", "es": "Las estrellas de mar pueden regenerar brazos perdidos."},
+      {"en": "She found a starfish on the beach.", "es": "Ella encontró una estrella de mar en la playa."},
+      {"en": "Starfish live on the ocean floor.", "es": "Las estrellas de mar viven en el fondo del océano."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_103",
+    "english": "seahorse",
+    "spanish": "caballito de mar",
+    "phonetic": "/ˈsiːhɔːrs/",
+    "examples": [
+      {"en": "The seahorse swims upright.", "es": "El caballito de mar nada en posición vertical."},
+      {"en": "Male seahorses carry the babies.", "es": "Los caballitos de mar macho llevan a las crías."},
+      {"en": "He saw a seahorse in the coral reef.", "es": "Él vio un caballito de mar en el arrecife de coral."},
+      {"en": "Seahorses are small and delicate.", "es": "Los caballitos de mar son pequeños y delicados."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_104",
+    "english": "clownfish",
+    "spanish": "pez payaso",
+    "phonetic": "/ˈklaʊnfɪʃ/",
+    "examples": [
+      {"en": "The clownfish lives in sea anemones.", "es": "El pez payaso vive en anémonas de mar."},
+      {"en": "Clownfish are orange with white stripes.", "es": "Los peces payaso son naranjas con rayas blancas."},
+      {"en": "She saw a clownfish while snorkeling.", "es": "Ella vio un pez payaso mientras buceaba con tubo."},
+      {"en": "Clownfish are popular in aquariums.", "es": "Los peces payaso son populares en acuarios."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_105",
+    "english": "swordfish",
+    "spanish": "pez espada",
+    "phonetic": "/ˈsɔːrdfɪʃ/",
+    "examples": [
+      {"en": "The swordfish has a long, flat bill.", "es": "El pez espada tiene un pico largo y plano."},
+      {"en": "Swordfish swim very fast.", "es": "Los peces espada nadan muy rápido."},
+      {"en": "He caught a swordfish while fishing.", "es": "Él atrapó un pez espada mientras pescaba."},
+      {"en": "Swordfish are large ocean fish.", "es": "Los peces espada son peces oceánicos grandes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_106",
+    "english": "tuna",
+    "spanish": "atún",
+    "phonetic": "/ˈtuːnə/",
+    "examples": [
+      {"en": "Tuna is often used in sandwiches.", "es": "El atún se usa a menudo en sándwiches."},
+      {"en": "Tuna swim in large schools.", "es": "Los atunes nadan en grandes cardúmenes."},
+      {"en": "He eats tuna for lunch.", "es": "Él come atún para el almuerzo."},
+      {"en": "Tuna are fast swimmers.", "es": "Los atunes son nadadores rápidos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_107",
+    "english": "salmon",
+    "spanish": "salmón",
+    "phonetic": "/ˈsæmən/",
+    "examples": [
+      {"en": "Salmon swim upstream to spawn.", "es": "Los salmones nadan río arriba para desovar."},
+      {"en": "Salmon is rich in omega-3.", "es": "El salmón es rico en omega-3."},
+      {"en": "She grilled salmon for dinner.", "es": "Ella asó salmón para la cena."},
+      {"en": "Salmon are born in freshwater.", "es": "Los salmones nacen en agua dulce."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_108",
+    "english": "trout",
+    "spanish": "trucha",
+    "phonetic": "/traʊt/",
+    "examples": [
+      {"en": "The trout lives in cold rivers.", "es": "La trucha vive en ríos fríos."},
+      {"en": "He caught a trout while fishing.", "es": "Él atrapó una trucha mientras pescaba."},
+      {"en": "Trout have speckled skin.", "es": "Las truchas tienen piel moteada."},
+      {"en": "Trout are popular in sport fishing.", "es": "Las truchas son populares en la pesca deportiva."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_109",
+    "english": "eel",
+    "spanish": "anguila",
+    "phonetic": "/iːl/",
+    "examples": [
+      {"en": "The eel looks like a snake.", "es": "La anguila se parece a una serpiente."},
+      {"en": "Eels live in oceans and rivers.", "es": "Las anguilas viven en océanos y ríos."},
+      {"en": "He saw an eel in the aquarium.", "es": "Él vio una anguila en el acuario."},
+      {"en": "Eels can swim backward.", "es": "Las anguilas pueden nadar hacia atrás."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_110",
+    "english": "ray",
+    "spanish": "raya",
+    "phonetic": "/reɪ/",
+    "examples": [
+      {"en": "The ray glides through the water.", "es": "La raya se desliza por el agua."},
+      {"en": "Rays have flat bodies and long tails.", "es": "Las rayas tienen cuerpos planos y colas largas."},
+      {"en": "She saw a stingray at the beach.", "es": "Ella vio una raya en la playa."},
+      {"en": "Some rays can deliver a painful sting.", "es": "Algunas rayas pueden dar una picadura dolorosa."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_111",
+    "english": "jaguar",
+    "spanish": "jaguar",
+    "phonetic": "/ˈdʒæɡjuər/",
+    "examples": [
+      {"en": "The jaguar is a powerful wild cat.", "es": "El jaguar es un gato salvaje poderoso."},
+      {"en": "Jaguars live in the rainforest.", "es": "Los jaguares viven en la selva tropical."},
+      {"en": "He saw a jaguar in the Amazon.", "es": "Él vio un jaguar en el Amazonas."},
+      {"en": "Jaguars have spotted fur.", "es": "Los jaguares tienen pelaje moteado."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_112",
+    "english": "leopard",
+    "spanish": "leopardo",
+    "phonetic": "/ˈlepərd/",
+    "examples": [
+      {"en": "The leopard has spots and is very fast.", "es": "El leopardo tiene manchas y es muy rápido."},
+      {"en": "Leopards climb trees easily.", "es": "Los leopardos trepan árboles fácilmente."},
+      {"en": "She saw a leopard on safari.", "es": "Ella vio un leopardo en el safari."},
+      {"en": "Leopards are solitary animals.", "es": "Los leopardos son animales solitarios."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_113",
+    "english": "cheetah",
+    "spanish": "guepardo",
+    "phonetic": "/ˈtʃiːtə/",
+    "examples": [
+      {"en": "The cheetah is the fastest land animal.", "es": "El guepardo es el animal terrestre más rápido."},
+      {"en": "Cheetahs have tear-like marks on their face.", "es": "Los guepardos tienen marcas como lágrimas en la cara."},
+      {"en": "He saw a cheetah in Kenya.", "es": "Él vio un guepardo en Kenia."},
+      {"en": "Cheetahs hunt during the day.", "es": "Los guepardos cazan durante el día."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_114",
+    "english": "hyena",
+    "spanish": "hiena",
+    "phonetic": "/haɪˈiːnə/",
+    "examples": [
+      {"en": "The hyena laughs loudly.", "es": "La hiena ríe fuerte."},
+      {"en": "Hyenas are scavengers.", "es": "Las hienas son carroñeras."},
+      {"en": "She saw hyenas at night.", "es": "Ella vio hienas por la noche."},
+      {"en": "Hyenas live in groups called clans.", "es": "Las hienas viven en grupos llamados clanes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_115",
+    "english": "meerkat",
+    "spanish": "suricato",
+    "phonetic": "/ˈmɪərkæt/",
+    "examples": [
+      {"en": "The meerkat stands on its hind legs.", "es": "El suricato se para sobre sus patas traseras."},
+      {"en": "Meerkats live in groups in the desert.", "es": "Los suricatos viven en grupos en el desierto."},
+      {"en": "He saw meerkats in a documentary.", "es": "Él vio suricatos en un documental."},
+      {"en": "Meerkats take turns watching for predators.", "es": "Los suricatos se turnan para vigilar depredadores."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_116",
+    "english": "chimpanzee",
+    "spanish": "chimpancé",
+    "phonetic": "/ˌtʃɪmpænˈziː/",
+    "examples": [
+      {"en": "The chimpanzee uses tools.", "es": "El chimpancé usa herramientas."},
+      {"en": "Chimpanzees are very intelligent.", "es": "Los chimpancés son muy inteligentes."},
+      {"en": "She saw chimpanzees in a sanctuary.", "es": "Ella vio chimpancés en un santuario."},
+      {"en": "Chimpanzees live in Africa.", "es": "Los chimpancés viven en África."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_117",
+    "english": "orangutan",
+    "spanish": "orangután",
+    "phonetic": "/ˌɔːræŋɡəˈtæn/",
+    "examples": [
+      {"en": "The orangutan has long red hair.", "es": "El orangután tiene pelo rojo largo."},
+      {"en": "Orangutans live in trees in Borneo.", "es": "Los orangutanes viven en árboles en Borneo."},
+      {"en": "He saw an orangutan at the zoo.", "es": "Él vio un orangután en el zoológico."},
+      {"en": "Orangutans are endangered.", "es": "Los orangutanes están en peligro de extinción."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_118",
+    "english": "baboon",
+    "spanish": "babuino",
+    "phonetic": "/bəˈbuːn/",
+    "examples": [
+      {"en": "The baboon has a long face and sharp teeth.", "es": "El babuino tiene una cara larga y dientes afilados."},
+      {"en": "Baboons live in large groups.", "es": "Los babuinos viven en grupos grandes."},
+      {"en": "She saw baboons in South Africa.", "es": "Ella vio babuinos en Sudáfrica."},
+      {"en": "Baboons are intelligent primates.", "es": "Los babuinos son primates inteligentes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_119",
+    "english": "lemur",
+    "spanish": "lémur",
+    "phonetic": "/ˈliːmər/",
+    "examples": [
+      {"en": "The lemur has big eyes and a long tail.", "es": "El lémur tiene ojos grandes y una cola larga."},
+      {"en": "Lemurs live only in Madagascar.", "es": "Los lémures viven solo en Madagascar."},
+      {"en": "He saw a ring-tailed lemur at the zoo.", "es": "Él vio un lémur de cola anillada en el zoológico."},
+      {"en": "Lemurs are endangered.", "es": "Los lémures están en peligro de extinción."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_120",
+    "english": "sloth bear",
+    "spanish": "oso perezoso",
+    "phonetic": "/sloʊθ ber/",
+    "examples": [
+      {"en": "The sloth bear has long claws for digging.", "es": "El oso perezoso tiene garras largas para cavar."},
+      {"en": "Sloth bears live in India and Sri Lanka.", "es": "Los osos perezosos viven en la India y Sri Lanka."},
+      {"en": "She saw a sloth bear in a wildlife reserve.", "es": "Ella vio un oso perezoso en una reserva natural."},
+      {"en": "Sloth bears eat termites and honey.", "es": "Los osos perezosos comen termitas y miel."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_121",
+    "english": "polar bear",
+    "spanish": "oso polar",
+    "phonetic": "/ˈpoʊlər ber/",
+    "examples": [
+      {"en": "The polar bear lives in the Arctic.", "es": "El oso polar vive en el Ártico."},
+      {"en": "Polar bears have white fur and black skin.", "es": "Los osos polares tienen pelaje blanco y piel negra."},
+      {"en": "He saw a polar bear on a documentary.", "es": "Él vio un oso polar en un documental."},
+      {"en": "Polar bears are threatened by climate change.", "es": "Los osos polares están amenazados por el cambio climático."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_122",
+    "english": "grizzly bear",
+    "spanish": "oso grizzly",
+    "phonetic": "/ˈɡrɪzli ber/",
+    "examples": [
+      {"en": "The grizzly bear is very large and strong.", "es": "El oso grizzly es muy grande y fuerte."},
+      {"en": "Grizzly bears live in North America.", "es": "Los osos grizzly viven en Norteamérica."},
+      {"en": "She saw a grizzly bear in Yellowstone.", "es": "Ella vio un oso grizzly en Yellowstone."},
+      {"en": "Grizzly bears eat fish and berries.", "es": "Los osos grizzly comen pescado y bayas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_123",
+    "english": "black bear",
+    "spanish": "oso negro",
+    "phonetic": "/blæk ber/",
+    "examples": [
+      {"en": "The black bear is smaller than a grizzly.", "es": "El oso negro es más pequeño que un grizzly."},
+      {"en": "Black bears live in forests.", "es": "Los osos negros viven en bosques."},
+      {"en": "He saw a black bear in the mountains.", "es": "Él vio un oso negro en las montañas."},
+      {"en": "Black bears are good climbers.", "es": "Los osos negros son buenos trepadores."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_124",
+    "english": "red fox",
+    "spanish": "zorro rojo",
+    "phonetic": "/red fɑːks/",
+    "examples": [
+      {"en": "The red fox has a bushy tail.", "es": "El zorro rojo tiene una cola peluda."},
+      {"en": "Red foxes live in many parts of the world.", "es": "Los zorros rojos viven en muchas partes del mundo."},
+      {"en": "She saw a red fox at dawn.", "es": "Ella vio un zorro rojo al amanecer."},
+      {"en": "Red foxes are very adaptable.", "es": "Los zorros rojos son muy adaptables."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_125",
+    "english": "gray wolf",
+    "spanish": "lobo gris",
+    "phonetic": "/ɡreɪ wʊlf/",
+    "examples": [
+      {"en": "The gray wolf howls at the moon.", "es": "El lobo gris aúlla a la luna."},
+      {"en": "Gray wolves live in packs.", "es": "Los lobos grises viven en manadas."},
+      {"en": "He saw a gray wolf in the wild.", "es": "Él vio un lobo gris en estado salvaje."},
+      {"en": "Gray wolves are social animals.", "es": "Los lobos grises son animales sociales."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_126",
+    "english": "coyote",
+    "spanish": "coyote",
+    "phonetic": "/ˈkaɪoʊt/",
+    "examples": [
+      {"en": "The coyote howls at night.", "es": "El coyote aúlla por la noche."},
+      {"en": "Coyotes are smaller than wolves.", "es": "Los coyotes son más pequeños que los lobos."},
+      {"en": "She heard a coyote in the desert.", "es": "Ella escuchó un coyote en el desierto."},
+      {"en": "Coyotes are very adaptable.", "es": "Los coyotes son muy adaptables."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_127",
+    "english": "bobcat",
+    "spanish": "lince rojo",
+    "phonetic": "/ˈbɑːbkæt/",
+    "examples": [
+      {"en": "The bobcat has short ears and a stubby tail.", "es": "El lince rojo tiene orejas cortas y una cola corta."},
+      {"en": "Bobcats are solitary hunters.", "es": "Los linces rojos son cazadores solitarios."},
+      {"en": "He saw a bobcat in the woods.", "es": "Él vio un lince rojo en el bosque."},
+      {"en": "Bobcats live in North America.", "es": "Los linces rojos viven en Norteamérica."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_128",
+    "english": "lynx",
+    "spanish": "lince",
+    "phonetic": "/lɪŋks/",
+    "examples": [
+      {"en": "The lynx has tufted ears and long legs.", "es": "El lince tiene orejas con penachos y patas largas."},
+      {"en": "Lynx live in cold forests.", "es": "Los linces viven en bosques fríos."},
+      {"en": "She saw a lynx in Canada.", "es": "Ella vio un lince en Canadá."},
+      {"en": "Lynx are excellent hunters.", "es": "Los linces son excelentes cazadores."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_129",
+    "english": "wolverine",
+    "spanish": "glotón",
+    "phonetic": "/ˈwʊlvəriːn/",
+    "examples": [
+      {"en": "The wolverine is a fierce animal.", "es": "El glotón es un animal feroz."},
+      {"en": "Wolverines live in northern forests.", "es": "Los glotones viven en bosques del norte."},
+      {"en": "He saw a wolverine in Alaska.", "es": "Él vio un glotón en Alaska."},
+      {"en": "Wolverines are strong for their size.", "es": "Los glotones son fuertes para su tamaño."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_130",
+    "english": "badger",
+    "spanish": "tejón",
+    "phonetic": "/ˈbædʒər/",
+    "examples": [
+      {"en": "The badger digs deep burrows.", "es": "El tejón cava madrigueras profundas."},
+      {"en": "Badgers have black and white faces.", "es": "Los tejones tienen caras negras y blancas."},
+      {"en": "She saw a badger at night.", "es": "Ella vio un tejón por la noche."},
+      {"en": "Badgers are solitary animals.", "es": "Los tejones son animales solitarios."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_131",
+    "english": "otter",
+    "spanish": "nutria",
+    "phonetic": "/ˈɑːtər/",
+    "examples": [
+      {"en": "The otter plays with a rock.", "es": "La nutria juega con una piedra."},
+      {"en": "Otters hold hands while sleeping.", "es": "Las nutrias se toman de las manos al dormir."},
+      {"en": "He saw otters in the river.", "es": "Él vio nutrias en el río."},
+      {"en": "Otters are very social animals.", "es": "Las nutrias son animales muy sociales."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_132",
+    "english": "beaver",
+    "spanish": "castor",
+    "phonetic": "/ˈbiːvər/",
+    "examples": [
+      {"en": "The beaver builds dams with wood.", "es": "El castor construye presas con madera."},
+      {"en": "Beavers have flat tails.", "es": "Los castores tienen colas planas."},
+      {"en": "She saw a beaver in the lake.", "es": "Ella vio un castor en el lago."},
+      {"en": "Beavers are important for ecosystems.", "es": "Los castores son importantes para los ecosistemas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_133",
+    "english": "porcupine",
+    "spanish": "puercoespín",
+    "phonetic": "/ˈpɔːrkjəpaɪn/",
+    "examples": [
+      {"en": "The porcupine raises its quills when scared.", "es": "El puercoespín levanta sus púas cuando tiene miedo."},
+      {"en": "Porcupines are nocturnal.", "es": "Los puercoespines son nocturnos."},
+      {"en": "He saw a porcupine in the forest.", "es": "Él vio un puercoespín en el bosque."},
+      {"en": "Porcupines eat bark and leaves.", "es": "Los puercoespines comen corteza y hojas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_134",
+    "english": "hedgehog",
+    "spanish": "erizo",
+    "phonetic": "/ˈhedʒhɔːɡ/",
+    "examples": [
+      {"en": "The hedgehog rolls into a ball.", "es": "El erizo se enrolla en una bola."},
+      {"en": "Hedgehogs have spines on their back.", "es": "Los erizos tienen espinas en la espalda."},
+      {"en": "She has a pet hedgehog.", "es": "Ella tiene un erizo mascota."},
+      {"en": "Hedgehogs eat insects.", "es": "Los erizos comen insectos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_135",
+    "english": "mole",
+    "spanish": "topo",
+    "phonetic": "/moʊl/",
+    "examples": [
+      {"en": "The mole digs tunnels underground.", "es": "El topo cava túneles bajo tierra."},
+      {"en": "Moles have poor eyesight.", "es": "Los topos tienen mala vista."},
+      {"en": "He found a molehill in the garden.", "es": "Él encontró un montículo de topo en el jardín."},
+      {"en": "Moles eat earthworms.", "es": "Los topos comen lombrices."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_136",
+    "english": "shrew",
+    "spanish": "musaraña",
+    "phonetic": "/ʃruː/",
+    "examples": [
+      {"en": "The shrew is a very small mammal.", "es": "La musaraña es un mamífero muy pequeño."},
+      {"en": "Shrews eat insects and worms.", "es": "Las musarañas comen insectos y gusanos."},
+      {"en": "She saw a shrew in the grass.", "es": "Ella vio una musaraña en la hierba."},
+      {"en": "Shrews have a high metabolism.", "es": "Las musarañas tienen un metabolismo alto."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_137",
+    "english": "bat",
+    "spanish": "murciélago",
+    "phonetic": "/bæt/",
+    "examples": [
+      {"en": "The bat sleeps upside down.", "es": "El murciélago duerme boca abajo."},
+      {"en": "Bats are the only flying mammals.", "es": "Los murciélagos son los únicos mamíferos voladores."},
+      {"en": "He saw bats in a cave.", "es": "Él vio murciélagos en una cueva."},
+      {"en": "Bats help control insect populations.", "es": "Los murciélagos ayudan a controlar poblaciones de insectos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_138",
+    "english": "dugong",
+    "spanish": "dugongo",
+    "phonetic": "/ˈduːɡɒŋ/",
+    "examples": [
+      {"en": "The dugong is related to the manatee.", "es": "El dugongo está relacionado con el manatí."},
+      {"en": "Dugongs eat sea grass.", "es": "Los dugongos comen pasto marino."},
+      {"en": "She saw a dugong in Australia.", "es": "Ella vio un dugongo en Australia."},
+      {"en": "Dugongs are endangered marine mammals.", "es": "Los dugongos son mamíferos marinos en peligro."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_139",
+    "english": "narwhal",
+    "spanish": "narval",
+    "phonetic": "/ˈnɑːrwɑːl/",
+    "examples": [
+      {"en": "The narwhal has a long spiral tusk.", "es": "El narval tiene un colmillo espiral largo."},
+      {"en": "Narwhals live in the Arctic.", "es": "Los narvales viven en el Ártico."},
+      {"en": "He saw a narwhal in a documentary.", "es": "Él vio un narval en un documental."},
+      {"en": "Narwhals are sometimes called unicorns of the sea.", "es": "Los narvales a veces se llaman unicornios del mar."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_140",
+    "english": "beluga",
+    "spanish": "beluga",
+    "phonetic": "/bəˈluːɡə/",
+    "examples": [
+      {"en": "The beluga is a white whale.", "es": "La beluga es una ballena blanca."},
+      {"en": "Belugas live in cold Arctic waters.", "es": "Las belugas viven en aguas frías del Ártico."},
+      {"en": "She saw a beluga at the aquarium.", "es": "Ella vio una beluga en el acuario."},
+      {"en": "Belugas are very vocal animals.", "es": "Las belugas son animales muy vocales."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_141",
+    "english": "orca",
+    "spanish": "orca",
+    "phonetic": "/ˈɔːrkə/",
+    "examples": [
+      {"en": "The orca is also called a killer whale.", "es": "La orca también se llama ballena asesina."},
+      {"en": "Orcas hunt in pods.", "es": "Las orcas cazan en grupos."},
+      {"en": "He saw orcas off the coast of Canada.", "es": "Él vio orcas frente a la costa de Canadá."},
+      {"en": "Orcas are apex predators.", "es": "Las orcas son depredadores ápice."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_142",
+    "english": "hammerhead shark",
+    "spanish": "tiburón martillo",
+    "phonetic": "/ˈhæmərhed ʃɑːrk/",
+    "examples": [
+      {"en": "The hammerhead shark has a wide head.", "es": "El tiburón martillo tiene una cabeza ancha."},
+      {"en": "Hammerhead sharks swim in schools.", "es": "Los tiburones martillo nadan en cardúmenes."},
+      {"en": "She saw a hammerhead shark while diving.", "es": "Ella vio un tiburón martillo mientras buceaba."},
+      {"en": "Hammerhead sharks have excellent vision.", "es": "Los tiburones martillo tienen una visión excelente."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_143",
+    "english": "great white shark",
+    "spanish": "tiburón blanco",
+    "phonetic": "/ɡreɪt waɪt ʃɑːrk/",
+    "examples": [
+      {"en": "The great white shark is a large predator.", "es": "El tiburón blanco es un depredador grande."},
+      {"en": "Great white sharks live in oceans worldwide.", "es": "Los tiburones blancos viven en océanos de todo el mundo."},
+      {"en": "He saw a great white shark in a documentary.", "es": "Él vio un tiburón blanco en un documental."},
+      {"en": "Great white sharks are protected in many areas.", "es": "Los tiburones blancos están protegidos en muchas áreas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_144",
+    "english": "manta ray",
+    "spanish": "manta gigante",
+    "phonetic": "/ˈmæntə reɪ/",
+    "examples": [
+      {"en": "The manta ray has wide wings.", "es": "La manta gigante tiene alas anchas."},
+      {"en": "Manta rays are gentle filter feeders.", "es": "Las mantas gigantes son filtradores suaves."},
+      {"en": "She swam with manta rays in Hawaii.", "es": "Ella nadó con mantas gigantes en Hawái."},
+      {"en": "Manta rays can be very large.", "es": "Las mantas gigantes pueden ser muy grandes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_145",
+    "english": "anglerfish",
+    "spanish": "pez rape",
+    "phonetic": "/ˈæŋɡlərfɪʃ/",
+    "examples": [
+      {"en": "The anglerfish has a light on its head.", "es": "El pez rape tiene una luz en la cabeza."},
+      {"en": "Anglerfish live in deep ocean waters.", "es": "Los peces rape viven en aguas profundas del océano."},
+      {"en": "He saw an anglerfish in a deep-sea video.", "es": "Él vio un pez rape en un video de aguas profundas."},
+      {"en": "Female anglerfish are larger than males.", "es": "Las hembras de pez rape son más grandes que los machos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_146",
+    "english": "pufferfish",
+    "spanish": "pez globo",
+    "phonetic": "/ˈpʌfərfɪʃ/",
+    "examples": [
+      {"en": "The pufferfish inflates when threatened.", "es": "El pez globo se infla cuando está amenazado."},
+      {"en": "Pufferfish can be poisonous.", "es": "Los peces globo pueden ser venenosos."},
+      {"en": "She saw a pufferfish while snorkeling.", "es": "Ella vio un pez globo mientras buceaba con tubo."},
+      {"en": "Pufferfish are slow swimmers.", "es": "Los peces globo son nadadores lentos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_147",
+    "english": "seahorse",
+    "spanish": "caballito de mar",
+    "phonetic": "/ˈsiːhɔːrs/",
+    "examples": [
+      {"en": "The seahorse holds onto seaweed with its tail.", "es": "El caballito de mar se sujeta al alga con su cola."},
+      {"en": "Seahorses are monogamous.", "es": "Los caballitos de mar son monógamos."},
+      {"en": "He saw a seahorse in an aquarium.", "es": "Él vio un caballito de mar en un acuario."},
+      {"en": "Seahorses are poor swimmers.", "es": "Los caballitos de mar son malos nadadores."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_148",
+    "english": "cuttlefish",
+    "spanish": "sepia",
+    "phonetic": "/ˈkʌtl̩fɪʃ/",
+    "examples": [
+      {"en": "The cuttlefish can change color instantly.", "es": "La sepia puede cambiar de color al instante."},
+      {"en": "Cuttlefish have eight arms and two tentacles.", "es": "Las sepias tienen ocho brazos y dos tentáculos."},
+      {"en": "She saw a cuttlefish in the ocean.", "es": "Ella vio una sepia en el océano."},
+      {"en": "Cuttlefish are intelligent cephalopods.", "es": "Las sepias son cefalópodos inteligentes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_149",
+    "english": "squid",
+    "spanish": "calamar",
+    "phonetic": "/skwɪd/",
+    "examples": [
+      {"en": "The squid has ten arms.", "es": "El calamar tiene diez brazos."},
+      {"en": "Squid can squirt ink to escape.", "es": "Los calamares pueden expulsar tinta para escapar."},
+      {"en": "He ate squid at the restaurant.", "es": "Él comió calamar en el restaurante."},
+      {"en": "Giant squid live in deep water.", "es": "Los calamares gigantes viven en aguas profundas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_150",
+    "english": "lobster",
+    "spanish": "langosta",
+    "phonetic": "/ˈlɑːbstər/",
+    "examples": [
+      {"en": "The lobster turns red when cooked.", "es": "La langosta se vuelve roja al cocinarse."},
+      {"en": "Lobsters have strong claws.", "es": "Las langostas tienen pinzas fuertes."},
+      {"en": "She ordered lobster for dinner.", "es": "Ella pidió langosta para la cena."},
+      {"en": "Lobsters can live for over 100 years.", "es": "Las langostas pueden vivir más de 100 años."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_151",
+    "english": "crayfish",
+    "spanish": "cangrejo de río",
+    "phonetic": "/ˈkreɪfɪʃ/",
+    "examples": [
+      {"en": "The crayfish lives in freshwater streams.", "es": "El cangrejo de río vive en arroyos de agua dulce."},
+      {"en": "Crayfish look like small lobsters.", "es": "Los cangrejos de río se parecen a langostas pequeñas."},
+      {"en": "He caught a crayfish in the creek.", "es": "Él atrapó un cangrejo de río en el arroyo."},
+      {"en": "Crayfish are used in Cajun cooking.", "es": "Los cangrejos de río se usan en la cocina cajún."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_152",
+    "english": "hermit crab",
+    "spanish": "cangrejo ermitaño",
+    "phonetic": "/ˈhɜːrmɪt kræb/",
+    "examples": [
+      {"en": "The hermit crab lives in a borrowed shell.", "es": "El cangrejo ermitaño vive en una concha prestada."},
+      {"en": "Hermit crabs change shells as they grow.", "es": "Los cangrejos ermitaños cambian de concha al crecer."},
+      {"en": "She has a hermit crab as a pet.", "es": "Ella tiene un cangrejo ermitaño como mascota."},
+      {"en": "Hermit crabs live near the ocean.", "es": "Los cangrejos ermitaños viven cerca del océano."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_153",
+    "english": "starfish",
+    "spanish": "estrella de mar",
+    "phonetic": "/ˈstɑːrfɪʃ/",
+    "examples": [
+      {"en": "The starfish regenerates lost arms.", "es": "La estrella de mar regenera brazos perdidos."},
+      {"en": "Starfish come in many colors.", "es": "Las estrellas de mar vienen en muchos colores."},
+      {"en": "He found a starfish on the shore.", "es": "Él encontró una estrella de mar en la orilla."},
+      {"en": "Starfish are not actually fish.", "es": "Las estrellas de mar no son en realidad peces."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_154",
+    "english": "sea urchin",
+    "spanish": "erizo de mar",
+    "phonetic": "/siː ˈɜːrtʃɪn/",
+    "examples": [
+      {"en": "The sea urchin has sharp spines.", "es": "El erizo de mar tiene espinas afiladas."},
+      {"en": "Sea urchins live on the ocean floor.", "es": "Los erizos de mar viven en el fondo del océano."},
+      {"en": "She saw a sea urchin while diving.", "es": "Ella vio un erizo de mar mientras buceaba."},
+      {"en": "Sea urchin roe is a delicacy.", "es": "Las huevas de erizo de mar son una delicia."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_155",
+    "english": "coral",
+    "spanish": "coral",
+    "phonetic": "/ˈkɔːrəl/",
+    "examples": [
+      {"en": "Coral builds reefs in warm oceans.", "es": "El coral construye arrecifes en océanos cálidos."},
+      {"en": "Coral is made of tiny animals.", "es": "El coral está hecho de animales diminutos."},
+      {"en": "She saw colorful coral while snorkeling.", "es": "Ella vio coral colorido mientras buceaba con tubo."},
+      {"en": "Coral reefs are endangered ecosystems.", "es": "Los arrecifes de coral son ecosistemas en peligro."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_156",
+    "english": "anemone",
+    "spanish": "anémona de mar",
+    "phonetic": "/əˈneməni/",
+    "examples": [
+      {"en": "The anemone has stinging tentacles.", "es": "La anémona de mar tiene tentáculos urticantes."},
+      {"en": "Anemones host clownfish.", "es": "Las anémonas albergan peces payaso."},
+      {"en": "He saw an anemone in the tide pool.", "es": "Él vio una anémona en la poza de marea."},
+      {"en": "Anemones are related to jellyfish.", "es": "Las anémonas están relacionadas con las medusas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_157",
+    "english": "jellyfish",
+    "spanish": "medusa",
+    "phonetic": "/ˈdʒɛlifɪʃ/",
+    "examples": [
+      {"en": "The jellyfish pulses through the water.", "es": "La medusa se impulsa por el agua."},
+      {"en": "Some jellyfish glow in the dark.", "es": "Algunas medusas brillan en la oscuridad."},
+      {"en": "She avoided jellyfish at the beach.", "es": "Ella evitó medusas en la playa."},
+      {"en": "Jellyfish have been around for millions of years.", "es": "Las medusas han existido durante millones de años."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_158",
+    "english": "dragonfly",
+    "spanish": "libélula",
+    "phonetic": "/ˈdræɡənflaɪ/",
+    "examples": [
+      {"en": "The dragonfly hovers near the pond.", "es": "La libélula se mantiene suspendida cerca del estanque."},
+      {"en": "Dragonflies eat mosquitoes.", "es": "Las libélulas comen mosquitos."},
+      {"en": "He saw a blue dragonfly in the garden.", "es": "Él vio una libélula azul en el jardín."},
+      {"en": "Dragonflies have four wings.", "es": "Las libélulas tienen cuatro alas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_159",
+    "english": "grasshopper",
+    "spanish": "saltamontes",
+    "phonetic": "/ˈɡræshɑːpər/",
+    "examples": [
+      {"en": "The grasshopper jumps with its strong legs.", "es": "El saltamontes salta con sus patas fuertes."},
+      {"en": "Grasshoppers eat plants.", "es": "Los saltamontes comen plantas."},
+      {"en": "She heard grasshoppers in the field.", "es": "Ella escuchó saltamontes en el campo."},
+      {"en": "Grasshoppers can be agricultural pests.", "es": "Los saltamontes pueden ser plagas agrícolas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_160",
+    "english": "cricket",
+    "spanish": "grillo",
+    "phonetic": "/ˈkrɪkɪt/",
+    "examples": [
+      {"en": "The cricket chirps at night.", "es": "El grillo canta por la noche."},
+      {"en": "Crickets rub their wings to make sound.", "es": "Los grillos frotan sus alas para hacer sonido."},
+      {"en": "He found a cricket in the house.", "es": "Él encontró un grillo en la casa."},
+      {"en": "Crickets are considered good luck in some cultures.", "es": "Los grillos se consideran buena suerte en algunas culturas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_161",
+    "english": "ladybug",
+    "spanish": "mariquita",
+    "phonetic": "/ˈleɪdibʌɡ/",
+    "examples": [
+      {"en": "The ladybug has red wings with black spots.", "es": "La mariquita tiene alas rojas con puntos negros."},
+      {"en": "Ladybugs eat aphids.", "es": "Las mariquitas comen áfidos."},
+      {"en": "She saw a ladybug on a leaf.", "es": "Ella vio una mariquita en una hoja."},
+      {"en": "Ladybugs are considered lucky.", "es": "Las mariquitas se consideran de buena suerte."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_162",
+    "english": "mosquito",
+    "spanish": "mosquito",
+    "phonetic": "/məˈskiːtoʊ/",
+    "examples": [
+      {"en": "The mosquito bites and sucks blood.", "es": "El mosquito pica y chupa sangre."},
+      {"en": "Mosquitoes spread diseases like malaria.", "es": "Los mosquitos propagan enfermedades como la malaria."},
+      {"en": "He swatted a mosquito.", "es": "Él aplastó un mosquito."},
+      {"en": "Mosquitoes breed in standing water.", "es": "Los mosquitos se reproducen en agua estancada."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_163",
+    "english": "fly",
+    "spanish": "mosca",
+    "phonetic": "/flaɪ/",
+    "examples": [
+      {"en": "The fly is buzzing around the kitchen.", "es": "La mosca está zumbando por la cocina."},
+      {"en": "Flies land on food and spread germs.", "es": "Las moscas aterrizan en la comida y propagan gérmenes."},
+      {"en": "She swatted a fly with a newspaper.", "es": "Ella aplastó una mosca con un periódico."},
+      {"en": "Flies have compound eyes.", "es": "Las moscas tienen ojos compuestos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_164",
+    "english": "cockroach",
+    "spanish": "cucaracha",
+    "phonetic": "/ˈkɑːkroʊtʃ/",
+    "examples": [
+      {"en": "The cockroach ran under the fridge.", "es": "La cucaracha corrió bajo el refrigerador."},
+      {"en": "Cockroaches are hard to kill.", "es": "Las cucarachas son difíciles de matar."},
+      {"en": "He saw a cockroach in the bathroom.", "es": "Él vio una cucaracha en el baño."},
+      {"en": "Cockroaches prefer dark, damp places.", "es": "Las cucarachas prefieren lugares oscuros y húmedos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_165",
+    "english": "termite",
+    "spanish": "termita",
+    "phonetic": "/ˈtɜːrmaɪt/",
+    "examples": [
+      {"en": "Termites eat wood.", "es": "Las termitas comen madera."},
+      {"en": "Termites live in large colonies.", "es": "Las termitas viven en colonias grandes."},
+      {"en": "He found termites in the old house.", "es": "Él encontró termitas en la casa vieja."},
+      {"en": "Termites can cause structural damage.", "es": "Las termitas pueden causar daños estructurales."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_166",
+    "english": "wasp",
+    "spanish": "avispa",
+    "phonetic": "/wɑːsp/",
+    "examples": [
+      {"en": "The wasp has a painful sting.", "es": "La avispa tiene una picadura dolorosa."},
+      {"en": "Wasps build paper-like nests.", "es": "Las avispas construyen nidos parecidos al papel."},
+      {"en": "She was stung by a wasp.", "es": "Ella fue picada por una avispa."},
+      {"en": "Wasps are beneficial but aggressive.", "es": "Las avispas son beneficiosas pero agresivas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_167",
+    "english": "hornet",
+    "spanish": "avispa gigante",
+    "phonetic": "/ˈhɔːrnɪt/",
+    "examples": [
+      {"en": "The hornet is larger than a wasp.", "es": "La avispa gigante es más grande que una avispa."},
+      {"en": "Hornets can be very aggressive.", "es": "Las avispas gigantes pueden ser muy agresivas."},
+      {"en": "He saw a hornet nest in the tree.", "es": "Él vio un nido de avispa gigante en el árbol."},
+      {"en": "Hornet stings are very painful.", "es": "Las picaduras de avispa gigante son muy dolorosas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_168",
+    "english": "firefly",
+    "spanish": "luciérnaga",
+    "phonetic": "/ˈfaɪərflaɪ/",
+    "examples": [
+      {"en": "The firefly glows in the dark.", "es": "La luciérnaga brilla en la oscuridad."},
+      {"en": "Fireflies light up summer nights.", "es": "Las luciérnagas iluminan las noches de verano."},
+      {"en": "She saw fireflies in the countryside.", "es": "Ella vio luciérnagas en el campo."},
+      {"en": "Fireflies use light to attract mates.", "es": "Las luciérnagas usan la luz para atraer parejas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_169",
+    "english": "cicada",
+    "spanish": "cigarra",
+    "phonetic": "/sɪˈkɑːdə/",
+    "examples": [
+      {"en": "The cicada makes a loud buzzing sound.", "es": "La cigarra hace un sonido zumbante fuerte."},
+      {"en": "Cicadas emerge every 13 or 17 years.", "es": "Las cigarras emergen cada 13 o 17 años."},
+      {"en": "He heard cicadas in the summer.", "es": "Él escuchó cigarras en el verano."},
+      {"en": "Cicadas spend most of their life underground.", "es": "Las cigarras pasan la mayor parte de su vida bajo tierra."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_170",
+    "english": "praying mantis",
+    "spanish": "mantis religiosa",
+    "phonetic": "/ˈpreɪɪŋ ˈmæntɪs/",
+    "examples": [
+      {"en": "The praying mantis catches insects with its arms.", "es": "La mantis religiosa atrapa insectos con sus brazos."},
+      {"en": "Praying mantises are green or brown.", "es": "Las mantis religiosas son verdes o marrones."},
+      {"en": "She saw a praying mantis in the garden.", "es": "Ella vio una mantis religiosa en el jardín."},
+      {"en": "Female mantises sometimes eat the males.", "es": "Las mantis hembras a veces comen a los machos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_171",
+    "english": "centipede",
+    "spanish": "ciempiés",
+    "phonetic": "/ˈsentɪpiːd/",
+    "examples": [
+      {"en": "The centipede has many legs.", "es": "El ciempiés tiene muchas patas."},
+      {"en": "Centipedes are fast and venomous.", "es": "Los ciempiés son rápidos y venenosos."},
+      {"en": "He found a centipede under a rock.", "es": "Él encontró un ciempiés bajo una roca."},
+      {"en": "Centipedes live in damp places.", "es": "Los ciempiés viven en lugares húmedos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_172",
+    "english": "millipede",
+    "spanish": "milpiés",
+    "phonetic": "/ˈmɪlɪpiːd/",
+    "examples": [
+      {"en": "The millipede curls into a coil when scared.", "es": "El milpiés se enrolla en una espiral cuando tiene miedo."},
+      {"en": "Millipedes have two legs per body segment.", "es": "Los milpiés tienen dos patas por segmento corporal."},
+      {"en": "She saw a millipede in the forest.", "es": "Ella vio un milpiés en el bosque."},
+      {"en": "Millipedes eat decaying plants.", "es": "Los milpiés comen plantas en descomposición."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_173",
+    "english": "scorpion",
+    "spanish": "escorpión",
+    "phonetic": "/ˈskɔːrpiən/",
+    "examples": [
+      {"en": "The scorpion hides under rocks.", "es": "El escorpión se esconde bajo las rocas."},
+      {"en": "Scorpions glow under UV light.", "es": "Los escorpiones brillan bajo luz UV."},
+      {"en": "He saw a scorpion in the desert.", "es": "Él vio un escorpión en el desierto."},
+      {"en": "Most scorpion stings are not deadly.", "es": "La mayoría de las picaduras de escorpión no son mortales."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_174",
+    "english": "tarantula",
+    "spanish": "tarántula",
+    "phonetic": "/təˈræntʃələ/",
+    "examples": [
+      {"en": "The tarantula is a large, hairy spider.", "es": "La tarántula es una araña grande y peluda."},
+      {"en": "Tarantulas are kept as pets.", "es": "Las tarántulas se tienen como mascotas."},
+      {"en": "She saw a tarantula in Mexico.", "es": "Ella vio una tarántula en México."},
+      {"en": "Tarantulas are not very dangerous to humans.", "es": "Las tarántulas no son muy peligrosas para los humanos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_175",
+    "english": "black widow",
+    "spanish": "viuda negra",
+    "phonetic": "/blæk ˈwɪdoʊ/",
+    "examples": [
+      {"en": "The black widow has a red hourglass mark.", "es": "La viuda negra tiene una marca roja en forma de reloj de arena."},
+      {"en": "Black widows are venomous spiders.", "es": "Las viudas negras son arañas venenosas."},
+      {"en": "He found a black widow in the garage.", "es": "Él encontró una viuda negra en el garaje."},
+      {"en": "Black widow bites require medical attention.", "es": "Las picaduras de viuda negra requieren atención médica."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_176",
+    "english": "brown recluse",
+    "spanish": "araña parda",
+    "phonetic": "/braʊn rɪˈkluːs/",
+    "examples": [
+      {"en": "The brown recluse is a shy spider.", "es": "La araña parda es una araña tímida."},
+      {"en": "Brown recluses have a violin-shaped mark.", "es": "Las arañas pardas tienen una marca en forma de violín."},
+      {"en": "She found a brown recluse in the basement.", "es": "Ella encontró una araña parda en el sótano."},
+      {"en": "Brown recluse bites can cause tissue damage.", "es": "Las picaduras de araña parda pueden causar daño tisular."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_177",
+    "english": "earthworm",
+    "spanish": "lombriz de tierra",
+    "phonetic": "/ˈɜːrθwɜːrm/",
+    "examples": [
+      {"en": "The earthworm aerates the soil.", "es": "La lombriz de tierra airea la tierra."},
+      {"en": "Earthworms come out after rain.", "es": "Las lombrices de tierra salen después de la lluvia."},
+      {"en": "He used earthworms for fishing bait.", "es": "Él usó lombrices de tierra como cebo para pescar."},
+      {"en": "Earthworms are important for gardens.", "es": "Las lombrices de tierra son importantes para los jardines."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_178",
+    "english": "leech",
+    "spanish": "sanguijuela",
+    "phonetic": "/liːtʃ/",
+    "examples": [
+      {"en": "The leech attaches to skin and sucks blood.", "es": "La sanguijuela se adhiere a la piel y chupa sangre."},
+      {"en": "Leeches are used in medicine.", "es": "Las sanguijuelas se usan en medicina."},
+      {"en": "He found a leech in the pond.", "es": "Él encontró una sanguijuela en el estanque."},
+      {"en": "Leeches live in freshwater.", "es": "Las sanguijuelas viven en agua dulce."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_179",
+    "english": "slug",
+    "spanish": "babosa",
+    "phonetic": "/slʌɡ/",
+    "examples": [
+      {"en": "The slug leaves a slimy trail.", "es": "La babosa deja un rastro viscoso."},
+      {"en": "Slugs eat garden plants.", "es": "Las babosas comen plantas del jardín."},
+      {"en": "She found a slug under a leaf.", "es": "Ella encontró una babosa bajo una hoja."},
+      {"en": "Slugs are like snails without shells.", "es": "Las babosas son como caracoles sin concha."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_180",
+    "english": "snail",
+    "spanish": "caracol",
+    "phonetic": "/sneɪl/",
+    "examples": [
+      {"en": "The snail carries its home on its back.", "es": "El caracol lleva su hogar en la espalda."},
+      {"en": "Snails move very slowly.", "es": "Los caracoles se mueven muy lentamente."},
+      {"en": "He saw a snail after the rain.", "es": "Él vio un caracol después de la lluvia."},
+      {"en": "Snails are used in French cuisine.", "es": "Los caracoles se usan en la cocina francesa."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_181",
+    "english": "frog",
+    "spanish": "rana",
+    "phonetic": "/frɔːɡ/",
+    "examples": [
+      {"en": "The frog croaks near the pond.", "es": "La rana croa cerca del estanque."},
+      {"en": "Frogs start life as tadpoles.", "es": "Las ranas comienzan la vida como renacuajos."},
+      {"en": "She saw a green frog in the garden.", "es": "Ella vio una rana verde en el jardín."},
+      {"en": "Frogs are amphibians.", "es": "Las ranas son anfibios."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_182",
+    "english": "toad",
+    "spanish": "sapo",
+    "phonetic": "/toʊd/",
+    "examples": [
+      {"en": "The toad has dry, bumpy skin.", "es": "El sapo tiene piel seca y con bultos."},
+      {"en": "Toads walk more than they hop.", "es": "Los sapos caminan más de lo que saltan."},
+      {"en": "He found a toad under a log.", "es": "Él encontró un sapo bajo un tronco."},
+      {"en": "Toads eat insects at night.", "es": "Los sapos comen insectos por la noche."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_183",
+    "english": "salamander",
+    "spanish": "salamandra",
+    "phonetic": "/ˈsæləmændər/",
+    "examples": [
+      {"en": "The salamander has a long tail and moist skin.", "es": "La salamandra tiene una cola larga y piel húmeda."},
+      {"en": "Salamanders live near water.", "es": "Las salamandras viven cerca del agua."},
+      {"en": "She saw a salamander in the forest.", "es": "Ella vio una salamandra en el bosque."},
+      {"en": "Salamanders can regenerate limbs.", "es": "Las salamandras pueden regenerar extremidades."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_184",
+    "english": "newt",
+    "spanish": "tritón",
+    "phonetic": "/njuːt/",
+    "examples": [
+      {"en": "The newt lives in ponds and forests.", "es": "El tritón vive en estanques y bosques."},
+      {"en": "Newts have smooth skin.", "es": "Los tritones tienen piel lisa."},
+      {"en": "He saw a newt in the stream.", "es": "Él vio un tritón en el arroyo."},
+      {"en": "Newts are a type of salamander.", "es": "Los tritones son un tipo de salamandra."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_185",
+    "english": "iguana",
+    "spanish": "iguana",
+    "phonetic": "/ɪˈɡwɑːnə/",
+    "examples": [
+      {"en": "The iguana basks in the sun.", "es": "La iguana se calienta al sol."},
+      {"en": "Iguanas are herbivores.", "es": "Las iguanas son herbívoras."},
+      {"en": "She has a pet iguana.", "es": "Ella tiene una iguana mascota."},
+      {"en": "Iguanas live in tropical areas.", "es": "Las iguanas viven en zonas tropicales."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_186",
+    "english": "gecko",
+    "spanish": "gecko",
+    "phonetic": "/ˈɡekoʊ/",
+    "examples": [
+      {"en": "The gecko climbs walls with its feet.", "es": "El gecko trepa paredes con sus patas."},
+      {"en": "Geckos make chirping sounds.", "es": "Los geckos hacen sonidos chirriantes."},
+      {"en": "He saw a gecko on the ceiling.", "es": "Él vio un gecko en el techo."},
+      {"en": "Geckos eat insects.", "es": "Los geckos comen insectos."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_187",
+    "english": "chameleon",
+    "spanish": "camaleón",
+    "phonetic": "/kəˈmiːliən/",
+    "examples": [
+      {"en": "The chameleon changes color.", "es": "El camaleón cambia de color."},
+      {"en": "Chameleons have long tongues.", "es": "Los camaleones tienen lenguas largas."},
+      {"en": "She saw a chameleon in Madagascar.", "es": "Ella vio un camaleón en Madagascar."},
+      {"en": "Chameleons live in trees.", "es": "Los camaleones viven en árboles."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_188",
+    "english": "komodo dragon",
+    "spanish": "dragón de Komodo",
+    "phonetic": "/kəˈmoʊdoʊ ˈdræɡən/",
+    "examples": [
+      {"en": "The komodo dragon is the largest lizard.", "es": "El dragón de Komodo es el lagarto más grande."},
+      {"en": "Komodo dragons live in Indonesia.", "es": "Los dragones de Komodo viven en Indonesia."},
+      {"en": "He saw a komodo dragon at the zoo.", "es": "Él vio un dragón de Komodo en el zoológico."},
+      {"en": "Komodo dragons are carnivores.", "es": "Los dragones de Komodo son carnívoros."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_190",
+    "english": "python",
+    "spanish": "pitón",
+    "phonetic": "/ˈpaɪθɑːn/",
+    "examples": [
+      {"en": "The python is a non-venomous constrictor.", "es": "La pitón es una constrictora no venenosa."},
+      {"en": "Pythons can be very long.", "es": "Las pitones pueden ser muy largas."},
+      {"en": "He has a pet python.", "es": "Él tiene una pitón mascota."},
+      {"en": "Pythons live in Africa and Asia.", "es": "Las pitones viven en África y Asia."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_191",
+    "english": "boa constrictor",
+    "spanish": "boa constrictor",
+    "phonetic": "/ˈboʊə kənˈstrɪktər/",
+    "examples": [
+      {"en": "The boa constrictor squeezes its prey.", "es": "La boa constrictor aprieta a su presa."},
+      {"en": "Boa constrictors are popular pets.", "es": "Las boas constrictor son mascotas populares."},
+      {"en": "She saw a boa constrictor at the zoo.", "es": "Ella vio una boa constrictor en el zoológico."},
+      {"en": "Boa constrictors give live birth.", "es": "Las boas constrictor dan a luz crías vivas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_192",
+    "english": "rattlesnake",
+    "spanish": "serpiente de cascabel",
+    "phonetic": "/ˈrætlsneɪk/",
+    "examples": [
+      {"en": "The rattlesnake shakes its tail as a warning.", "es": "La serpiente de cascabel sacude su cola como advertencia."},
+      {"en": "Rattlesnakes are venomous.", "es": "Las serpientes de cascabel son venenosas."},
+      {"en": "He heard a rattlesnake in the desert.", "es": "Él escuchó una serpiente de cascabel en el desierto."},
+      {"en": "Rattlesnakes live in North America.", "es": "Las serpientes de cascabel viven en Norteamérica."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_193",
+    "english": "cobra",
+    "spanish": "cobra",
+    "phonetic": "/ˈkoʊbrə/",
+    "examples": [
+      {"en": "The cobra raises its hood when threatened.", "es": "La cobra levanta su capucha cuando está amenazada."},
+      {"en": "Cobras are highly venomous.", "es": "Las cobras son altamente venenosas."},
+      {"en": "She saw a cobra in India.", "es": "Ella vio una cobra en la India."},
+      {"en": "Cobras are sacred in some cultures.", "es": "Las cobras son sagradas en algunas culturas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_194",
+    "english": "viper",
+    "spanish": "víbora",
+    "phonetic": "/ˈvaɪpər/",
+    "examples": [
+      {"en": "The viper has long fangs.", "es": "La víbora tiene colmillos largos."},
+      {"en": "Vipers are venomous snakes.", "es": "Las víboras son serpientes venenosas."},
+      {"en": "He saw a viper in the mountains.", "es": "Él vio una víbora en las montañas."},
+      {"en": "Vipers give birth to live young.", "es": "Las víboras dan a luz crías vivas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_195",
+    "english": "garter snake",
+    "spanish": "serpiente listada",
+    "phonetic": "/ˈɡɑːrtər sneɪk/",
+    "examples": [
+      {"en": "The garter snake is common in North America.", "es": "La serpiente listada es común en Norteamérica."},
+      {"en": "Garter snakes are harmless to humans.", "es": "Las serpientes listadas son inofensivas para los humanos."},
+      {"en": "She saw a garter snake in the garden.", "es": "Ella vio una serpiente listada en el jardín."},
+      {"en": "Garter snakes eat worms and frogs.", "es": "Las serpientes listadas comen gusanos y ranas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_196",
+    "english": "turtle",
+    "spanish": "tortuga",
+    "phonetic": "/ˈtɜːrtl/",
+    "examples": [
+      {"en": "The turtle swims slowly in the sea.", "es": "La tortuga nada lentamente en el mar."},
+      {"en": "Sea turtles lay eggs on beaches.", "es": "Las tortugas marinas ponen huevos en playas."},
+      {"en": "He helped a turtle cross the road.", "es": "Él ayudó a una tortuga a cruzar la carretera."},
+      {"en": "Turtles can live for many decades.", "es": "Las tortugas pueden vivir muchas décadas."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_197",
+    "english": "tortoise",
+    "spanish": "tortuga terrestre",
+    "phonetic": "/ˈtɔːrtəs/",
+    "examples": [
+      {"en": "The tortoise walks very slowly on land.", "es": "La tortuga terrestre camina muy lentamente en tierra."},
+      {"en": "Tortoises live for over 100 years.", "es": "Las tortugas terrestres viven más de 100 años."},
+      {"en": "She saw a giant tortoise in the Galápagos.", "es": "Ella vio una tortuga gigante en las Galápagos."},
+      {"en": "Tortoises eat plants and grass.", "es": "Las tortugas terrestres comen plantas y pasto."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_198",
+    "english": "alligator",
+    "spanish": "caimán",
+    "phonetic": "/ˈælɪɡeɪtər/",
+    "examples": [
+      {"en": "The alligator sunbathes on the riverbank.", "es": "El caimán toma el sol en la orilla del río."},
+      {"en": "Alligators have broad, U-shaped snouts.", "es": "Los caimanes tienen hocicos anchos en forma de U."},
+      {"en": "He saw an alligator in the Everglades.", "es": "Él vio un caimán en los Everglades."},
+      {"en": "Alligators are native to the southeastern US.", "es": "Los caimanes son nativos del sureste de EE.UU."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_199",
+    "english": "crocodile",
+    "spanish": "cocodrilo",
+    "phonetic": "/ˈkrɑːkədaɪl/",
+    "examples": [
+      {"en": "The crocodile has a V-shaped snout.", "es": "El cocodrilo tiene un hocico en forma de V."},
+      {"en": "Crocodiles can live in saltwater.", "es": "Los cocodrilos pueden vivir en agua salada."},
+      {"en": "She saw a crocodile in Australia.", "es": "Ella vio un cocodrilo en Australia."},
+      {"en": "Crocodiles are more aggressive than alligators.", "es": "Los cocodrilos son más agresivos que los caimanes."}
+    ],
+    "category": "Animals"
+  },
+  {
+    "id": "anim_200",
+    "english": "caiman",
+    "spanish": "caimán",
+    "phonetic": "/ˈkaɪmæn/",
+    "examples": [
+      {"en": "The caiman lives in Central and South America.", "es": "El caimán vive en Centro y Sudamérica."},
+      {"en": "Caimans are smaller than alligators.", "es": "Los caimanes son más pequeños que los aligátores."},
+      {"en": "He saw a caiman in the Amazon River.", "es": "Él vio un caimán en el río Amazonas."},
+      {"en": "Caimans have bony scales on their skin.", "es": "Los caimanes tienen escamas óseas en la piel."}
+    ],
+    "category": "Animals"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {"id":"1","english":"apple","spanish":"manzana","phonetic":"/ˈæp.əl/","exampleEn":"I eat an apple.","exampleEs":"Como una manzana.","category":"Food & Drinks"},
+  {"id":"2","english":"water","spanish":"agua","phonetic":"/ˈwɔː.t̬ɚ/","exampleEn":"Drink more water.","exampleEs":"Bebe más agua.","category":"Food & Drinks"},
+  {"id":"3","english":"bread","spanish":"pan","phonetic":"/bred/","exampleEn":"She buys fresh bread.","exampleEs":"Ella compra pan fresco.","category":"Food & Drinks"},
+  {"id":"4","english":"coffee","spanish":"café","phonetic":"/ˈkɔː.fi/","exampleEn":"I drink coffee in the morning.","exampleEs":"Bebo café en la mañana.","category":"Food & Drinks"},
+
+  {"id":"5","english":"mother","spanish":"madre","phonetic":"/ˈmʌð.ɚ/","exampleEn":"My mother is kind.","exampleEs":"Mi madre es amable.","category":"Family"},
+  {"id":"6","english":"father","spanish":"padre","phonetic":"/ˈfɑː.ðɚ/","exampleEn":"My father works hard.","exampleEs":"Mi padre trabaja duro.","category":"Family"},
+  {"id":"7","english":"sister","spanish":"hermana","phonetic":"/ˈsɪs.tɚ/","exampleEn":"I have a sister.","exampleEs":"Tengo una hermana.","category":"Family"},
+  {"id":"8","english":"brother","spanish":"hermano","phonetic":"/ˈbrʌð.ɚ/","exampleEn":"He is my brother.","exampleEs":"Él es mi hermano.","category":"Family"},
+
+  {"id":"9","english":"red","spanish":"rojo","phonetic":"/red/","exampleEn":"The car is red.","exampleEs":"El carro es rojo.","category":"Colors"},
+  {"id":"10","english":"blue","spanish":"azul","phonetic":"/bluː/","exampleEn":"The sky is blue.","exampleEs":"El cielo es azul.","category":"Colors"},
+  {"id":"11","english":"green","spanish":"verde","phonetic":"/ɡriːn/","exampleEn":"Grass is green.","exampleEs":"El pasto es verde.","category":"Colors"},
+  {"id":"12","english":"yellow","spanish":"amarillo","phonetic":"/ˈjel.oʊ/","exampleEn":"The sun is yellow.","exampleEs":"El sol es amarillo.","category":"Colors"},
+
+  {"id":"13","english":"one","spanish":"uno","phonetic":"/wʌn/","exampleEn":"I have one book.","exampleEs":"Tengo un libro.","category":"Numbers"},
+  {"id":"14","english":"ten","spanish":"diez","phonetic":"/ten/","exampleEn":"She is ten years old.","exampleEs":"Ella tiene diez años.","category":"Numbers"},
+  {"id":"15","english":"hundred","spanish":"cien","phonetic":"/ˈhʌn.drəd/","exampleEn":"There are one hundred students.","exampleEs":"Hay cien estudiantes.","category":"Numbers"},
+
+  {"id":"16","english":"Monday","spanish":"lunes","phonetic":"/ˈmʌn.deɪ/","exampleEn":"I work on Monday.","exampleEs":"Trabajo el lunes.","category":"Time & Dates"},
+  {"id":"17","english":"January","spanish":"enero","phonetic":"/ˈdʒæn.ju.er.i/","exampleEn":"My birthday is in January.","exampleEs":"Mi cumpleaños es en enero.","category":"Time & Dates"},
+  {"id":"18","english":"today","spanish":"hoy","phonetic":"/təˈdeɪ/","exampleEn":"See you today!","exampleEs":"¡Nos vemos hoy!","category":"Time & Dates"},
+
+  {"id":"19","english":"sun","spanish":"sol","phonetic":"/sʌn/","exampleEn":"The sun is bright.","exampleEs":"El sol es brillante.","category":"Weather"},
+  {"id":"20","english":"rain","spanish":"lluvia","phonetic":"/reɪn/","exampleEn":"It's raining.","exampleEs":"Está lloviendo.","category":"Weather"},
+  {"id":"21","english":"cloud","spanish":"nube","phonetic":"/klaʊd/","exampleEn":"There are dark clouds.","exampleEs":"Hay nubes oscuras.","category":"Weather"},
+
+  {"id":"22","english":"doctor","spanish":"médico","phonetic":"/ˈdɑːk.t̬ɚ/","exampleEn":"I saw a doctor.","exampleEs":"Vi a un médico.","category":"Jobs & Professions"},
+  {"id":"23","english":"teacher","spanish":"profesor","phonetic":"/ˈtiː.tʃɚ/","exampleEn":"She is a teacher.","exampleEs":"Ella es profesora.","category":"Jobs & Professions"},
+  {"id":"24","english":"engineer","spanish":"ingeniero","phonetic":"/ˌen.dʒɪˈnɪr/","exampleEn":"He is an engineer.","exampleEs":"Él es ingeniero.","category":"Jobs & Professions"},
+
+  {"id":"25","english":"airport","spanish":"aeropuerto","phonetic":"/ˈer.pɔːrt/","exampleEn":"We go to the airport.","exampleEs":"Vamos al aeropuerto.","category":"Travel & Transport"},
+  {"id":"26","english":"train","spanish":"tren","phonetic":"/treɪn/","exampleEn":"The train is late.","exampleEs":"El tren está tarde.","category":"Travel & Transport"},
+  {"id":"27","english":"ticket","spanish":"boleto","phonetic":"/ˈtɪk.ɪt/","exampleEn":"Buy a ticket, please.","exampleEs":"Compra un boleto, por favor.","category":"Travel & Transport"},
+
+  {"id":"28","english":"price","spanish":"precio","phonetic":"/praɪs/","exampleEn":"What's the price?","exampleEs":"¿Cuál es el precio?","category":"Shopping"},
+  {"id":"29","english":"buy","spanish":"comprar","phonetic":"/baɪ/","exampleEn":"I want to buy this.","exampleEs":"Quiero comprar esto.","category":"Shopping"},
+  {"id":"30","english":"money","spanish":"dinero","phonetic":"/ˈmʌn.i/","exampleEn":"I need more money.","exampleEs":"Necesito más dinero.","category":"Shopping"},
+
+  {"id":"31","english":"happy","spanish":"feliz","phonetic":"/ˈhæp.i/","exampleEn":"I'm happy.","exampleEs":"Estoy feliz.","category":"Feelings & Emotions"},
+  {"id":"32","english":"sad","spanish":"triste","phonetic":"/sæd/","exampleEn":"She feels sad.","exampleEs":"Ella se siente triste.","category":"Feelings & Emotions"},
+  {"id":"33","english":"angry","spanish":"enojado","phonetic":"/ˈæŋ.ɡri/","exampleEn":"He is angry.","exampleEs":"Él está enojado.","category":"Feelings & Emotions"},
+
+  {"id":"34","english":"head","spanish":"cabeza","phonetic":"/hed/","exampleEn":"My head hurts.","exampleEs":"Me duele la cabeza.","category":"Body Parts"},
+  {"id":"35","english":"hand","spanish":"mano","phonetic":"/hænd/","exampleEn":"Raise your hand.","exampleEs":"Levanta la mano.","category":"Body Parts"},
+  {"id":"36","english":"eye","spanish":"ojo","phonetic":"/aɪ/","exampleEn":"She has blue eyes.","exampleEs":"Ella tiene ojos azules.","category":"Body Parts"},
+
+  {"id":"37","english":"kitchen","spanish":"cocina","phonetic":"/ˈkɪtʃ.ən/","exampleEn":"The kitchen is clean.","exampleEs":"La cocina está limpia.","category":"House & Home"},
+  {"id":"38","english":"bedroom","spanish":"dormitorio","phonetic":"/ˈbed.ruːm/","exampleEn":"My bedroom is small.","exampleEs":"Mi dormitorio es pequeño.","category":"House & Home"},
+
+  {"id":"39","english":"phone","spanish":"teléfono","phonetic":"/foʊn/","exampleEn":"I lost my phone.","exampleEs":"Perdí mi teléfono.","category":"Technology"},
+  {"id":"40","english":"computer","spanish":"computadora","phonetic":"/kəmˈpjuː.t̬ɚ/","exampleEn":"I use a computer.","exampleEs":"Uso una computadora.","category":"Technology"},
+
+  {"id":"41","english":"book","spanish":"libro","phonetic":"/bʊk/","exampleEn":"Read this book.","exampleEs":"Lee este libro.","category":"School & Education"},
+  {"id":"42","english":"student","spanish":"estudiante","phonetic":"/ˈstuː.dənt/","exampleEn":"He is a student.","exampleEs":"Él es estudiante.","category":"School & Education"},
+
+  {"id":"43","english":"hospital","spanish":"hospital","phonetic":"/ˈhɑː.spɪ.t̬əl/","exampleEn":"Go to the hospital.","exampleEs":"Ve al hospital.","category":"Health"},
+  {"id":"44","english":"medicine","spanish":"medicina","phonetic":"/ˈmed.ɪ.sən/","exampleEn":"Take your medicine.","exampleEs":"Toma tu medicina.","category":"Health"},
+
+  {"id":"45","english":"dog","spanish":"perro","phonetic":"/dɔːɡ/","exampleEn":"I have a dog.","exampleEs":"Tengo un perro.","category":"Animals"},
+  {"id":"46","english":"cat","spanish":"gato","phonetic":"/kæt/","exampleEn":"The cat is sleeping.","exampleEs":"El gato está durmiendo.","category":"Animals"},
+
+  {"id":"47","english":"shirt","spanish":"camisa","phonetic":"/ʃɝːt/","exampleEn":"He wears a white shirt.","exampleEs":"Él lleva una camisa blanca.","category":"Clothes"},
+  {"id":"48","english":"shoes","spanish":"zapatos","phonetic":"/ʃuːz/","exampleEn":"New shoes are expensive.","exampleEs":"Los zapatos nuevos son caros.","category":"Clothes"},
+
+  {"id":"49","english":"go","spanish":"ir","phonetic":"/ɡoʊ/","exampleEn":"Let's go home.","exampleEs":"Vamos a casa.","category":"Verbs (Common)"},
+  {"id":"50","english":"eat","spanish":"comer","phonetic":"/iːt/","exampleEn":"We eat dinner at 7.","exampleEs":"Cenamos a las 7.","category":"Verbs (Common)"},
+  {"id":"51","english":"study","spanish":"estudiar","phonetic":"/ˈstʌd.i/","exampleEn":"I study English.","exampleEs":"Estudio inglés.","category":"Verbs (Common)"},
+
+  {"id":"52","english":"big","spanish":"grande","phonetic":"/bɪɡ/","exampleEn":"It's a big house.","exampleEs":"Es una casa grande.","category":"Adjectives (Basic)"},
+  {"id":"53","english":"good","spanish":"bueno","phonetic":"/ɡʊd/","exampleEn":"She is a good friend.","exampleEs":"Ella es una buena amiga.","category":"Adjectives (Basic)"},
+  {"id":"54","english":"new","spanish":"nuevo","phonetic":"/nuː/","exampleEn":"This is a new car.","exampleEs":"Este es un carro nuevo.","category":"Adjectives (Basic)"},
+
+  {"id":"55","english":"left","spanish":"izquierda","phonetic":"/left/","exampleEn":"Turn left here.","exampleEs":"Gira a la izquierda aquí.","category":"Directions & Places"},
+  {"id":"56","english":"park","spanish":"parque","phonetic":"/pɑːrk/","exampleEn":"Let's go to the park.","exampleEs":"Vamos al parque.","category":"Directions & Places"}
+]

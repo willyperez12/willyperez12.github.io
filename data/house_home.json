@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "home_1",
+    "english": "kitchen",
+    "spanish": "cocina",
+    "phonetic": "/ˈkɪtʃ.ən/",
+    "examples": [
+      {"en": "The kitchen is clean and modern.", "es": "La cocina está limpia y moderna."},
+      {"en": "I cook dinner in the kitchen.", "es": "Cocino la cena en la cocina."},
+      {"en": "She spilled coffee in the kitchen.", "es": "Ella derramó café en la cocina."},
+      {"en": "Our kitchen has a big window.", "es": "Nuestra cocina tiene una ventana grande."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_2",
+    "english": "bedroom",
+    "spanish": "dormitorio / habitación",
+    "phonetic": "/ˈbed.ruːm/",
+    "examples": [
+      {"en": "My bedroom is small but cozy.", "es": "Mi dormitorio es pequeño pero acogedor."},
+      {"en": "She painted her bedroom blue.", "es": "Ella pintó su habitación de azul."},
+      {"en": "He reads in bed before sleeping.", "es": "Él lee en la cama antes de dormir."},
+      {"en": "The bedroom has a large closet.", "es": "El dormitorio tiene un armario grande."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_3",
+    "english": "bathroom",
+    "spanish": "baño",
+    "phonetic": "/ˈbæθ.ruːm/",
+    "examples": [
+      {"en": "The bathroom needs cleaning.", "es": "El baño necesita limpieza."},
+      {"en": "She takes a shower in the bathroom.", "es": "Ella se ducha en el baño."},
+      {"en": "He installed a new sink in the bathroom.", "es": "Él instaló un nuevo lavabo en el baño."},
+      {"en": "Our bathroom has a bathtub and a shower.", "es": "Nuestro baño tiene una bañera y una ducha."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_4",
+    "english": "living room",
+    "spanish": "sala de estar / salón",
+    "phonetic": "/ˈlɪv.ɪŋ ruːm/",
+    "examples": [
+      {"en": "We watch TV in the living room.", "es": "Vemos la tele en la sala de estar."},
+      {"en": "The living room has a big sofa.", "es": "El salón tiene un sofá grande."},
+      {"en": "She decorated the living room for Christmas.", "es": "Ella decoró la sala para Navidad."},
+      {"en": "They entertain guests in the living room.", "es": "Ellos reciben invitados en el salón."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_5",
+    "english": "dining room",
+    "spanish": "comedor",
+    "phonetic": "/ˈdaɪ.nɪŋ ruːm/",
+    "examples": [
+      {"en": "We eat dinner in the dining room.", "es": "Comemos la cena en el comedor."},
+      {"en": "The dining room has a wooden table.", "es": "El comedor tiene una mesa de madera."},
+      {"en": "She set the table in the dining room.", "es": "Ella puso la mesa en el comedor."},
+      {"en": "They hosted a party in the dining room.", "es": "Ellos organizaron una fiesta en el comedor."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_6",
+    "english": "garage",
+    "spanish": "garaje",
+    "phonetic": "/ɡəˈrɑːʒ/",
+    "examples": [
+      {"en": "He parks his car in the garage.", "es": "Él estaciona su coche en el garaje."},
+      {"en": "The garage is full of tools.", "es": "El garaje está lleno de herramientas."},
+      {"en": "She converted the garage into a studio.", "es": "Ella convirtió el garaje en un estudio."},
+      {"en": "Our garage has an automatic door.", "es": "Nuestro garaje tiene una puerta automática."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_7",
+    "english": "garden",
+    "spanish": "jardín",
+    "phonetic": "/ˈɡɑːr.dən/",
+    "examples": [
+      {"en": "She grows vegetables in the garden.", "es": "Ella cultiva verduras en el jardín."},
+      {"en": "We relax in the garden on weekends.", "es": "Nos relajamos en el jardín los fines de semana."},
+      {"en": "He waters the garden every morning.", "es": "Él riega el jardín todas las mañanas."},
+      {"en": "Their garden has roses and lavender.", "es": "Su jardín tiene rosas y lavanda."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_8",
+    "english": "balcony",
+    "spanish": "balcón",
+    "phonetic": "/ˈbæl.kə.ni/",
+    "examples": [
+      {"en": "She drinks coffee on the balcony.", "es": "Ella toma café en el balcón."},
+      {"en": "The balcony has a beautiful view.", "es": "El balcón tiene una vista hermosa."},
+      {"en": "He put plants on the balcony.", "es": "Él puso plantas en el balcón."},
+      {"en": "They eat breakfast on the balcony.", "es": "Ellos desayunan en el balcón."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_9",
+    "english": "attic",
+    "spanish": "ático / buhardilla",
+    "phonetic": "/ˈæt.ɪk/",
+    "examples": [
+      {"en": "They store old boxes in the attic.", "es": "Ellos guardan cajas viejas en el ático."},
+      {"en": "The attic is dusty and dark.", "es": "El ático está polvoriento y oscuro."},
+      {"en": "She found old photos in the attic.", "es": "Ella encontró fotos antiguas en el ático."},
+      {"en": "He converted the attic into a bedroom.", "es": "Él convirtió el ático en un dormitorio."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_10",
+    "english": "basement",
+    "spanish": "sótano",
+    "phonetic": "/ˈbeɪs.mənt/",
+    "examples": [
+      {"en": "They have a laundry room in the basement.", "es": "Tienen un cuarto de lavado en el sótano."},
+      {"en": "The basement is cool in summer.", "es": "El sótano está fresco en verano."},
+      {"en": "He built a home theater in the basement.", "es": "Él construyó un cine en casa en el sótano."},
+      {"en": "Their basement flooded during the storm.", "es": "Su sótano se inundó durante la tormenta."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_11",
+    "english": "hallway",
+    "spanish": "pasillo",
+    "phonetic": "/ˈhæl.weɪ/",
+    "examples": [
+      {"en": "The hallway connects all the rooms.", "es": "El pasillo conecta todas las habitaciones."},
+      {"en": "She hung family photos in the hallway.", "es": "Ella colgó fotos familiares en el pasillo."},
+      {"en": "The hallway is narrow but well-lit.", "es": "El pasillo es estrecho pero bien iluminado."},
+      {"en": "He dropped his keys in the hallway.", "es": "Él dejó caer sus llaves en el pasillo."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_12",
+    "english": "staircase",
+    "spanish": "escalera",
+    "phonetic": "/ˈster.keɪs/",
+    "examples": [
+      {"en": "The staircase is made of wood.", "es": "La escalera es de madera."},
+      {"en": "She climbed the staircase slowly.", "es": "Ella subió la escalera lentamente."},
+      {"en": "He installed a carpet on the staircase.", "es": "Él instaló una alfombra en la escalera."},
+      {"en": "The staircase leads to the second floor.", "es": "La escalera conduce al segundo piso."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_13",
+    "english": "door",
+    "spanish": "puerta",
+    "phonetic": "/dɔːr/",
+    "examples": [
+      {"en": "Please close the door behind you.", "es": "Por favor, cierra la puerta al salir."},
+      {"en": "The front door is red.", "es": "La puerta principal es roja."},
+      {"en": "He knocked on the door.", "es": "Él tocó la puerta."},
+      {"en": "She painted the door white.", "es": "Ella pintó la puerta de blanco."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_14",
+    "english": "window",
+    "spanish": "ventana",
+    "phonetic": "/ˈwɪn.doʊ/",
+    "examples": [
+      {"en": "She opened the window to let in fresh air.", "es": "Ella abrió la ventana para dejar entrar aire fresco."},
+      {"en": "The window has a beautiful view.", "es": "La ventana tiene una vista hermosa."},
+      {"en": "He cleaned the windows yesterday.", "es": "Él limpió las ventanas ayer."},
+      {"en": "Our living room has large windows.", "es": "Nuestro salón tiene ventanas grandes."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_15",
+    "english": "wall",
+    "spanish": "pared",
+    "phonetic": "/wɔːl/",
+    "examples": [
+      {"en": "She hung a painting on the wall.", "es": "Ella colgó un cuadro en la pared."},
+      {"en": "The walls are painted white.", "es": "Las paredes están pintadas de blanco."},
+      {"en": "He drilled a hole in the wall.", "es": "Él hizo un agujero en la pared."},
+      {"en": "The living room has brick walls.", "es": "El salón tiene paredes de ladrillo."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_16",
+    "english": "floor",
+    "spanish": "suelo / piso",
+    "phonetic": "/flɔːr/",
+    "examples": [
+      {"en": "She vacuumed the floor.", "es": "Ella pasó la aspiradora por el suelo."},
+      {"en": "The floor is made of hardwood.", "es": "El suelo es de madera."},
+      {"en": "He spilled water on the floor.", "es": "Él derramó agua en el suelo."},
+      {"en": "They installed new tiles on the floor.", "es": "Ellos instalaron baldosas nuevas en el piso."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_17",
+    "english": "ceiling",
+    "spanish": "techo / cielo raso",
+    "phonetic": "/ˈsiː.lɪŋ/",
+    "examples": [
+      {"en": "She painted the ceiling white.", "es": "Ella pintó el techo de blanco."},
+      {"en": "The ceiling has a fan and a light.", "es": "El techo tiene un ventilador y una luz."},
+      {"en": "He noticed a crack in the ceiling.", "es": "Él notó una grieta en el techo."},
+      {"en": "They installed a skylight in the ceiling.", "es": "Ellos instalaron una claraboya en el techo."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_18",
+    "english": "roof",
+    "spanish": "tejado / azotea",
+    "phonetic": "/ruːf/",
+    "examples": [
+      {"en": "The roof leaks when it rains.", "es": "El tejado gotea cuando llueve."},
+      {"en": "He climbed onto the roof to fix the antenna.", "es": "Él subió al tejado para arreglar la antena."},
+      {"en": "They have solar panels on the roof.", "es": "Tienen paneles solares en el tejado."},
+      {"en": "The roof is made of tiles.", "es": "El tejado es de tejas."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_19",
+    "english": "furniture",
+    "spanish": "muebles",
+    "phonetic": "/ˈfɝː.nɪ.tʃɚ/",
+    "examples": [
+      {"en": "They bought new furniture for the living room.", "es": "Ellos compraron muebles nuevos para el salón."},
+      {"en": "The furniture is modern and comfortable.", "es": "Los muebles son modernos y cómodos."},
+      {"en": "She assembled the furniture herself.", "es": "Ella montó los muebles ella misma."},
+      {"en": "Their furniture is made of wood.", "es": "Sus muebles son de madera."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_20",
+    "english": "table",
+    "spanish": "mesa",
+    "phonetic": "/ˈteɪ.bəl/",
+    "examples": [
+      {"en": "We eat at the dining table.", "es": "Comemos en la mesa del comedor."},
+      {"en": "She set the table for dinner.", "es": "Ella puso la mesa para la cena."},
+      {"en": "He bought a wooden table.", "es": "Él compró una mesa de madera."},
+      {"en": "The coffee table is in the living room.", "es": "La mesa de centro está en el salón."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_21",
+    "english": "chair",
+    "spanish": "silla",
+    "phonetic": "/tʃer/",
+    "examples": [
+      {"en": "She sat on the chair by the window.", "es": "Ella se sentó en la silla junto a la ventana."},
+      {"en": "He fixed the broken chair.", "es": "Él arregló la silla rota."},
+      {"en": "They have six chairs around the table.", "es": "Ellos tienen seis sillas alrededor de la mesa."},
+      {"en": "The dining room chairs are comfortable.", "es": "Las sillas del comedor son cómodas."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_22",
+    "english": "sofa",
+    "spanish": "sofá",
+    "phonetic": "/ˈsoʊ.fə/",
+    "examples": [
+      {"en": "We watch movies on the sofa.", "es": "Vemos películas en el sofá."},
+      {"en": "She bought a new sofa for the living room.", "es": "Ella compró un sofá nuevo para el salón."},
+      {"en": "He fell asleep on the sofa.", "es": "Él se durmió en el sofá."},
+      {"en": "Their sofa is soft and cozy.", "es": "Su sofá es suave y acogedor."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_23",
+    "english": "bed",
+    "spanish": "cama",
+    "phonetic": "/bed/",
+    "examples": [
+      {"en": "She made the bed this morning.", "es": "Ella hizo la cama esta mañana."},
+      {"en": "He bought a new bed last week.", "es": "Él compró una cama nueva la semana pasada."},
+      {"en": "The bed is very comfortable.", "es": "La cama es muy cómoda."},
+      {"en": "They have a king-size bed.", "es": "Ellos tienen una cama king size."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_24",
+    "english": "wardrobe",
+    "spanish": "armario / ropero",
+    "phonetic": "/ˈwɔːr.droʊb/",
+    "examples": [
+      {"en": "She keeps her clothes in the wardrobe.", "es": "Ella guarda su ropa en el armario."},
+      {"en": "He built a custom wardrobe.", "es": "Él construyó un armario a medida."},
+      {"en": "The wardrobe is full of shoes.", "es": "El armario está lleno de zapatos."},
+      {"en": "They moved the wardrobe to the corner.", "es": "Ellos movieron el armario a la esquina."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_25",
+    "english": "dresser",
+    "spanish": "cómoda",
+    "phonetic": "/ˈdres.ɚ/",
+    "examples": [
+      {"en": "She keeps socks in the dresser.", "es": "Ella guarda calcetines en la cómoda."},
+      {"en": "He placed a lamp on the dresser.", "es": "Él puso una lámpara en la cómoda."},
+      {"en": "The dresser has six drawers.", "es": "La cómoda tiene seis cajones."},
+      {"en": "They bought a wooden dresser.", "es": "Ellos compraron una cómoda de madera."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_26",
+    "english": "bookshelf",
+    "spanish": "estantería / librero",
+    "phonetic": "/ˈbʊk.ʃelf/",
+    "examples": [
+      {"en": "She organized books on the bookshelf.", "es": "Ella organizó libros en la estantería."},
+      {"en": "He built a bookshelf for his office.", "es": "Él construyó una estantería para su oficina."},
+      {"en": "The bookshelf is full of novels.", "es": "La estantería está llena de novelas."},
+      {"en": "They bought a tall bookshelf.", "es": "Ellos compraron una estantería alta."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_27",
+    "english": "mirror",
+    "spanish": "espejo",
+    "phonetic": "/ˈmɪr.ɚ/",
+    "examples": [
+      {"en": "She looked at herself in the mirror.", "es": "Ella se miró en el espejo."},
+      {"en": "He hung a mirror in the hallway.", "es": "Él colgó un espejo en el pasillo."},
+      {"en": "The bathroom mirror is foggy.", "es": "El espejo del baño está empañado."},
+      {"en": "They have a full-length mirror.", "es": "Ellos tienen un espejo de cuerpo entero."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_28",
+    "english": "lamp",
+    "spanish": "lámpara",
+    "phonetic": "/læmp/",
+    "examples": [
+      {"en": "She turned on the lamp to read.", "es": "Ella encendió la lámpara para leer."},
+      {"en": "He bought a new desk lamp.", "es": "Él compró una lámpara de escritorio nueva."},
+      {"en": "The living room lamp is very bright.", "es": "La lámpara del salón es muy brillante."},
+      {"en": "They use LED lamps to save energy.", "es": "Ellos usan lámparas LED para ahorrar energía."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_29",
+    "english": "rug",
+    "spanish": "alfombra / tapete",
+    "phonetic": "/rʌɡ/",
+    "examples": [
+      {"en": "She bought a colorful rug for the living room.", "es": "Ella compró una alfombra colorida para el salón."},
+      {"en": "He vacuumed the rug yesterday.", "es": "Él pasó la aspiradora por la alfombra ayer."},
+      {"en": "The rug matches the sofa perfectly.", "es": "La alfombra combina perfectamente con el sofá."},
+      {"en": "They have a Persian rug in the dining room.", "es": "Ellos tienen una alfombra persa en el comedor."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_30",
+    "english": "curtains",
+    "spanish": "cortinas",
+    "phonetic": "/ˈkɝː.t̬ənz/",
+    "examples": [
+      {"en": "She closed the curtains at night.", "es": "Ella cerró las cortinas por la noche."},
+      {"en": "He washed the curtains last weekend.", "es": "Él lavó las cortinas el fin de semana pasado."},
+      {"en": "The curtains are made of silk.", "es": "Las cortinas son de seda."},
+      {"en": "They bought new curtains for the bedroom.", "es": "Ellos compraron cortinas nuevas para el dormitorio."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_31",
+    "english": "blinds",
+    "spanish": "persianas",
+    "phonetic": "/blaɪndz/",
+    "examples": [
+      {"en": "She adjusted the blinds to block the sun.", "es": "Ella ajustó las persianas para bloquear el sol."},
+      {"en": "He installed wooden blinds in the office.", "es": "Él instaló persianas de madera en la oficina."},
+      {"en": "The blinds are broken and need repair.", "es": "Las persianas están rotas y necesitan reparación."},
+      {"en": "They prefer blinds over curtains.", "es": "Ellos prefieren persianas sobre cortinas."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_32",
+    "english": "refrigerator",
+    "spanish": "refrigerador / nevera",
+    "phonetic": "/rɪˈfrɪdʒ.ə.reɪ.t̬ɚ/",
+    "examples": [
+      {"en": "She put the milk in the refrigerator.", "es": "Ella puso la leche en el refrigerador."},
+      {"en": "He cleaned the refrigerator yesterday.", "es": "Él limpió el refrigerador ayer."},
+      {"en": "The refrigerator is full of food.", "es": "El refrigerador está lleno de comida."},
+      {"en": "They bought a stainless steel refrigerator.", "es": "Ellos compraron un refrigerador de acero inoxidable."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_33",
+    "english": "oven",
+    "spanish": "horno",
+    "phonetic": "/ˈʌv.ən/",
+    "examples": [
+      {"en": "She baked a cake in the oven.", "es": "Ella horneó un pastel en el horno."},
+      {"en": "He preheated the oven to 350°F.", "es": "Él precalentó el horno a 175°C."},
+      {"en": "The oven is electric, not gas.", "es": "El horno es eléctrico, no de gas."},
+      {"en": "They cleaned the oven after cooking.", "es": "Ellos limpiaron el horno después de cocinar."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_34",
+    "english": "stove",
+    "spanish": "estufa",
+    "phonetic": "/stoʊv/",
+    "examples": [
+      {"en": "She cooked pasta on the stove.", "es": "Ella cocinó pasta en la estufa."},
+      {"en": "He turned off the stove after cooking.", "es": "Él apagó la estufa después de cocinar."},
+      {"en": "The stove has four burners.", "es": "La estufa tiene cuatro hornillas."},
+      {"en": "They have a gas stove in the kitchen.", "es": "Ellos tienen una estufa de gas en la cocina."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_35",
+    "english": "microwave",
+    "spanish": "microondas",
+    "phonetic": "/ˈmaɪ.kroʊ.weɪv/",
+    "examples": [
+      {"en": "She reheated leftovers in the microwave.", "es": "Ella recalentó sobras en el microondas."},
+      {"en": "He defrosted meat in the microwave.", "es": "Él descongeló carne en el microondas."},
+      {"en": "The microwave is fast and convenient.", "es": "El microondas es rápido y práctico."},
+      {"en": "They replaced the old microwave.", "es": "Ellos reemplazaron el microondas viejo."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_36",
+    "english": "dishwasher",
+    "spanish": "lavavajillas",
+    "phonetic": "/ˈdɪʃ.wɑː.ʃɚ/",
+    "examples": [
+      {"en": "She loaded the dishwasher after dinner.", "es": "Ella cargó el lavavajillas después de la cena."},
+      {"en": "He fixed the dishwasher this morning.", "es": "Él arregló el lavavajillas esta mañana."},
+      {"en": "The dishwasher saves a lot of time.", "es": "El lavavajillas ahorra mucho tiempo."},
+      {"en": "They installed a new dishwasher last month.", "es": "Ellos instalaron un lavavajillas nuevo el mes pasado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_37",
+    "english": "washing machine",
+    "spanish": "lavadora",
+    "phonetic": "/ˈwɑː.ʃɪŋ məˌʃiːn/",
+    "examples": [
+      {"en": "She put clothes in the washing machine.", "es": "Ella puso ropa en la lavadora."},
+      {"en": "He repaired the washing machine.", "es": "Él reparó la lavadora."},
+      {"en": "The washing machine is in the basement.", "es": "La lavadora está en el sótano."},
+      {"en": "They bought an energy-efficient washing machine.", "es": "Ellos compraron una lavadora eficiente energéticamente."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_38",
+    "english": "dryer",
+    "spanish": "secadora",
+    "phonetic": "/ˈdraɪ.ɚ/",
+    "examples": [
+      {"en": "She put wet clothes in the dryer.", "es": "Ella puso ropa mojada en la secadora."},
+      {"en": "He cleaned the lint trap in the dryer.", "es": "Él limpió el filtro de pelusa en la secadora."},
+      {"en": "The dryer is next to the washing machine.", "es": "La secadora está al lado de la lavadora."},
+      {"en": "They use the dryer only in winter.", "es": "Ellos usan la secadora solo en invierno."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_39",
+    "english": "vacuum cleaner",
+    "spanish": "aspiradora",
+    "phonetic": "/ˈvæk.juːm ˌkliː.nɚ/",
+    "examples": [
+      {"en": "She vacuumed the carpet with the vacuum cleaner.", "es": "Ella pasó la aspiradora por la alfombra."},
+      {"en": "He emptied the vacuum cleaner after use.", "es": "Él vació la aspiradora después de usarla."},
+      {"en": "The vacuum cleaner is cordless.", "es": "La aspiradora es inalámbrica."},
+      {"en": "They bought a robot vacuum cleaner.", "es": "Ellos compraron una aspiradora robot."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_40",
+    "english": "air conditioner",
+    "spanish": "aire acondicionado",
+    "phonetic": "/ˈer kənˌdɪʃ.ən.ɚ/",
+    "examples": [
+      {"en": "She turned on the air conditioner.", "es": "Ella encendió el aire acondicionado."},
+      {"en": "He installed a new air conditioner.", "es": "Él instaló un aire acondicionado nuevo."},
+      {"en": "The air conditioner keeps the house cool.", "es": "El aire acondicionado mantiene la casa fresca."},
+      {"en": "They service the air conditioner every year.", "es": "Ellos dan mantenimiento al aire acondicionado cada año."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_41",
+    "english": "heater",
+    "spanish": "calefacción / calentador",
+    "phonetic": "/ˈhiː.t̬ɚ/",
+    "examples": [
+      {"en": "She turned on the heater in winter.", "es": "Ella encendió la calefacción en invierno."},
+      {"en": "He fixed the broken heater.", "es": "Él arregló el calentador roto."},
+      {"en": "The heater makes the room cozy.", "es": "El calentador hace que la habitación sea acogedora."},
+      {"en": "They have central heating in the house.", "es": "Ellos tienen calefacción central en la casa."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_42",
+    "english": "fan",
+    "spanish": "ventilador",
+    "phonetic": "/fæn/",
+    "examples": [
+      {"en": "She turned on the fan to cool the room.", "es": "Ella encendió el ventilador para enfriar la habitación."},
+      {"en": "He installed a ceiling fan.", "es": "Él instaló un ventilador de techo."},
+      {"en": "The fan is noisy but effective.", "es": "El ventilador es ruidoso pero efectivo."},
+      {"en": "They use fans instead of air conditioning.", "es": "Ellos usan ventiladores en lugar de aire acondicionado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_43",
+    "english": "light",
+    "spanish": "luz",
+    "phonetic": "/laɪt/",
+    "examples": [
+      {"en": "She turned on the light to read.", "es": "Ella encendió la luz para leer."},
+      {"en": "He changed the light bulb.", "es": "Él cambió la bombilla."},
+      {"en": "The living room has bright lights.", "es": "El salón tiene luces brillantes."},
+      {"en": "They installed LED lights to save energy.", "es": "Ellos instalaron luces LED para ahorrar energía."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_44",
+    "english": "light switch",
+    "spanish": "interruptor de luz",
+    "phonetic": "/ˈlaɪt swɪtʃ/",
+    "examples": [
+      {"en": "She flipped the light switch.", "es": "Ella accionó el interruptor de luz."},
+      {"en": "He installed a dimmer switch.", "es": "Él instaló un regulador de intensidad."},
+      {"en": "The light switch is near the door.", "es": "El interruptor de luz está cerca de la puerta."},
+      {"en": "They replaced the old light switch.", "es": "Ellos reemplazaron el interruptor de luz viejo."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_45",
+    "english": "outlet",
+    "spanish": "enchufe / toma de corriente",
+    "phonetic": "/ˈaʊt.lət/",
+    "examples": [
+      {"en": "She plugged the lamp into the outlet.", "es": "Ella enchufó la lámpara en la toma de corriente."},
+      {"en": "He installed a new outlet in the kitchen.", "es": "Él instaló una nueva toma de corriente en la cocina."},
+      {"en": "The outlet is not working.", "es": "El enchufe no funciona."},
+      {"en": "They have USB outlets in the bedroom.", "es": "Ellos tienen enchufes USB en el dormitorio."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_46",
+    "english": "cabinet",
+    "spanish": "armario / gabinete",
+    "phonetic": "/ˈkæb.ɪ.nət/",
+    "examples": [
+      {"en": "She stored dishes in the kitchen cabinet.", "es": "Ella guardó platos en el armario de la cocina."},
+      {"en": "He built custom cabinets for the bathroom.", "es": "Él construyó gabinetes a medida para el baño."},
+      {"en": "The cabinet is made of wood.", "es": "El armario es de madera."},
+      {"en": "They painted the cabinets white.", "es": "Ellos pintaron los gabinetes de blanco."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_47",
+    "english": "sink",
+    "spanish": "fregadero / lavabo",
+    "phonetic": "/sɪŋk/",
+    "examples": [
+      {"en": "She washed dishes in the sink.", "es": "Ella lavó los platos en el fregadero."},
+      {"en": "He fixed the leaky sink.", "es": "Él arregló el fregadero que goteaba."},
+      {"en": "The bathroom sink is small.", "es": "El lavabo del baño es pequeño."},
+      {"en": "They installed a stainless steel sink.", "es": "Ellos instalaron un fregadero de acero inoxidable."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_48",
+    "english": "faucet",
+    "spanish": "grifo",
+    "phonetic": "/ˈfɔː.sɪt/",
+    "examples": [
+      {"en": "She turned on the faucet to wash her hands.", "es": "Ella abrió el grifo para lavarse las manos."},
+      {"en": "He repaired the dripping faucet.", "es": "Él reparó el grifo que goteaba."},
+      {"en": "The kitchen faucet is modern.", "es": "El grifo de la cocina es moderno."},
+      {"en": "They installed a water-saving faucet.", "es": "Ellos instalaron un grifo ahorrador de agua."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_49",
+    "english": "toilet",
+    "spanish": "inodoro / váter",
+    "phonetic": "/ˈtɔɪ.lət/",
+    "examples": [
+      {"en": "She cleaned the toilet thoroughly.", "es": "Ella limpió el inodoro a fondo."},
+      {"en": "He fixed the toilet that wouldn’t flush.", "es": "Él arregló el inodoro que no descargaba."},
+      {"en": "The toilet is in the small bathroom.", "es": "El váter está en el baño pequeño."},
+      {"en": "They bought a dual-flush toilet.", "es": "Ellos compraron un inodoro de doble descarga."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_50",
+    "english": "shower",
+    "spanish": "ducha",
+    "phonetic": "/ˈʃaʊ.ɚ/",
+    "examples": [
+      {"en": "She takes a quick shower in the morning.", "es": "Ella se da una ducha rápida por la mañana."},
+      {"en": "He installed a rain shower head.", "es": "Él instaló una ducha de lluvia."},
+      {"en": "The shower has hot water.", "es": "La ducha tiene agua caliente."},
+      {"en": "They renovated the shower last year.", "es": "Ellos renovaron la ducha el año pasado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_51",
+    "english": "bathtub",
+    "spanish": "bañera",
+    "phonetic": "/ˈbæθ.tʌb/",
+    "examples": [
+      {"en": "She takes a bath in the bathtub.", "es": "Ella se baña en la bañera."},
+      {"en": "He cleaned the bathtub with vinegar.", "es": "Él limpió la bañera con vinagre."},
+      {"en": "The bathtub is old but functional.", "es": "La bañera es vieja pero funcional."},
+      {"en": "They installed a whirlpool bathtub.", "es": "Ellos instalaron una bañera de hidromasaje."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_52",
+    "english": "closet",
+    "spanish": "armario empotrado / clóset",
+    "phonetic": "/ˈklɑː.zət/",
+    "examples": [
+      {"en": "She keeps her shoes in the closet.", "es": "Ella guarda sus zapatos en el clóset."},
+      {"en": "He organized the closet by color.", "es": "Él organizó el armario por colores."},
+      {"en": "The bedroom has a walk-in closet.", "es": "El dormitorio tiene un vestidor."},
+      {"en": "They added shelves to the closet.", "es": "Ellos añadieron estantes al armario."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_53",
+    "english": "drawer",
+    "spanish": "cajón",
+    "phonetic": "/drɔːr/",
+    "examples": [
+      {"en": "She opened the drawer to get a spoon.", "es": "Ella abrió el cajón para sacar una cuchara."},
+      {"en": "He fixed the stuck drawer.", "es": "Él arregló el cajón atascado."},
+      {"en": "The dresser has six drawers.", "es": "La cómoda tiene seis cajones."},
+      {"en": "They labeled each drawer for organization.", "es": "Ellos etiquetaron cada cajón para organizarse."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_54",
+    "english": "shelf",
+    "spanish": "estante",
+    "phonetic": "/ʃelf/",
+    "examples": [
+      {"en": "She placed books on the shelf.", "es": "Ella puso libros en el estante."},
+      {"en": "He built a floating shelf.", "es": "Él construyó un estante flotante."},
+      {"en": "The kitchen shelf holds spices.", "es": "El estante de la cocina guarda especias."},
+      {"en": "They installed shelves in the garage.", "es": "Ellos instalaron estantes en el garaje."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_55",
+    "english": "carpet",
+    "spanish": "alfombra / moqueta",
+    "phonetic": "/ˈkɑːr.pət/",
+    "examples": [
+      {"en": "She vacuumed the carpet every week.", "es": "Ella pasaba la aspiradora por la alfombra cada semana."},
+      {"en": "He spilled juice on the carpet.", "es": "Él derramó jugo en la alfombra."},
+      {"en": "The living room has a soft carpet.", "es": "El salón tiene una alfombra suave."},
+      {"en": "They replaced the old carpet with hardwood.", "es": "Ellos reemplazaron la alfombra vieja con madera."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_56",
+    "english": "tile",
+    "spanish": "baldosa / azulejo",
+    "phonetic": "/taɪl/",
+    "examples": [
+      {"en": "She cleaned the bathroom tiles.", "es": "Ella limpió las baldosas del baño."},
+      {"en": "He installed ceramic tiles in the kitchen.", "es": "Él instaló baldosas cerámicas en la cocina."},
+      {"en": "The floor is covered with white tiles.", "es": "El suelo está cubierto con baldosas blancas."},
+      {"en": "They chose subway tiles for the backsplash.", "es": "Ellos eligieron azulejos tipo metro para el delantal."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_57",
+    "english": "paint",
+    "spanish": "pintura",
+    "phonetic": "/peɪnt/",
+    "examples": [
+      {"en": "She painted the walls blue.", "es": "Ella pintó las paredes de azul."},
+      {"en": "He bought eco-friendly paint.", "es": "Él compró pintura ecológica."},
+      {"en": "The paint is still wet.", "es": "La pintura todavía está húmeda."},
+      {"en": "They repainted the entire house.", "es": "Ellos repintaron toda la casa."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_58",
+    "english": "key",
+    "spanish": "llave",
+    "phonetic": "/kiː/",
+    "examples": [
+      {"en": "She lost her house key.", "es": "Ella perdió su llave de la casa."},
+      {"en": "He gave me a spare key.", "es": "Él me dio una llave de repuesto."},
+      {"en": "The key opens the front door.", "es": "La llave abre la puerta principal."},
+      {"en": "They use smart keys for the garage.", "es": "Ellos usan llaves inteligentes para el garaje."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_59",
+    "english": "lock",
+    "spanish": "cerradura",
+    "phonetic": "/lɑːk/",
+    "examples": [
+      {"en": "She locked the door before leaving.", "es": "Ella cerró la puerta con llave antes de salir."},
+      {"en": "He installed a deadbolt lock.", "es": "Él instaló una cerradura de pestillo."},
+      {"en": "The lock is broken and needs replacement.", "es": "La cerradura está rota y necesita reemplazo."},
+      {"en": "They use digital locks for security.", "es": "Ellos usan cerraduras digitales para seguridad."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_60",
+    "english": "doorknob",
+    "spanish": "perilla / pomo de la puerta",
+    "phonetic": "/ˈdɔːr.nɑːb/",
+    "examples": [
+      {"en": "She turned the doorknob slowly.", "es": "Ella giró la perilla lentamente."},
+      {"en": "He replaced the old doorknob.", "es": "Él reemplazó la perilla vieja."},
+      {"en": "The doorknob is made of brass.", "es": "El pomo de la puerta es de latón."},
+      {"en": "They installed child-proof doorknobs.", "es": "Ellos instalaron pomos a prueba de niños."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_61",
+    "english": "hinge",
+    "spanish": "bisagra",
+    "phonetic": "/hɪndʒ/",
+    "examples": [
+      {"en": "She oiled the squeaky hinge.", "es": "Ella engrasó la bisagra chirriante."},
+      {"en": "He tightened the loose hinge.", "es": "Él apretó la bisagra floja."},
+      {"en": "The door hinge is rusty.", "es": "La bisagra de la puerta está oxidada."},
+      {"en": "They replaced all the hinges on the cabinet.", "es": "Ellos reemplazaron todas las bisagras del armario."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_62",
+    "english": "handle",
+    "spanish": "asa / manija",
+    "phonetic": "/ˈhæn.dəl/",
+    "examples": [
+      {"en": "She pulled the drawer handle gently.", "es": "Ella jaló la manija del cajón suavemente."},
+      {"en": "He fixed the broken handle on the door.", "es": "Él arregló la manija rota de la puerta."},
+      {"en": "The pot handle is hot.", "es": "El asa de la olla está caliente."},
+      {"en": "They installed ergonomic handles.", "es": "Ellos instalaron manijas ergonómicas."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_63",
+    "english": "step",
+    "spanish": "escalón",
+    "phonetic": "/step/",
+    "examples": [
+      {"en": "She missed a step and almost fell.", "es": "Ella se saltó un escalón y casi se cayó."},
+      {"en": "He painted each step of the staircase.", "es": "Él pintó cada escalón de la escalera."},
+      {"en": "The first step is higher than the others.", "es": "El primer escalón es más alto que los demás."},
+      {"en": "They added non-slip tape to the steps.", "es": "Ellos añadieron cinta antideslizante a los escalones."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_64",
+    "english": "railing",
+    "spanish": "barandilla",
+    "phonetic": "/ˈreɪ.lɪŋ/",
+    "examples": [
+      {"en": "She held the railing while climbing the stairs.", "es": "Ella se sujetó de la barandilla al subir las escaleras."},
+      {"en": "He installed a glass railing on the balcony.", "es": "Él instaló una barandilla de vidrio en el balcón."},
+      {"en": "The railing is made of iron.", "es": "La barandilla es de hierro."},
+      {"en": "They painted the wooden railing white.", "es": "Ellos pintaron la barandilla de madera de blanco."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_65",
+    "english": "threshold",
+    "spanish": "umbral",
+    "phonetic": "/ˈθreʃ.hoʊld/",
+    "examples": [
+      {"en": "She stepped across the threshold of her new home.", "es": "Ella cruzó el umbral de su nueva casa."},
+      {"en": "He placed a welcome mat at the threshold.", "es": "Él puso una alfombra de bienvenida en el umbral."},
+      {"en": "The threshold is worn from use.", "es": "El umbral está desgastado por el uso."},
+      {"en": "They decorated the threshold for the wedding.", "es": "Ellos decoraron el umbral para la boda."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_66",
+    "english": "mat",
+    "spanish": "alfombra / felpudo",
+    "phonetic": "/mæt/",
+    "examples": [
+      {"en": "She wiped her feet on the mat.", "es": "Ella se limpió los pies en el felpudo."},
+      {"en": "He bought a bath mat for the bathroom.", "es": "Él compró una alfombra de baño para el baño."},
+      {"en": "The kitchen mat is anti-fatigue.", "es": "La alfombra de la cocina es antifatiga."},
+      {"en": "They have a welcome mat at the front door.", "es": "Ellos tienen un felpudo de bienvenida en la puerta principal."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_67",
+    "english": "trash can",
+    "spanish": "bote de basura",
+    "phonetic": "/ˈtræʃ kæn/",
+    "examples": [
+      {"en": "She took out the trash can.", "es": "Ella sacó el bote de basura."},
+      {"en": "He emptied the trash can into the dumpster.", "es": "Él vació el bote de basura en el contenedor."},
+      {"en": "The kitchen trash can smells bad.", "es": "El bote de basura de la cocina huele mal."},
+      {"en": "They use a recycling trash can.", "es": "Ellos usan un bote de basura para reciclaje."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_68",
+    "english": "recycling bin",
+    "spanish": "contenedor de reciclaje",
+    "phonetic": "/ˈriː.saɪ.klɪŋ bɪn/",
+    "examples": [
+      {"en": "She sorted paper into the recycling bin.", "es": "Ella clasificó el papel en el contenedor de reciclaje."},
+      {"en": "He rinsed bottles before recycling.", "es": "Él enjuagó las botellas antes de reciclarlas."},
+      {"en": "The recycling bin is blue.", "es": "El contenedor de reciclaje es azul."},
+      {"en": "They have separate bins for plastic and glass.", "es": "Ellos tienen contenedores separados para plástico y vidrio."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_69",
+    "english": "pantry",
+    "spanish": "despensa",
+    "phonetic": "/ˈpæn.tri/",
+    "examples": [
+      {"en": "She stored pasta in the pantry.", "es": "Ella guardó pasta en la despensa."},
+      {"en": "He organized the pantry by food type.", "es": "Él organizó la despensa por tipo de alimento."},
+      {"en": "The pantry is full of canned goods.", "es": "La despensa está llena de conservas."},
+      {"en": "They built a walk-in pantry.", "es": "Ellos construyeron una despensa amplia."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_70",
+    "english": "laundry room",
+    "spanish": "cuarto de lavado",
+    "phonetic": "/ˈlɔːn.dri ruːm/",
+    "examples": [
+      {"en": "She folded clothes in the laundry room.", "es": "Ella dobló ropa en el cuarto de lavado."},
+      {"en": "He installed shelves in the laundry room.", "es": "Él instaló estantes en el cuarto de lavado."},
+      {"en": "The laundry room has a sink and folding table.", "es": "El cuarto de lavado tiene un fregadero y una mesa plegable."},
+      {"en": "They added a drying rack to the laundry room.", "es": "Ellos añadieron un tendedero al cuarto de lavado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_71",
+    "english": "utility room",
+    "spanish": "cuarto de utilidades",
+    "phonetic": "/ˈjuː.t̬əl.ə.ti ruːm/",
+    "examples": [
+      {"en": "The utility room holds the water heater.", "es": "El cuarto de utilidades alberga el calentador de agua."},
+      {"en": "She stores cleaning supplies in the utility room.", "es": "Ella guarda productos de limpieza en el cuarto de utilidades."},
+      {"en": "He fixed the fuse box in the utility room.", "es": "Él arregló la caja de fusibles en el cuarto de utilidades."},
+      {"en": "Their utility room is next to the garage.", "es": "Su cuarto de utilidades está al lado del garaje."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_72",
+    "english": "study",
+    "spanish": "estudio",
+    "phonetic": "/ˈstʌd.i/",
+    "examples": [
+      {"en": "She reads in her study every evening.", "es": "Ella lee en su estudio todas las noches."},
+      {"en": "He has a desk and bookshelves in the study.", "es": "Él tiene un escritorio y estanterías en el estudio."},
+      {"en": "The study has large windows.", "es": "El estudio tiene ventanas grandes."},
+      {"en": "They converted the spare room into a study.", "es": "Ellos convirtieron la habitación de invitados en un estudio."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_73",
+    "english": "guest room",
+    "spanish": "habitación de invitados",
+    "phonetic": "/ˈɡest ruːm/",
+    "examples": [
+      {"en": "She prepared the guest room for visitors.", "es": "Ella preparó la habitación de invitados para los visitantes."},
+      {"en": "He bought extra pillows for the guest room.", "es": "Él compró almohadas extra para la habitación de invitados."},
+      {"en": "The guest room has its own bathroom.", "es": "La habitación de invitados tiene su propio baño."},
+      {"en": "They rarely use the guest room.", "es": "Ellos rara vez usan la habitación de invitados."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_74",
+    "english": "nursery",
+    "spanish": "guardería / cuarto de bebé",
+    "phonetic": "/ˈnɝː.sər.i/",
+    "examples": [
+      {"en": "She decorated the nursery in blue.", "es": "Ella decoró el cuarto de bebé en azul."},
+      {"en": "He assembled the crib in the nursery.", "es": "Él armó la cuna en la guardería."},
+      {"en": "The nursery has soft lighting.", "es": "La guardería tiene iluminación suave."},
+      {"en": "They painted stars on the nursery ceiling.", "es": "Ellos pintaron estrellas en el techo del cuarto de bebé."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_75",
+    "english": "playroom",
+    "spanish": "sala de juegos",
+    "phonetic": "/ˈpleɪ.ruːm/",
+    "examples": [
+      {"en": "The children play in the playroom.", "es": "Los niños juegan en la sala de juegos."},
+      {"en": "She organized toys in the playroom.", "es": "Ella organizó juguetes en la sala de juegos."},
+      {"en": "He installed soft flooring in the playroom.", "es": "Él instaló suelo blando en la sala de juegos."},
+      {"en": "Their playroom is colorful and bright.", "es": "Su sala de juegos es colorida y luminosa."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_76",
+    "english": "home office",
+    "spanish": "oficina en casa",
+    "phonetic": "/hoʊm ˈɑː.fɪs/",
+    "examples": [
+      {"en": "She works from her home office.", "es": "Ella trabaja desde su oficina en casa."},
+      {"en": "He set up a desk in the home office.", "es": "Él puso un escritorio en la oficina en casa."},
+      {"en": "The home office has good natural light.", "es": "La oficina en casa tiene buena luz natural."},
+      {"en": "They converted the spare room into a home office.", "es": "Ellos convirtieron la habitación de invitados en una oficina en casa."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_77",
+    "english": "mudroom",
+    "spanish": "recibidor para zapatos",
+    "phonetic": "/ˈmʌd.ruːm/",
+    "examples": [
+      {"en": "She left her boots in the mudroom.", "es": "Ella dejó sus botas en el recibidor para zapatos."},
+      {"en": "He installed hooks in the mudroom.", "es": "Él instaló ganchos en el recibidor para zapatos."},
+      {"en": "The mudroom has cubbies for each family member.", "es": "El recibidor tiene casilleros para cada miembro de la familia."},
+      {"en": "They keep coats and shoes in the mudroom.", "es": "Ellos guardan abrigos y zapatos en el recibidor."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_78",
+    "english": "porch",
+    "spanish": "porche",
+    "phonetic":"/pɔːrtʃ/",
+    "examples": [
+      {"en": "She drinks coffee on the porch every morning.", "es": "Ella toma café en el porche todas las mañanas."},
+      {"en": "He built a wooden porch.", "es": "Él construyó un porche de madera."},
+      {"en": "The porch has rocking chairs.", "es": "El porche tiene mecedoras."},
+      {"en": "They decorated the porch for Halloween.", "es": "Ellos decoraron el porche para Halloween."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_79",
+    "english": "patio",
+    "spanish": "patio",
+    "phonetic": "/ˈpæt.i.oʊ/",
+    "examples": [
+      {"en": "They eat dinner on the patio in summer.", "es": "Ellos cenan en el patio en verano."},
+      {"en": "She added plants to the patio.", "es": "Ella añadió plantas al patio."},
+      {"en": "The patio has a table and chairs.", "es": "El patio tiene una mesa y sillas."},
+      {"en": "He installed a grill on the patio.", "es": "Él instaló una parrilla en el patio."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_80",
+    "english": "deck",
+    "spanish": "terraza de madera",
+    "phonetic": "/dek/",
+    "examples": [
+      {"en": "They relax on the deck on weekends.", "es": "Ellos se relajan en la terraza de madera los fines de semana."},
+      {"en": "She sanded the wooden deck.", "es": "Ella lijó la terraza de madera."},
+      {"en": "The deck overlooks the garden.", "es": "La terraza da al jardín."},
+      {"en": "He built a deck in the backyard.", "es": "Él construyó una terraza en el jardín trasero."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_81",
+    "english": "backyard",
+    "spanish": "jardín trasero",
+    "phonetic": "/ˈbæk.jɑːrd/",
+    "examples": [
+      {"en": "The kids play in the backyard.", "es": "Los niños juegan en el jardín trasero."},
+      {"en": "She planted flowers in the backyard.", "es": "Ella plantó flores en el jardín trasero."},
+      {"en": "He mowed the backyard lawn.", "es": "Él cortó el césped del jardín trasero."},
+      {"en": "They have a pool in the backyard.", "es": "Ellos tienen una piscina en el jardín trasero."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_82",
+    "english": "front yard",
+    "spanish": "jardín delantero",
+    "phonetic": "/ˈfrʌnt jɑːrd/",
+    "examples": [
+      {"en": "She waters the plants in the front yard.", "es": "Ella riega las plantas del jardín delantero."},
+      {"en": "He mowed the front yard this morning.", "es": "Él cortó el césped del jardín delantero esta mañana."},
+      {"en": "The front yard has a mailbox.", "es": "El jardín delantero tiene un buzón."},
+      {"en": "They decorated the front yard for Christmas.", "es": "Ellos decoraron el jardín delantero para Navidad."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_83",
+    "english": "fence",
+    "spanish": "valla / cerca",
+    "phonetic": "/fens/",
+    "examples": [
+      {"en": "She painted the wooden fence white.", "es": "Ella pintó la valla de madera de blanco."},
+      {"en": "He fixed the broken fence.", "es": "Él arregló la cerca rota."},
+      {"en": "The fence keeps the dog in the yard.", "es": "La valla mantiene al perro en el jardín."},
+      {"en": "They installed a privacy fence.", "es": "Ellos instalaron una cerca de privacidad."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_84",
+    "english": "mailbox",
+    "spanish": "buzón",
+    "phonetic": "/ˈmeɪl.bɑːks/",
+    "examples": [
+      {"en": "She checked the mailbox for letters.", "es": "Ella revisó el buzón en busca de cartas."},
+      {"en": "He painted the mailbox red.", "es": "Él pintó el buzón de rojo."},
+      {"en": "The mailbox is at the end of the driveway.", "es": "El buzón está al final del camino de entrada."},
+      {"en": "They have a secure mailbox.", "es": "Ellos tienen un buzón seguro."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_85",
+    "english": "driveway",
+    "spanish": "camino de entrada",
+    "phonetic": "/ˈdraɪv.weɪ/",
+    "examples": [
+      {"en": "He parked the car in the driveway.", "es": "Él estacionó el coche en el camino de entrada."},
+      {"en": "She swept the driveway yesterday.", "es": "Ella barrió el camino de entrada ayer."},
+      {"en": "The driveway is made of concrete.", "es": "El camino de entrada es de concreto."},
+      {"en": "They sealed the driveway last summer.", "es": "Ellos sellaron el camino de entrada el verano pasado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_86",
+    "english": "sidewalk",
+    "spanish": "acera",
+    "phonetic": "/ˈsaɪd.wɔːk/",
+    "examples": [
+      {"en": "She walks on the sidewalk to school.", "es": "Ella camina por la acera a la escuela."},
+      {"en": "He shoveled snow from the sidewalk.", "es": "Él quitó la nieve de la acera."},
+      {"en": "The sidewalk is cracked in some places.", "es": "La acera está agrietada en algunos lugares."},
+      {"en": "They planted trees along the sidewalk.", "es": "Ellos plantaron árboles a lo largo de la acera."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_87",
+    "english": "chimney",
+    "spanish": "chimenea",
+    "phonetic": "/ˈtʃɪm.ni/",
+    "examples": [
+      {"en": "Smoke rose from the chimney.", "es": "El humo salía de la chimenea."},
+      {"en": "He cleaned the chimney before winter.", "es": "Él limpió la chimenea antes del invierno."},
+      {"en": "The chimney needs repair.", "es": "La chimenea necesita reparación."},
+      {"en": "They have a fireplace with a brick chimney.", "es": "Ellos tienen una chimenea con chimenea de ladrillo."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_88",
+    "english": "fireplace",
+    "spanish": "chimenea (de leña)",
+    "phonetic": "/ˈfaɪr.pleɪs/",
+    "examples": [
+      {"en": "She lit a fire in the fireplace.", "es": "Ella encendió fuego en la chimenea."},
+      {"en": "He added logs to the fireplace.", "es": "Él añadió leña a la chimenea."},
+      {"en": "The living room has a stone fireplace.", "es": "El salón tiene una chimenea de piedra."},
+      {"en": "They gather around the fireplace in winter.", "es": "Ellos se reúnen alrededor de la chimenea en invierno."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_89",
+    "english": "mantel",
+    "spanish": "repisa de la chimenea",
+    "phonetic": "/ˈmæn.t̬əl/",
+    "examples": [
+      {"en": "She placed photos on the mantel.", "es": "Ella puso fotos en la repisa de la chimenea."},
+      {"en": "He decorated the mantel for Christmas.", "es": "Él decoró la repisa para Navidad."},
+      {"en": "The mantel is made of wood.", "es": "La repisa es de madera."},
+      {"en": "They keep candles on the mantel.", "es": "Ellos guardan velas en la repisa."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_90",
+    "english": "thermostat",
+    "spanish": "termostato",
+    "phonetic": "/ˈθɝː.mə.stæt/",
+    "examples": [
+      {"en": "She adjusted the thermostat to 72°F.", "es": "Ella ajustó el termostato a 22°C."},
+      {"en": "He installed a smart thermostat.", "es": "Él instaló un termostato inteligente."},
+      {"en": "The thermostat controls the heating and cooling.", "es": "El termostato controla la calefacción y el aire acondicionado."},
+      {"en": "They program the thermostat for energy savings.", "es": "Ellos programan el termostato para ahorrar energía."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_91",
+    "english": "smoke detector",
+    "spanish": "detector de humo",
+    "phonetic": "/ˈsmoʊk dɪˌtek.t̬ɚ/",
+    "examples": [
+      {"en": "She tested the smoke detector monthly.", "es": "Ella prueba el detector de humo mensualmente."},
+      {"en": "He replaced the battery in the smoke detector.", "es": "Él reemplazó la batería del detector de humo."},
+      {"en": "The smoke detector beeped loudly.", "es": "El detector de humo emitió un pitido fuerte."},
+      {"en": "They have smoke detectors in every bedroom.", "es": "Ellos tienen detectores de humo en cada dormitorio."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_92",
+    "english": "carbon monoxide detector",
+    "spanish": "detector de monóxido de carbono",
+    "phonetic": "/ˌkɑːr.bən məˈnɑːk.saɪd dɪˌtek.t̬ɚ/",
+    "examples": [
+      {"en": "She installed a carbon monoxide detector near the furnace.", "es": "Ella instaló un detector de monóxido de carbono cerca de la caldera."},
+      {"en": "He checks the carbon monoxide detector regularly.", "es": "Él revisa el detector de monóxido de carbono regularmente."},
+      {"en": "The carbon monoxide detector saves lives.", "es": "El detector de monóxido de carbono salva vidas."},
+      {"en": "They have detectors on every floor.", "es": "Ellos tienen detectores en cada piso."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_93",
+    "english": "security system",
+    "spanish": "sistema de seguridad",
+    "phonetic": "/səˈkjʊr.ə.ti ˌsɪs.təm/",
+    "examples": [
+      {"en": "She armed the security system before leaving.", "es": "Ella activó el sistema de seguridad antes de salir."},
+      {"en": "He installed cameras as part of the security system.", "es": "Él instaló cámaras como parte del sistema de seguridad."},
+      {"en": "The security system includes motion sensors.", "es": "El sistema de seguridad incluye sensores de movimiento."},
+      {"en": "They monitor the security system remotely.", "es": "Ellos monitorean el sistema de seguridad a distancia."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_94",
+    "english": "doorbell",
+    "spanish": "timbre",
+    "phonetic": "/ˈdɔːr.bel/",
+    "examples": [
+      {"en": "She heard the doorbell ring.", "es": "Ella oyó sonar el timbre."},
+      {"en": "He installed a video doorbell.", "es": "Él instaló un timbre con cámara."},
+      {"en": "The doorbell is broken.", "es": "El timbre está roto."},
+      {"en": "They have a wireless doorbell.", "es": "Ellos tienen un timbre inalámbrico."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_95",
+    "english": "peephole",
+    "spanish": "mirilla",
+    "phonetic": "/ˈpiː.hoʊl/",
+    "examples": [
+      {"en": "She looked through the peephole before opening the door.", "es": "Ella miró por la mirilla antes de abrir la puerta."},
+      {"en": "He cleaned the peephole for better visibility.", "es": "Él limpió la mirilla para mejor visibilidad."},
+      {"en": "The peephole gives a wide-angle view.", "es": "La mirilla da una vista de gran angular."},
+      {"en": "They upgraded to a digital peephole camera.", "es": "Ellos actualizaron a una cámara digital en la mirilla."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_96",
+    "english": "garage door",
+    "spanish": "puerta de garaje",
+    "phonetic": "/ˈɡær.ɪdʒ dɔːr/",
+    "examples": [
+      {"en": "She opened the garage door with the remote.", "es": "Ella abrió la puerta del garaje con el control remoto."},
+      {"en": "He repaired the broken garage door.", "es": "Él reparó la puerta del garaje rota."},
+      {"en": "The garage door is automatic.", "es": "La puerta del garaje es automática."},
+      {"en": "They painted the garage door to match the house.", "es": "Ellos pintaron la puerta del garaje para que combinara con la casa."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_97",
+    "english": "window sill",
+    "spanish": "alfeizar",
+    "phonetic": "/ˈwɪn.doʊ sɪl/",
+    "examples": [
+      {"en": "She placed plants on the window sill.", "es": "Ella puso plantas en el alfeizar."},
+      {"en": "He painted the window sill white.", "es": "Él pintó el alfeizar de blanco."},
+      {"en": "The window sill collects dust.", "es": "El alfeizar acumula polvo."},
+      {"en": "They have a cat that sleeps on the window sill.", "es": "Ellos tienen un gato que duerme en el alfeizar."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_98",
+    "english": "baseboard",
+    "spanish": "zócalo",
+    "phonetic": "/ˈbeɪs.bɔːrd/",
+    "examples": [
+      {"en": "She painted the baseboards white.", "es": "Ella pintó los zócalos de blanco."},
+      {"en": "He installed new baseboards in the living room.", "es": "Él instaló zócalos nuevos en el salón."},
+      {"en": "The baseboards protect the walls from damage.", "es": "Los zócalos protegen las paredes de daños."},
+      {"en": "They chose wooden baseboards.", "es": "Ellos eligieron zócalos de madera."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_99",
+    "english": "crown molding",
+    "spanish": "moldura de techo",
+    "phonetic": "/kraʊn ˈmoʊl.dɪŋ/",
+    "examples": [
+      {"en": "She added crown molding to the dining room.", "es": "Ella añadió moldura de techo al comedor."},
+      {"en": "He painted the crown molding white.", "es": "Él pintó la moldura de techo de blanco."},
+      {"en": "The crown molding gives the room elegance.", "es": "La moldura de techo le da elegancia a la habitación."},
+      {"en": "They installed crown molding in every room.", "es": "Ellos instalaron moldura de techo en cada habitación."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_100",
+    "english": "light fixture",
+    "spanish": "luminaria / accesorio de iluminación",
+    "phonetic": "/ˈlaɪt ˌfɪk.stʃɚ/",
+    "examples": [
+      {"en": "She chose a modern light fixture for the kitchen.", "es": "Ella eligió una luminaria moderna para la cocina."},
+      {"en": "He installed a chandelier as a light fixture.", "es": "Él instaló una araña como accesorio de iluminación."},
+      {"en": "The light fixture matches the decor.", "es": "La luminaria combina con la decoración."},
+      {"en": "They replaced the old light fixture with LED.", "es": "Ellos reemplazaron la luminaria vieja con LED."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_101",
+    "english": "ceiling fan",
+    "spanish": "ventilador de techo",
+    "phonetic": "/ˈsiː.lɪŋ fæn/",
+    "examples": [
+      {"en": "She turned on the ceiling fan to cool the room.", "es": "Ella encendió el ventilador de techo para enfriar la habitación."},
+      {"en": "He installed a ceiling fan with a light.", "es": "Él instaló un ventilador de techo con luz."},
+      {"en": "The ceiling fan has three speeds.", "es": "El ventilador de techo tiene tres velocidades."},
+      {"en": "They use ceiling fans to save on AC.", "es": "Ellos usan ventiladores de techo para ahorrar en aire acondicionado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_102",
+    "english": "dimmer switch",
+    "spanish": "regulador de intensidad",
+    "phonetic": "/ˈdɪm.ɚ swɪtʃ/",
+    "examples": [
+      {"en": "She installed a dimmer switch in the bedroom.", "es": "Ella instaló un regulador de intensidad en el dormitorio."},
+      {"en": "He adjusted the dimmer switch for mood lighting.", "es": "Él ajustó el regulador para iluminación ambiental."},
+      {"en": "The dimmer switch controls brightness.", "es": "El regulador de intensidad controla el brillo."},
+      {"en": "They prefer dimmer switches over regular ones.", "es": "Ellos prefieren reguladores sobre interruptores normales."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_103",
+    "english": "power strip",
+    "spanish": "regleta / alargador con múltiples tomas",
+    "phonetic": "/ˈpaʊ.ɚ strɪp/",
+    "examples": [
+      {"en": "She plugged her computer into the power strip.", "es": "Ella enchufó su computadora en la regleta."},
+      {"en": "He uses a surge protector power strip.", "es": "Él usa una regleta con protector contra picos."},
+      {"en": "The power strip has six outlets.", "es": "La regleta tiene seis tomas."},
+      {"en": "They avoid overloading the power strip.", "es": "Ellos evitan sobrecargar la regleta."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_104",
+    "english": "extension cord",
+    "spanish": "alargador eléctrico",
+    "phonetic": "/ɪkˈsten.ʃən kɔːrd/",
+    "examples": [
+      {"en": "She used an extension cord for the vacuum cleaner.", "es": "Ella usó un alargador eléctrico para la aspiradora."},
+      {"en": "He bought a heavy-duty extension cord.", "es": "Él compró un alargador eléctrico resistente."},
+      {"en": "The extension cord reaches the backyard.", "es": "El alargador eléctrico llega al jardín trasero."},
+      {"en": "They store extension cords in the garage.", "es": "Ellos guardan alargadores en el garaje."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_105",
+    "english": "tool box",
+    "spanish": "caja de herramientas",
+    "phonetic": "/ˈtuːl bɑːks/",
+    "examples": [
+      {"en": "She kept a small tool box in the kitchen.", "es": "Ella guardaba una caja de herramientas pequeña en la cocina."},
+      {"en": "He organized his tool box by category.", "es": "Él organizó su caja de herramientas por categoría."},
+      {"en": "The tool box has a lock.", "es": "La caja de herramientas tiene candado."},
+      {"en": "They bought a portable tool box.", "es": "Ellos compraron una caja de herramientas portátil."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_106",
+    "english": "ladder",
+    "spanish": "escalera (de mano)",
+    "phonetic": "/ˈlæd.ɚ/",
+    "examples": [
+      {"en": "She used a ladder to reach the top shelf.", "es": "Ella usó una escalera para alcanzar el estante más alto."},
+      {"en": "He climbed the ladder to clean the gutters.", "es": "Él subió la escalera para limpiar las canaletas."},
+      {"en": "The ladder is foldable and easy to store.", "es": "La escalera es plegable y fácil de guardar."},
+      {"en": "They keep a ladder in the garage.", "es": "Ellos guardan una escalera en el garaje."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_107",
+    "english": "toolbox",
+    "spanish": "caja de herramientas",
+    "phonetic": "/ˈtuːl.bɑːks/",
+    "examples": [
+      {"en": "He carried his toolbox to the garage.", "es": "Él llevó su caja de herramientas al garaje."},
+      {"en": "The toolbox contains wrenches and screwdrivers.", "es": "La caja de herramientas contiene llaves y destornilladores."},
+      {"en": "She bought a red toolbox.", "es": "Ella compró una caja de herramientas roja."},
+      {"en": "Their toolbox is well-organized.", "es": "Su caja de herramientas está bien organizada."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_108",
+    "english": "first aid kit",
+    "spanish": "botiquín de primeros auxilios",
+    "phonetic": "/ˈfɝːst eɪd kɪt/",
+    "examples": [
+      {"en": "She kept a first aid kit in the bathroom.", "es": "Ella guardaba un botiquín en el baño."},
+      {"en": "He used the first aid kit for a cut.", "es": "Él usó el botiquín para un corte."},
+      {"en": "The first aid kit has bandages and antiseptic.", "es": "El botiquín tiene vendas y antiséptico."},
+      {"en": "They updated the first aid kit last month.", "es": "Ellos actualizaron el botiquín el mes pasado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_109",
+    "english": "fire extinguisher",
+    "spanish": "extintor",
+    "phonetic": "/ˈfaɪr ɪkˈstɪŋ.ɡwɪ.ʃɚ/",
+    "examples": [
+      {"en": "She checked the fire extinguisher monthly.", "es": "Ella revisa el extintor mensualmente."},
+      {"en": "He mounted the fire extinguisher in the kitchen.", "es": "Él montó el extintor en la cocina."},
+      {"en": "The fire extinguisher is for emergencies only.", "es": "El extintor es solo para emergencias."},
+      {"en": "They have fire extinguishers on every floor.", "es": "Ellos tienen extintores en cada piso."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_110",
+    "english": "flashlight",
+    "spanish": "linterna",
+    "phonetic": "/ˈflæʃ.laɪt/",
+    "examples": [
+      {"en": "She used a flashlight during the power outage.", "es": "Ella usó una linterna durante el apagón."},
+      {"en": "He keeps a flashlight in his nightstand.", "es": "Él guarda una linterna en su mesita de noche."},
+      {"en": "The flashlight has fresh batteries.", "es": "La linterna tiene pilas nuevas."},
+      {"en": "They have emergency flashlights in the house.", "es": "Ellos tienen linternas de emergencia en la casa."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_111",
+    "english": "battery",
+    "spanish": "pila / batería",
+    "phonetic": "/ˈbæt̬.ɚ.i/",
+    "examples": [
+      {"en": "She replaced the battery in the remote.", "es": "Ella reemplazó la pila del control remoto."},
+      {"en": "He bought AA batteries for the flashlight.", "es": "Él compró pilas AA para la linterna."},
+      {"en": "The smoke detector needs a new battery.", "es": "El detector de humo necesita una pila nueva."},
+      {"en": "They store batteries in a drawer.", "es": "Ellos guardan pilas en un cajón."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_112",
+    "english": "remote control",
+    "spanish": "control remoto",
+    "phonetic": "/rɪˈmoʊt kənˈtroʊl/",
+    "examples": [
+      {"en": "She lost the remote control for the TV.", "es": "Ella perdió el control remoto de la tele."},
+      {"en": "He found the remote control under the sofa.", "es": "Él encontró el control remoto debajo del sofá."},
+      {"en": "The remote control needs new batteries.", "es": "El control remoto necesita pilas nuevas."},
+      {"en": "They have a universal remote control.", "es": "Ellos tienen un control remoto universal."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_113",
+    "english": "thermometer",
+    "spanish": "termómetro",
+    "phonetic": "/θɚˈmɑː.mɪ.t̬ɚ/",
+    "examples": [
+      {"en": "She checked the room thermometer.", "es": "Ella revisó el termómetro de la habitación."},
+      {"en": "He uses an outdoor thermometer.", "es": "Él usa un termómetro exterior."},
+      {"en": "The thermometer shows 72°F.", "es": "El termómetro marca 22°C."},
+      {"en": "They have a digital thermometer in the kitchen.", "es": "Ellos tienen un termómetro digital en la cocina."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_114",
+    "english": "humidifier",
+    "spanish": "humidificador",
+    "phonetic": "/hjuːˈmɪd.ə.faɪ.ɚ/",
+    "examples": [
+      {"en": "She uses a humidifier in winter.", "es": "Ella usa un humidificador en invierno."},
+      {"en": "He filled the humidifier with distilled water.", "es": "Él llenó el humidificador con agua destilada."},
+      {"en": "The humidifier helps with dry skin.", "es": "El humidificador ayuda con la piel seca."},
+      {"en": "They clean the humidifier weekly.", "es": "Ellos limpian el humidificador semanalmente."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_115",
+    "english": "dehumidifier",
+    "spanish": "deshumidificador",
+    "phonetic": "/ˌdiː.hjuːˈmɪd.ə.faɪ.ɚ/",
+    "examples": [
+      {"en": "She uses a dehumidifier in the basement.", "es": "Ella usa un deshumidificador en el sótano."},
+      {"en": "He emptied the water tank from the dehumidifier.", "es": "Él vació el tanque de agua del deshumidificador."},
+      {"en": "The dehumidifier reduces mold and mildew.", "es": "El deshumidificador reduce el moho y la humedad."},
+      {"en": "They run the dehumidifier during rainy season.", "es": "Ellos usan el deshumidificador en temporada de lluvias."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_116",
+    "english": "water heater",
+    "spanish": "calentador de agua",
+    "phonetic": "/ˈwɔː.t̬ɚ ˌhiː.t̬ɚ/",
+    "examples": [
+      {"en": "She adjusted the temperature on the water heater.", "es": "Ella ajustó la temperatura del calentador de agua."},
+      {"en": "He flushed the water heater to remove sediment.", "es": "Él purgó el calentador de agua para eliminar sedimentos."},
+      {"en": "The water heater is in the utility room.", "es": "El calentador de agua está en el cuarto de utilidades."},
+      {"en": "They have a tankless water heater.", "es": "Ellos tienen un calentador de agua sin tanque."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_117",
+    "english": "fuse box",
+    "spanish": "caja de fusibles",
+    "phonetic": "/ˈfjuːz bɑːks/",
+    "examples": [
+      {"en": "She checked the fuse box when the lights went out.", "es": "Ella revisó la caja de fusibles cuando se apagaron las luces."},
+      {"en": "He replaced a blown fuse in the fuse box.", "es": "Él reemplazó un fusible quemado en la caja."},
+      {"en": "The fuse box is in the basement.", "es": "La caja de fusibles está en el sótano."},
+      {"en": "They upgraded to a circuit breaker panel.", "es": "Ellos actualizaron a un panel de interruptores automáticos."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_118",
+    "english": "circuit breaker",
+    "spanish": "interruptor automático",
+    "phonetic": "/ˈsɝː.kɪt ˌbreɪ.kɚ/",
+    "examples": [
+      {"en": "She reset the circuit breaker after the overload.", "es": "Ella reinició el interruptor automático después de la sobrecarga."},
+      {"en": "He labeled each circuit breaker clearly.", "es": "Él etiquetó cada interruptor claramente."},
+      {"en": "The circuit breaker tripped during the storm.", "es": "El interruptor automático se disparó durante la tormenta."},
+      {"en": "They have a modern circuit breaker panel.", "es": "Ellos tienen un panel moderno de interruptores automáticos."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_119",
+    "english": "insulation",
+    "spanish": "aislamiento",
+    "phonetic": "/ˌɪn.səˈleɪ.ʃən/",
+    "examples": [
+      {"en": "She added insulation to the attic.", "es": "Ella añadió aislamiento al ático."},
+      {"en": "He checked the insulation in the walls.", "es": "Él revisó el aislamiento en las paredes."},
+      {"en": "Good insulation saves energy.", "es": "Un buen aislamiento ahorra energía."},
+      {"en": "They upgraded the home insulation last year.", "es": "Ellos mejoraron el aislamiento de la casa el año pasado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_120",
+    "english": "gutter",
+    "spanish": "canalón / canaleta",
+    "phonetic": "/ˈɡʌt̬.ɚ/",
+    "examples": [
+      {"en": "She cleaned the gutters last fall.", "es": "Ella limpió las canaletas el otoño pasado."},
+      {"en": "He fixed the leaky gutter.", "es": "Él arregló la canaleta que goteaba."},
+      {"en": "The gutters channel rainwater away from the house.", "es": "Las canaletas desvían el agua de lluvia de la casa."},
+      {"en": "They installed gutter guards to prevent clogs.", "es": "Ellos instalaron protectores de canaletas para evitar obstrucciones."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_121",
+    "english": "downspout",
+    "spanish": "bajante",
+    "phonetic": "/ˈdaʊn.spɑːt/",
+    "examples": [
+      {"en": "She directed the downspout away from the foundation.", "es": "Ella dirigió el bajante lejos de los cimientos."},
+      {"en": "He cleared leaves from the downspout.", "es": "Él quitó hojas del bajante."},
+      {"en": "The downspout connects to the gutter.", "es": "El bajante se conecta a la canaleta."},
+      {"en": "They extended the downspout for better drainage.", "es": "Ellos alargaron el bajante para mejor drenaje."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_122",
+    "english": "siding",
+    "spanish": "revestimiento exterior",
+    "phonetic": "/ˈsaɪ.dɪŋ/",
+    "examples": [
+      {"en": "She chose vinyl siding for the house.", "es": "Ella eligió revestimiento de vinilo para la casa."},
+      {"en": "He painted the wood siding.", "es": "Él pintó el revestimiento de madera."},
+      {"en": "The siding protects the house from weather.", "es": "El revestimiento protege la casa del clima."},
+      {"en": "They replaced the old siding last summer.", "es": "Ellos reemplazaron el revestimiento viejo el verano pasado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_123",
+    "english": "foundation",
+    "spanish": "cimientos",
+    "phonetic": "/faʊnˈdeɪ.ʃən/",
+    "examples": [
+      {"en": "She noticed a crack in the foundation.", "es": "Ella notó una grieta en los cimientos."},
+      {"en": "He inspected the foundation for damage.", "es": "Él inspeccionó los cimientos en busca de daños."},
+      {"en": "A strong foundation is essential for a house.", "es": "Unos cimientos fuertes son esenciales para una casa."},
+      {"en": "They waterproofed the foundation.", "es": "Ellos impermeabilizaron los cimientos."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_124",
+    "english": "frame",
+    "spanish": "estructura / marco",
+    "phonetic": "/freɪm/",
+    "examples": [
+      {"en": "She built the house frame with wood.", "es": "Ella construyó la estructura de la casa con madera."},
+      {"en": "He checked the frame for stability.", "es": "Él revisó la estructura en busca de estabilidad."},
+      {"en": "The frame supports the entire house.", "es": "La estructura sostiene toda la casa."},
+      {"en": "They reinforced the frame after the earthquake.", "es": "Ellos reforzaron la estructura después del terremoto."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_125",
+    "english": "joist",
+    "spanish": "viga",
+    "phonetic": "/dʒɔɪst/",
+    "examples": [
+      {"en": "She walked on the floor joists in the attic.", "es": "Ella caminó sobre las vigas del suelo en el ático."},
+      {"en": "He reinforced the ceiling joists.", "es": "Él reforzó las vigas del techo."},
+      {"en": "The joists support the floor above.", "es": "Las vigas sostienen el piso de arriba."},
+      {"en": "They replaced rotten joists in the basement.", "es": "Ellos reemplazaron vigas podridas en el sótano."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_126",
+    "english": "rafter",
+    "spanish": "cabriada",
+    "phonetic": "/ˈræf.t̬ɚ/",
+    "examples": [
+      {"en": "She inspected the rafters in the attic.", "es": "Ella inspeccionó las cabriadas en el ático."},
+      {"en": "He replaced damaged rafters after the storm.", "es": "Él reemplazó cabriadas dañadas después de la tormenta."},
+      {"en": "The rafters support the roof.", "es": "Las cabriadas sostienen el tejado."},
+      {"en": "They added insulation between the rafters.", "es": "Ellos añadieron aislamiento entre las cabriadas."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_127",
+    "english": "beam",
+    "spanish": "viga maestra",
+    "phonetic": "/biːm/",
+    "examples": [
+      {"en": "She exposed the wooden beams in the ceiling.", "es": "Ella dejó a la vista las vigas de madera en el techo."},
+      {"en": "He installed a steel beam for support.", "es": "Él instaló una viga de acero para soporte."},
+      {"en": "The beam holds up the second floor.", "es": "La viga sostiene el segundo piso."},
+      {"en": "They painted the beams black for contrast.", "es": "Ellos pintaron las vigas de negro para contraste."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_128",
+    "english": "column",
+    "spanish": "columna",
+    "phonetic": "/ˈkɑː.ləm/",
+    "examples": [
+      {"en": "She decorated the column with lights.", "es": "Ella decoró la columna con luces."},
+      {"en": "He built a decorative column in the entryway.", "es": "Él construyó una columna decorativa en la entrada."},
+      {"en": "The column supports the porch roof.", "es": "La columna sostiene el techo del porche."},
+      {"en": "They have stone columns at the front door.", "es": "Ellos tienen columnas de piedra en la puerta principal."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_129",
+    "english": "arch",
+    "spanish": "arco",
+    "phonetic": "/ɑːrtʃ/",
+    "examples": [
+      {"en": "She walked through the stone arch.", "es": "Ella caminó por el arco de piedra."},
+      {"en": "He designed an arch between the kitchen and dining room.", "es": "Él diseñó un arco entre la cocina y el comedor."},
+      {"en": "The arch adds elegance to the hallway.", "es": "El arco añade elegancia al pasillo."},
+      {"en": "They renovated the archway last year.", "es": "Ellos renovaron el arco el año pasado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_130",
+    "english": "archway",
+    "spanish": "arco (pasaje)",
+    "phonetic": "/ˈɑːr.tʃ.weɪ/",
+    "examples": [
+      {"en": "She placed a plant near the archway.", "es": "Ella puso una planta cerca del arco."},
+      {"en": "He hung curtains in the archway.", "es": "Él colgó cortinas en el arco."},
+      {"en": "The archway connects the living room and kitchen.", "es": "El arco conecta el salón y la cocina."},
+      {"en": "They decorated the archway with string lights.", "es": "Ellos decoraron el arco con luces de cadena."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_131",
+    "english": "stair rail",
+    "spanish": "barandilla de escalera",
+    "phonetic": "/ˈster reɪl/",
+    "examples": [
+      {"en": "She held the stair rail while going down.", "es": "Ella se sujetó de la barandilla al bajar."},
+      {"en": "He polished the wooden stair rail.", "es": "Él pulió la barandilla de madera."},
+      {"en": "The stair rail is secure and smooth.", "es": "La barandilla está segura y lisa."},
+      {"en": "They installed a new stair rail after the renovation.", "es": "Ellos instalaron una barandilla nueva después de la renovación."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_132",
+    "english": "banister",
+    "spanish": "barandilla (con pasamanos)",
+    "phonetic": "/ˈbæn.ɪ.stɚ/",
+    "examples": [
+      {"en": "She slid down the banister as a child.", "es": "Ella se deslizó por la barandilla de niña."},
+      {"en": "He repaired the loose banister.", "es": "Él arregló la barandilla floja."},
+      {"en": "The banister is made of oak.", "es": "La barandilla es de roble."},
+      {"en": "They painted the banister white.", "es": "Ellos pintaron la barandilla de blanco."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_133",
+    "english": "landing",
+    "spanish": "descansillo",
+    "phonetic": "/ˈlæn.dɪŋ/",
+    "examples": [
+      {"en": "She placed a rug on the landing.", "es": "Ella puso una alfombra en el descansillo."},
+      {"en": "He installed a light on the landing.", "es": "Él instaló una luz en el descansillo."},
+      {"en": "The landing has a window with a view.", "es": "El descansillo tiene una ventana con vista."},
+      {"en": "They keep shoes on the landing.", "es": "Ellos guardan zapatos en el descansillo."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_134",
+    "english": "trapdoor",
+    "spanish": "trampilla",
+    "phonetic": "/ˈtræp.dɔːr/",
+    "examples": [
+      {"en": "She opened the trapdoor to the attic.", "es": "Ella abrió la trampilla al ático."},
+      {"en": "He stored old boxes under the trapdoor.", "es": "Él guardó cajas viejas bajo la trampilla."},
+      {"en": "The trapdoor is hidden under the rug.", "es": "La trampilla está escondida bajo la alfombra."},
+      {"en": "They use the trapdoor for extra storage.", "es": "Ellos usan la trampilla para almacenamiento extra."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_135",
+    "english": "skylight",
+    "spanish": "claraboya",
+    "phonetic": "/ˈskaɪ.laɪt/",
+    "examples": [
+      {"en": "She loves the natural light from the skylight.", "es": "Ella ama la luz natural de la claraboya."},
+      {"en": "He installed a skylight in the bathroom.", "es": "Él instaló una claraboya en el baño."},
+      {"en": "The skylight makes the room brighter.", "es": "La claraboya hace que la habitación sea más luminosa."},
+      {"en": "They open the skylight to let in fresh air.", "es": "Ellos abren la claraboya para dejar entrar aire fresco."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_136",
+    "english": "bay window",
+    "spanish": "ventana abuhardillada",
+    "phonetic": "/ˈbeɪ ˌwɪn.doʊ/",
+    "examples": [
+      {"en": "She placed a bench in the bay window.", "es": "Ella puso un banco en la ventana abuhardillada."},
+      {"en": "He decorated the bay window with curtains.", "es": "Él decoró la ventana con cortinas."},
+      {"en": "The bay window offers a panoramic view.", "es": "La ventana abuhardillada ofrece una vista panorámica."},
+      {"en": "They have plants on the bay window sill.", "es": "Ellos tienen plantas en el alfeizar de la ventana abuhardillada."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_137",
+    "english": "dormer",
+    "spanish": "ventana en el tejado",
+    "phonetic": "/ˈdɔːr.mɚ/",
+    "examples": [
+      {"en": "She added a dormer to bring light to the attic.", "es": "Ella añadió una ventana en el tejado para dar luz al ático."},
+      {"en": "He built a dormer with a small window.", "es": "Él construyó una ventana en el tejado con una ventana pequeña."},
+      {"en": "The dormer increases usable space in the attic.", "es": "La ventana en el tejado aumenta el espacio útil en el ático."},
+      {"en": "They painted the dormer to match the house.", "es": "Ellos pintaron la ventana en el tejado para que coincidiera con la casa."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_138",
+    "english": "shutter",
+    "spanish": "persiana exterior",
+    "phonetic": "/ˈʃʌt.ɚ/",
+    "examples": [
+      {"en": "She closed the shutters during the storm.", "es": "Ella cerró las persianas exteriores durante la tormenta."},
+      {"en": "He painted the wooden shutters green.", "es": "Él pintó las persianas de madera de verde."},
+      {"en": "The shutters protect the windows from sun.", "es": "Las persianas protegen las ventanas del sol."},
+      {"en": "They have decorative shutters on the front windows.", "es": "Ellos tienen persianas decorativas en las ventanas delanteras."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_139",
+    "english": "awning",
+    "spanish": "toldo",
+    "phonetic": "/ˈɔː.nɪŋ/",
+    "examples": [
+      {"en": "She extended the awning over the patio.", "es": "Ella extendió el toldo sobre el patio."},
+      {"en": "He retracted the awning before the rain.", "es": "Él recogió el toldo antes de la lluvia."},
+      {"en": "The awning provides shade in summer.", "es": "El toldo proporciona sombra en verano."},
+      {"en": "They installed a motorized awning.", "es": "Ellos instalaron un toldo motorizado."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_140",
+    "english": "screen door",
+    "spanish": "puerta mosquitera",
+    "phonetic": "/ˈskriːn dɔːr/",
+    "examples": [
+      {"en": "She opened the screen door to let in fresh air.", "es": "Ella abrió la puerta mosquitera para dejar entrar aire fresco."},
+      {"en": "He repaired the torn screen door.", "es": "Él reparó la puerta mosquitera rota."},
+      {"en": "The screen door keeps bugs out.", "es": "La puerta mosquitera mantiene a los insectos fuera."},
+      {"en": "They installed a new screen door this spring.", "es": "Ellos instalaron una puerta mosquitera nueva esta primavera."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_141",
+    "english": "storm door",
+    "spanish": "puerta de tormenta",
+    "phonetic": "/ˈstɔːrm dɔːr/",
+    "examples": [
+      {"en": "She closed the storm door in winter.", "es": "Ella cerró la puerta de tormenta en invierno."},
+      {"en": "He installed a storm door for extra insulation.", "es": "Él instaló una puerta de tormenta para aislamiento extra."},
+      {"en": "The storm door has a window.", "es": "La puerta de tormenta tiene una ventana."},
+      {"en": "They use the storm door year-round.", "es": "Ellos usan la puerta de tormenta todo el año."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_142",
+    "english": "sliding door",
+    "spanish": "puerta corredera",
+    "phonetic": "/ˈslaɪ.dɪŋ dɔːr/",
+    "examples": [
+      {"en": "She opened the sliding door to the patio.", "es": "Ella abrió la puerta corredera al patio."},
+      {"en": "He cleaned the tracks of the sliding door.", "es": "Él limpió las guías de la puerta corredera."},
+      {"en": "The sliding door lets in lots of light.", "es": "La puerta corredera deja entrar mucha luz."},
+      {"en": "They replaced the old sliding door with glass.", "es": "Ellos reemplazaron la puerta corredera vieja con vidrio."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_143",
+    "english": "french door",
+    "spanish": "puerta francesa",
+    "phonetic": "/ˈfrentʃ dɔːr/",
+    "examples": [
+      {"en": "She opened the french doors to the garden.", "es": "Ella abrió las puertas francesas al jardín."},
+      {"en": "He installed french doors between the living room and patio.", "es": "Él instaló puertas francesas entre el salón y el patio."},
+      {"en": "The french doors have glass panels.", "es": "Las puertas francesas tienen paneles de vidrio."},
+      {"en": "They love the elegance of french doors.", "es": "Ellos aman la elegancia de las puertas francesas."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_144",
+    "english": "pocket door",
+    "spanish": "puerta corredera empotrada",
+    "phonetic": "/ˈpɑː.kɪt dɔːr/",
+    "examples": [
+      {"en": "She slid the pocket door open quietly.", "es": "Ella deslizó la puerta corredera empotrada en silencio."},
+      {"en": "He installed a pocket door to save space.", "es": "Él instaló una puerta corredera empotrada para ahorrar espacio."},
+      {"en": "The pocket door disappears into the wall.", "es": "La puerta corredera empotrada desaparece en la pared."},
+      {"en": "They chose a pocket door for the bathroom.", "es": "Ellos eligieron una puerta corredera empotrada para el baño."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_145",
+    "english": "barn door",
+    "spanish": "puerta de granero",
+    "phonetic": "/ˈbɑːrn dɔːr/",
+    "examples": [
+      {"en": "She installed a barn door for the closet.", "es": "Ella instaló una puerta de granero para el armario."},
+      {"en": "He built a wooden barn door himself.", "es": "Él construyó una puerta de granero de madera él mismo."},
+      {"en": "The barn door slides on a track.", "es": "La puerta de granero se desliza sobre una riel."},
+      {"en": "They love the rustic look of the barn door.", "es": "Ellos aman el aspecto rústico de la puerta de granero."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_146",
+    "english": "trap",
+    "spanish": "trampa (de desagüe)",
+    "phonetic": "/træp/",
+    "examples": [
+      {"en": "She cleaned the sink trap to remove odor.", "es": "Ella limpió la trampa del fregadero para eliminar el olor."},
+      {"en": "He unclogged the drain trap.", "es": "Él desatascó la trampa del desagüe."},
+      {"en": "The trap prevents sewer gases from entering.", "es": "La trampa evita que los gases del alcantarillado entren."},
+      {"en": "They checked the trap under the bathroom sink.", "es": "Ellos revisaron la trampa debajo del lavabo del baño."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_147",
+    "english": "faucet aerator",
+    "spanish": "aireador de grifo",
+    "phonetic": "/ˈfɔː.sɪt ˈer.ə.teɪ.t̬ɚ/",
+    "examples": [
+      {"en": "She unscrewed the faucet aerator to clean it.", "es": "Ella desenroscó el aireador del grifo para limpiarlo."},
+      {"en": "He replaced the old faucet aerator.", "es": "Él reemplazó el aireador viejo."},
+      {"en": "The faucet aerator saves water.", "es": "El aireador del grifo ahorra agua."},
+      {"en": "They installed low-flow faucet aerators.", "es": "Ellos instalaron aireadores de bajo flujo."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_148",
+    "english": "showerhead",
+    "spanish": "cabezal de ducha",
+    "phonetic": "/ˈʃaʊ.ɚ.hed/",
+    "examples": [
+      {"en": "She replaced the showerhead with a rainfall one.", "es": "Ella reemplazó el cabezal de ducha con uno de lluvia."},
+      {"en": "He cleaned mineral deposits from the showerhead.", "es": "Él limpió depósitos minerales del cabezal de ducha."},
+      {"en": "The showerhead has multiple spray settings.", "es": "El cabezal de ducha tiene varios modos de pulverización."},
+      {"en": "They installed a water-saving showerhead.", "es": "Ellos instalaron un cabezal de ducha ahorrador de agua."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_149",
+    "english": "toilet tank",
+    "spanish": "depósito del inodoro",
+    "phonetic": "/ˈtɔɪ.lət tæŋk/",
+    "examples": [
+      {"en": "She lifted the toilet tank lid to check the mechanism.", "es": "Ella levantó la tapa del depósito para revisar el mecanismo."},
+      {"en": "He adjusted the float in the toilet tank.", "es": "Él ajustó el flotador en el depósito del inodoro."},
+      {"en": "The toilet tank refills after flushing.", "es": "El depósito del inodoro se rellena después de descargar."},
+      {"en": "They replaced the old toilet tank with a dual-flush one.", "es": "Ellos reemplazaron el depósito viejo con uno de doble descarga."}
+    ],
+    "category": "House & Home"
+  },
+  {
+    "id": "home_150",
+    "english": "grout",
+    "spanish": "lechada (entre baldosas)",
+    "phonetic": "/ɡraʊt/",
+    "examples": [
+      {"en": "She cleaned the grout between the tiles.", "es": "Ella limpió la lechada entre las baldosas."},
+      {"en": "He resealed the grout in the shower.", "es": "Él volvió a sellar la lechada en la ducha."},
+      {"en": "The grout was discolored and dirty.", "es": "La lechada estaba decolorada y sucia."},
+      {"en": "They used white grout for the kitchen backsplash.", "es": "Ellos usaron lechada blanca para el delantal de la cocina."}
+    ],
+    "category": "House & Home"
+  }
+]

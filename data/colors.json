@@ -1,0 +1,782 @@
+[
+  {
+  "id": "col_1",
+  "english": "blue",
+  "spanish": "azul",
+  "phonetic": "/bluː/",
+  "examples": [
+    {"en": "The sky is blue today.", "es": "El cielo está azul hoy."},
+    {"en": "She wore a blue dress.", "es": "Ella llevaba un vestido azul."},
+    {"en": "My favorite color is blue.", "es": "Mi color favorito es el azul."},
+    {"en": "The ocean looks blue from here.", "es": "El océano se ve azul desde aquí."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_2",
+  "english": "red",
+  "spanish": "rojo",
+  "phonetic": "/rɛd/",
+  "examples": [
+    {"en": "The apple is red.", "es": "La manzana es roja."},
+    {"en": "He bought a red car.", "es": "Él compró un coche rojo."},
+    {"en": "Her face turned red with embarrassment.", "es": "Su cara se puso roja de vergüenza."},
+    {"en": "The sign was bright red.", "es": "La señal era de un rojo brillante."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_3",
+  "english": "green",
+  "spanish": "verde",
+  "phonetic": "/ɡriːn/",
+  "examples": [
+    {"en": "The grass is very green.", "es": "La hierba está muy verde."},
+    {"en": "She has green eyes.", "es": "Ella tiene ojos verdes."},
+    {"en": "We should adopt greener habits.", "es": "Deberíamos adoptar hábitos más verdes."},
+    {"en": "The light turned green.", "es": "El semáforo se puso en verde."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_4",
+  "english": "yellow",
+  "spanish": "amarillo",
+  "phonetic": "/ˈjɛloʊ/",
+  "examples": [
+    {"en": "The sun is yellow.", "es": "El sol es amarillo."},
+    {"en": "He gave me a yellow flower.", "es": "Él me dio una flor amarilla."},
+    {"en": "The pages of the old book were yellow.", "es": "Las páginas del libro viejo estaban amarillas."},
+    {"en": "She painted her room bright yellow.", "es": "Pintó su habitación de amarillo brillante."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_5",
+  "english": "black",
+  "spanish": "negro",
+  "phonetic": "/blæk/",
+  "examples": [
+    {"en": "I like black coffee.", "es": "Me gusta el café negro."},
+    {"en": "He was wearing a black suit.", "es": "Llevaba un traje negro."},
+    {"en": "The cat is black.", "es": "El gato es negro."},
+    {"en": "The sky turned black before the storm.", "es": "El cielo se puso negro antes de la tormenta."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_6",
+  "english": "white",
+  "spanish": "blanco",
+  "phonetic": "/waɪt/",
+  "examples": [
+    {"en": "Snow is white.", "es": "La nieve es blanca."},
+    {"en": "She painted the fence white.", "es": "Pintó la valla de blanco."},
+    {"en": "He has a white shirt.", "es": "Él tiene una camisa blanca."},
+    {"en": "The flag is white and blue.", "es": "La bandera es blanca y azul."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_7",
+  "english": "purple",
+  "spanish": "morado",
+  "phonetic": "/ˈpɜːrpl/",
+  "examples": [
+    {"en": "The grapes are purple.", "es": "Las uvas son moradas."},
+    {"en": "She loves her purple scarf.", "es": "A ella le encanta su bufanda morada."},
+    {"en": "The sunset was a beautiful purple.", "es": "El atardecer era de un morado hermoso."},
+    {"en": "He colored the flower purple.", "es": "Él coloreó la flor de morado."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_8",
+  "english": "orange",
+  "spanish": "naranja",
+  "phonetic": "/ˈɔːrɪndʒ/",
+  "examples": [
+    {"en": "The fruit is orange.", "es": "La fruta es naranja."},
+    {"en": "He wore an orange hat.", "es": "Llevaba un sombrero naranja."},
+    {"en": "The tiger has orange and black stripes.", "es": "El tigre tiene rayas naranjas y negras."},
+    {"en": "We bought an orange balloon.", "es": "Compramos un globo naranja."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_9",
+  "english": "pink",
+  "spanish": "rosa",
+  "phonetic": "/pɪŋk/",
+  "examples": [
+    {"en": "Her dress is pink.", "es": "Su vestido es rosa."},
+    {"en": "The flamingo is pink.", "es": "El flamenco es rosa."},
+    {"en": "I painted my nails pink.", "es": "Me pinté las uñas de rosa."},
+    {"en": "She has a pink backpack.", "es": "Ella tiene una mochila rosa."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_10",
+  "english": "brown",
+  "spanish": "marrón",
+  "phonetic": "/braʊn/",
+  "examples": [
+    {"en": "The table is brown.", "es": "La mesa es marrón."},
+    {"en": "He has brown hair.", "es": "Él tiene el pelo marrón."},
+    {"en": "The bear was dark brown.", "es": "El oso era de color marrón oscuro."},
+    {"en": "She likes brown shoes.", "es": "A ella le gustan los zapatos marrones."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_11",
+  "english": "gray",
+  "spanish": "gris",
+  "phonetic": "/ɡreɪ/",
+  "examples": [
+    {"en": "The sky is gray today.", "es": "El cielo está gris hoy."},
+    {"en": "He drives a gray car.", "es": "Él conduce un coche gris."},
+    {"en": "The elephant is gray.", "es": "El elefante es gris."},
+    {"en": "She wore a gray coat.", "es": "Ella llevaba un abrigo gris."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_12",
+  "english": "gold",
+  "spanish": "dorado",
+  "phonetic": "/ɡoʊld/",
+  "examples": [
+    {"en": "She won a gold medal.", "es": "Ella ganó una medalla de oro."},
+    {"en": "The ring is made of gold.", "es": "El anillo está hecho de oro."},
+    {"en": "The picture frame is gold.", "es": "El marco de la foto es dorado."},
+    {"en": "The sunset had gold tones.", "es": "El atardecer tenía tonos dorados."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_13",
+  "english": "silver",
+  "spanish": "plateado",
+  "phonetic": "/ˈsɪlvər/",
+  "examples": [
+    {"en": "The coin is silver.", "es": "La moneda es plateada."},
+    {"en": "He has a silver watch.", "es": "Él tiene un reloj plateado."},
+    {"en": "The car had silver rims.", "es": "El coche tenía llantas plateadas."},
+    {"en": "Her hair is silver now.", "es": "Su cabello es plateado ahora."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_14",
+  "english": "beige",
+  "spanish": "beige",
+  "phonetic": "/beɪʒ/",
+  "examples": [
+    {"en": "The walls are beige.", "es": "Las paredes son beige."},
+    {"en": "She prefers beige clothes.", "es": "Ella prefiere la ropa beige."},
+    {"en": "The carpet is a light beige.", "es": "La alfombra es de un beige claro."},
+    {"en": "He painted it beige.", "es": "Él lo pintó de color beige."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_15",
+  "english": "turquoise",
+  "spanish": "turquesa",
+  "phonetic": "/ˈtɜːrkwɔɪz/",
+  "examples": [
+    {"en": "The water was turquoise.", "es": "El agua era turquesa."},
+    {"en": "She has a turquoise necklace.", "es": "Ella tiene un collar turquesa."},
+    {"en": "I love that turquoise color.", "es": "Me encanta ese color turquesa."},
+    {"en": "The stone in the ring is turquoise.", "es": "La piedra del anillo es turquesa."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_16",
+  "english": "violet",
+  "spanish": "violeta",
+  "phonetic": "/ˈvaɪələt/",
+  "examples": [
+    {"en": "The flowers are violet.", "es": "Las flores son violetas."},
+    {"en": "She painted her room violet.", "es": "Pintó su habitación de violeta."},
+    {"en": "The light spectrum ends with violet.", "es": "El espectro de luz termina con el violeta."},
+    {"en": "He gave her violet roses.", "es": "Él le dio rosas violetas."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_17",
+  "english": "magenta",
+  "spanish": "magenta",
+  "phonetic": "/məˈdʒɛntə/",
+  "examples": [
+    {"en": "The ink is magenta.", "es": "La tinta es magenta."},
+    {"en": "Her dress was bright magenta.", "es": "Su vestido era de un magenta brillante."},
+    {"en": "We need magenta paint for the project.", "es": "Necesitamos pintura magenta para el proyecto."},
+    {"en": "The logo uses magenta and cyan.", "es": "El logotipo usa magenta y cian."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_18",
+  "english": "cyan",
+  "spanish": "cian",
+  "phonetic": "/ˈsaɪən/",
+  "examples": [
+    {"en": "The printer uses cyan ink.", "es": "La impresora usa tinta cian."},
+    {"en": "The tropical water was a beautiful cyan.", "es": "El agua tropical era de un cian hermoso."},
+    {"en": "He mixed blue and green to get cyan.", "es": "Mezcló azul y verde para obtener cian."},
+    {"en": "The digital display showed cyan numbers.", "es": "La pantalla digital mostraba números en cian."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_19",
+  "english": "lavender",
+  "spanish": "lavanda",
+  "phonetic": "/ˈlævəndər/",
+  "examples": [
+    {"en": "The fields were full of lavender flowers.", "es": "Los campos estaban llenos de flores de lavanda."},
+    {"en": "She loves her lavender sweater.", "es": "A ella le encanta su suéter lavanda."},
+    {"en": "The room was painted a soft lavender.", "es": "La habitación estaba pintada de un suave lavanda."},
+    {"en": "The soap has a lavender scent.", "es": "El jabón tiene aroma a lavanda."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_20",
+  "english": "maroon",
+  "spanish": "granate",
+  "phonetic": "/məˈruːn/",
+  "examples": [
+    {"en": "The university's color is maroon.", "es": "El color de la universidad es granate."},
+    {"en": "He wore a maroon tie to the meeting.", "es": "Llevaba una corbata granate a la reunión."},
+    {"en": "The old curtains were a deep maroon.", "es": "Las cortinas viejas eran de un granate profundo."},
+    {"en": "She bought a maroon leather bag.", "es": "Compró un bolso de cuero granate."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_21",
+  "english": "teal",
+  "spanish": "verde azulado",
+  "phonetic": "/tiːl/",
+  "examples": [
+    {"en": "The duck has a teal head.", "es": "El pato tiene la cabeza verde azulada."},
+    {"en": "She decorated the bathroom in teal.", "es": "Decoró el baño en verde azulado."},
+    {"en": "I'm looking for a teal fabric.", "es": "Estoy buscando una tela verde azulada."},
+    {"en": "The logo is a modern teal color.", "es": "El logotipo es de un color verde azulado moderno."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_22",
+  "english": "salmon",
+  "spanish": "salmón",
+  "phonetic": "/ˈsæmən/",
+  "examples": [
+    {"en": "The walls are painted salmon.", "es": "Las paredes están pintadas de color salmón."},
+    {"en": "She was wearing a lovely salmon dress.", "es": "Llevaba un vestido salmón precioso."},
+    {"en": "The sunset had a salmon pink tone.", "es": "El atardecer tenía un tono rosa salmón."},
+    {"en": "We chose salmon curtains for the kitchen.", "es": "Elegimos cortinas salmón para la cocina."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_23",
+  "english": "olive",
+  "spanish": "oliva",
+  "phonetic": "/ˈɑːlɪv/",
+  "examples": [
+    {"en": "He wore an olive green jacket.", "es": "Llevaba una chaqueta verde oliva."},
+    {"en": "The army uses olive drab for uniforms.", "es": "El ejército usa verde oliva para los uniformes."},
+    {"en": "Her eyes are a beautiful olive green.", "es": "Sus ojos son de un hermoso verde oliva."},
+    {"en": "We painted the door a dark olive.", "es": "Pintamos la puerta de un oliva oscuro."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_24",
+  "english": "peach",
+  "spanish": "melocotón",
+  "phonetic": "/piːtʃ/",
+  "examples": [
+    {"en": "The bridesmaids wore peach dresses.", "es": "Las damas de honor llevaban vestidos melocotón."},
+    {"en": "The room was a soft peach color.", "es": "La habitación era de un suave color melocotón."},
+    {"en": "She blushed a peach pink.", "es": "Se sonrojó de un rosa melocotón."},
+    {"en": "We selected a peach shade for the nursery.", "es": "Seleccionamos un tono melocotón para el cuarto del bebé."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_25",
+  "english": "mustard",
+  "spanish": "mostaza",
+  "phonetic": "/ˈmʌstərd/",
+  "examples": [
+    {"en": "He bought a mustard yellow sweater.", "es": "Compró un suéter amarillo mostaza."},
+    {"en": "The vintage car was mustard color.", "es": "El coche vintage era de color mostaza."},
+    {"en": "She dislikes mustard colored walls.", "es": "A ella no le gustan las paredes de color mostaza."},
+    {"en": "The 70s decor featured mustard and brown.", "es": "La decoración de los 70 presentaba mostaza y marrón."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_26",
+  "english": "coral",
+  "spanish": "coral",
+  "phonetic": "/ˈkɔːrəl/",
+  "examples": [
+    {"en": "The reef was full of coral colors.", "es": "El arrecife estaba lleno de colores coral."},
+    {"en": "She looks great in coral lipstick.", "es": "Se ve muy bien con lápiz labial coral."},
+    {"en": "The summer collection features coral tones.", "es": "La colección de verano presenta tonos coral."},
+    {"en": "We painted the accent wall coral.", "es": "Pintamos la pared de acento de color coral."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_27",
+  "english": "indigo",
+  "spanish": "índigo",
+  "phonetic": "/ˈɪndɪɡoʊ/",
+  "examples": [
+    {"en": "The deep indigo sky was stunning.", "es": "El cielo índigo profundo era impresionante."},
+    {"en": "Jeans are traditionally dyed with indigo.", "es": "Los vaqueros tradicionalmente se tiñen con índigo."},
+    {"en": "She wore an indigo blue sari.", "es": "Ella llevaba un sari azul índigo."},
+    {"en": "The rainbow has indigo between blue and violet.", "es": "El arcoíris tiene índigo entre el azul y el violeta."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_28",
+  "english": "burgundy",
+  "spanish": "burdeos",
+  "phonetic": "/ˈbɜːrɡəndi/",
+  "examples": [
+    {"en": "The wine was a deep burgundy.", "es": "El vino era de un burdeos profundo."},
+    {"en": "He preferred burgundy leather chairs.", "es": "Él prefería sillas de cuero burdeos."},
+    {"en": "The team's uniforms are burgundy and gold.", "es": "Los uniformes del equipo son burdeos y oro."},
+    {"en": "She dyed her hair burgundy.", "es": "Se tiñó el pelo de color burdeos."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_29",
+  "english": "mint",
+  "spanish": "menta",
+  "phonetic": "/mɪnt/",
+  "examples": [
+    {"en": "The bathroom tiles are mint green.", "es": "Los azulejos del baño son verde menta."},
+    {"en": "She bought a mint colored phone case.", "es": "Compró una funda de teléfono color menta."},
+    {"en": "The vintage kitchen was mint and white.", "es": "La cocina vintage era menta y blanca."},
+    {"en": "He painted his bike mint green.", "es": "Pintó su bicicleta de verde menta."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_30",
+  "english": "cream",
+  "spanish": "crema",
+  "phonetic": "/kriːm/",
+  "examples": [
+    {"en": "The walls were painted cream.", "es": "Las paredes estaban pintadas de color crema."},
+    {"en": "She wore a cream colored wedding dress.", "es": "Ella llevaba un vestido de novia color crema."},
+    {"en": "We chose cream curtains for the living room.", "es": "Elegimos cortinas crema para la sala de estar."},
+    {"en": "The document was on cream paper.", "es": "El documento estaba en papel crema."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_31",
+  "english": "charcoal",
+  "spanish": "carbón",
+  "phonetic": "/ˈtʃɑːrkoʊl/",
+  "examples": [
+    {"en": "He wore a charcoal gray suit.", "es": "Llevaba un traje gris carbón."},
+    {"en": "The artist used charcoal for sketching.", "es": "El artista usó carbón para dibujar."},
+    {"en": "We painted the accent wall charcoal.", "es": "Pintamos la pared de acento de color carbón."},
+    {"en": "The charcoal clouds promised rain.", "es": "Las nubes color carbón prometían lluvia."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_32",
+  "english": "navy",
+  "spanish": "azul marino",
+  "phonetic": "/ˈneɪvi/",
+  "examples": [
+    {"en": "His navy blue jacket looked elegant.", "es": "Su chaqueta azul marino lucía elegante."},
+    {"en": "The uniform requires navy pants.", "es": "El uniforme requiere pantalones azul marino."},
+    {"en": "She preferred navy over black.", "es": "Ella prefería el azul marino sobre el negro."},
+    {"en": "The night sky was a deep navy.", "es": "El cielo nocturno era de un azul marino profundo."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_33",
+  "english": "rust",
+  "spanish": "óxido",
+  "phonetic": "/rʌst/",
+  "examples": [
+    {"en": "The old gate had a rust color.", "es": "La vieja verja tenía color óxido."},
+    {"en": "She decorated with rust colored pillows.", "es": "Decoró con cojines color óxido."},
+    {"en": "The autumn leaves turned rust red.", "es": "Las hojas de otoño se volvieron rojo óxido."},
+    {"en": "We chose a rust colored rug.", "es": "Elegimos una alfombra color óxido."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_34",
+  "english": "plum",
+  "spanish": "ciruela",
+  "phonetic": "/plʌm/",
+  "examples": [
+    {"en": "Her dress was a deep plum color.", "es": "Su vestido era de un color ciruela profundo."},
+    {"en": "The evening sky turned plum purple.", "es": "El cielo vespertino se volvió púrpura ciruela."},
+    {"en": "He painted the door plum.", "es": "Pintó la puerta de color ciruela."},
+    {"en": "The velvet curtains were plum colored.", "es": "Las cortinas de terciopelo eran color ciruela."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_35",
+  "english": "emerald",
+  "spanish": "esmeralda",
+  "phonetic": "/ˈɛmərəld/",
+  "examples": [
+    {"en": "The emerald green sea was breathtaking.", "es": "El mar verde esmeralda era impresionante."},
+    {"en": "She wore an emerald colored gown.", "es": "Llevaba un vestido color esmeralda."},
+    {"en": "The gemstone was a deep emerald.", "es": "La gema era de un esmeralda profundo."},
+    {"en": "Ireland is called the Emerald Isle.", "es": "A Irlanda se le llama la Isla Esmeralda."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_36",
+  "english": "ruby",
+  "spanish": "rubí",
+  "phonetic": "/ˈruːbi/",
+  "examples": [
+    {"en": "Her lips were ruby red.", "es": "Sus labios eran rojo rubí."},
+    {"en": "The wine sparkled like ruby.", "es": "El vino brillaba como rubí."},
+    {"en": "He gave her ruby colored shoes.", "es": "Él le dio zapatos color rubí."},
+    {"en": "The sunset painted the clouds ruby.", "es": "El atardecer pintó las nubes de rubí."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_37",
+  "english": "sapphire",
+  "spanish": "zafiro",
+  "phonetic": "/ˈsæfaɪər/",
+  "examples": [
+    {"en": "Her eyes were sapphire blue.", "es": "Sus ojos eran azul zafiro."},
+    {"en": "The sapphire water was crystal clear.", "es": "El agua zafiro era cristalina."},
+    {"en": "He bought a sapphire colored tie.", "es": "Compró una corbata color zafiro."},
+    {"en": "The ring had a large sapphire stone.", "es": "El anillo tenía una gran piedra zafiro."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_38",
+  "english": "amber",
+  "spanish": "ámbar",
+  "phonetic": "/ˈæmbər/",
+  "examples": [
+    {"en": "The traffic light turned amber.", "es": "El semáforo se puso en ámbar."},
+    {"en": "Her amber necklace was beautiful.", "es": "Su collar de ámbar era hermoso."},
+    {"en": "The whiskey was amber colored.", "es": "El whisky era de color ámbar."},
+    {"en": "The fossil was preserved in amber.", "es": "El fósil se conservaba en ámbar."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_39",
+  "english": "ivory",
+  "spanish": "marfil",
+  "phonetic": "/ˈaɪvəri/",
+  "examples": [
+    {"en": "The piano keys were ivory white.", "es": "Las teclas del piano eran blanco marfil."},
+    {"en": "She wore an ivory wedding dress.", "es": "Llevaba un vestido de novia marfil."},
+    {"en": "The ancient statue was carved from ivory.", "es": "La antigua estatua estaba tallada en marfil."},
+    {"en": "We painted the trim ivory.", "es": "Pintamos el acabado de marfil."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_40",
+  "english": "ebony",
+  "spanish": "ébano",
+  "phonetic": "/ˈɛbəni/",
+  "examples": [
+    {"en": "The piano was made of ebony wood.", "es": "El piano estaba hecho de madera de ébano."},
+    {"en": "Her ebony hair shone in the light.", "es": "Su cabello ébano brillaba con la luz."},
+    {"en": "The chess pieces were ebony and ivory.", "es": "Las piezas de ajedrez eran ébano y marfil."},
+    {"en": "He admired the ebony finish.", "es": "Él admiraba el acabado ébano."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_41",
+  "english": "scarlet",
+  "spanish": "escarlata",
+  "phonetic": "/ˈskɑːrlɪt/",
+  "examples": [
+    {"en": "The cardinal was bright scarlet.", "es": "El cardenal era de un escarlata brillante."},
+    {"en": "She wore scarlet lipstick.", "es": "Ella usaba lápiz labial escarlata."},
+    {"en": "The scarlet letter was embroidered beautifully.", "es": "La letra escarlata estaba bordada hermosamente."},
+    {"en": "The sunset was scarlet and orange.", "es": "El atardecer era escarlata y naranja."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_42",
+  "english": "crimson",
+  "spanish": "carmesí",
+  "phonetic": "/ˈkrɪmzn/",
+  "examples": [
+    {"en": "His face turned crimson with anger.", "es": "Su cara se puso carmesí de la ira."},
+    {"en": "The crimson roses were beautiful.", "es": "Las rosas carmesí eran hermosas."},
+    {"en": "She dyed the fabric crimson.", "es": "Tiñó la tela de carmesí."},
+    {"en": "The university's color is crimson.", "es": "El color de la universidad es carmesí."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_43",
+  "english": "fuchsia",
+  "spanish": "fucsia",
+  "phonetic": "/ˈfjuːʃə/",
+  "examples": [
+    {"en": "The fuchsia flowers were vibrant.", "es": "Las flores fucsia eran vibrantes."},
+    {"en": "She painted her nails fuchsia.", "es": "Se pintó las uñas de fucsia."},
+    {"en": "The 80s fashion loved fuchsia.", "es": "La moda de los 80 amaba el fucsia."},
+    {"en": "Her fuchsia dress stood out in the crowd.", "es": "Su vestido fucsia destacaba en la multitud."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_44",
+  "english": "lilac",
+  "spanish": "lila",
+  "phonetic": "/ˈlaɪlək/",
+  "examples": [
+    {"en": "The lilac bushes smelled wonderful.", "es": "Los arbustos de lila olían maravilloso."},
+    {"en": "She wore a soft lilac dress.", "es": "Llevaba un vestido lila suave."},
+    {"en": "The room was painted pale lilac.", "es": "La habitación estaba pintada de lila pálido."},
+    {"en": "The evening sky was lilac and pink.", "es": "El cielo vespertino era lila y rosa."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_45",
+  "english": "taupe",
+  "spanish": "taupe",
+  "phonetic": "/toʊp/",
+  "examples": [
+    {"en": "The taupe walls were neutral.", "es": "Las paredes taupe eran neutrales."},
+    {"en": "She bought taupe colored furniture.", "es": "Compró muebles color taupe."},
+    {"en": "The carpet was a practical taupe.", "es": "La alfombra era de un taupe práctico."},
+    {"en": "He preferred taupe over beige.", "es": "Él prefería taupe sobre el beige."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_46",
+  "english": "aquamarine",
+  "spanish": "aguamarina",
+  "phonetic": "/ˌɑːkwəməˈriːn/",
+  "examples": [
+    {"en": "The Caribbean sea was a stunning aquamarine.", "es": "El mar Caribe era de un aguamarina impresionante."},
+    {"en": "She wore an aquamarine gemstone necklace.", "es": "Llevaba un collar de piedra aguamarina."},
+    {"en": "The pool water looked aquamarine in the sun.", "es": "El agua de la piscina se veía aguamarina al sol."},
+    {"en": "His eyes were the color of aquamarine.", "es": "Sus ojos eran del color de aguamarina."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_47",
+  "english": "periwinkle",
+  "spanish": "periwinkle",
+  "phonetic": "/ˈperɪwɪŋkl/",
+  "examples": [
+    {"en": "The periwinkle flowers bloomed in spring.", "es": "Las flores periwinkle florecieron en primavera."},
+    {"en": "She painted her bedroom periwinkle blue.", "es": "Pintó su dormitorio de azul periwinkle."},
+    {"en": "The periwinkle sky at dawn was beautiful.", "es": "El cielo periwinkle al amanecer era hermoso."},
+    {"en": "He bought a periwinkle colored shirt.", "es": "Compró una camisa color periwinkle."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_48",
+  "english": "mahogany",
+  "spanish": "caoba",
+  "phonetic": "/məˈhɒɡəni/",
+  "examples": [
+    {"en": "The mahogany table was antique.", "es": "La mesa de caoba era antigua."},
+    {"en": "Her hair had mahogany highlights.", "es": "Su cabello tenía reflejos caoba."},
+    {"en": "The desk was made of dark mahogany.", "es": "El escritorio estaba hecho de caoba oscura."},
+    {"en": "He admired the rich mahogany color.", "es": "Él admiraba el rico color caoba."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_49",
+  "english": "cerulean",
+  "spanish": "cerúleo",
+  "phonetic": "/səˈruːliən/",
+  "examples": [
+    {"en": "The cerulean sky was cloudless.", "es": "El cielo cerúleo estaba sin nubes."},
+    {"en": "She wore a cerulean blue dress.", "es": "Llevaba un vestido azul cerúleo."},
+    {"en": "The artist used cerulean for the ocean.", "es": "El artista usó cerúleo para el océano."},
+    {"en": "His eyes were a bright cerulean.", "es": "Sus ojos eran de un cerúleo brillante."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_50",
+  "english": "vermilion",
+  "spanish": "bermellón",
+  "phonetic": "/vərˈmɪljən/",
+  "examples": [
+    {"en": "The vermilion gates were striking.", "es": "Los portones bermellón eran llamativos."},
+    {"en": "She used vermilion ink for the artwork.", "es": "Usó tinta bermellón para la obra de arte."},
+    {"en": "The autumn leaves turned vermilion red.", "es": "Las hojas de otoño se volvieron rojo bermellón."},
+    {"en": "He painted the door bright vermilion.", "es": "Pintó la puerta de bermellón brillante."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_51",
+  "english": "chartreuse",
+  "spanish": "chartreuse",
+  "phonetic": "/ʃɑːrˈtruːz/",
+  "examples": [
+    {"en": "The chartreuse liquid glowed in the dark.", "es": "El líquido chartreuse brillaba en la oscuridad."},
+    {"en": "She wore a chartreuse green scarf.", "es": "Llevaba una bufanda verde chartreuse."},
+    {"en": "The warning sign was chartreuse yellow.", "es": "La señal de advertencia era amarilla chartreuse."},
+    {"en": "He disliked the bright chartreuse color.", "es": "A él no le gustaba el brillante color chartreuse."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_52",
+  "english": "turmeric",
+  "spanish": "cúrcuma",
+  "phonetic": "/ˈtɜːrmərɪk/",
+  "examples": [
+    {"en": "The turmeric spice was vibrant yellow.", "es": "La especia cúrcuma era de un amarillo vibrante."},
+    {"en": "She dyed the fabric with turmeric.", "es": "Tiñó la tela con cúrcuma."},
+    {"en": "The curry had a rich turmeric color.", "es": "El curry tenía un rico color cúrcuma."},
+    {"en": "He admired the turmeric colored walls.", "es": "Él admiraba las paredes color cúrcuma."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_53",
+  "english": "mauve",
+  "spanish": "malva",
+  "phonetic": "/moʊv/",
+  "examples": [
+    {"en": "The mauve flowers were delicate.", "es": "Las flores malva eran delicadas."},
+    {"en": "She preferred mauve over purple.", "es": "Ella prefería malva sobre el púrpura."},
+    {"en": "The evening sky turned mauve and gold.", "es": "El cielo vespertino se volvió malva y dorado."},
+    {"en": "He bought a mauve colored tie.", "es": "Compró una corbata color malva."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_54",
+  "english": "sepia",
+  "spanish": "sepia",
+  "phonetic": "/ˈsiːpiə/",
+  "examples": [
+    {"en": "The old photograph had a sepia tone.", "es": "La fotografía antigua tenía un tono sepia."},
+    {"en": "She drew with sepia ink.", "es": "Ella dibujó con tinta sepia."},
+    {"en": "The movie had sepia colored scenes.", "es": "La película tenía escenas color sepia."},
+    {"en": "He preferred sepia to black and white.", "es": "Él prefería sepia al blanco y negro."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_55",
+  "english": "rose",
+  "spanish": "rosa",
+  "phonetic": "/roʊz/",
+  "examples": [
+    {"en": "The rose gold jewelry was popular.", "es": "Las joyas de oro rosa eran populares."},
+    {"en": "She painted her room rose pink.", "es": "Pintó su habitación de rosa."},
+    {"en": "The morning sky was rose colored.", "es": "El cielo matutino era de color rosa."},
+    {"en": "He gave her rose colored glasses.", "es": "Él le dio gafas color rosa."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_56",
+  "english": "bronze",
+  "spanish": "bronce",
+  "phonetic": "/brɒnz/",
+  "examples": [
+    {"en": "She won a bronze medal in the race.", "es": "Ella ganó una medalla de bronce en la carrera."},
+    {"en": "His skin was tanned a deep bronze.", "es": "Su piel estaba bronceada de un bronce profundo."},
+    {"en": "The bronze statue was ancient.", "es": "La estatua de bronce era antigua."},
+    {"en": "The autumn leaves turned bronze.", "es": "Las hojas de otoño se volvieron bronce."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_57",
+  "english": "copper",
+  "spanish": "cobre",
+  "phonetic": "/ˈkɒpər/",
+  "examples": [
+    {"en": "Her hair was a shiny copper color.", "es": "Su cabello era de un brillante color cobre."},
+    {"en": "The old roof was made of copper.", "es": "El viejo techo estaba hecho de cobre."},
+    {"en": "He collected copper coins.", "es": "Él coleccionaba monedas de cobre."},
+    {"en": "The sunset had copper tones.", "es": "El atardecer tenía tonos cobre."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_58",
+  "english": "slate",
+  "spanish": "pizarra",
+  "phonetic": "/sleɪt/",
+  "examples": [
+    {"en": "The slate gray roof was durable.", "es": "El techo gris pizarra era duradero."},
+    {"en": "She preferred slate blue for the bathroom.", "es": "Ella prefería azul pizarra para el baño."},
+    {"en": "The sky was a dull slate color.", "es": "El cielo era de un color pizarra apagado."},
+    {"en": "He chose slate colored tiles.", "es": "Él eligió baldosas color pizarra."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_59",
+  "english": "lavender",
+  "spanish": "lavanda",
+  "phonetic": "/ˈlævəndər/",
+  "examples": [
+    {"en": "The lavender fields were breathtaking.", "es": "Los campos de lavanda eran impresionantes."},
+    {"en": "She loved her lavender scented candles.", "es": "A ella le encantaban sus velas con aroma a lavanda."},
+    {"en": "The bedroom was painted soft lavender.", "es": "El dormitorio estaba pintado de lavanda suave."},
+    {"en": "He gave her a lavender colored sweater.", "es": "Él le dio un suéter color lavanda."}
+  ],
+  "category": "Colors"
+},
+{
+  "id": "col_60",
+  "english": "pearl",
+  "spanish": "perla",
+  "phonetic": "/pɜːrl/",
+  "examples": [
+    {"en": "The pearl white car looked elegant.", "es": "El coche blanco perla lucía elegante."},
+    {"en": "She wore a pearl colored evening gown.", "es": "Llevaba un vestido de noche color perla."},
+    {"en": "The pearl finish on the guitar was beautiful.", "es": "El acabado perla de la guitarra era hermoso."},
+    {"en": "He preferred pearl over pure white.", "es": "Él prefería perla sobre el blanco puro."}
+  ],
+  "category": "Colors"
+}
+]

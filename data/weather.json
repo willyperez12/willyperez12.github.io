@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "wea_1",
+    "english": "rain",
+    "spanish": "lluvia",
+    "phonetic": "/reɪn/",
+    "examples": [
+      {"en": "It's raining outside.", "es": "Está lloviendo afuera."},
+      {"en": "Don’t forget your umbrella—it’s going to rain.", "es": "No olvides tu paraguas—va a llover."},
+      {"en": "I love the sound of rain.", "es": "Me encanta el sonido de la lluvia."},
+      {"en": "The rain stopped an hour ago.", "es": "La lluvia paró hace una hora."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_2",
+    "english": "snow",
+    "spanish": "nieve",
+    "phonetic": "/snoʊ/",
+    "examples": [
+      {"en": "It’s snowing heavily.", "es": "Está nevando fuertemente."},
+      {"en": "Children love to play in the snow.", "es": "A los niños les encanta jugar en la nieve."},
+      {"en": "The snow covered the entire city.", "es": "La nieve cubrió toda la ciudad."},
+      {"en": "Snow is expected tonight.", "es": "Se espera nieve esta noche."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_3",
+    "english": "sun",
+    "spanish": "sol",
+    "phonetic": "/sʌn/",
+    "examples": [
+      {"en": "The sun is shining brightly.", "es": "El sol brilla intensamente."},
+      {"en": "Don’t look directly at the sun.", "es": "No mires directamente al sol."},
+      {"en": "We enjoyed the warm sun on the beach.", "es": "Disfrutamos del sol cálido en la playa."},
+      {"en": "The sun rises in the east.", "es": "El sol sale por el este."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_4",
+    "english": "cloud",
+    "spanish": "nube",
+    "phonetic": "/klaʊd/",
+    "examples": [
+      {"en": "There are dark clouds in the sky.", "es": "Hay nubes oscuras en el cielo."},
+      {"en": "The clouds look like cotton.", "es": "Las nubes parecen algodón."},
+      {"en": "Clouds covered the moon.", "es": "Las nubes cubrieron la luna."},
+      {"en": "It’s cloudy today.", "es": "Está nublado hoy."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_5",
+    "english": "wind",
+    "spanish": "viento",
+    "phonetic": "/wɪnd/",
+    "examples": [
+      {"en": "The wind is very strong today.", "es": "El viento es muy fuerte hoy."},
+      {"en": "Leaves blew in the wind.", "es": "Las hojas volaron con el viento."},
+      {"en": "The wind howled all night.", "es": "El viento aulló toda la noche."},
+      {"en": "Wind turbines generate electricity.", "es": "Las turbinas eólicas generan electricidad."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_6",
+    "english": "storm",
+    "spanish": "tormenta",
+    "phonetic": "/stɔːrm/",
+    "examples": [
+      {"en": "A big storm is coming.", "es": "Se acerca una gran tormenta."},
+      {"en": "We stayed inside during the storm.", "es": "Nos quedamos adentro durante la tormenta."},
+      {"en": "The storm caused power outages.", "es": "La tormenta causó apagones."},
+      {"en": "Thunder and lightning accompany the storm.", "es": "Truenos y relámpagos acompañan la tormenta."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_7",
+    "english": "thunder",
+    "spanish": "trueno",
+    "phonetic": "/ˈθʌn.dɚ/",
+    "examples": [
+      {"en": "I heard thunder in the distance.", "es": "Escuché truenos a lo lejos."},
+      {"en": "Thunder follows lightning.", "es": "El trueno sigue al relámpago."},
+      {"en": "The thunder scared the dog.", "es": "El trueno asustó al perro."},
+      {"en": "Rolling thunder echoed through the valley.", "es": "El trueno retumbó por el valle."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_8",
+    "english": "lightning",
+    "spanish": "relámpago",
+    "phonetic": "/ˈlaɪt.nɪŋ/",
+    "examples": [
+      {"en": "Lightning struck a tree nearby.", "es": "Un relámpago golpeó un árbol cercano."},
+      {"en": "Don’t stand under a tree during lightning.", "es": "No te pongas bajo un árbol durante un relámpago."},
+      {"en": "The sky lit up with lightning.", "es": "El cielo se iluminó con relámpagos."},
+      {"en": "Lightning is faster than thunder.", "es": "El relámpago es más rápido que el trueno."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_9",
+    "english": "fog",
+    "spanish": "niebla",
+    "phonetic": "/fɒɡ/",
+    "examples": [
+      {"en": "The fog made driving dangerous.", "es": "La niebla hizo peligroso conducir."},
+      {"en": "Morning fog covered the valley.", "es": "La niebla matutina cubrió el valle."},
+      {"en": "The airport closed due to thick fog.", "es": "El aeropuerto cerró por niebla densa."},
+      {"en": "It’s foggy this morning.", "es": "Está neblinoso esta mañana."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_10",
+    "english": "hail",
+    "spanish": "granizo",
+    "phonetic": "/heɪl/",
+    "examples": [
+      {"en": "Hail damaged the car’s roof.", "es": "El granizo dañó el techo del coche."},
+      {"en": "It started to hail during the storm.", "es": "Empezó a granizar durante la tormenta."},
+      {"en": "Hail stones were the size of marbles.", "es": "Los granizos eran del tamaño de canicas."},
+      {"en": "Hail is ice falling from the sky.", "es": "El granizo es hielo que cae del cielo."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_11",
+    "english": "temperature",
+    "spanish": "temperatura",
+    "phonetic": "/ˈtem.prə.tʃɚ/",
+    "examples": [
+      {"en": "The temperature is 25°C today.", "es": "La temperatura es de 25°C hoy."},
+      {"en": "High temperatures can be dangerous.", "es": "Las temperaturas altas pueden ser peligrosas."},
+      {"en": "Check the temperature before going out.", "es": "Revisa la temperatura antes de salir."},
+      {"en": "The temperature dropped overnight.", "es": "La temperatura bajó durante la noche."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_12",
+    "english": "heat",
+    "spanish": "calor",
+    "phonetic": "/hiːt/",
+    "examples": [
+      {"en": "The heat is unbearable in July.", "es": "El calor es insoportable en julio."},
+      {"en": "Stay hydrated in the heat.", "es": "Mantente hidratado con el calor."},
+      {"en": "The heat wave lasted a week.", "es": "La ola de calor duró una semana."},
+      {"en": "Turn on the fan to fight the heat.", "es": "Enciende el ventilador para combatir el calor."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_13",
+    "english": "cold",
+    "spanish": "frío",
+    "phonetic": "/koʊld/",
+    "examples": [
+      {"en": "The cold made my fingers numb.", "es": "El frío me entumeció los dedos."},
+      {"en": "It’s freezing cold outside.", "es": "Hace un frío glacial afuera."},
+      {"en": "Wear a coat in the cold.", "es": "Ponte un abrigo con el frío."},
+      {"en": "The cold snap surprised everyone.", "es": "La ola de frío sorprendió a todos."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_14",
+    "english": "humidity",
+    "spanish": "humedad",
+    "phonetic": "/hjuːˈmɪd.ə.ti/",
+    "examples": [
+      {"en": "High humidity makes it feel hotter.", "es": "La humedad alta hace que se sienta más calor."},
+      {"en": "The humidity is 80% today.", "es": "La humedad es del 80% hoy."},
+      {"en": "Humidity causes hair to frizz.", "es": "La humedad hace que el pelo se encrespe."},
+      {"en": "Use a dehumidifier in humid weather.", "es": "Usa un deshumidificador en clima húmedo."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_15",
+    "english": "dew",
+    "spanish": "rocío",
+    "phonetic": "/duː/",
+    "examples": [
+      {"en": "Morning dew covered the grass.", "es": "El rocío matutino cubrió el césped."},
+      {"en": "Dew forms when the air cools overnight.", "es": "El rocío se forma cuando el aire se enfría por la noche."},
+      {"en": "The flowers sparkled with dew.", "es": "Las flores brillaban con rocío."},
+      {"en": "Dew is common in spring mornings.", "es": "El rocío es común en las mañanas de primavera."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_16",
+    "english": "frost",
+    "spanish": "escarcha",
+    "phonetic": "/frɒst/",
+    "examples": [
+      {"en": "Frost covered the windows this morning.", "es": "La escarcha cubrió las ventanas esta mañana."},
+      {"en": "Plants can be damaged by frost.", "es": "Las plantas pueden dañarse por la escarcha."},
+      {"en": "Frost forms when temperature drops below 0°C.", "es": "La escarcha se forma cuando la temperatura baja de 0°C."},
+      {"en": "Don’t water plants before a frost.", "es": "No riegues las plantas antes de una helada."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_17",
+    "english": "ice",
+    "spanish": "hielo",
+    "phonetic": "/aɪs/",
+    "examples": [
+      {"en": "The lake froze and turned to ice.", "es": "El lago se congeló y se convirtió en hielo."},
+      {"en": "Be careful—there’s black ice on the road.", "es": "Ten cuidado—hay hielo negro en la carretera."},
+      {"en": "Ice makes roads slippery.", "es": "El hielo hace que las carreteras sean resbaladizas."},
+      {"en": "Put ice in your drink to cool it.", "es": "Pon hielo en tu bebida para enfriarla."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_18",
+    "english": "breeze",
+    "spanish": "brisa",
+    "phonetic": "/briːz/",
+    "examples": [
+      {"en": "A cool breeze blew through the trees.", "es": "Una brisa fresca sopló entre los árboles."},
+      {"en": "The sea breeze feels refreshing.", "es": "La brisa marina se siente refrescante."},
+      {"en": "We sat outside enjoying the evening breeze.", "es": "Nos sentamos afuera disfrutando de la brisa nocturna."},
+      {"en": "A gentle breeze rustled the leaves.", "es": "Una brisa suave agitó las hojas."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_19",
+    "english": "gale",
+    "spanish": "vendaval",
+    "phonetic": "/ɡeɪl/",
+    "examples": [
+      {"en": "The gale knocked down power lines.", "es": "El vendaval derribó líneas eléctricas."},
+      {"en": "Ships stayed in port during the gale.", "es": "Los barcos permanecieron en puerto durante el vendaval."},
+      {"en": "Gale-force winds are dangerous.", "es": "Los vientos de vendaval son peligrosos."},
+      {"en": "A gale warning was issued.", "es": "Se emitió una alerta de vendaval."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_20",
+    "english": "hurricane",
+    "spanish": "huracán",
+    "phonetic": "/ˈhɜːr.ɪ.keɪn/",
+    "examples": [
+      {"en": "The hurricane caused massive damage.", "es": "El huracán causó daños masivos."},
+      {"en": "Evacuate if a hurricane is coming.", "es": "Evacúa si se acerca un huracán."},
+      {"en": "Hurricane season runs from June to November.", "es": "La temporada de huracanes va de junio a noviembre."},
+      {"en": "They boarded up windows before the hurricane.", "es": "Taparon las ventanas antes del huracán."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_21",
+    "english": "tornado",
+    "spanish": "tornado",
+    "phonetic": "/tɔːrˈneɪ.doʊ/",
+    "examples": [
+      {"en": "A tornado touched down near the town.", "es": "Un tornado tocó tierra cerca del pueblo."},
+      {"en": "Tornadoes are common in the Midwest.", "es": "Los tornados son comunes en el Medio Oeste."},
+      {"en": "Seek shelter during a tornado warning.", "es": "Busca refugio durante una alerta de tornado."},
+      {"en": "The tornado destroyed several homes.", "es": "El tornado destruyó varias casas."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_22",
+    "english": "typhoon",
+    "spanish": "tifón",
+    "phonetic": "/ˈtaɪ.fuːn/",
+    "examples": [
+      {"en": "The typhoon hit the Philippines hard.", "es": "El tifón golpeó fuertemente Filipinas."},
+      {"en": "Typhoons are tropical cyclones in the Pacific.", "es": "Los tifones son ciclones tropicales en el Pacífico."},
+      {"en": "Schools closed due to the typhoon.", "es": "Las escuelas cerraron por el tifón."},
+      {"en": "Typhoon season peaks in August.", "es": "La temporada de tifones alcanza su pico en agosto."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_23",
+    "english": "cyclone",
+    "spanish": "ciclón",
+    "phonetic": "/ˈsaɪ.kloʊn/",
+    "examples": [
+      {"en": "A cyclone formed over the Indian Ocean.", "es": "Un ciclón se formó sobre el Océano Índico."},
+      {"en": "Cyclones bring heavy rain and wind.", "es": "Los ciclones traen lluvia intensa y viento."},
+      {"en": "Australia prepares for cyclone season.", "es": "Australia se prepara para la temporada de ciclones."},
+      {"en": "The cyclone caused flooding in coastal areas.", "es": "El ciclón causó inundaciones en zonas costeras."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_24",
+    "english": "drizzle",
+    "spanish": "llovizna",
+    "phonetic": "/ˈdrɪz.əl/",
+    "examples": [
+      {"en": "It’s just a light drizzle.", "es": "Es solo una llovizna ligera."},
+      {"en": "She walked in the drizzle without an umbrella.", "es": "Ella caminó en la llovizna sin paraguas."},
+      {"en": "Drizzle is fine, misty rain.", "es": "La llovizna es una lluvia fina y neblinosa."},
+      {"en": "The drizzle lasted all morning.", "es": "La llovizna duró toda la mañana."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_25",
+    "english": "downpour",
+    "spanish": "aguacero",
+    "phonetic": "/ˈdaʊn.pɔːr/",
+    "examples": [
+      {"en": "We got caught in a sudden downpour.", "es": "Nos agarró un aguacero repentino."},
+      {"en": "The downpour flooded the streets.", "es": "El aguacero inundó las calles."},
+      {"en": "Take cover during a heavy downpour.", "es": "Ponte a cubierto durante un aguacero fuerte."},
+      {"en": "The downpour lasted only ten minutes.", "es": "El aguacero duró solo diez minutos."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_26",
+    "english": "shower",
+    "spanish": "chubasco",
+    "phonetic": "/ˈʃaʊ.ər/",
+    "examples": [
+      {"en": "There’s a brief rain shower this afternoon.", "es": "Habrá un chubasco breve esta tarde."},
+      {"en": "The shower passed quickly.", "es": "El chubasco pasó rápidamente."},
+      {"en": "After the shower, the sun came out.", "es": "Después del chubasco, salió el sol."},
+      {"en": "Thunder showers are common in summer.", "es": "Los chubascos con truenos son comunes en verano."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_27",
+    "english": "mist",
+    "spanish": "neblina",
+    "phonetic": "/mɪst/",
+    "examples": [
+      {"en": "Morning mist covered the hills.", "es": "La neblina matutina cubrió las colinas."},
+      {"en": "Mist is lighter than fog.", "es": "La neblina es más ligera que la niebla."},
+      {"en": "The forest looked magical in the mist.", "es": "El bosque se veía mágico en la neblina."},
+      {"en": "Mist often forms over lakes at dawn.", "es": "La neblina suele formarse sobre los lagos al amanecer."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_28",
+    "english": "overcast",
+    "spanish": "nublado",
+    "phonetic": "/ˈoʊ.vɚ.kæst/",
+    "examples": [
+      {"en": "It’s overcast today—no sun at all.", "es": "Está nublado hoy—ni rastro de sol."},
+      {"en": "Overcast skies often mean rain is coming.", "es": "Los cielos nublados suelen significar que viene lluvia."},
+      {"en": "The overcast weather made her feel gloomy.", "es": "El clima nublado la hizo sentir triste."},
+      {"en": "Photographers avoid overcast days for portraits.", "es": "Los fotógrafos evitan días nublados para retratos."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_29",
+    "english": "clear",
+    "spanish": "despejado",
+    "phonetic": "/klɪr/",
+    "examples": [
+      {"en": "The sky is clear tonight.", "es": "El cielo está despejado esta noche."},
+      {"en": "Clear skies are perfect for stargazing.", "es": "Los cielos despejados son perfectos para mirar estrellas."},
+      {"en": "After the storm, the sky became clear.", "es": "Después de la tormenta, el cielo se despejó."},
+      {"en": "It will be clear and cold tomorrow.", "es": "Estará despejado y frío mañana."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_30",
+    "english": "partly cloudy",
+    "spanish": "parcialmente nublado",
+    "phonetic": "/ˈpɑːrt.li ˈklaʊ.di/",
+    "examples": [
+      {"en": "It’s partly cloudy this morning.", "es": "Está parcialmente nublado esta mañana."},
+      {"en": "Partly cloudy means some sun and some clouds.", "es": "Parcialmente nublado significa algo de sol y algo de nubes."},
+      {"en": "The forecast says partly cloudy for the weekend.", "es": "El pronóstico dice parcialmente nublado para el fin de semana."},
+      {"en": "Partly cloudy is great for outdoor activities.", "es": "Parcialmente nublado es ideal para actividades al aire libre."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_31",
+    "english": "forecast",
+    "spanish": "pronóstico",
+    "phonetic": "/ˈfɔːr.kæst/",
+    "examples": [
+      {"en": "The weather forecast predicts rain.", "es": "El pronóstico del tiempo predice lluvia."},
+      {"en": "Check the forecast before hiking.", "es": "Revisa el pronóstico antes de hacer senderismo."},
+      {"en": "The forecast changed suddenly.", "es": "El pronóstico cambió repentinamente."},
+      {"en": "Meteorologists make the weather forecast.", "es": "Los meteorólogos hacen el pronóstico del tiempo."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_32",
+    "english": "barometer",
+    "spanish": "barómetro",
+    "phonetic": "/bəˈrɒm.ɪ.t̬ɚ/",
+    "examples": [
+      {"en": "The barometer is falling—storm coming.", "es": "El barómetro está bajando—viene tormenta."},
+      {"en": "A barometer measures atmospheric pressure.", "es": "Un barómetro mide la presión atmosférica."},
+      {"en": "Old sailors used barometers to predict weather.", "es": "Los antiguos marineros usaban barómetros para predecir el clima."},
+      {"en": "Rising barometer means fair weather.", "es": "Barómetro en aumento significa buen tiempo."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_33",
+    "english": "thermometer",
+    "spanish": "termómetro",
+    "phonetic": "/θɚˈmɑː.mɪ.t̬ɚ/",
+    "examples": [
+      {"en": "The thermometer reads 30°C.", "es": "El termómetro marca 30°C."},
+      {"en": "Use a thermometer to check the temperature.", "es": "Usa un termómetro para revisar la temperatura."},
+      {"en": "The thermometer broke in the cold.", "es": "El termómetro se rompió con el frío."},
+      {"en": "Digital thermometers are very accurate.", "es": "Los termómetros digitales son muy precisos."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_34",
+    "english": "humidity",
+    "spanish": "humedad",
+    "phonetic": "/hjuːˈmɪd.ə.ti/",
+    "examples": [
+      {"en": "The humidity feels sticky today.", "es": "La humedad se siente pegajosa hoy."},
+      {"en": "High humidity can cause mold.", "es": "La humedad alta puede causar moho."},
+      {"en": "The humidity level is 90%.", "es": "El nivel de humedad es del 90%."},
+      {"en": "Humidity affects how hot it feels.", "es": "La humedad afecta cuánto calor se siente."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_35",
+    "english": "drought",
+    "spanish": "sequía",
+    "phonetic": "/draʊt/",
+    "examples": [
+      {"en": "The drought lasted three years.", "es": "La sequía duró tres años."},
+      {"en": "Farmers suffer during a drought.", "es": "Los agricultores sufren durante una sequía."},
+      {"en": "Water restrictions are common in droughts.", "es": "Las restricciones de agua son comunes en sequías."},
+      {"en": "The region is experiencing a severe drought.", "es": "La región está experimentando una sequía severa."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_36",
+    "english": "flood",
+    "spanish": "inundación",
+    "phonetic": "/flʌd/",
+    "examples": [
+      {"en": "Heavy rain caused a flood.", "es": "La lluvia intensa causó una inundación."},
+      {"en": "The river flooded the nearby town.", "es": "El río inundó el pueblo cercano."},
+      {"en": "Flood warnings were issued.", "es": "Se emitieron advertencias de inundación."},
+      {"en": "Never drive through a flood.", "es": "Nunca conduzcas a través de una inundación."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_37",
+    "english": "blizzard",
+    "spanish": "tormenta de nieve",
+    "phonetic": "/ˈblɪz.ɚd/",
+    "examples": [
+      {"en": "The blizzard buried cars under snow.", "es": "La tormenta de nieve enterró autos bajo la nieve."},
+      {"en": "Schools closed due to the blizzard.", "es": "Las escuelas cerraron por la tormenta de nieve."},
+      {"en": "Blizzards have strong wind and low visibility.", "es": "Las tormentas de nieve tienen viento fuerte y poca visibilidad."},
+      {"en": "Stay indoors during a blizzard.", "es": "Quédate adentro durante una tormenta de nieve."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_38",
+    "english": "sleet",
+    "spanish": "aguanieve",
+    "phonetic": "/sliːt/",
+    "examples": [
+      {"en": "Sleet is freezing rain that turns to ice.", "es": "La aguanieve es lluvia helada que se convierte en hielo."},
+      {"en": "Sleet made the roads slippery.", "es": "La aguanieve hizo resbaladizas las carreteras."},
+      {"en": "It’s sleeting outside—be careful!", "es": "Está aguanieve afuera—¡ten cuidado!"},
+      {"en": "Sleet is common in early winter.", "es": "La aguanieve es común a principios del invierno."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_39",
+    "english": "smog",
+    "spanish": "smog",
+    "phonetic": "/smɒɡ/",
+    "examples": [
+      {"en": "Smog covered the city skyline.", "es": "El smog cubrió el horizonte de la ciudad."},
+      {"en": "Smog is pollution mixed with fog.", "es": "El smog es contaminación mezclada con niebla."},
+      {"en": "Smog can cause breathing problems.", "es": "El smog puede causar problemas respiratorios."},
+      {"en": "Avoid outdoor exercise on smoggy days.", "es": "Evita el ejercicio al aire libre en días con smog."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_40",
+    "english": "heatwave",
+    "spanish": "ola de calor",
+    "phonetic": "/ˈhiːt.weɪv/",
+    "examples": [
+      {"en": "The heatwave broke temperature records.", "es": "La ola de calor rompió récords de temperatura."},
+      {"en": "Stay cool during a heatwave.", "es": "Mantente fresco durante una ola de calor."},
+      {"en": "Heatwaves are becoming more frequent.", "es": "Las olas de calor son cada vez más frecuentes."},
+      {"en": "Drink plenty of water in a heatwave.", "es": "Bebe mucha agua en una ola de calor."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_41",
+    "english": "cold front",
+    "spanish": "frente frío",
+    "phonetic": "/ˈkoʊld frʌnt/",
+    "examples": [
+      {"en": "A cold front is moving in tonight.", "es": "Un frente frío se acerca esta noche."},
+      {"en": "Cold fronts often bring storms.", "es": "Los frentes fríos suelen traer tormentas."},
+      {"en": "Temperatures drop after a cold front passes.", "es": "Las temperaturas bajan después de que pasa un frente frío."},
+      {"en": "The cold front caused a sudden chill.", "es": "El frente frío causó un frío repentino."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_42",
+    "english": "warm front",
+    "spanish": "frente cálido",
+    "phonetic": "/ˈwɔːrm frʌnt/",
+    "examples": [
+      {"en": "A warm front will raise temperatures.", "es": "Un frente cálido elevará las temperaturas."},
+      {"en": "Warm fronts bring steady rain.", "es": "Los frentes cálidos traen lluvia constante."},
+      {"en": "After the warm front, skies cleared.", "es": "Después del frente cálido, el cielo se despejó."},
+      {"en": "Warm fronts move slower than cold fronts.", "es": "Los frentes cálidos se mueven más lento que los fríos."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_43",
+    "english": "atmosphere",
+    "spanish": "atmósfera",
+    "phonetic": "/ˈæt.mə.sfɪr/",
+    "examples": [
+      {"en": "Earth’s atmosphere protects us from space.", "es": "La atmósfera terrestre nos protege del espacio."},
+      {"en": "Weather happens in the lower atmosphere.", "es": "El clima ocurre en la atmósfera baja."},
+      {"en": "Pollution affects the atmosphere.", "es": "La contaminación afecta la atmósfera."},
+      {"en": "The atmosphere felt tense before the storm.", "es": "La atmósfera se sintió tensa antes de la tormenta."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_44",
+    "english": "climate",
+    "spanish": "clima",
+    "phonetic": "/ˈklaɪ.mət/",
+    "examples": [
+      {"en": "The climate in Spain is Mediterranean.", "es": "El clima en España es mediterráneo."},
+      {"en": "Climate change affects weather patterns.", "es": "El cambio climático afecta los patrones climáticos."},
+      {"en": "Tropical climates are warm and humid.", "es": "Los climas tropicales son cálidos y húmedos."},
+      {"en": "Desert climates have little rain.", "es": "Los climas desérticos tienen poca lluvia."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_45",
+    "english": "monsoon",
+    "spanish": "monzón",
+    "phonetic": "/mɑːnˈsuːn/",
+    "examples": [
+      {"en": "The monsoon brings heavy summer rain.", "es": "El monzón trae lluvias intensas de verano."},
+      {"en": "India depends on the monsoon for farming.", "es": "La India depende del monzón para la agricultura."},
+      {"en": "Monsoon season starts in June.", "es": "La temporada de monzones empieza en junio."},
+      {"en": "Monsoons can cause flooding.", "es": "Los monzones pueden causar inundaciones."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_46",
+    "english": "rainbow",
+    "spanish": "arcoíris",
+    "phonetic": "/ˈreɪn.boʊ/",
+    "examples": [
+      {"en": "A rainbow appeared after the rain.", "es": "Un arcoíris apareció después de la lluvia."},
+      {"en": "Rainbows form when sunlight hits raindrops.", "es": "Los arcoíris se forman cuando la luz solar golpea gotas de lluvia."},
+      {"en": "She took a photo of the rainbow.", "es": "Ella tomó una foto del arcoíris."},
+      {"en": "Rainbows symbolize hope.", "es": "Los arcoíris simbolizan esperanza."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_47",
+    "english": "dew point",
+    "spanish": "punto de rocío",
+    "phonetic": "/ˈduː pɔɪnt/",
+    "examples": [
+      {"en": "The dew point is high today—very humid.", "es": "El punto de rocío es alto hoy—muy húmedo."},
+      {"en": "When air reaches the dew point, dew forms.", "es": "Cuando el aire alcanza el punto de rocío, se forma rocío."},
+      {"en": "Meteorologists use dew point to measure moisture.", "es": "Los meteorólogos usan el punto de rocío para medir la humedad."},
+      {"en": "A high dew point feels sticky.", "es": "Un punto de rocío alto se siente pegajoso."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_48",
+    "english": "UV index",
+    "spanish": "índice UV",
+    "phonetic": "/ˌjuːˈviː ˈɪn.deks/",
+    "examples": [
+      {"en": "The UV index is very high today—wear sunscreen.", "es": "El índice UV es muy alto hoy—usa protector solar."},
+      {"en": "Check the UV index before going outside.", "es": "Revisa el índice UV antes de salir."},
+      {"en": "UV index above 8 requires extra protection.", "es": "Índice UV por encima de 8 requiere protección extra."},
+      {"en": "The UV index peaks at noon.", "es": "El índice UV alcanza su pico al mediodía."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_49",
+    "english": "sunrise",
+    "spanish": "salida del sol",
+    "phonetic": "/ˈsʌn.raɪz/",
+    "examples": [
+      {"en": "We watched the sunrise over the ocean.", "es": "Vimos la salida del sol sobre el océano."},
+      {"en": "Sunrise is at 6:30 AM in summer.", "es": "La salida del sol es a las 6:30 AM en verano."},
+      {"en": "The sky turns orange at sunrise.", "es": "El cielo se vuelve naranja al amanecer."},
+      {"en": "Photographers love sunrise light.", "es": "A los fotógrafos les encanta la luz del amanecer."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_50",
+    "english": "sunset",
+    "spanish": "puesta del sol",
+    "phonetic": "/ˈsʌn.set/",
+    "examples": [
+      {"en": "The sunset was breathtaking.", "es": "La puesta del sol fue impresionante."},
+      {"en": "Sunset is at 8 PM in July.", "es": "La puesta del sol es a las 8 PM en julio."},
+      {"en": "We had dinner watching the sunset.", "es": "Cenamos viendo la puesta del sol."},
+      {"en": "Red skies at sunset mean dry weather.", "es": "Cielos rojos al atardecer significan buen tiempo."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_51",
+    "english": "horizon",
+    "spanish": "horizonte",
+    "phonetic": "/həˈraɪ.zən/",
+    "examples": [
+      {"en": "The sun disappeared below the horizon.", "es": "El sol desapareció bajo el horizonte."},
+      {"en": "Storm clouds gathered on the horizon.", "es": "Nubes de tormenta se acumularon en el horizonte."},
+      {"en": "The ship sailed toward the horizon.", "es": "El barco navegó hacia el horizonte."},
+      {"en": "Lightning flashed on the distant horizon.", "es": "Relámpagos brillaron en el horizonte lejano."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_52",
+    "english": "precipitation",
+    "spanish": "precipitación",
+    "phonetic": "/prɪˌsɪp.ɪˈteɪ.ʃən/",
+    "examples": [
+      {"en": "Today’s precipitation includes rain and snow.", "es": "La precipitación de hoy incluye lluvia y nieve."},
+      {"en": "Annual precipitation varies by region.", "es": "La precipitación anual varía por región."},
+      {"en": "Heavy precipitation caused flooding.", "es": "La precipitación intensa causó inundaciones."},
+      {"en": "The forecast shows 80% chance of precipitation.", "es": "El pronóstico muestra 80% de probabilidad de precipitación."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_53",
+    "english": "cumulus",
+    "spanish": "cúmulo",
+    "phonetic": "/ˈkjuː.mjə.ləs/",
+    "examples": [
+      {"en": "Cumulus clouds look like cotton balls.", "es": "Las nubes cúmulos parecen bolas de algodón."},
+      {"en": "Fair weather cumulus are white and fluffy.", "es": "Los cúmulos de buen tiempo son blancos y esponjosos."},
+      {"en": "Cumulus can grow into storm clouds.", "es": "Los cúmulos pueden crecer hasta convertirse en nubes de tormenta."},
+      {"en": "Puffy cumulus filled the blue sky.", "es": "Cúmulos esponjosos llenaron el cielo azul."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_54",
+    "english": "stratus",
+    "spanish": "estrato",
+    "phonetic": "/ˈstræt.əs/",
+    "examples": [
+      {"en": "Stratus clouds cover the sky like a blanket.", "es": "Las nubes estratos cubren el cielo como una manta."},
+      {"en": "Stratus often bring drizzle.", "es": "Los estratos suelen traer llovizna."},
+      {"en": "Fog is a type of stratus cloud on the ground.", "es": "La niebla es un tipo de nube estrato en el suelo."},
+      {"en": "Gray stratus made the day gloomy.", "es": "Estratos grises hicieron el día sombrío."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_55",
+    "english": "cirrus",
+    "spanish": "cirro",
+    "phonetic": "/ˈsɪr.əs/",
+    "examples": [
+      {"en": "Cirrus clouds are thin and wispy.", "es": "Las nubes cirros son delgadas y filamentosas."},
+      {"en": "Cirrus often appear before a warm front.", "es": "Los cirros suelen aparecer antes de un frente cálido."},
+      {"en": "High cirrus indicate fair weather.", "es": "Los cirros altos indican buen tiempo."},
+      {"en": "Cirrus clouds form at high altitudes.", "es": "Las nubes cirros se forman a gran altitud."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_56",
+    "english": "nimbus",
+    "spanish": "nimbo",
+    "phonetic": "/ˈnɪm.bəs/",
+    "examples": [
+      {"en": "Nimbus clouds bring rain or snow.", "es": "Las nubes nimbo traen lluvia o nieve."},
+      {"en": "Cumulonimbus clouds cause thunderstorms.", "es": "Las nubes cumulonimbos causan tormentas eléctricas."},
+      {"en": "Nimbus means 'rain-bearing' in Latin.", "es": "Nimbo significa 'que lleva lluvia' en latín."},
+      {"en": "Dark nimbus covered the sky.", "es": "Nimbos oscuros cubrieron el cielo."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_57",
+    "english": "humidity",
+    "spanish": "humedad",
+    "phonetic": "/hjuːˈmɪd.ə.ti/",
+    "examples": [
+      {"en": "Tropical areas have high humidity.", "es": "Las zonas tropicales tienen alta humedad."},
+      {"en": "Low humidity dries out your skin.", "es": "La humedad baja reseca tu piel."},
+      {"en": "Humidity makes 30°C feel like 35°C.", "es": "La humedad hace que 30°C se sientan como 35°C."},
+      {"en": "The humidity dropped after the storm.", "es": "La humedad bajó después de la tormenta."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_58",
+    "english": "wind chill",
+    "spanish": "sensación térmica (frío)",
+    "phonetic": "/ˈwɪnd tʃɪl/",
+    "examples": [
+      {"en": "The temperature is -5°C, but wind chill is -15°C.", "es": "La temperatura es -5°C, pero la sensación térmica es -15°C."},
+      {"en": "Wind chill increases risk of frostbite.", "es": "La sensación térmica aumenta el riesgo de congelación."},
+      {"en": "Dress warmly when wind chill is low.", "es": "Vístete abrigado cuando la sensación térmica sea baja."},
+      {"en": "Wind chill combines cold and wind speed.", "es": "La sensación térmica combina frío y velocidad del viento."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_59",
+    "english": "heat index",
+    "spanish": "índice de calor",
+    "phonetic": "/ˈhiːt ˌɪn.deks/",
+    "examples": [
+      {"en": "The heat index is 40°C—stay indoors.", "es": "El índice de calor es 40°C—quédate adentro."},
+      {"en": "Heat index combines temperature and humidity.", "es": "El índice de calor combina temperatura y humedad."},
+      {"en": "High heat index can cause heatstroke.", "es": "Un índice de calor alto puede causar golpe de calor."},
+      {"en": "The heat index feels worse in cities.", "es": "El índice de calor se siente peor en las ciudades."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_60",
+    "english": "air pressure",
+    "spanish": "presión atmosférica",
+    "phonetic": "/ˈer ˌpreʃ.ər/",
+    "examples": [
+      {"en": "Low air pressure often means storms.", "es": "La presión atmosférica baja suele significar tormentas."},
+      {"en": "High air pressure brings clear skies.", "es": "La presión atmosférica alta trae cielos despejados."},
+      {"en": "Air pressure drops before rain.", "es": "La presión atmosférica baja antes de la lluvia."},
+      {"en": "Pilots monitor air pressure closely.", "es": "Los pilotos monitorean la presión atmosférica de cerca."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_61",
+    "english": "dew",
+    "spanish": "rocío",
+    "phonetic": "/duː/",
+    "examples": [
+      {"en": "Dew glistened on the grass at dawn.", "es": "El rocío brillaba en el césped al amanecer."},
+      {"en": "Dew forms on cool surfaces overnight.", "es": "El rocío se forma en superficies frías durante la noche."},
+      {"en": "Farmers check for dew in the morning.", "es": "Los agricultores revisan el rocío por la mañana."},
+      {"en": "Heavy dew can delay morning flights.", "es": "El rocío intenso puede retrasar vuelos matutinos."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_62",
+    "english": "frostbite",
+    "spanish": "congelación",
+    "phonetic": "/ˈfrɒst.baɪt/",
+    "examples": [
+      {"en": "Frostbite can occur in minutes in extreme cold.", "es": "La congelación puede ocurrir en minutos con frío extremo."},
+      {"en": "Cover your ears to avoid frostbite.", "es": "Cúbrete las orejas para evitar congelación."},
+      {"en": "Frostbite affects fingers, toes, nose, and ears.", "es": "La congelación afecta dedos, pies, nariz y orejas."},
+      {"en": "Symptoms of frostbite include numbness.", "es": "Los síntomas de congelación incluyen entumecimiento."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_63",
+    "english": "sunburn",
+    "spanish": "quemadura solar",
+    "phonetic": "/ˈsʌn.bɝːn/",
+    "examples": [
+      {"en": "She got a bad sunburn at the beach.", "es": "Ella tuvo una quemadura solar grave en la playa."},
+      {"en": "Sunburn increases skin cancer risk.", "es": "La quemadura solar aumenta el riesgo de cáncer de piel."},
+      {"en": "Use sunscreen to prevent sunburn.", "es": "Usa protector solar para prevenir quemaduras."},
+      {"en": "His shoulders were red from sunburn.", "es": "Sus hombros estaban rojos por la quemadura solar."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_64",
+    "english": "lightning rod",
+    "spanish": "pararrayos",
+    "phonetic": "/ˈlaɪt.nɪŋ rɑːd/",
+    "examples": [
+      {"en": "The church has a lightning rod on its steeple.", "es": "La iglesia tiene un pararrayos en su campanario."},
+      {"en": "Lightning rods protect buildings from strikes.", "es": "Los pararrayos protegen edificios de rayos."},
+      {"en": "Benjamin Franklin invented the lightning rod.", "es": "Benjamin Franklin inventó el pararrayos."},
+      {"en": "Install a lightning rod if you live in a stormy area.", "es": "Instala un pararrayos si vives en una zona de tormentas."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_65",
+    "english": "weather vane",
+    "spanish": "veleta",
+    "phonetic": "/ˈweð.ɚ veɪn/",
+    "examples": [
+      {"en": "The weather vane shows the wind direction.", "es": "La veleta muestra la dirección del viento."},
+      {"en": "Old barns often have weather vanes.", "es": "Los graneros antiguos suelen tener veletas."},
+      {"en": "The weather vane pointed north.", "es": "La veleta apuntaba al norte."},
+      {"en": "Weather vanes are decorative and functional.", "es": "Las veletas son decorativas y funcionales."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_66",
+    "english": "anemometer",
+    "spanish": "anemómetro",
+    "phonetic": "/ˌæn.əˈmɑː.mɪ.t̬ɚ/",
+    "examples": [
+      {"en": "An anemometer measures wind speed.", "es": "Un anemómetro mide la velocidad del viento."},
+      {"en": "Meteorologists use anemometers daily.", "es": "Los meteorólogos usan anemómetros diariamente."},
+      {"en": "The anemometer spun rapidly in the gale.", "es": "El anemómetro giró rápidamente en el vendaval."},
+      {"en": "Anemometers are on weather stations.", "es": "Los anemómetros están en estaciones meteorológicas."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_67",
+    "english": "rain gauge",
+    "spanish": "pluviómetro",
+    "phonetic": "/ˈreɪn ɡeɪdʒ/",
+    "examples": [
+      {"en": "The rain gauge collected 2 inches of rain.", "es": "El pluviómetro recogió 2 pulgadas de lluvia."},
+      {"en": "Gardeners use rain gauges to track rainfall.", "es": "Los jardineros usan pluviómetros para medir la lluvia."},
+      {"en": "Place the rain gauge in an open area.", "es": "Coloca el pluviómetro en un área abierta."},
+      {"en": "Rain gauges help predict floods.", "es": "Los pluviómetros ayudan a predecir inundaciones."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_68",
+    "english": "hygrometer",
+    "spanish": "higrómetro",
+    "phonetic": "/haɪˈɡrɑː.mɪ.t̬ɚ/",
+    "examples": [
+      {"en": "A hygrometer measures humidity.", "es": "Un higrómetro mide la humedad."},
+      {"en": "The hygrometer read 60% humidity.", "es": "El higrómetro marcó 60% de humedad."},
+      {"en": "Museums use hygrometers to protect artifacts.", "es": "Los museos usan higrómetros para proteger artefactos."},
+      {"en": "Digital hygrometers are easy to read.", "es": "Los higrómetros digitales son fáciles de leer."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_69",
+    "english": "meteorologist",
+    "spanish": "meteorólogo",
+    "phonetic": "/ˌmiː.ti.əˈrɑː.lə.dʒɪst/",
+    "examples": [
+      {"en": "The meteorologist predicted the hurricane path.", "es": "El meteorólogo predijo la trayectoria del huracán."},
+      {"en": "She works as a TV meteorologist.", "es": "Ella trabaja como meteoróloga de televisión."},
+      {"en": "Meteorologists study weather patterns.", "es": "Los meteorólogos estudian patrones climáticos."},
+      {"en": "Call a meteorologist for weather advice.", "es": "Llama a un meteorólogo para consejos climáticos."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_70",
+    "english": "climate change",
+    "spanish": "cambio climático",
+    "phonetic": "/ˈklaɪ.mət tʃeɪndʒ/",
+    "examples": [
+      {"en": "Climate change causes extreme weather.", "es": "El cambio climático causa clima extremo."},
+      {"en": "Scientists warn about climate change.", "es": "Los científicos advierten sobre el cambio climático."},
+      {"en": "Reducing emissions fights climate change.", "es": "Reducir emisiones combate el cambio climático."},
+      {"en": "Climate change affects sea levels.", "es": "El cambio climático afecta los niveles del mar."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_71",
+    "english": "global warming",
+    "spanish": "calentamiento global",
+    "phonetic": "/ˌɡloʊ.bəl ˈwɔːr.mɪŋ/",
+    "examples": [
+      {"en": "Global warming melts polar ice.", "es": "El calentamiento global derrite el hielo polar."},
+      {"en": "Global warming increases average temperatures.", "es": "El calentamiento global aumenta las temperaturas promedio."},
+      {"en": "Trees help reduce global warming.", "es": "Los árboles ayudan a reducir el calentamiento global."},
+      {"en": "Global warming is a serious issue.", "es": "El calentamiento global es un problema serio."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_72",
+    "english": "ozone layer",
+    "spanish": "capa de ozono",
+    "phonetic": "/ˈoʊ.zoʊn ˌleɪ.ɚ/",
+    "examples": [
+      {"en": "The ozone layer protects us from UV rays.", "es": "La capa de ozono nos protege de los rayos UV."},
+      {"en": "CFCs damage the ozone layer.", "es": "Los CFC dañan la capa de ozono."},
+      {"en": "The ozone layer is recovering slowly.", "es": "La capa de ozono se está recuperando lentamente."},
+      {"en": "A hole in the ozone layer was found over Antarctica.", "es": "Se encontró un agujero en la capa de ozono sobre la Antártida."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_73",
+    "english": "greenhouse effect",
+    "spanish": "efecto invernadero",
+    "phonetic": "/ˈɡriːn.haʊs ɪˈfekt/",
+    "examples": [
+      {"en": "The greenhouse effect warms the planet.", "es": "El efecto invernadero calienta el planeta."},
+      {"en": "CO2 contributes to the greenhouse effect.", "es": "El CO2 contribuye al efecto invernadero."},
+      {"en": "Without the greenhouse effect, Earth would be too cold.", "es": "Sin el efecto invernadero, la Tierra sería demasiado fría."},
+      {"en": "Human activity intensifies the greenhouse effect.", "es": "La actividad humana intensifica el efecto invernadero."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_74",
+    "english": "el Niño",
+    "spanish": "el Niño",
+    "phonetic": "/el ˈniː.njoʊ/",
+    "examples": [
+      {"en": "El Niño causes warmer ocean temperatures.", "es": "El Niño causa temperaturas oceánicas más cálidas."},
+      {"en": "El Niño affects global weather patterns.", "es": "El Niño afecta los patrones climáticos globales."},
+      {"en": "During El Niño, some regions get more rain.", "es": "Durante el Niño, algunas regiones reciben más lluvia."},
+      {"en": "El Niño occurs every 2–7 years.", "es": "El Niño ocurre cada 2–7 años."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_75",
+    "english": "la Niña",
+    "spanish": "la Niña",
+    "phonetic": "/lɑː ˈniː.njɑː/",
+    "examples": [
+      {"en": "La Niña brings cooler ocean temperatures.", "es": "La Niña trae temperaturas oceánicas más frías."},
+      {"en": "La Niña often follows El Niño.", "es": "La Niña suele seguir al Niño."},
+      {"en": "La Niña can cause droughts in some areas.", "es": "La Niña puede causar sequías en algunas zonas."},
+      {"en": "La Niña strengthens hurricane seasons.", "es": "La Niña intensifica las temporadas de huracanes."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_76",
+    "english": "aurora",
+    "spanish": "aurora",
+    "phonetic": "/əˈrɔː.rə/",
+    "examples": [
+      {"en": "The aurora borealis lit up the Arctic sky.", "es": "La aurora boreal iluminó el cielo ártico."},
+      {"en": "Auroras are caused by solar particles.", "es": "Las auroras son causadas por partículas solares."},
+      {"en": "Aurora australis is seen in the Southern Hemisphere.", "es": "La aurora australis se ve en el hemisferio sur."},
+      {"en": "Tourists travel north to see the aurora.", "es": "Los turistas viajan al norte para ver la aurora."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_77",
+    "english": "dust storm",
+    "spanish": "tormenta de polvo",
+    "phonetic": "/ˈdʌst stɔːrm/",
+    "examples": [
+      {"en": "A dust storm reduced visibility to zero.", "es": "Una tormenta de polvo redujo la visibilidad a cero."},
+      {"en": "Dust storms are common in deserts.", "es": "Las tormentas de polvo son comunes en desiertos."},
+      {"en": "Cover your mouth during a dust storm.", "es": "Cúbrete la boca durante una tormenta de polvo."},
+      {"en": "The dust storm lasted for hours.", "es": "La tormenta de polvo duró horas."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_78",
+    "english": "sandstorm",
+    "spanish": "tormenta de arena",
+    "phonetic": "/ˈsænd.stɔːrm/",
+    "examples": [
+      {"en": "The sandstorm buried the camp.", "es": "La tormenta de arena enterró el campamento."},
+      {"en": "Sandstorms occur in the Sahara Desert.", "es": "Las tormentas de arena ocurren en el desierto del Sahara."},
+      {"en": "Wear goggles in a sandstorm.", "es": "Usa gafas en una tormenta de arena."},
+      {"en": "Sandstorms can damage machinery.", "es": "Las tormentas de arena pueden dañar maquinaria."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_79",
+    "english": "waterspout",
+    "spanish": "manga marina",
+    "phonetic": "/ˈwɔː.t̬ɚ.spaut/",
+    "examples": [
+      {"en": "A waterspout formed over the lake.", "es": "Una manga marina se formó sobre el lago."},
+      {"en": "Waterspouts are tornadoes over water.", "es": "Las mangas marinas son tornados sobre el agua."},
+      {"en": "Boaters should avoid waterspouts.", "es": "Los navegantes deben evitar las mangas marinas."},
+      {"en": "Waterspouts can move onto land.", "es": "Las mangas marinas pueden moverse a tierra."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_80",
+    "english": "microburst",
+    "spanish": "ráfaga descendente",
+    "phonetic": "/ˈmaɪ.kroʊ.bɝːst/",
+    "examples": [
+      {"en": "A microburst caused the plane to crash.", "es": "Una ráfaga descendente causó el accidente del avión."},
+      {"en": "Microbursts are dangerous for aircraft.", "es": "Las ráfagas descendentes son peligrosas para aeronaves."},
+      {"en": "Microbursts last only a few minutes.", "es": "Las ráfagas descendentes duran solo unos minutos."},
+      {"en": "Radar can detect microbursts.", "es": "El radar puede detectar ráfagas descendentes."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_81",
+    "english": "whiteout",
+    "spanish": "tormenta blanca",
+    "phonetic": "/ˈwaɪt.aʊt/",
+    "examples": [
+      {"en": "The blizzard caused a whiteout.", "es": "La tormenta de nieve causó una tormenta blanca."},
+      {"en": "In a whiteout, you can’t see the road.", "es": "En una tormenta blanca, no puedes ver la carretera."},
+      {"en": "Whiteouts are dangerous for drivers.", "es": "Las tormentas blancas son peligrosas para conductores."},
+      {"en": "Pilots avoid flying in whiteout conditions.", "es": "Los pilotos evitan volar en condiciones de tormenta blanca."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_82",
+    "english": "black ice",
+    "spanish": "hielo negro",
+    "phonetic": "/ˌblæk ˈaɪs/",
+    "examples": [
+      {"en": "Black ice is invisible on roads.", "es": "El hielo negro es invisible en las carreteras."},
+      {"en": "Black ice forms when rain freezes on contact.", "es": "El hielo negro se forma cuando la lluvia se congela al tocar."},
+      {"en": "Drive slowly—there might be black ice.", "es": "Conduce despacio—podría haber hielo negro."},
+      {"en": "Black ice causes many winter accidents.", "es": "El hielo negro causa muchos accidentes invernales."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_83",
+    "english": "permafrost",
+    "spanish": "permafrost",
+    "phonetic": "/ˈpɝː.mə.frɒst/",
+    "examples": [
+      {"en": "Permafrost is permanently frozen ground.", "es": "El permafrost es suelo permanentemente congelado."},
+      {"en": "Permafrost is melting due to global warming.", "es": "El permafrost se está derritiendo por el calentamiento global."},
+      {"en": "Buildings in the Arctic are built on permafrost.", "es": "Los edificios en el Ártico se construyen sobre permafrost."},
+      {"en": "Melting permafrost releases methane.", "es": "El permafrost derretido libera metano."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_84",
+    "english": "glacier",
+    "spanish": "glaciar",
+    "phonetic": "/ˈɡleɪ.ʃɚ/",
+    "examples": [
+      {"en": "Glaciers are melting faster now.", "es": "Los glaciares se están derritiendo más rápido ahora."},
+      {"en": "Glaciers shape mountains over time.", "es": "Los glaciares moldean montañas con el tiempo."},
+      {"en": "Tourists visit glaciers in Alaska.", "es": "Los turistas visitan glaciares en Alaska."},
+      {"en": "Glaciers store most of Earth’s freshwater.", "es": "Los glaciares almacenan la mayor parte del agua dulce de la Tierra."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_85",
+    "english": "avalanche",
+    "spanish": "avalancha",
+    "phonetic": "/ˈæv.ə.læntʃ/",
+    "examples": [
+      {"en": "An avalanche buried the ski slope.", "es": "Una avalancha enterró la pista de esquí."},
+      {"en": "Avalanches are triggered by loud noises.", "es": "Las avalanchas se desencadenan por ruidos fuertes."},
+      {"en": "Skiers wear beacons in avalanche zones.", "es": "Los esquiadores usan balizas en zonas de avalancha."},
+      {"en": "Avalanche warnings were posted.", "es": "Se publicaron advertencias de avalancha."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_86",
+    "english": "dew",
+    "spanish": "rocío",
+    "phonetic": "/duː/",
+    "examples": [
+      {"en": "Morning dew makes the grass wet.", "es": "El rocío matutino hace que el césped esté mojado."},
+      {"en": "Dew evaporates as the sun rises.", "es": "El rocío se evapora al salir el sol."},
+      {"en": "Gardeners love dew for plants.", "es": "Los jardineros aman el rocío para las plantas."},
+      {"en": "Heavy dew can signal clear skies.", "es": "El rocío intenso puede indicar cielos despejados."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_87",
+    "english": "frost",
+    "spanish": "helada",
+    "phonetic": "/frɒst/",
+    "examples": [
+      {"en": "Frost kills tender plants.", "es": "La helada mata plantas delicadas."},
+      {"en": "Frost forms on windows in winter.", "es": "La escarcha se forma en las ventanas en invierno."},
+      {"en": "Farmers protect crops from frost.", "es": "Los agricultores protegen los cultivos de la helada."},
+      {"en": "A light frost covered the fields.", "es": "Una helada ligera cubrió los campos."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_88",
+    "english": "hailstorm",
+    "spanish": "tormenta de granizo",
+    "phonetic": "/ˈheɪl.stɔːrm/",
+    "examples": [
+      {"en": "The hailstorm damaged cars and roofs.", "es": "La tormenta de granizo dañó autos y techos."},
+      {"en": "Hailstorms are common in spring.", "es": "Las tormentas de granizo son comunes en primavera."},
+      {"en": "Seek shelter during a hailstorm.", "es": "Busca refugio durante una tormenta de granizo."},
+      {"en": "Hailstones were as big as golf balls.", "es": "Los granizos eran del tamaño de pelotas de golf."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_89",
+    "english": "cloudburst",
+    "spanish": "chaparrón",
+    "phonetic": "/ˈklaʊd.bɝːst/",
+    "examples": [
+      {"en": "A cloudburst flooded the streets in minutes.", "es": "Un chaparrón inundó las calles en minutos."},
+      {"en": "Cloudbursts are sudden, heavy downpours.", "es": "Los chaparrones son aguaceros repentinos e intensos."},
+      {"en": "Cloudbursts often cause flash floods.", "es": "Los chaparrones suelen causar inundaciones repentinas."},
+      {"en": "The cloudburst ended as quickly as it began.", "es": "El chaparrón terminó tan rápido como empezó."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_90",
+    "english": "mist",
+    "spanish": "neblina",
+    "phonetic": "/mɪst/",
+    "examples": [
+      {"en": "Mist rose from the river at dawn.", "es": "Neblina subió del río al amanecer."},
+      {"en": "Mist reduces visibility slightly.", "es": "La neblina reduce ligeramente la visibilidad."},
+      {"en": "The forest was shrouded in mist.", "es": "El bosque estaba envuelto en neblina."},
+      {"en": "Mist is common in valleys in the morning.", "es": "La neblina es común en valles por la mañana."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_91",
+    "english": "gust",
+    "spanish": "ráfaga",
+    "phonetic": "/ɡʌst/",
+    "examples": [
+      {"en": "A gust of wind blew my hat away.", "es": "Una ráfaga de viento se llevó mi sombrero."},
+      {"en": "Wind gusts reached 60 mph.", "es": "Las ráfagas de viento alcanzaron 60 mph."},
+      {"en": "Gusts make sailing challenging.", "es": "Las ráfagas hacen el velero desafiante."},
+      {"en": "Hold your umbrella tight—gusts are strong!", "es": "Sostén fuerte tu paraguas—¡las ráfagas son fuertes!"}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_92",
+    "english": "squall",
+    "spanish": "ráfaga fuerte",
+    "phonetic": "/skwɔːl/",
+    "examples": [
+      {"en": "A squall hit the boat suddenly.", "es": "Una ráfaga fuerte golpeó el barco repentinamente."},
+      {"en": "Squalls bring sudden wind and rain.", "es": "Las ráfagas fuertes traen viento y lluvia repentina."},
+      {"en": "The squall lasted only ten minutes.", "es": "La ráfaga fuerte duró solo diez minutos."},
+      {"en": "Fishermen watch for squalls at sea.", "es": "Los pescadores vigilan las ráfagas fuertes en el mar."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_93",
+    "english": "overcast",
+    "spanish": "encapotado",
+    "phonetic": "/ˈoʊ.vɚ.kæst/",
+    "examples": [
+      {"en": "It’s overcast and gloomy today.", "es": "Está encapotado y sombrío hoy."},
+      {"en": "Overcast skies mean no direct sunlight.", "es": "Cielos encapotados significan sin luz solar directa."},
+      {"en": "Photographers use diffusers on overcast days.", "es": "Los fotógrafos usan difusores en días encapotados."},
+      {"en": "Overcast weather is good for reading outside.", "es": "El clima encapotado es bueno para leer afuera."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_94",
+    "english": "partly sunny",
+    "spanish": "parcialmente soleado",
+    "phonetic": "/ˈpɑːrt.li ˈsʌn.i/",
+    "examples": [
+      {"en": "It’s partly sunny this afternoon.", "es": "Está parcialmente soleado esta tarde."},
+      {"en": "Partly sunny means more sun than clouds.", "es": "Parcialmente soleado significa más sol que nubes."},
+      {"en": "Partly sunny is great for a picnic.", "es": "Parcialmente soleado es ideal para un picnic."},
+      {"en": "The forecast says partly sunny tomorrow.", "es": "El pronóstico dice parcialmente soleado mañana."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_95",
+    "english": "mostly cloudy",
+    "spanish": "mayormente nublado",
+    "phonetic": "/ˈmoʊst.li ˈklaʊ.di/",
+    "examples": [
+      {"en": "It’s mostly cloudy with a chance of rain.", "es": "Está mayormente nublado con posibilidad de lluvia."},
+      {"en": "Mostly cloudy skies feel cooler.", "es": "Los cielos mayormente nublados se sienten más frescos."},
+      {"en": "Mostly cloudy doesn’t mean it will rain.", "es": "Mayormente nublado no significa que lloverá."},
+      {"en": "The sun peeked through mostly cloudy skies.", "es": "El sol asomó entre cielos mayormente nublados."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_96",
+    "english": "clear sky",
+    "spanish": "cielo despejado",
+    "phonetic": "/klɪr skaɪ/",
+    "examples": [
+      {"en": "The clear sky was full of stars.", "es": "El cielo despejado estaba lleno de estrellas."},
+      {"en": "Clear sky means no clouds at all.", "es": "Cielo despejado significa que no hay nubes."},
+      {"en": "We hiked under a clear sky.", "es": "Hicimos senderismo bajo un cielo despejado."},
+      {"en": "Clear sky is perfect for astronomy.", "es": "El cielo despejado es perfecto para la astronomía."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_97",
+    "english": "weather",
+    "spanish": "tiempo (clima)",
+    "phonetic": "/ˈweð.ɚ/",
+    "examples": [
+      {"en": "The weather is nice today.", "es": "El tiempo está bueno hoy."},
+      {"en": "I check the weather every morning.", "es": "Reviso el tiempo cada mañana."},
+      {"en": "Bad weather canceled the flight.", "es": "El mal tiempo canceló el vuelo."},
+      {"en": "How’s the weather in your city?", "es": "¿Cómo está el tiempo en tu ciudad?"}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_98",
+    "english": "season",
+    "spanish": "estación (del año)",
+    "phonetic": "/ˈsiː.zən/",
+    "examples": [
+      {"en": "Winter is my favorite season.", "es": "El invierno es mi estación favorita."},
+      {"en": "Rainy season starts in May.", "es": "La temporada de lluvias empieza en mayo."},
+      {"en": "Each season has its own beauty.", "es": "Cada estación tiene su propia belleza."},
+      {"en": "Dry season is best for visiting the desert.", "es": "La temporada seca es la mejor para visitar el desierto."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_99",
+    "english": "humidity",
+    "spanish": "humedad",
+    "phonetic": "/hjuːˈmɪd.ə.ti/",
+    "examples": [
+      {"en": "Coastal areas have high humidity.", "es": "Las zonas costeras tienen alta humedad."},
+      {"en": "Low humidity causes dry skin.", "es": "La humedad baja causa piel seca."},
+      {"en": "Humidity makes hot days feel hotter.", "es": "La humedad hace que los días calurosos se sientan más calientes."},
+      {"en": "The humidity dropped after sunset.", "es": "La humedad bajó después del atardecer."}
+    ],
+    "category": "Weather"
+  },
+  {
+    "id": "wea_100",
+    "english": "climate zone",
+    "spanish": "zona climática",
+    "phonetic": "/ˈklaɪ.mət zoʊn/",
+    "examples": [
+      {"en": "Tropical climate zones are near the equator.", "es": "Las zonas climáticas tropicales están cerca del ecuador."},
+      {"en": "Desert climate zones are dry and hot.", "es": "Las zonas climáticas desérticas son secas y calurosas."},
+      {"en": "This plant only grows in temperate climate zones.", "es": "Esta planta solo crece en zonas climáticas templadas."},
+      {"en": "Polar climate zones are cold year-round.", "es": "Las zonas climáticas polares son frías todo el año."}
+    ],
+    "category": "Weather"
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+  "id": "hlth_1",
+  "english": "hospital",
+  "spanish": "hospital",
+  "phonetic": "/ˈhɑː.spɪ.t̬əl/",
+  "examples": [
+    {"en": "He was taken to the hospital.", "es": "Él fue llevado al hospital."},
+    {"en": "My sister works in a hospital.", "es": "Mi hermana trabaja en un hospital."},
+    {"en": "The hospital is near the park.", "es": "El hospital está cerca del parque."},
+    {"en": "They built a new hospital downtown.", "es": "Construyeron un nuevo hospital en el centro."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_2",
+  "english": "doctor",
+  "spanish": "médico",
+  "phonetic": "/ˈdɑːk.tɚ/",
+  "examples": [
+    {"en": "The doctor will see you now.", "es": "El médico le atenderá ahora."},
+    {"en": "I need to see a doctor today.", "es": "Necesito ver a un médico hoy."},
+    {"en": "She became a doctor last year.", "es": "Ella se hizo médico el año pasado."},
+    {"en": "The doctor prescribed some medicine.", "es": "El médico recetó alguna medicina."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_3",
+  "english": "nurse",
+  "spanish": "enfermero",
+  "phonetic": "/nɝːs/",
+  "examples": [
+    {"en": "The nurse checked my blood pressure.", "es": "El enfermero me revisó la presión arterial."},
+    {"en": "She is a nurse at the local clinic.", "es": "Ella es enfermera en la clínica local."},
+    {"en": "The nurse gave me an injection.", "es": "El enfermero me puso una inyección."},
+    {"en": "Nurses work very long hours.", "es": "Los enfermeros trabajan horas muy largas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_4",
+  "english": "medicine",
+  "spanish": "medicina",
+  "phonetic": "/ˈmed.ɪ.sən/",
+  "examples": [
+    {"en": "Take this medicine three times a day.", "es": "Tome esta medicina tres veces al día."},
+    {"en": "Modern medicine has advanced greatly.", "es": "La medicina moderna ha avanzado mucho."},
+    {"en": "She studies medicine at university.", "es": "Ella estudia medicina en la universidad."},
+    {"en": "This medicine tastes very bitter.", "es": "Esta medicina sabe muy amarga."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_5",
+  "english": "pain",
+  "spanish": "dolor",
+  "phonetic": "/peɪn/",
+  "examples": [
+    {"en": "I have a pain in my back.", "es": "Tengo un dolor en la espalda."},
+    {"en": "The pain was unbearable.", "es": "El dolor era insoportable."},
+    {"en": "She felt a sharp pain in her chest.", "es": "Sintió un dolor agudo en el pecho."},
+    {"en": "The medicine relieved the pain.", "es": "La medicina alivió el dolor."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_6",
+  "english": "headache",
+  "spanish": "dolor de cabeza",
+  "phonetic": "/ˈhed.eɪk/",
+  "examples": [
+    {"en": "I have a terrible headache.", "es": "Tengo un terrible dolor de cabeza."},
+    {"en": "Stress can cause headaches.", "es": "El estrés puede causar dolores de cabeza."},
+    {"en": "She took aspirin for her headache.", "es": "Ella tomó aspirina para su dolor de cabeza."},
+    {"en": "This noise is giving me a headache.", "es": "Este ruido me está dando dolor de cabeza."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_7",
+  "english": "fever",
+  "spanish": "fiebre",
+  "phonetic": "/ˈfiː.vɚ/",
+  "examples": [
+    {"en": "The child has a high fever.", "es": "El niño tiene fiebre alta."},
+    {"en": "Her fever broke during the night.", "es": "Su fiebre bajó durante la noche."},
+    {"en": "A fever can be a sign of infection.", "es": "La fiebre puede ser una señal de infección."},
+    {"en": "He's been in bed with a fever.", "es": "Ha estado en cama con fiebre."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_8",
+  "english": "cough",
+  "spanish": "tos",
+  "phonetic": "/kɑːf/",
+  "examples": [
+    {"en": "She has a persistent cough.", "es": "Ella tiene una tos persistente."},
+    {"en": "The medicine should help your cough.", "es": "La medicina debería ayudar con tu tos."},
+    {"en": "He couldn't stop coughing.", "es": "No podía dejar de toser."},
+    {"en": "Cover your mouth when you cough.", "es": "Cúbrete la boca cuando tosas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_9",
+  "english": "cold",
+  "spanish": "resfriado",
+  "phonetic": "/koʊld/",
+  "examples": [
+    {"en": "I think I'm catching a cold.", "es": "Creo que me estoy resfriando."},
+    {"en": "She stayed home with a bad cold.", "es": "Ella se quedó en casa con un fuerte resfriado."},
+    {"en": "Drink tea with honey for your cold.", "es": "Bebe té con miel para tu resfriado."},
+    {"en": "It's common to get colds in winter.", "es": "Es común resfriarse en invierno."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_10",
+  "english": "flu",
+  "spanish": "gripe",
+  "phonetic": "/fluː/",
+  "examples": [
+    {"en": "He's in bed with the flu.", "es": "Está en cama con gripe."},
+    {"en": "The flu vaccine is recommended.", "es": "La vacuna contra la gripe es recomendada."},
+    {"en": "She missed work because of flu.", "es": "Ella faltó al trabajo por gripe."},
+    {"en": "Flu symptoms include fever and aches.", "es": "Los síntomas de gripe incluyen fiebre y dolores."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_11",
+  "english": "allergy",
+  "spanish": "alergia",
+  "phonetic": "/ˈæl.ɚ.dʒi/",
+  "examples": [
+    {"en": "I have an allergy to peanuts.", "es": "Tengo alergia a los cacahuetes."},
+    {"en": "Seasonal allergies affect many people.", "es": "Las alergias estacionales afectan a mucha gente."},
+    {"en": "She takes medication for her allergies.", "es": "Ella toma medicación para sus alergias."},
+    {"en": "The test showed several allergies.", "es": "La prueba mostró varias alergias."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_12",
+  "english": "appointment",
+  "spanish": "cita",
+  "phonetic": "/əˈpɔɪnt.mənt/",
+  "examples": [
+    {"en": "I have a doctor's appointment tomorrow.", "es": "Tengo cita con el médico mañana."},
+    {"en": "She made an appointment for next week.", "es": "Ella hizo una cita para la próxima semana."},
+    {"en": "Don't forget your dental appointment.", "es": "No olvides tu cita dental."},
+    {"en": "The appointment lasted thirty minutes.", "es": "La cita duró treinta minutos."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_13",
+  "english": "emergency",
+  "spanish": "emergencia",
+  "phonetic": "/ɪˈmɝː.dʒən.si/",
+  "examples": [
+    {"en": "This is a medical emergency!", "es": "¡Esto es una emergencia médica!"},
+    {"en": "Go to the emergency room immediately.", "es": "Ve a la sala de emergencias inmediatamente."},
+    {"en": "The hospital has an emergency department.", "es": "El hospital tiene un departamento de emergencias."},
+    {"en": "Call 911 in case of emergency.", "es": "Llama al 911 en caso de emergencia."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_14",
+  "english": "ambulance",
+  "spanish": "ambulancia",
+  "phonetic": "/ˈæm.bjə.ləns/",
+  "examples": [
+    {"en": "Call an ambulance quickly!", "es": "¡Llama una ambulancia rápido!"},
+    {"en": "The ambulance arrived in five minutes.", "es": "La ambulancia llegó en cinco minutos."},
+    {"en": "He was transported by ambulance.", "es": "Fue transportado en ambulancia."},
+    {"en": "The ambulance siren was very loud.", "es": "La sirena de la ambulancia era muy fuerte."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_15",
+  "english": "prescription",
+  "spanish": "receta",
+  "phonetic": "/prɪˈskrɪp.ʃən/",
+  "examples": [
+    {"en": "I need to fill this prescription.", "es": "Necesito surtir esta receta."},
+    {"en": "The doctor wrote a prescription.", "es": "El médico escribió una receta."},
+    {"en": "This medicine requires a prescription.", "es": "Esta medicina requiere receta."},
+    {"en": "Keep your prescription with you.", "es": "Mantén tu receta contigo."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_16",
+  "english": "pharmacy",
+  "spanish": "farmacia",
+  "phonetic": "/ˈfɑːr.mə.si/",
+  "examples": [
+    {"en": "There's a pharmacy on the corner.", "es": "Hay una farmacia en la esquina."},
+    {"en": "I need to go to the pharmacy.", "es": "Necesito ir a la farmacia."},
+    {"en": "The pharmacy is open until 10 PM.", "es": "La farmacia está abierta hasta las 10 PM."},
+    {"en": "She works as a pharmacy technician.", "es": "Ella trabaja como técnico de farmacia."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_17",
+  "english": "vaccine",
+  "spanish": "vacuna",
+  "phonetic": "/vækˈsiːn/",
+  "examples": [
+    {"en": "The vaccine protects against measles.", "es": "La vacuna protege contra el sarampión."},
+    {"en": "Children receive several vaccines.", "es": "Los niños reciben varias vacunas."},
+    {"en": "She got her flu vaccine yesterday.", "es": "Ella se puso la vacuna de gripe ayer."},
+    {"en": "Vaccines have saved many lives.", "es": "Las vacunas han salvado muchas vidas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_18",
+  "english": "surgery",
+  "spanish": "cirugía",
+  "phonetic": "/ˈsɝː.dʒɚ.i/",
+  "examples": [
+    {"en": "He needs heart surgery.", "es": "Él necesita cirugía de corazón."},
+    {"en": "The surgery was successful.", "es": "La cirugía fue exitosa."},
+    {"en": "She's recovering from surgery.", "es": "Ella se está recuperando de la cirugía."},
+    {"en": "The surgery took three hours.", "es": "La cirugía tomó tres horas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_19",
+  "english": "x-ray",
+  "spanish": "rayos X",
+  "phonetic": "/ˈeks.reɪ/",
+  "examples": [
+    {"en": "The doctor ordered an x-ray.", "es": "El médico ordenó rayos X."},
+    {"en": "My arm might be broken, I need an x-ray.", "es": "Mi brazo podría estar roto, necesito rayos X."},
+    {"en": "The x-ray showed a fracture.", "es": "Los rayos X mostraron una fractura."},
+    {"en": "She works in the x-ray department.", "es": "Ella trabaja en el departamento de rayos X."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_20",
+  "english": "blood",
+  "spanish": "sangre",
+  "phonetic": "/blʌd/",
+  "examples": [
+    {"en": "They did a blood test.", "es": "Hicieron un análisis de sangre."},
+    {"en": "He donated blood at the hospital.", "es": "Él donó sangre en el hospital."},
+    {"en": "There was blood on the bandage.", "es": "Había sangre en el vendaje."},
+    {"en": "Blood pressure should be checked regularly.", "es": "La presión sanguínea debe revisarse regularmente."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_21",
+  "english": "bandage",
+  "spanish": "vendaje",
+  "phonetic": "/ˈbæn.dɪdʒ/",
+  "examples": [
+    {"en": "The nurse applied a clean bandage.", "es": "La enfermera aplicó un vendaje limpio."},
+    {"en": "I need to change this bandage daily.", "es": "Necesito cambiar este vendaje diariamente."},
+    {"en": "The bandage stopped the bleeding.", "es": "El vendaje detuvo el sangrado."},
+    {"en": "Keep the bandage dry and clean.", "es": "Mantén el vendaje seco y limpio."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_22",
+  "english": "injection",
+  "spanish": "inyección",
+  "phonetic": "/ɪnˈdʒek.ʃən/",
+  "examples": [
+    {"en": "The doctor gave me an injection.", "es": "El médico me puso una inyección."},
+    {"en": "I'm afraid of injections.", "es": "Tengo miedo a las inyecciones."},
+    {"en": "The nurse is very good with injections.", "es": "La enfermera es muy buena con las inyecciones."},
+    {"en": "This medicine requires daily injections.", "es": "Esta medicina requiere inyecciones diarias."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_23",
+  "english": "temperature",
+  "spanish": "temperatura",
+  "phonetic": "/ˈtem.pɚ.ə.tʃɚ/",
+  "examples": [
+    {"en": "Let me take your temperature.", "es": "Déjeme tomar su temperatura."},
+    {"en": "Her temperature is normal now.", "es": "Su temperatura es normal ahora."},
+    {"en": "A high temperature indicates fever.", "es": "Una temperatura alta indica fiebre."},
+    {"en": "The thermometer shows the temperature.", "es": "El termómetro muestra la temperatura."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_24",
+  "english": "symptom",
+  "spanish": "síntoma",
+  "phonetic": "/ˈsɪmp.təm/",
+  "examples": [
+    {"en": "Coughing is a common symptom.", "es": "Toser es un síntoma común."},
+    {"en": "What symptoms are you experiencing?", "es": "¿Qué síntomas está experimentando?"},
+    {"en": "The symptoms appeared suddenly.", "es": "Los síntomas aparecieron repentinamente."},
+    {"en": "Report any new symptoms to your doctor.", "es": "Reporte cualquier síntoma nuevo a su médico."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_25",
+  "english": "diagnosis",
+  "spanish": "diagnóstico",
+  "phonetic": "/ˌdaɪ.əɡˈnoʊ.sɪs/",
+  "examples": [
+    {"en": "The doctor gave his diagnosis.", "es": "El médico dio su diagnóstico."},
+    {"en": "We're waiting for the final diagnosis.", "es": "Estamos esperando el diagnóstico final."},
+    {"en": "Early diagnosis is important.", "es": "El diagnóstico temprano es importante."},
+    {"en": "The diagnosis confirmed our suspicions.", "es": "El diagnóstico confirmó nuestras sospechas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_26",
+  "english": "treatment",
+  "spanish": "tratamiento",
+  "phonetic": "/ˈtriːt.mənt/",
+  "examples": [
+    {"en": "She's undergoing treatment for cancer.", "es": "Ella está bajo tratamiento por cáncer."},
+    {"en": "The treatment is working well.", "es": "El tratamiento está funcionando bien."},
+    {"en": "This disease requires special treatment.", "es": "Esta enfermedad requiere tratamiento especial."},
+    {"en": "He completed his treatment last month.", "es": "Él completó su tratamiento el mes pasado."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_27",
+  "english": "recovery",
+  "spanish": "recuperación",
+  "phonetic": "/rɪˈkʌv.ɚ.i/",
+  "examples": [
+    {"en": "He's making a good recovery.", "es": "Se está recuperando bien."},
+    {"en": "The recovery period is six weeks.", "es": "El período de recuperación es seis semanas."},
+    {"en": "Wish her a speedy recovery.", "es": "Deseale una pronta recuperación."},
+    {"en": "Full recovery may take months.", "es": "La recuperación completa puede tomar meses."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_28",
+  "english": "exercise",
+  "spanish": "ejercicio",
+  "phonetic": "/ˈek.sɚ.saɪz/",
+  "examples": [
+    {"en": "Regular exercise is good for health.", "es": "El ejercicio regular es bueno para la salud."},
+    {"en": "I do exercise every morning.", "es": "Hago ejercicio cada mañana."},
+    {"en": "The doctor recommended more exercise.", "es": "El médico recomendó más ejercicio."},
+    {"en": "This exercise strengthens your muscles.", "es": "Este ejercicio fortalece tus músculos."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_29",
+  "english": "nutrition",
+  "spanish": "nutrición",
+  "phonetic": "/nuːˈtrɪʃ.ən/",
+  "examples": [
+    {"en": "Good nutrition is essential for health.", "es": "La buena nutrición es esencial para la salud."},
+    {"en": "She studies nutrition at college.", "es": "Ella estudia nutrición en la universidad."},
+    {"en": "Proper nutrition helps prevent diseases.", "es": "La nutrición adecuada ayuda a prevenir enfermedades."},
+    {"en": "The book is about sports nutrition.", "es": "El libro trata sobre nutrición deportiva."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_30",
+  "english": "vitamin",
+  "spanish": "vitamina",
+  "phonetic": "/ˈvaɪ.tə.mɪn/",
+  "examples": [
+    {"en": "Oranges are rich in vitamin C.", "es": "Las naranjas son ricas en vitamina C."},
+    {"en": "I take vitamin supplements daily.", "es": "Tomo suplementos de vitaminas diariamente."},
+    {"en": "Vitamin D comes from sunlight.", "es": "La vitamina D viene de la luz solar."},
+    {"en": "This food contains essential vitamins.", "es": "Esta comida contiene vitaminas esenciales."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_31",
+  "english": "diet",
+  "spanish": "dieta",
+  "phonetic": "/ˈdaɪ.ət/",
+  "examples": [
+    {"en": "I'm on a special diet.", "es": "Estoy en una dieta especial."},
+    {"en": "A balanced diet is important.", "es": "Una dieta balanceada es importante."},
+    {"en": "The doctor put me on a diet.", "es": "El médico me puso a dieta."},
+    {"en": "She follows a vegetarian diet.", "es": "Ella sigue una dieta vegetariana."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_32",
+  "english": "patient",
+  "spanish": "paciente",
+  "phonetic": "/ˈpeɪ.ʃənt/",
+  "examples": [
+    {"en": "The patient is recovering well.", "es": "El paciente se está recuperando bien."},
+    {"en": "Doctor Smith has many patients.", "es": "El doctor Smith tiene muchos pacientes."},
+    {"en": "The patient needs rest.", "es": "El paciente necesita descanso."},
+    {"en": "Be patient with your recovery.", "es": "Sé paciente con tu recuperación."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_33",
+  "english": "clinic",
+  "spanish": "clínica",
+  "phonetic": "/ˈklɪn.ɪk/",
+  "examples": [
+    {"en": "There's a dental clinic nearby.", "es": "Hay una clínica dental cerca."},
+    {"en": "She goes to the clinic every month.", "es": "Ella va a la clínica cada mes."},
+    {"en": "The clinic offers free check-ups.", "es": "La clínica ofrece chequeos gratuitos."},
+    {"en": "I have an appointment at the clinic.", "es": "Tengo una cita en la clínica."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_34",
+  "english": "surgeon",
+  "spanish": "cirujano",
+  "phonetic": "/ˈsɝː.dʒən/",
+  "examples": [
+    {"en": "The surgeon performed the operation.", "es": "El cirujano realizó la operación."},
+    {"en": "She wants to become a brain surgeon.", "es": "Ella quiere ser cirujana cerebral."},
+    {"en": "The surgeon has steady hands.", "es": "El cirujano tiene manos firmes."},
+    {"en": "We consulted with the best surgeon.", "es": "Consultamos con el mejor cirujano."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_35",
+  "english": "anesthesia",
+  "spanish": "anestesia",
+  "phonetic": "/ˌæn.əsˈθiː.ʒə/",
+  "examples": [
+    {"en": "The patient is under anesthesia.", "es": "El paciente está bajo anestesia."},
+    {"en": "They administered general anesthesia.", "es": "Administraron anestesia general."},
+    {"en": "The anesthesia will wear off soon.", "es": "La anestesia pasará pronto."},
+    {"en": "He's allergic to some anesthetics.", "es": "Es alérgico a algunos anestésicos."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_36",
+  "english": "infection",
+  "spanish": "infección",
+  "phonetic": "/ɪnˈfek.ʃən/",
+  "examples": [
+    {"en": "The wound could get an infection.", "es": "La herida podría infectarse."},
+    {"en": "She has a ear infection.", "es": "Ella tiene una infección de oído."},
+    {"en": "Antibiotics treat bacterial infections.", "es": "Los antibióticos tratan infecciones bacterianas."},
+    {"en": "The infection is spreading.", "es": "La infección se está extendiendo."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_37",
+  "english": "antibiotic",
+  "spanish": "antibiótico",
+  "phonetic": "/ˌæn.ti.baɪˈɑː.tɪk/",
+  "examples": [
+    {"en": "Take the antibiotic with food.", "es": "Toma el antibiótico con comida."},
+    {"en": "Finish all your antibiotics.", "es": "Termina todos tus antibióticos."},
+    {"en": "This antibiotic is very strong.", "es": "Este antibiótico es muy fuerte."},
+    {"en": "The doctor prescribed antibiotics.", "es": "El médico recetó antibióticos."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_38",
+  "english": "virus",
+  "spanish": "virus",
+  "phonetic": "/ˈvaɪ.rəs/",
+  "examples": [
+    {"en": "The flu is caused by a virus.", "es": "La gripe es causada por un virus."},
+    {"en": "This virus spreads quickly.", "es": "Este virus se propaga rápidamente."},
+    {"en": "Antibiotics don't work on viruses.", "es": "Los antibióticos no funcionan en virus."},
+    {"en": "They're studying the new virus.", "es": "Están estudiando el nuevo virus."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_39",
+  "english": "bacteria",
+  "spanish": "bacteria",
+  "phonetic": "/bækˈtɪr.i.ə/",
+  "examples": [
+    {"en": "Bacteria can cause infections.", "es": "Las bacterias pueden causar infecciones."},
+    {"en": "Not all bacteria are harmful.", "es": "No todas las bacterias son dañinas."},
+    {"en": "Wash your hands to remove bacteria.", "es": "Lávate las manos para remover bacterias."},
+    {"en": "Some bacteria are beneficial.", "es": "Algunas bacterias son beneficiosas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_40",
+  "english": "immune system",
+  "spanish": "sistema inmunológico",
+  "phonetic": "/ɪˈmjuːn ˌsɪs.təm/",
+  "examples": [
+    {"en": "Exercise strengthens your immune system.", "es": "El ejercicio fortalece tu sistema inmunológico."},
+    {"en": "My immune system is weak.", "es": "Mi sistema inmunológico es débil."},
+    {"en": "Vitamin C boosts the immune system.", "es": "La vitamina C fortalece el sistema inmunológico."},
+    {"en": "The immune system fights infections.", "es": "El sistema inmunológico combate infecciones."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_41",
+  "english": "allergic",
+  "spanish": "alérgico",
+  "phonetic": "/əˈlɝː.dʒɪk/",
+  "examples": [
+    {"en": "I'm allergic to penicillin.", "es": "Soy alérgico a la penicilina."},
+    {"en": "She's allergic to cat hair.", "es": "Ella es alérgica al pelo de gato."},
+    {"en": "He had an allergic reaction.", "es": "Tuvo una reacción alérgica."},
+    {"en": "Are you allergic to any medications?", "es": "¿Eres alérgico a algún medicamento?"}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_42",
+  "english": "prescribe",
+  "spanish": "recetar",
+  "phonetic": "/prɪˈskraɪb/",
+  "examples": [
+    {"en": "The doctor will prescribe antibiotics.", "es": "El médico recetará antibióticos."},
+    {"en": "She prescribed rest and fluids.", "es": "Ella recetó descanso y líquidos."},
+    {"en": "Can you prescribe something for pain?", "es": "¿Puede recetar algo para el dolor?"},
+    {"en": "He was prescribed medication for a month.", "es": "Le recetaron medicación por un mes."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_43",
+  "english": "recover",
+  "spanish": "recuperarse",
+  "phonetic": "/rɪˈkʌv.ɚ/",
+  "examples": [
+    {"en": "It takes time to recover from surgery.", "es": "Toma tiempo recuperarse de una cirugía."},
+    {"en": "She's recovering at home.", "es": "Ella se está recuperando en casa."},
+    {"en": "He recovered quickly from the flu.", "es": "Se recuperó rápidamente de la gripe."},
+    {"en": "The patient is recovering well.", "es": "El paciente se está recuperando bien."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_44",
+  "english": "examine",
+  "spanish": "examinar",
+  "phonetic": "/ɪɡˈzæm.ɪn/",
+  "examples": [
+    {"en": "The doctor will examine you now.", "es": "El médico le examinará ahora."},
+    {"en": "She examined the x-ray carefully.", "es": "Ella examinó la radiografía cuidadosamente."},
+    {"en": "I need to examine your throat.", "es": "Necesito examinar su garganta."},
+    {"en": "The dentist examined my teeth.", "es": "El dentista examinó mis dientes."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_45",
+  "english": "operate",
+  "spanish": "operar",
+  "phonetic": "/ˈɑː.pə.reɪt/",
+  "examples": [
+    {"en": "They need to operate immediately.", "es": "Necesitan operar inmediatamente."},
+    {"en": "The surgeon operated for six hours.", "es": "El cirujano operó durante seis horas."},
+    {"en": "She was operated on last week.", "es": "La operaron la semana pasada."},
+    {"en": "It's too dangerous to operate now.", "es": "Es demasiado peligroso operar ahora."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_46",
+  "english": "prevent",
+  "spanish": "prevenir",
+  "phonetic": "/prɪˈvent/",
+  "examples": [
+    {"en": "Vaccines prevent many diseases.", "es": "Las vacunas previenen muchas enfermedades."},
+    {"en": "Exercise can prevent heart problems.", "es": "El ejercicio puede prevenir problemas cardíacos."},
+    {"en": "How can I prevent the flu?", "es": "¿Cómo puedo prevenir la gripe?"},
+    {"en": "Good hygiene prevents infections.", "es": "La buena higiene previene infecciones."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_47",
+  "english": "treat",
+  "spanish": "tratar",
+  "phonetic": "/triːt/",
+  "examples": [
+    {"en": "They know how to treat this condition.", "es": "Ellos saben cómo tratar esta condición."},
+    {"en": "The wound needs to be treated.", "es": "La herida necesita ser tratada."},
+    {"en": "She treats patients with care.", "es": "Ella trata a los pacientes con cuidado."},
+    {"en": "This medicine treats the symptoms.", "es": "Esta medicina trata los síntomas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_48",
+  "english": "cure",
+  "spanish": "curar",
+  "phonetic": "/kjʊr/",
+  "examples": [
+    {"en": "There's no cure for the common cold.", "es": "No hay cura para el resfriado común."},
+    {"en": "They're looking for a cure for cancer.", "es": "Están buscando una cura para el cáncer."},
+    {"en": "This medicine can cure the infection.", "es": "Esta medicina puede curar la infección."},
+    {"en": "Time will cure most illnesses.", "es": "El tiempo curará la mayoría de las enfermedades."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_49",
+  "english": "heal",
+  "spanish": "sanar",
+  "phonetic": "/hiːl/",
+  "examples": [
+    {"en": "The wound will heal in a week.", "es": "La herida sanará en una semana."},
+    {"en": "Time heals all wounds.", "es": "El tiempo sana todas las heridas."},
+    {"en": "His broken bone is healing well.", "es": "Su hueso roto está sanando bien."},
+    {"en": "The cut is starting to heal.", "es": "El corte está empezando a sanar."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_50",
+  "english": "breathe",
+  "spanish": "respirar",
+  "phonetic": "/briːð/",
+  "examples": [
+    {"en": "Take a deep breath and relax.", "es": "Toma una respiración profunda y relájate."},
+    {"en": "I can't breathe through my nose.", "es": "No puedo respirar por la nariz."},
+    {"en": "The patient is having trouble breathing.", "es": "El paciente tiene dificultad para respirar."},
+    {"en": "Breathe slowly and deeply.", "es": "Respira lenta y profundamente."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_51",
+  "english": "bleed",
+  "spanish": "sangrar",
+  "phonetic": "/bliːd/",
+  "examples": [
+    {"en": "The cut is bleeding heavily.", "es": "El corte está sangrando mucho."},
+    {"en": "Apply pressure to stop the bleeding.", "es": "Aplica presión para detener el sangrado."},
+    {"en": "His nose won't stop bleeding.", "es": "Su nariz no para de sangrar."},
+    {"en": "The wound bled for several minutes.", "es": "La herida sangró por varios minutos."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_52",
+  "english": "swallow",
+  "spanish": "tragar",
+  "phonetic": "/ˈswɑː.loʊ/",
+  "examples": [
+    {"en": "Swallow the pill with water.", "es": "Traga la píldora con agua."},
+    {"en": "It hurts when I swallow.", "es": "Duele cuando trago."},
+    {"en": "She couldn't swallow the medicine.", "es": "Ella no pudo tragar la medicina."},
+    {"en": "Chew your food before swallowing.", "es": "Mastica tu comida antes de tragar."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_53",
+  "english": "ache",
+  "spanish": "doler",
+  "phonetic": "/eɪk/",
+  "examples": [
+    {"en": "My head aches terribly.", "es": "Me duele mucho la cabeza."},
+    {"en": "She has a stomach ache.", "es": "Ella tiene dolor de estómago."},
+    {"en": "My muscles ache after exercise.", "es": "Me duelen los músculos después del ejercicio."},
+    {"en": "The toothache kept me awake.", "es": "El dolor de muela me mantuvo despierto."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_54",
+  "english": "sneeze",
+  "spanish": "estornudar",
+  "phonetic": "/sniːz/",
+  "examples": [
+    {"en": "Cover your mouth when you sneeze.", "es": "Cúbrete la boca cuando estornudes."},
+    {"en": "I can't stop sneezing.", "es": "No puedo dejar de estornudar."},
+    {"en": "The dust made him sneeze.", "es": "El polvo le hizo estornudar."},
+    {"en": "She sneezed three times in a row.", "es": "Ella estornudó tres veces seguidas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_55",
+  "english": "cancer",
+  "spanish": "cáncer",
+  "phonetic": "/ˈkæn.sɚ/",
+  "examples": [
+    {"en": "Early detection saves lives from cancer.", "es": "La detección temprana salva vidas del cáncer."},
+    {"en": "She's a cancer survivor.", "es": "Ella es una sobreviviente de cáncer."},
+    {"en": "Lung cancer is often smoking-related.", "es": "El cáncer de pulmón a menudo está relacionado con fumar."},
+    {"en": "They're researching new cancer treatments.", "es": "Están investigando nuevos tratamientos para el cáncer."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_56",
+  "english": "diabetes",
+  "spanish": "diabetes",
+  "phonetic": "/ˌdaɪ.əˈbiː.t̬iːz/",
+  "examples": [
+    {"en": "He manages his diabetes carefully.", "es": "Él maneja su diabetes cuidadosamente."},
+    {"en": "Diabetes requires regular monitoring.", "es": "La diabetes requiere monitoreo regular."},
+    {"en": "She was diagnosed with diabetes.", "es": "Le diagnosticaron diabetes."},
+    {"en": "There are two main types of diabetes.", "es": "Hay dos tipos principales de diabetes."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_57",
+  "english": "asthma",
+  "spanish": "asma",
+  "phonetic": "/ˈæz.mə/",
+  "examples": [
+    {"en": "She uses an inhaler for her asthma.", "es": "Ella usa un inhalador para su asma."},
+    {"en": "Cold air triggers my asthma.", "es": "El aire frío desencadena mi asma."},
+    {"en": "He has had asthma since childhood.", "es": "Él ha tenido asma desde la infancia."},
+    {"en": "Asthma attacks can be dangerous.", "es": "Los ataques de asma pueden ser peligrosos."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_58",
+  "english": "arthritis",
+  "spanish": "artritis",
+  "phonetic": "/ɑːrˈθraɪ.t̬ɪs/",
+  "examples": [
+    {"en": "My grandmother has arthritis.", "es": "Mi abuela tiene artritis."},
+    {"en": "Arthritis causes joint pain.", "es": "La artritis causa dolor en las articulaciones."},
+    {"en": "There are many types of arthritis.", "es": "Hay muchos tipos de artritis."},
+    {"en": "Exercise can help with arthritis.", "es": "El ejercicio puede ayudar con la artritis."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_59",
+  "english": "hypertension",
+  "spanish": "hipertensión",
+  "phonetic": "/ˌhaɪ.pɚˈten.ʃən/",
+  "examples": [
+    {"en": "He takes medication for hypertension.", "es": "Él toma medicación para la hipertensión."},
+    {"en": "Hypertension is often called high blood pressure.", "es": "A la hipertensión a menudo se le llama presión alta."},
+    {"en": "Stress can contribute to hypertension.", "es": "El estrés puede contribuir a la hipertensión."},
+    {"en": "Regular check-ups detect hypertension early.", "es": "Los chequeos regulares detectan la hipertensión temprano."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_60",
+  "english": "cholesterol",
+  "spanish": "colesterol",
+  "phonetic": "/kəˈles.tɚ.ɒl/",
+  "examples": [
+    {"en": "I need to check my cholesterol levels.", "es": "Necesito revisar mis niveles de colesterol."},
+    {"en": "High cholesterol can be dangerous.", "es": "El colesterol alto puede ser peligroso."},
+    {"en": "Some foods can lower cholesterol.", "es": "Algunas comidas pueden bajar el colesterol."},
+    {"en": "There's good and bad cholesterol.", "es": "Hay colesterol bueno y malo."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_61",
+  "english": "ambulatory",
+  "spanish": "ambulatorio",
+  "phonetic": "/ˈæm.bjə.lə.tɔːr.i/",
+  "examples": [
+    {"en": "The patient is now ambulatory.", "es": "El paciente ya es ambulatorio."},
+    {"en": "She went to the ambulatory care center.", "es": "Ella fue al centro de cuidado ambulatorio."},
+    {"en": "Ambulatory services don't require hospitalization.", "es": "Los servicios ambulatorios no requieren hospitalización."},
+    {"en": "The surgery was done in an ambulatory setting.", "es": "La cirugía se realizó en un entorno ambulatorio."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_62",
+  "english": "benign",
+  "spanish": "benigno",
+  "phonetic": "/bɪˈnaɪn/",
+  "examples": [
+    {"en": "The tumor turned out to be benign.", "es": "El tumor resultó ser benigno."},
+    {"en": "We received benign test results.", "es": "Recibimos resultados de pruebas benignos."},
+    {"en": "A benign growth is not cancerous.", "es": "Un crecimiento benigno no es canceroso."},
+    {"en": "The doctor said it was a benign condition.", "es": "El médico dijo que era una condición benigna."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_63",
+  "english": "malignant",
+  "spanish": "maligno",
+  "phonetic": "/məˈlɪɡ.nənt/",
+  "examples": [
+    {"en": "The biopsy showed malignant cells.", "es": "La biopsia mostró células malignas."},
+    {"en": "Malignant tumors require immediate treatment.", "es": "Los tumores malignos requieren tratamiento inmediato."},
+    {"en": "She was diagnosed with a malignant melanoma.", "es": "Le diagnosticaron un melanoma maligno."},
+    {"en": "The cancer was malignant and aggressive.", "es": "El cáncer era maligno y agresivo."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_64",
+  "english": "chronic",
+  "spanish": "crónico",
+  "phonetic": "/ˈkrɑː.nɪk/",
+  "examples": [
+    {"en": "He suffers from chronic back pain.", "es": "Él sufre de dolor de espalda crónico."},
+    {"en": "Chronic conditions require long-term management.", "es": "Las condiciones crónicas requieren manejo a largo plazo."},
+    {"en": "She has chronic asthma since childhood.", "es": "Ella tiene asma crónica desde la infancia."},
+    {"en": "The illness became chronic over time.", "es": "La enfermedad se volvió crónica con el tiempo."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_65",
+  "english": "acute",
+  "spanish": "agudo",
+  "phonetic": "/əˈkjuːt/",
+  "examples": [
+    {"en": "He was hospitalized with acute appendicitis.", "es": "Fue hospitalizado con apendicitis aguda."},
+    {"en": "The patient has acute respiratory distress.", "es": "El paciente tiene distress respiratorio agudo."},
+    {"en": "She felt an acute pain in her chest.", "es": "Sintió un dolor agudo en el pecho."},
+    {"en": "Acute illnesses appear suddenly.", "es": "Las enfermedades agudas aparecen repentinamente."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_66",
+  "english": "contagious",
+  "spanish": "contagioso",
+  "phonetic": "/kənˈteɪ.dʒəs/",
+  "examples": [
+    {"en": "The flu is highly contagious.", "es": "La gripe es altamente contagiosa."},
+    {"en": "Stay home if you're contagious.", "es": "Quédate en casa si eres contagioso."},
+    {"en": "Some diseases are more contagious than others.", "es": "Algunas enfermedades son más contagiosas que otras."},
+    {"en": "The doctor said I'm no longer contagious.", "es": "El médico dijo que ya no soy contagioso."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_67",
+  "english": "inflammation",
+  "spanish": "inflamación",
+  "phonetic": "/ˌɪn.fləˈmeɪ.ʃən/",
+  "examples": [
+    {"en": "The medication reduces inflammation.", "es": "La medicación reduce la inflamación."},
+    {"en": "There's inflammation around the wound.", "es": "Hay inflamación alrededor de la herida."},
+    {"en": "Arthritis involves joint inflammation.", "es": "La artritis involucra inflamación de las articulaciones."},
+    {"en": "The inflammation should subside in a few days.", "es": "La inflamación debería disminuir en unos días."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_68",
+  "english": "rehabilitation",
+  "spanish": "rehabilitación",
+  "phonetic": "/ˌriː.həˌbɪl.ɪˈteɪ.ʃən/",
+  "examples": [
+    {"en": "He's in physical rehabilitation after the accident.", "es": "Está en rehabilitación física después del accidente."},
+    {"en": "The rehabilitation center helped her recover.", "es": "El centro de rehabilitación la ayudó a recuperarse."},
+    {"en": "Rehabilitation takes time and patience.", "es": "La rehabilitación toma tiempo y paciencia."},
+    {"en": "She needs speech rehabilitation after the stroke.", "es": "Ella necesita rehabilitación del habla después del derrame cerebral."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_69",
+  "english": "therapy",
+  "spanish": "terapia",
+  "phonetic": "/ˈθer.ə.pi/",
+  "examples": [
+    {"en": "She goes to physical therapy twice a week.", "es": "Ella va a terapia física dos veces por semana."},
+    {"en": "The therapy is helping his recovery.", "es": "La terapia está ayudando a su recuperación."},
+    {"en": "He's in therapy for his knee injury.", "es": "Está en terapia por su lesión de rodilla."},
+    {"en": "Different types of therapy are available.", "es": "Hay disponibles diferentes tipos de terapia."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_70",
+  "english": "intensive care",
+  "spanish": "cuidados intensivos",
+  "phonetic": "/ɪnˈten.sɪv ker/",
+  "examples": [
+    {"en": "He's in the intensive care unit.", "es": "Él está en la unidad de cuidados intensivos."},
+    {"en": "The patient required intensive care.", "es": "El paciente requirió cuidados intensivos."},
+    {"en": "She was moved from intensive care yesterday.", "es": "La trasladaron de cuidados intensivos ayer."},
+    {"en": "Intensive care nurses are specially trained.", "es": "Las enfermeras de cuidados intensivos están especialmente entrenadas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_71",
+  "english": "pediatric",
+  "spanish": "pediátrico",
+  "phonetic": "/ˌpiː.diˈæt.rɪk/",
+  "examples": [
+    {"en": "We need to see a pediatric specialist.", "es": "Necesitamos ver a un especialista pediátrico."},
+    {"en": "The pediatric ward is on the third floor.", "es": "La sala pediátrica está en el tercer piso."},
+    {"en": "She's a pediatric nurse.", "es": "Ella es una enfermera pediátrica."},
+    {"en": "Pediatric medicine focuses on children's health.", "es": "La medicina pediátrica se enfoca en la salud de los niños."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_72",
+  "english": "geriatric",
+  "spanish": "geriátrico",
+  "phonetic": "/ˌdʒer.iˈæt.rɪk/",
+  "examples": [
+    {"en": "Geriatric patients have special needs.", "es": "Los pacientes geriátricos tienen necesidades especiales."},
+    {"en": "She works in geriatric care.", "es": "Ella trabaja en cuidado geriátrico."},
+    {"en": "The geriatric unit is very busy.", "es": "La unidad geriátrica está muy ocupada."},
+    {"en": "Geriatric medicine deals with elderly patients.", "es": "La medicina geriátrica trata con pacientes ancianos."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_73",
+  "english": "cardiac",
+  "spanish": "cardíaco",
+  "phonetic": "/ˈkɑːr.di.æk/",
+  "examples": [
+    {"en": "He had a cardiac arrest.", "es": "Él tuvo un paro cardíaco."},
+    {"en": "The cardiac unit is well-equipped.", "es": "La unidad cardíaca está bien equipada."},
+    {"en": "She's seeing a cardiac specialist.", "es": "Ella está viendo a un especialista cardíaco."},
+    {"en": "Cardiac patients need careful monitoring.", "es": "Los pacientes cardíacos necesitan monitoreo cuidadoso."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_74",
+  "english": "neurological",
+  "spanish": "neurológico",
+  "phonetic": "/ˌnʊr.əˈlɑː.dʒɪ.kəl/",
+  "examples": [
+    {"en": "He has a neurological disorder.", "es": "Él tiene un trastorno neurológico."},
+    {"en": "The neurological exam was normal.", "es": "El examen neurológico fue normal."},
+    {"en": "She's a neurological surgeon.", "es": "Ella es una cirujana neurológica."},
+    {"en": "Neurological diseases affect the nervous system.", "es": "Las enfermedades neurológicas afectan el sistema nervioso."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_75",
+  "english": "orthopedic",
+  "spanish": "ortopédico",
+  "phonetic": "/ˌɔːr.θəˈpiː.dɪk/",
+  "examples": [
+    {"en": "He needs orthopedic surgery.", "es": "Él necesita cirugía ortopédica."},
+    {"en": "The orthopedic doctor set the broken bone.", "es": "El médico ortopédico acomodó el hueso roto."},
+    {"en": "She wears orthopedic shoes.", "es": "Ella usa zapatos ortopédicos."},
+    {"en": "Orthopedic specialists treat bone and joint problems.", "es": "Los especialistas ortopédicos tratan problemas de huesos y articulaciones."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_76",
+  "english": "dermatology",
+  "spanish": "dermatología",
+  "phonetic": "/ˌdɝː.məˈtɑː.lə.dʒi/",
+  "examples": [
+    {"en": "She's studying dermatology.", "es": "Ella está estudiando dermatología."},
+    {"en": "The dermatology clinic is very busy.", "es": "La clínica de dermatología está muy ocupada."},
+    {"en": "He made an appointment with dermatology.", "es": "Hizo una cita con dermatología."},
+    {"en": "Dermatology deals with skin conditions.", "es": "La dermatología trata condiciones de la piel."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_77",
+  "english": "gynecology",
+  "spanish": "ginecología",
+  "phonetic": "/ˌɡaɪ.nəˈkɑː.lə.dʒi/",
+  "examples": [
+    {"en": "She visits her gynecologist annually.", "es": "Ella visita a su ginecólogo anualmente."},
+    {"en": "The gynecology department is on the second floor.", "es": "El departamento de ginecología está en el segundo piso."},
+    {"en": "He's a gynecology resident.", "es": "Él es un residente de ginecología."},
+    {"en": "Gynecology focuses on women's reproductive health.", "es": "La ginecología se enfoca en la salud reproductiva de la mujer."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_78",
+  "english": "psychiatry",
+  "spanish": "psiquiatría",
+  "phonetic": "/saɪˈkaɪ.ə.tri/",
+  "examples": [
+    {"en": "He specializes in psychiatry.", "es": "Él se especializa en psiquiatría."},
+    {"en": "The psychiatry ward has visiting hours.", "es": "La sala de psiquiatría tiene horarios de visita."},
+    {"en": "She's seeing a psychiatry consultant.", "es": "Ella está viendo a un consultor de psiquiatría."},
+    {"en": "Psychiatry deals with mental health disorders.", "es": "La psiquiatría trata trastornos de salud mental."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_79",
+  "english": "radiology",
+  "spanish": "radiología",
+  "phonetic": "/ˌreɪ.diˈɑː.lə.dʒi/",
+  "examples": [
+    {"en": "The radiology department does x-rays.", "es": "El departamento de radiología hace rayos X."},
+    {"en": "She works in radiology.", "es": "Ella trabaja en radiología."},
+    {"en": "We're waiting for the radiology report.", "es": "Estamos esperando el reporte de radiología."},
+    {"en": "Radiology uses imaging to diagnose diseases.", "es": "La radiología usa imágenes para diagnosticar enfermedades."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_80",
+  "english": "oncology",
+  "spanish": "oncología",
+  "phonetic": "/ɑːŋˈkɑː.lə.dʒi/",
+  "examples": [
+    {"en": "He's being treated at the oncology center.", "es": "Él está siendo tratado en el centro de oncología."},
+    {"en": "The oncology nurse is very compassionate.", "es": "La enfermera de oncología es muy compasiva."},
+    {"en": "She's an oncology specialist.", "es": "Ella es una especialista en oncología."},
+    {"en": "Oncology deals with cancer treatment.", "es": "La oncología se ocupa del tratamiento del cáncer."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_81",
+  "english": "anesthesiologist",
+  "spanish": "anestesiólogo",
+  "phonetic": "/ˌæn.əsˌθiː.ziˈɑː.lə.dʒɪst/",
+  "examples": [
+    {"en": "The anesthesiologist explained the procedure.", "es": "El anestesiólogo explicó el procedimiento."},
+    {"en": "She consulted with the anesthesiologist before surgery.", "es": "Ella consultó con el anestesiólogo antes de la cirugía."},
+    {"en": "The anesthesiologist monitored her vital signs.", "es": "El anestesiólogo monitoreó sus signos vitales."},
+    {"en": "An anesthesiologist ensures you feel no pain during surgery.", "es": "Un anestesiólogo asegura que no sientas dolor durante la cirugía."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_82",
+  "english": "cardiologist",
+  "spanish": "cardiólogo",
+  "phonetic": "/ˌkɑːr.diˈɑː.lə.dʒɪst/",
+  "examples": [
+    {"en": "She was referred to a cardiologist.", "es": "La derivaron a un cardiólogo."},
+    {"en": "The cardiologist reviewed the test results.", "es": "El cardiólogo revisó los resultados de las pruebas."},
+    {"en": "He is a renowned cardiologist.", "es": "Él es un cardiólogo renombrado."},
+    {"en": "A cardiologist specializes in heart conditions.", "es": "Un cardiólogo se especializa en condiciones del corazón."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_83",
+  "english": "neurologist",
+  "spanish": "neurólogo",
+  "phonetic": "/nʊˈrɑː.lə.dʒɪst/",
+  "examples": [
+    {"en": "The neurologist ordered an MRI.", "es": "El neurólogo ordenó una resonancia magnética."},
+    {"en": "She sees a neurologist for her migraines.", "es": "Ella ve a un neurólogo por sus migrañas."},
+    {"en": "The neurologist examined his reflexes.", "es": "El neurólogo examinó sus reflejos."},
+    {"en": "A neurologist treats disorders of the nervous system.", "es": "Un neurólogo trata trastornos del sistema nervioso."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_84",
+  "english": "pediatrician",
+  "spanish": "pediatra",
+  "phonetic": "/ˌpiː.di.əˈtrɪʃ.ən/",
+  "examples": [
+    {"en": "The pediatrician checked the baby's development.", "es": "El pediatra revisó el desarrollo del bebé."},
+    {"en": "We found a great pediatrician for our children.", "es": "Encontramos un pediatra excelente para nuestros hijos."},
+    {"en": "The pediatrician administered the vaccines.", "es": "El pediatra administró las vacunas."},
+    {"en": "A pediatrician is a doctor for children.", "es": "Un pediatra es un médico para niños."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_85",
+  "english": "psychologist",
+  "spanish": "psicólogo",
+  "phonetic": "/saɪˈkɑː.lə.dʒɪst/",
+  "examples": [
+    {"en": "She talks to a psychologist every week.", "es": "Ella habla con un psicólogo cada semana."},
+    {"en": "The psychologist provided coping strategies.", "es": "El psicólogo proporcionó estrategias de afrontamiento."},
+    {"en": "He is a clinical psychologist.", "es": "Él es un psicólogo clínico."},
+    {"en": "A psychologist helps with mental and emotional health.", "es": "Un psicólogo ayuda con la salud mental y emocional."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_86",
+  "english": "paramedic",
+  "spanish": "paramédico",
+  "phonetic": "/ˌper.əˈmed.ɪk/",
+  "examples": [
+    {"en": "The paramedics arrived quickly.", "es": "Los paramédicos llegaron rápidamente."},
+    {"en": "A paramedic administered first aid.", "es": "Un paramédico administró primeros auxilios."},
+    {"en": "She trained to become a paramedic.", "es": "Ella se entrenó para ser paramédico."},
+    {"en": "Paramedics provide emergency medical care.", "es": "Los paramédicos proporcionan atención médica de emergencia."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_87",
+  "english": "pharmacist",
+  "spanish": "farmacéutico",
+  "phonetic": "/ˈfɑːr.mə.sɪst/",
+  "examples": [
+    {"en": "The pharmacist filled the prescription.", "es": "El farmacéutico surtió la receta."},
+    {"en": "Ask the pharmacist about side effects.", "es": "Pregunta al farmacéutico sobre los efectos secundarios."},
+    {"en": "She consulted the pharmacist for advice.", "es": "Ella consultó al farmacéutico para obtener consejos."},
+    {"en": "A pharmacist dispenses medications and offers advice.", "es": "Un farmacéutico dispensa medicamentos y ofrece consejos."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_88",
+  "english": "surgeon",
+  "spanish": "cirujano",
+  "phonetic": "/ˈsɝː.dʒən/",
+  "examples": [
+    {"en": "The surgeon specializes in minimally invasive procedures.", "es": "El cirujano se especializa en procedimientos mínimamente invasivos."},
+    {"en": "We met the surgeon before the operation.", "es": "Nos reunimos con el cirujano antes de la operación."},
+    {"en": "She is a talented orthopedic surgeon.", "es": "Ella es una cirujana ortopédica talentosa."},
+    {"en": "A surgeon performs operations to treat diseases or injuries.", "es": "Un cirujano realiza operaciones para tratar enfermedades o lesiones."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_89",
+  "english": "therapist",
+  "spanish": "terapeuta",
+  "phonetic": "/ˈθer.ə.pɪst/",
+  "examples": [
+    {"en": "Her therapist gives her helpful exercises.", "es": "Su terapeuta le da ejercicios útiles."},
+    {"en": "He sees a physical therapist for his back.", "es": "Él ve a un terapeuta físico por su espalda."},
+    {"en": "The speech therapist works with children.", "es": "El terapeuta del habla trabaja con niños."},
+    {"en": "A therapist helps people improve their physical or mental function.", "es": "Un terapeuta ayuda a las personas a mejorar su función física o mental."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_90",
+  "english": "dentist",
+  "spanish": "dentista",
+  "phonetic": "/ˈden.t̬ɪst/",
+  "examples": [
+    {"en": "The dentist found a cavity.", "es": "El dentista encontró una caries."},
+    {"en": "I have a dentist appointment tomorrow.", "es": "Tengo una cita con el dentista mañana."},
+    {"en": "The dentist cleaned my teeth thoroughly.", "es": "El dentista me limpió los dientes a fondo."},
+    {"en": "A dentist diagnoses and treats problems with teeth and gums.", "es": "Un dentista diagnostica y trata problemas con los dientes y encías."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_91",
+  "english": "optometrist",
+  "spanish": "optometrista",
+  "phonetic": "/ɑːpˈtɑː.mə.trɪst/",
+  "examples": [
+    {"en": "The optometrist tested my vision.", "es": "El optometrista examinó mi vista."},
+    {"en": "She got new glasses from the optometrist.", "es": "Ella consiguió lentes nuevas del optometrista."},
+    {"en": "The optometrist recommended eye exercises.", "es": "El optometrista recomendó ejercicios para los ojos."},
+    {"en": "An optometrist examines eyes for vision problems and prescribes glasses.", "es": "Un optometrista examina los ojos en busca de problemas de visión y prescribe lentes."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_92",
+  "english": "nutritionist",
+  "spanish": "nutricionista",
+  "phonetic": "/nuˈtrɪʃ.ən.ɪst/",
+  "examples": [
+    {"en": "The nutritionist created a meal plan.", "es": "El nutricionista creó un plan de comidas."},
+    {"en": "She consulted a nutritionist for dietary advice.", "es": "Ella consultó a un nutricionista para obtener consejos dietéticos."},
+    {"en": "The nutritionist emphasized balanced eating.", "es": "El nutricionista enfatizó una alimentación equilibrada."},
+    {"en": "A nutritionist provides advice on food and diet for health.", "es": "Un nutricionista proporciona consejos sobre alimentos y dieta para la salud."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_93",
+  "english": "midwife",
+  "spanish": "partera",
+  "phonetic": "/ˈmɪd.waɪf/",
+  "examples": [
+    {"en": "The midwife assisted with the home birth.", "es": "La partera asistió con el parto en casa."},
+    {"en": "She was cared for by a midwife during pregnancy.", "es": "Fue atendida por una partera durante el embarazo."},
+    {"en": "The midwife provided prenatal care.", "es": "La partera proporcionó cuidado prenatal."},
+    {"en": "A midwife helps women during childbirth and provides prenatal care.", "es": "Una partera ayuda a las mujeres durante el parto y proporciona cuidado prenatal."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_94",
+  "english": "radiologist",
+  "spanish": "radiólogo",
+  "phonetic": "/ˌreɪ.diˈɑː.lə.dʒɪst/",
+  "examples": [
+    {"en": "The radiologist interpreted the MRI scan.", "es": "El radiólogo interpretó la resonancia magnética."},
+    {"en": "She is a diagnostic radiologist.", "es": "Ella es una radióloga diagnóstica."},
+    {"en": "The radiologist identified a fracture.", "es": "El radiólogo identificó una fractura."},
+    {"en": "A radiologist is a doctor who specializes in medical imaging.", "es": "Un radiólogo es un médico que se especializa en imágenes médicas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_95",
+  "english": "oncologist",
+  "spanish": "oncólogo",
+  "phonetic": "/ɑːŋˈkɑː.lə.dʒɪst/",
+  "examples": [
+    {"en": "Her oncologist is monitoring the treatment closely.", "es": "Su oncólogo está monitoreando el tratamiento de cerca."},
+    {"en": "He is a pediatric oncologist.", "es": "Él es un oncólogo pediátrico."},
+    {"en": "The oncologist explained the chemotherapy options.", "es": "El oncólogo explicó las opciones de quimioterapia."},
+    {"en": "An oncologist is a doctor who specializes in treating cancer.", "es": "Un oncólogo es un médico que se especializa en tratar el cáncer."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_96",
+  "english": "dermatologist",
+  "spanish": "dermatólogo",
+  "phonetic": "/ˌdɝː.məˈtɑː.lə.dʒɪst/",
+  "examples": [
+    {"en": "The dermatologist examined the mole.", "es": "El dermatólogo examinó el lunar."},
+    {"en": "She sees a dermatologist for her acne.", "es": "Ella ve a un dermatólogo por su acné."},
+    {"en": "The dermatologist recommended a special cream.", "es": "El dermatólogo recomendó una crema especial."},
+    {"en": "A dermatologist treats conditions of the skin, hair, and nails.", "es": "Un dermatólogo trata condiciones de la piel, el cabello y las uñas."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_97",
+  "english": "podiatrist",
+  "spanish": "podólogo",
+  "phonetic": "/pəˈdaɪ.ə.trɪst/",
+  "examples": [
+    {"en": "The podiatrist treated his foot pain.", "es": "El podólogo trató su dolor de pie."},
+    {"en": "She made an appointment with a podiatrist.", "es": "Ella hizo una cita con un podólogo."},
+    {"en": "The podiatrist specializes in diabetic foot care.", "es": "El podólogo se especializa en el cuidado de pies diabéticos."},
+    {"en": "A podiatrist is a doctor who specializes in foot and ankle problems.", "es": "Un podólogo es un médico que se especializa en problemas del pie y tobillo."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_98",
+  "english": "gastroenterologist",
+  "spanish": "gastroenterólogo",
+  "phonetic": "/ˌɡæs.troʊˌen.təˈrɑː.lə.dʒɪst/",
+  "examples": [
+    {"en": "The gastroenterologist performed an endoscopy.", "es": "El gastroenterólogo realizó una endoscopia."},
+    {"en": "She was referred to a gastroenterologist for her stomach issues.", "es": "La derivaron a un gastroenterólogo por sus problemas estomacales."},
+    {"en": "The gastroenterologist specializes in digestive diseases.", "es": "El gastroenterólogo se especializa en enfermedades digestivas."},
+    {"en": "A gastroenterologist treats disorders of the stomach and intestines.", "es": "Un gastroenterólogo trata trastornos del estómago y los intestinos."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_99",
+  "english": "endocrinologist",
+  "spanish": "endocrinólogo",
+  "phonetic": "/ˌen.doʊ.krɪˈnɑː.lə.dʒɪst/",
+  "examples": [
+    {"en": "The endocrinologist manages her diabetes.", "es": "El endocrinólogo maneja su diabetes."},
+    {"en": "He sees an endocrinologist for his thyroid condition.", "es": "Él ve a un endocrinólogo por su condición tiroidea."},
+    {"en": "The endocrinologist ordered hormone tests.", "es": "El endocrinólogo ordenó pruebas de hormonas."},
+    {"en": "An endocrinologist specializes in hormones and metabolic disorders.", "es": "Un endocrinólogo se especializa en hormonas y trastornos metabólicos."}
+  ],
+  "category": "Health"
+},
+{
+  "id": "hlth_100",
+  "english": "pulmonologist",
+  "spanish": "neumólogo",
+  "phonetic": "/ˌpʊl.məˈnɑː.lə.dʒɪst/",
+  "examples": [
+    {"en": "The pulmonologist treated his asthma.", "es": "El neumólogo trató su asma."},
+    {"en": "She was referred to a pulmonologist for a chronic cough.", "es": "La derivaron a un neumólogo por una tos crónica."},
+    {"en": "The pulmonologist specializes in lung diseases.", "es": "El neumólogo se especializa en enfermedades pulmonares."},
+    {"en": "A pulmonologist is a doctor who specializes in respiratory system conditions.", "es": "Un neumólogo es un médico que se especializa en condiciones del sistema respiratorio."}
+  ],
+  "category": "Health"
+}
+]

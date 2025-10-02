@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "num_1",
+    "english": "zero",
+    "spanish": "cero",
+    "phonetic": "/ˈzɪr.oʊ/",
+    "examples": [
+      {"en": "The temperature dropped to zero.", "es": "La temperatura bajó a cero."},
+      {"en": "He scored zero points in the game.", "es": "Él obtuvo cero puntos en el juego."},
+      {"en": "Start counting from zero.", "es": "Empieza a contar desde cero."},
+      {"en": "The battery is at zero percent.", "es": "La batería está al cero por ciento."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_2",
+    "english": "one",
+    "spanish": "uno",
+    "phonetic": "/wʌn/",
+    "examples": [
+      {"en": "I have one brother.", "es": "Tengo un hermano."},
+      {"en": "She was the first one to arrive.", "es": "Ella fue la primera en llegar."},
+      {"en": "Just one more minute, please.", "es": "Solo un minuto más, por favor."},
+      {"en": "This is the number one hit song.", "es": "Esta es la canción número uno."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_3",
+    "english": "two",
+    "spanish": "dos",
+    "phonetic": "/tuː/",
+    "examples": [
+      {"en": "We need two eggs for the recipe.", "es": "Necesitamos dos huevos para la receta."},
+      {"en": "They have two cats and a dog.", "es": "Ellos tienen dos gatos y un perro."},
+      {"en": "Call me in two hours.", "es": "Llámame en dos horas."},
+      {"en": "Two plus two equals four.", "es": "Dos más dos es igual a cuatro."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_4",
+    "english": "three",
+    "spanish": "tres",
+    "phonetic": "/θriː/",
+    "examples": [
+      {"en": "She lives on the third floor.", "es": "Ella vive en el tercer piso."},
+      {"en": "There are three seasons in this region.", "es": "Hay tres estaciones en esta región."},
+      {"en": "He ate three slices of pizza.", "es": "Él comió tres rebanadas de pizza."},
+      {"en": "Three times a week is enough.", "es": "Tres veces por semana es suficiente."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_5",
+    "english": "four",
+    "spanish": "cuatro",
+    "phonetic": "/fɔːr/",
+    "examples": [
+      {"en": "I have four grandparents.", "es": "Tengo cuatro abuelos."},
+      {"en": "The meeting starts at four o’clock.", "es": "La reunión empieza a las cuatro."},
+      {"en": "Four people fit in this car.", "es": "Caben cuatro personas en este coche."},
+      {"en": "She scored four goals in the match.", "es": "Ella marcó cuatro goles en el partido."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_6",
+    "english": "five",
+    "spanish": "cinco",
+    "phonetic": "/faɪv/",
+    "examples": [
+      {"en": "I’ll be there in five minutes.", "es": "Estaré allí en cinco minutos."},
+      {"en": "He gave me five dollars.", "es": "Él me dio cinco dólares."},
+      {"en": "Rate this from one to five.", "es": "Califica esto del uno al cinco."},
+      {"en": "Five is my lucky number.", "es": "El cinco es mi número de la suerte."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_7",
+    "english": "six",
+    "spanish": "seis",
+    "phonetic": "/sɪks/",
+    "examples": [
+      {"en": "There are six continents.", "es": "Hay seis continentes."},
+      {"en": "She has six siblings.", "es": "Ella tiene seis hermanos."},
+      {"en": "The phone number ends in six.", "es": "El número de teléfono termina en seis."},
+      {"en": "Six times seven is forty-two.", "es": "Seis por siete es cuarenta y dos."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_8",
+    "english": "seven",
+    "spanish": "siete",
+    "phonetic": "/ˈsev.ən/",
+    "examples": [
+      {"en": "Seven days make a week.", "es": "Siete días hacen una semana."},
+      {"en": "He lives on the seventh floor.", "es": "Él vive en el séptimo piso."},
+      {"en": "Seven is considered a lucky number.", "es": "El siete se considera un número de la suerte."},
+      {"en": "I’ve told you seven times!", "es": "¡Te lo he dicho siete veces!"}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_9",
+    "english": "eight",
+    "spanish": "ocho",
+    "phonetic": "/eɪt/",
+    "examples": [
+      {"en": "An octopus has eight legs.", "es": "Un pulpo tiene ocho patas."},
+      {"en": "The baby is eight months old.", "es": "El bebé tiene ocho meses."},
+      {"en": "Eight plus two is ten.", "es": "Ocho más dos es diez."},
+      {"en": "She works eight hours a day.", "es": "Ella trabaja ocho horas al día."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_10",
+    "english": "nine",
+    "spanish": "nueve",
+    "phonetic": "/naɪn/",
+    "examples": [
+      {"en": "There are nine planets in the solar system (traditionally).", "es": "Hay nueve planetas en el sistema solar (tradicionalmente)."},
+      {"en": "He scored ninety-nine points, just one short of one hundred.", "es": "Él obtuvo noventa y nueve puntos, solo uno menos de cien."},
+      {"en": "Nine out of ten dentists recommend it.", "es": "Nueve de cada diez dentistas lo recomiendan."},
+      {"en": "My birthday is on the ninth of May.", "es": "Mi cumpleaños es el nueve de mayo."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_11",
+    "english": "ten",
+    "spanish": "diez",
+    "phonetic": "/ten/",
+    "examples": [
+      {"en": "I have ten fingers.", "es": "Tengo diez dedos."},
+      {"en": "She is ten years old.", "es": "Ella tiene diez años."},
+      {"en": "Count to ten slowly.", "es": "Cuenta hasta diez lentamente."},
+      {"en": "There are ten students in the class.", "es": "Hay diez estudiantes en la clase."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_12",
+    "english": "eleven",
+    "spanish": "once",
+    "phonetic": "/ɪˈlev.ən/",
+    "examples": [
+      {"en": "It’s eleven o’clock at night.", "es": "Son las once de la noche."},
+      {"en": "There are eleven players on a soccer team.", "es": "Hay once jugadores en un equipo de fútbol."},
+      {"en": "She turned eleven last week.", "es": "Ella cumplió once años la semana pasada."},
+      {"en": "Add eleven to twenty-five.", "es": "Suma once a veinticinco."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_13",
+    "english": "twelve",
+    "spanish": "doce",
+    "phonetic": "/twelv/",
+    "examples": [
+      {"en": "There are twelve months in a year.", "es": "Hay doce meses en un año."},
+      {"en": "I bought a dozen eggs (twelve).", "es": "Compré una docena de huevos (doce)."},
+      {"en": "School starts at twelve noon.", "es": "La escuela empieza al mediodía (doce)."},
+      {"en": "Twelve divided by three is four.", "es": "Doce dividido entre tres es cuatro."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_14",
+    "english": "thirteen",
+    "spanish": "trece",
+    "phonetic": "/ˌθɝːˈtiːn/",
+    "examples": [
+      {"en": "He’s thirteen years old.", "es": "Él tiene trece años."},
+      {"en": "Friday the thirteenth is considered unlucky.", "es": "El viernes trece se considera de mala suerte."},
+      {"en": "Room thirteen is at the end of the hall.", "es": "La habitación trece está al final del pasillo."},
+      {"en": "Thirteen plus two is fifteen.", "es": "Trece más dos es quince."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_15",
+    "english": "twenty",
+    "spanish": "veinte",
+    "phonetic": "/ˈtwen.ti/",
+    "examples": [
+      {"en": "She has twenty books on her shelf.", "es": "Ella tiene veinte libros en su estante."},
+      {"en": "I’ll be there in twenty minutes.", "es": "Estaré allí en veinte minutos."},
+      {"en": "Twenty degrees Celsius is mild weather.", "es": "Veinte grados Celsius es un clima templado."},
+      {"en": "He saved twenty dollars.", "es": "Él ahorró veinte dólares."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_16",
+    "english": "thirty",
+    "spanish": "treinta",
+    "phonetic": "/ˈθɝː.ti/",
+    "examples": [
+      {"en": "It’s thirty degrees outside.", "es": "Hace treinta grados afuera."},
+      {"en": "She turned thirty last month.", "es": "Ella cumplió treinta años el mes pasado."},
+      {"en": "Thirty people attended the meeting.", "es": "Treinta personas asistieron a la reunión."},
+      {"en": "Thirty percent of students passed.", "es": "El treinta por ciento de los estudiantes aprobó."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_17",
+    "english": "forty",
+    "spanish": "cuarenta",
+    "phonetic": "/ˈfɔːr.ti/",
+    "examples": [
+      {"en": "He runs forty kilometers a week.", "es": "Él corre cuarenta kilómetros a la semana."},
+      {"en": "She has forty dollars in her wallet.", "es": "Ella tiene cuarenta dólares en su billetera."},
+      {"en": "Forty is the new thirty.", "es": "Cuarenta es el nuevo treinta."},
+      {"en": "The speed limit is forty miles per hour.", "es": "El límite de velocidad es cuarenta millas por hora."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_18",
+    "english": "fifty",
+    "spanish": "cincuenta",
+    "phonetic": "/ˈfɪf.ti/",
+    "examples": [
+      {"en": "Fifty states make up the USA.", "es": "Cincuenta estados forman EE.UU."},
+      {"en": "I gave him fifty cents.", "es": "Le di cincuenta centavos."},
+      {"en": "She scored fifty points in the game.", "es": "Ella obtuvo cincuenta puntos en el juego."},
+      {"en": "Fifty-fifty chance means equal probability.", "es": "Cincuenta-cincuenta significa probabilidad igual."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_19",
+    "english": "one hundred",
+    "spanish": "cien",
+    "phonetic": "/wʌn ˈhʌn.drəd/",
+    "examples": [
+      {"en": "There are one hundred cents in a dollar.", "es": "Hay cien centavos en un dólar."},
+      {"en": "The test has one hundred questions.", "es": "El examen tiene cien preguntas."},
+      {"en": "Water boils at one hundred degrees Celsius.", "es": "El agua hierve a cien grados Celsius."},
+      {"en": "He ran one hundred meters in twelve seconds.", "es": "Él corrió cien metros en doce segundos."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_20",
+    "english": "one thousand",
+    "spanish": "mil",
+    "phonetic": "/wʌn ˈθaʊ.zənd/",
+    "examples": [
+      {"en": "The city has a population of one thousand.", "es": "La ciudad tiene una población de mil."},
+      {"en": "I saved one thousand dollars.", "es": "Ahorré mil dólares."},
+      {"en": "One thousand years is a millennium.", "es": "Mil años es un milenio."},
+      {"en": "The mountain is over one thousand meters tall.", "es": "La montaña mide más de mil metros de altura."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_21",
+    "english": "first",
+    "spanish": "primero",
+    "phonetic": "/fɝːst/",
+    "examples": [
+      {"en": "She came in first place.", "es": "Ella quedó en primer lugar."},
+      {"en": "This is my first time here.", "es": "Esta es mi primera vez aquí."},
+      {"en": "January is the first month.", "es": "Enero es el primer mes."},
+      {"en": "He was the first to arrive.", "es": "Él fue el primero en llegar."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_22",
+    "english": "second",
+    "spanish": "segundo",
+    "phonetic": "/ˈsek.ənd/",
+    "examples": [
+      {"en": "He finished in second place.", "es": "Él quedó en segundo lugar."},
+      {"en": "Wait a second, please.", "es": "Espera un segundo, por favor."},
+      {"en": "February is the second month.", "es": "Febrero es el segundo mes."},
+      {"en": "This is my second attempt.", "es": "Este es mi segundo intento."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_23",
+    "english": "third",
+    "spanish": "tercero",
+    "phonetic": "/θɝːd/",
+    "examples": [
+      {"en": "She won the third prize.", "es": "Ella ganó el tercer premio."},
+      {"en": "This is the third time I’ve called.", "es": "Esta es la tercera vez que llamo."},
+      {"en": "March is the third month.", "es": "Marzo es el tercer mes."},
+      {"en": "He lives on the third floor.", "es": "Él vive en el tercer piso."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_24",
+    "english": "tenth",
+    "spanish": "décimo",
+    "phonetic": "/tenθ/",
+    "examples": [
+      {"en": "October is the tenth month.", "es": "Octubre es el décimo mes."},
+      {"en": "She finished in tenth place.", "es": "Ella quedó en décimo lugar."},
+      {"en": "This is my tenth birthday party.", "es": "Esta es mi décima fiesta de cumpleaños."},
+      {"en": "The tenth chapter is the best.", "es": "El décimo capítulo es el mejor."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_25",
+    "english": "half",
+    "spanish": "mitad",
+    "phonetic": "/hæf/",
+    "examples": [
+      {"en": "I ate half the pizza.", "es": "Comí la mitad de la pizza."},
+      {"en": "It’s half past three.", "es": "Son las tres y media."},
+      {"en": "Half of the students passed.", "es": "La mitad de los estudiantes aprobó."},
+      {"en": "Cut the apple in half.", "es": "Corta la manzana por la mitad."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_26",
+    "english": "a half",
+    "spanish": "un medio",
+    "phonetic": "/ə hæf/",
+    "examples": [
+      {"en": "I need a half cup of sugar.", "es": "Necesito medio vaso de azúcar."},
+      {"en": "He ran a half marathon.", "es": "Él corrió una media maratón."},
+      {"en": "Add a half teaspoon of salt.", "es": "Añade media cucharadita de sal."},
+      {"en": "She’s a year and a half old.", "es": "Ella tiene un año y medio."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_27",
+    "english": "quarter",
+    "spanish": "cuarto",
+    "phonetic": "/ˈkwɔːr.t̬ɚ/",
+    "examples": [
+      {"en": "A quarter of the cake is left.", "es": "Queda un cuarto del pastel."},
+      {"en": "It’s a quarter to five.", "es": "Son las cuatro y cuarenta y cinco."},
+      {"en": "He gave me a quarter dollar.", "es": "Él me dio una moneda de veinticinco centavos."},
+      {"en": "The first quarter of the year was busy.", "es": "El primer trimestre del año fue ocupado."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_28",
+    "english": "three quarters",
+    "spanish": "tres cuartos",
+    "phonetic": "/θriː ˈkwɔːr.t̬ɚz/",
+    "examples": [
+      {"en": "The glass is three quarters full.", "es": "El vaso está tres cuartos lleno."},
+      {"en": "Three quarters of the class agreed.", "es": "Tres cuartos de la clase estuvieron de acuerdo."},
+      {"en": "He ran three quarters of a mile.", "es": "Él corrió tres cuartos de milla."},
+      {"en": "The project is three quarters done.", "es": "El proyecto está tres cuartos terminado."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_29",
+    "english": "point five",
+    "spanish": "coma cinco",
+    "phonetic": "/pɔɪnt faɪv/",
+    "examples": [
+      {"en": "The score was 2.5 to 1.", "es": "El marcador fue 2,5 a 1."},
+      {"en": "She weighs 50.5 kilograms.", "es": "Ella pesa 50,5 kilogramos."},
+      {"en": "It’s 36.5 degrees Celsius.", "es": "Son 36,5 grados Celsius."},
+      {"en": "He ran 10.5 kilometers.", "es": "Él corrió 10,5 kilómetros."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_30",
+    "english": "three point one four",
+    "spanish": "tres coma catorce",
+    "phonetic": "/θriː pɔɪnt wʌn fɔːr/",
+    "examples": [
+      {"en": "Pi is approximately 3.14.", "es": "Pi es aproximadamente 3,14."},
+      {"en": "Use 3.14 for pi in this calculation.", "es": "Usa 3,14 para pi en este cálculo."},
+      {"en": "The value is 3.1416, but we round to 3.14.", "es": "El valor es 3,1416, pero redondeamos a 3,14."},
+      {"en": "Memorize pi as three point one four.", "es": "Memoriza pi como tres coma catorce."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_31",
+    "english": "zero point one",
+    "spanish": "cero coma uno",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt wʌn/",
+    "examples": [
+      {"en": "The error margin is 0.1%.", "es": "El margen de error es 0,1%."},
+      {"en": "Add 0.1 grams of the chemical.", "es": "Añade 0,1 gramos del químico."},
+      {"en": "The pH changed by zero point one.", "es": "El pH cambió en cero coma uno."},
+      {"en": "It’s 0.1 degrees above freezing.", "es": "Está 0,1 grados por encima del punto de congelación."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_32",
+    "english": "negative five",
+    "spanish": "menos cinco",
+    "phonetic": "/ˈneg.ə.t̬ɪv faɪv/",
+    "examples": [
+      {"en": "The temperature is negative five degrees.", "es": "La temperatura es menos cinco grados."},
+      {"en": "His bank balance is negative five dollars.", "es": "Su saldo bancario es menos cinco dólares."},
+      {"en": "Negative five plus ten is five.", "es": "Menos cinco más diez es cinco."},
+      {"en": "The result was negative five.", "es": "El resultado fue menos cinco."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_33",
+    "english": "fifty percent",
+    "spanish": "cincuenta por ciento",
+    "phonetic": "/ˈfɪf.ti pɚˈsen t/",
+    "examples": [
+      {"en": "Fifty percent of the class failed.", "es": "El cincuenta por ciento de la clase reprobó."},
+      {"en": "The discount is fifty percent off.", "es": "El descuento es cincuenta por ciento de descuento."},
+      {"en": "She owns fifty percent of the company.", "es": "Ella posee el cincuenta por ciento de la empresa."},
+      {"en": "There’s a fifty percent chance of rain.", "es": "Hay un cincuenta por ciento de probabilidad de lluvia."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_34",
+    "english": "one hundred percent",
+    "spanish": "cien por ciento",
+    "phonetic": "/wʌn ˈhʌn.drəd pɚˈsen t/",
+    "examples": [
+      {"en": "I’m one hundred percent sure.", "es": "Estoy cien por ciento seguro."},
+      {"en": "The battery is at one hundred percent.", "es": "La batería está al cien por ciento."},
+      {"en": "She gave one hundred percent effort.", "es": "Ella dio un cien por ciento de esfuerzo."},
+      {"en": "This product is one hundred percent organic.", "es": "Este producto es cien por ciento orgánico."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_35",
+    "english": "nineteen ninety-nine",
+    "spanish": "mil novecientos noventa y nueve",
+    "phonetic": "/ˌnaɪnˈtiːn ˈnaɪn.ti naɪn/",
+    "examples": [
+      {"en": "I was born in nineteen ninety-nine.", "es": "Nací en mil novecientos noventa y nueve."},
+      {"en": "The movie was released in 1999.", "es": "La película se estrenó en 1999."},
+      {"en": "Y2K was a concern in nineteen ninety-nine.", "es": "Y2K fue una preocupación en mil novecientos noventa y nueve."},
+      {"en": "He graduated high school in ’99.", "es": "Él se graduó de secundaria en el ’99."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_36",
+    "english": "two thousand twenty-four",
+    "spanish": "dos mil veinticuatro",
+    "phonetic": "/tuː ˈθaʊ.zənd ˈtwen.ti fɔːr/",
+    "examples": [
+      {"en": "The Olympics will be in two thousand twenty-four.", "es": "Los Juegos Olímpicos serán en dos mil veinticuatro."},
+      {"en": "This is the year two thousand twenty-four.", "es": "Este es el año dos mil veinticuatro."},
+      {"en": "She starts college in 2024.", "es": "Ella empieza la universidad en 2024."},
+      {"en": "Mark your calendar for June 2024.", "es": "Marca tu calendario para junio de 2024."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_37",
+    "english": "five five five",
+    "spanish": "cinco cinco cinco",
+    "phonetic": "/faɪv faɪv faɪv/",
+    "examples": [
+      {"en": "Call me at five-five-five-one-two-three-four.", "es": "Llámame al cinco-cinco-cinco-uno-dos-tres-cuatro."},
+      {"en": "The code is five five five.", "es": "El código es cinco cinco cinco."},
+      {"en": "In movies, phone numbers often start with 555.", "es": "En películas, los números de teléfono suelen empezar con 555."},
+      {"en": "Dial 555 for directory assistance.", "es": "Marca 555 para asistencia de directorio."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_38",
+    "english": "one million",
+    "spanish": "un millón",
+    "phonetic": "/wʌn ˈmɪl.jən/",
+    "examples": [
+      {"en": "The city has a population of one million.", "es": "La ciudad tiene una población de un millón."},
+      {"en": "He won one million dollars in the lottery.", "es": "Él ganó un millón de dólares en la lotería."},
+      {"en": "One million seconds is about eleven days.", "es": "Un millón de segundos son aproximadamente once días."},
+      {"en": "The app has been downloaded one million times.", "es": "La app se ha descargado un millón de veces."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_39",
+    "english": "billion",
+    "spanish": "mil millones",
+    "phonetic": "/ˈbɪl.jən/",
+    "examples": [
+      {"en": "The company is worth ten billion dollars.", "es": "La empresa vale diez mil millones de dólares."},
+      {"en": "There are over seven billion people on Earth.", "es": "Hay más de siete mil millones de personas en la Tierra."},
+      {"en": "He donated a billion to charity.", "es": "Él donó mil millones a caridad."},
+      {"en": "The project cost two billion euros.", "es": "El proyecto costó dos mil millones de euros."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_40",
+    "english": "trillion",
+    "spanish": "billón",
+    "phonetic": "/ˈtrɪl.jən/",
+    "examples": [
+      {"en": "The national debt is over thirty trillion dollars.", "es": "La deuda nacional supera los treinta billones de dólares."},
+      {"en": "A trillion seconds is over 31,000 years.", "es": "Un billón de segundos son más de 31,000 años."},
+      {"en": "The universe is billions of years old, not trillions.", "es": "El universo tiene miles de millones de años, no billones."},
+      {"en": "Data centers store trillions of bytes.", "es": "Los centros de datos almacenan billones de bytes."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_41",
+    "english": "one and a half",
+    "spanish": "uno y medio",
+    "phonetic": "/wʌn ən ə hæf/",
+    "examples": [
+      {"en": "I waited one and a half hours.", "es": "Esperé una hora y media."},
+      {"en": "She is one and a half years old.", "es": "Ella tiene un año y medio."},
+      {"en": "The movie lasts one and a half hours.", "es": "La película dura una hora y media."},
+      {"en": "Add one and a half cups of flour.", "es": "Añade una taza y media de harina."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_42",
+    "english": "two point five",
+    "spanish": "dos coma cinco",
+    "phonetic": "/tuː pɔɪnt faɪv/",
+    "examples": [
+      {"en": "The rating is 2.5 out of 5.", "es": "La calificación es 2,5 de 5."},
+      {"en": "He is 2.5 meters tall.", "es": "Él mide 2,5 metros."},
+      {"en": "The average is 2.5 children per family.", "es": "El promedio es 2,5 hijos por familia."},
+      {"en": "It costs $2.50.", "es": "Cuesta 2,50 dólares."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_43",
+    "english": "zero point zero one",
+    "spanish": "cero coma cero uno",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt ˈzɪr.oʊ wʌn/",
+    "examples": [
+      {"en": "The interest rate is 0.01%.", "es": "La tasa de interés es 0,01%."},
+      {"en": "The measurement is accurate to 0.01 mm.", "es": "La medición es precisa hasta 0,01 mm."},
+      {"en": "Probability is 0.01, or one percent.", "es": "La probabilidad es 0,01, o un por ciento."},
+      {"en": "Add 0.01 grams carefully.", "es": "Añade 0,01 gramos con cuidado."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_44",
+    "english": "fourth",
+    "spanish": "cuarto",
+    "phonetic": "/fɔːrθ/",
+    "examples": [
+      {"en": "July fourth is Independence Day in the US.", "es": "El cuatro de julio es el Día de la Independencia en EE.UU."},
+      {"en": "He came in fourth place.", "es": "Él quedó en cuarto lugar."},
+      {"en": "This is my fourth attempt.", "es": "Este es mi cuarto intento."},
+      {"en": "The fourth chapter is the longest.", "es": "El cuarto capítulo es el más largo."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_45",
+    "english": "fifth",
+    "spanish": "quinto",
+    "phonetic": "/fɪfθ/",
+    "examples": [
+      {"en": "She lives on the fifth floor.", "es": "Ella vive en el quinto piso."},
+      {"en": "This is my fifth coffee today.", "es": "Este es mi quinto café hoy."},
+      {"en": "He finished in fifth place.", "es": "Él quedó en quinto lugar."},
+      {"en": "The fifth amendment protects against self-incrimination.", "es": "La quinta enmienda protege contra la autoincriminación."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_46",
+    "english": "twentieth",
+    "spanish": "vigésimo",
+    "phonetic": "/ˈtwen.ti.əθ/",
+    "examples": [
+      {"en": "The twentieth century was full of change.", "es": "El siglo veinte estuvo lleno de cambios."},
+      {"en": "She finished in twentieth place.", "es": "Ella quedó en vigésimo lugar."},
+      {"en": "This is my twentieth birthday.", "es": "Este es mi vigésimo cumpleaños."},
+      {"en": "The twentieth chapter concludes the book.", "es": "El vigésimo capítulo concluye el libro."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_47",
+    "english": "one third",
+    "spanish": "un tercio",
+    "phonetic": "/wʌn θɝːd/",
+    "examples": [
+      {"en": "One third of the pie is gone.", "es": "Un tercio del pastel se ha ido."},
+      {"en": "One third of voters supported the measure.", "es": "Un tercio de los votantes apoyó la medida."},
+      {"en": "Add one third cup of milk.", "es": "Añade un tercio de taza de leche."},
+      {"en": "The tank is one third full.", "es": "El tanque está un tercio lleno."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_48",
+    "english": "two thirds",
+    "spanish": "dos tercios",
+    "phonetic": "/tuː θɝːdz/",
+    "examples": [
+      {"en": "Two thirds of the class passed.", "es": "Dos tercios de la clase aprobaron."},
+      {"en": "He drank two thirds of the bottle.", "es": "Él bebió dos tercios de la botella."},
+      {"en": "Two thirds is approximately 66.6%.", "es": "Dos tercios es aproximadamente 66,6%."},
+      {"en": "The project is two thirds complete.", "es": "El proyecto está dos tercios completado."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_49",
+    "english": "minus ten",
+    "spanish": "menos diez",
+    "phonetic": "/ˈmaɪ.nəs ten/",
+    "examples": [
+      {"en": "It’s minus ten degrees outside.", "es": "Hace menos diez grados afuera."},
+      {"en": "The result is minus ten.", "es": "El resultado es menos diez."},
+      {"en": "His score dropped to minus ten.", "es": "Su puntuación bajó a menos diez."},
+      {"en": "Minus ten plus fifteen is five.", "es": "Menos diez más quince es cinco."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_50",
+    "english": "seventy-five",
+    "spanish": "setenta y cinco",
+    "phonetic": "/ˈsev.ən.ti faɪv/",
+    "examples": [
+      {"en": "The test score was seventy-five percent.", "es": "La calificación fue setenta y cinco por ciento."},
+      {"en": "He is seventy-five years old.", "es": "Él tiene setenta y cinco años."},
+      {"en": "The price is seventy-five dollars.", "es": "El precio es setenta y cinco dólares."},
+      {"en": "Room seventy-five is down the hall.", "es": "La habitación setenta y cinco está al final del pasillo."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_51",
+    "english": "eighty-eight",
+    "spanish": "ochenta y ocho",
+    "phonetic": "/ˈeɪ.ti eɪt/",
+    "examples": [
+      {"en": "The piano has eighty-eight keys.", "es": "El piano tiene ochenta y ocho teclas."},
+      {"en": "She was born in 1988.", "es": "Ella nació en 1988."},
+      {"en": "The temperature is eighty-eight degrees.", "es": "La temperatura es ochenta y ocho grados."},
+      {"en": "Page eighty-eight has the answer.", "es": "La página ochenta y ocho tiene la respuesta."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_52",
+    "english": "ninety-nine",
+    "spanish": "noventa y nueve",
+    "phonetic": "/ˈnaɪn.ti naɪn/",
+    "examples": [
+      {"en": "The price is ninety-nine cents.", "es": "El precio es noventa y nueve centavos."},
+      {"en": "He is ninety-nine years old.", "es": "Él tiene noventa y nueve años."},
+      {"en": "Room ninety-nine is on the top floor.", "es": "La habitación noventa y nueve está en el piso más alto."},
+      {"en": "Ninety-nine problems, but math ain’t one.", "es": "Noventa y nueve problemas, pero las matemáticas no son uno."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_53",
+    "english": "one hundred one",
+    "spanish": "ciento uno",
+    "phonetic": "/wʌn ˈhʌn.drəd wʌn/",
+    "examples": [
+      {"en": "The hotel room is one hundred one.", "es": "La habitación del hotel es ciento uno."},
+      {"en": "She has one hundred one followers.", "es": "Ella tiene ciento un seguidores."},
+      {"en": "The temperature reached one hundred one.", "es": "La temperatura alcanzó ciento uno."},
+      {"en": "Page one hundred one is missing.", "es": "Falta la página ciento uno."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_54",
+    "english": "two hundred fifty",
+    "spanish": "doscientos cincuenta",
+    "phonetic": "/tuː ˈhʌn.drəd ˈfɪf.ti/",
+    "examples": [
+      {"en": "The ticket costs two hundred fifty dollars.", "es": "La entrada cuesta doscientos cincuenta dólares."},
+      {"en": "Two hundred fifty people attended.", "es": "Doscientas cincuenta personas asistieron."},
+      {"en": "The distance is two hundred fifty kilometers.", "es": "La distancia es doscientos cincuenta kilómetros."},
+      {"en": "Year two hundred fifty was during the Roman Empire.", "es": "El año doscientos cincuenta fue durante el Imperio Romano."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_55",
+    "english": "five hundred",
+    "spanish": "quinientos",
+    "phonetic": "/faɪv ˈhʌn.drəd/",
+    "examples": [
+      {"en": "The bill was five hundred euros.", "es": "La cuenta fue quinientos euros."},
+      {"en": "Five hundred years ago, Columbus sailed.", "es": "Hace quinientos años, Colón navegó."},
+      {"en": "The stadium holds five hundred fans.", "es": "El estadio alberga quinientos aficionados."},
+      {"en": "Page five hundred is the last chapter.", "es": "La página quinientos es el último capítulo."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_56",
+    "english": "one thousand one",
+    "spanish": "mil uno",
+    "phonetic": "/wʌn ˈθaʊ.zənd wʌn/",
+    "examples": [
+      {"en": "The year one thousand one was long ago.", "es": "El año mil uno fue hace mucho tiempo."},
+      {"en": "Room one thousand one has a great view.", "es": "La habitación mil uno tiene una vista estupenda."},
+      {"en": "He has one thousand one books.", "es": "Él tiene mil un libros."},
+      {"en": "The code is 1001.", "es": "El código es 1001."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_57",
+    "english": "ten thousand",
+    "spanish": "diez mil",
+    "phonetic": "/ten ˈθaʊ.zənd/",
+    "examples": [
+      {"en": "The city has ten thousand residents.", "es": "La ciudad tiene diez mil habitantes."},
+      {"en": "He earns ten thousand dollars a month.", "es": "Él gana diez mil dólares al mes."},
+      {"en": "Ten thousand years is a long time.", "es": "Diez mil años es mucho tiempo."},
+      {"en": "The car costs ten thousand dollars.", "es": "El coche cuesta diez mil dólares."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_58",
+    "english": "hundred thousand",
+    "spanish": "cien mil",
+    "phonetic": "/ˈhʌn.drəd ˈθaʊ.zənd/",
+    "examples": [
+      {"en": "The population is over a hundred thousand.", "es": "La población supera los cien mil."},
+      {"en": "He saved a hundred thousand dollars.", "es": "Él ahorró cien mil dólares."},
+      {"en": "A hundred thousand people attended the concert.", "es": "Cien mil personas asistieron al concierto."},
+      {"en": "The house costs three hundred thousand.", "es": "La casa cuesta trescientos mil."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_59",
+    "english": "one point zero",
+    "spanish": "uno coma cero",
+    "phonetic": "/wʌn pɔɪnt ˈzɪr.oʊ/",
+    "examples": [
+      {"en": "The version is 1.0.", "es": "La versión es 1.0."},
+      {"en": "His GPA is 1.0.", "es": "Su promedio es 1,0."},
+      {"en": "The rating is one point zero out of five.", "es": "La calificación es uno coma cero de cinco."},
+      {"en": "It’s exactly 1.0 meters long.", "es": "Mide exactamente 1,0 metros."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_60",
+    "english": "zero point five",
+    "spanish": "cero coma cinco",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt faɪv/",
+    "examples": [
+      {"en": "Add 0.5 liters of water.", "es": "Añade 0,5 litros de agua."},
+      {"en": "The probability is 0.5, or 50%.", "es": "La probabilidad es 0,5, o 50%."},
+      {"en": "It’s 0.5 degrees below zero.", "es": "Está 0,5 grados bajo cero."},
+      {"en": "He ran 0.5 miles.", "es": "Él corrió media milla."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_61",
+    "english": "two thousand",
+    "spanish": "dos mil",
+    "phonetic": "/tuː ˈθaʊ.zənd/",
+    "examples": [
+      {"en": "The year two thousand was a leap year.", "es": "El año dos mil fue bisiesto."},
+      {"en": "He was born in two thousand.", "es": "Él nació en el dos mil."},
+      {"en": "The budget is two thousand dollars.", "es": "El presupuesto es dos mil dólares."},
+      {"en": "Two thousand people gathered in the square.", "es": "Dos mil personas se reunieron en la plaza."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_62",
+    "english": "two thousand one",
+    "spanish": "dos mil uno",
+    "phonetic": "/tuː ˈθaʊ.zənd wʌn/",
+    "examples": [
+      {"en": "The movie 2001: A Space Odyssey is famous.", "es": "La película 2001: Una odisea del espacio es famosa."},
+      {"en": "He graduated in two thousand one.", "es": "Él se graduó en dos mil uno."},
+      {"en": "The event happened in 2001.", "es": "El evento ocurrió en 2001."},
+      {"en": "Room 2001 is on the twentieth floor.", "es": "La habitación 2001 está en el vigésimo piso."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_63",
+    "english": "nineteen eighty-four",
+    "spanish": "mil novecientos ochenta y cuatro",
+    "phonetic": "/ˌnaɪnˈtiːn ˈeɪ.ti fɔːr/",
+    "examples": [
+      {"en": "George Orwell wrote 'Nineteen Eighty-Four'.", "es": "George Orwell escribió 'Mil novecientos ochenta y cuatro'."},
+      {"en": "He was born in nineteen eighty-four.", "es": "Él nació en mil novecientos ochenta y cuatro."},
+      {"en": "The book was published in 1949, but set in 1984.", "es": "El libro se publicó en 1949, pero se ambienta en 1984."},
+      {"en": "1984 was a leap year.", "es": "1984 fue un año bisiesto."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_64",
+    "english": "fifteen",
+    "spanish": "quince",
+    "phonetic": "/fɪfˈtiːn/",
+    "examples": [
+      {"en": "She is fifteen years old.", "es": "Ella tiene quince años."},
+      {"en": "There are fifteen minutes in a quarter hour.", "es": "Hay quince minutos en un cuarto de hora."},
+      {"en": "The team has fifteen players.", "es": "El equipo tiene quince jugadores."},
+      {"en": "Fifteen plus five is twenty.", "es": "Quince más cinco es veinte."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_65",
+    "english": "sixteen",
+    "spanish": "dieciséis",
+    "phonetic": "/ˌsɪkˈstiːn/",
+    "examples": [
+      {"en": "In the US, you can drive at sixteen.", "es": "En EE.UU., puedes conducir a los dieciséis."},
+      {"en": "He has sixteen cousins.", "es": "Él tiene dieciséis primos."},
+      {"en": "The password is sixteen characters long.", "es": "La contraseña tiene dieciséis caracteres."},
+      {"en": "Sixteen ounces make a pound.", "es": "Dieciséis onzas hacen una libra."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_66",
+    "english": "seventeen",
+    "spanish": "diecisiete",
+    "phonetic": "/ˌsev.ənˈtiːn/",
+    "examples": [
+      {"en": "She turned seventeen last week.", "es": "Ella cumplió diecisiete años la semana pasada."},
+      {"en": "There are seventeen syllables in a haiku.", "es": "Hay diecisiete sílabas en un haiku."},
+      {"en": "He scored seventeen points.", "es": "Él obtuvo diecisiete puntos."},
+      {"en": "Seventeen is a prime number.", "es": "El diecisiete es un número primo."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_67",
+    "english": "eighteen",
+    "spanish": "dieciocho",
+    "phonetic": "/ˌeɪˈtiːn/",
+    "examples": [
+      {"en": "At eighteen, you’re an adult in many countries.", "es": "A los dieciocho, eres adulto en muchos países."},
+      {"en": "The class has eighteen students.", "es": "La clase tiene dieciocho estudiantes."},
+      {"en": "He bought eighteen eggs.", "es": "Él compró dieciocho huevos."},
+      {"en": "Eighteen wheels on a big rig truck.", "es": "Dieciocho ruedas en un camión grande."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_68",
+    "english": "nineteen",
+    "spanish": "diecinueve",
+    "phonetic": "/ˌnaɪnˈtiːn/",
+    "examples": [
+      {"en": "She is nineteen years old.", "es": "Ella tiene diecinueve años."},
+      {"en": "There are nineteen players on the roster.", "es": "Hay diecinueve jugadores en la lista."},
+      {"en": "Nineteen is also a prime number.", "es": "El diecinueve también es un número primo."},
+      {"en": "He scored nineteen out of twenty.", "es": "Él obtuvo diecinueve de veinte."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_69",
+    "english": "twenty-one",
+    "spanish": "veintiuno",
+    "phonetic": "/ˌtwen.tiˈwʌn/",
+    "examples": [
+      {"en": "In the US, you can drink alcohol at twenty-one.", "es": "En EE.UU., puedes beber alcohol a los veintiuno."},
+      {"en": "Blackjack is also called twenty-one.", "es": "El blackjack también se llama veintiuno."},
+      {"en": "She has twenty-one pairs of shoes.", "es": "Ella tiene veintiún pares de zapatos."},
+      {"en": "The answer is twenty-one.", "es": "La respuesta es veintiuno."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_70",
+    "english": "twenty-five",
+    "spanish": "veinticinco",
+    "phonetic": "/ˌtwen.tiˈfaɪv/",
+    "examples": [
+      {"en": "A quarter is twenty-five cents.", "es": "Una moneda de veinticinco centavos es un cuarto de dólar."},
+      {"en": "He is twenty-five years old.", "es": "Él tiene veinticinco años."},
+      {"en": "The meeting is at twenty-five past three.", "es": "La reunión es a las tres y veinticinco."},
+      {"en": "Twenty-five percent is one fourth.", "es": "El veinticinco por ciento es un cuarto."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_71",
+    "english": "thirty-three",
+    "spanish": "treinta y tres",
+    "phonetic": "/ˌθɝː.tiˈθriː/",
+    "examples": [
+      {"en": "He is thirty-three years old.", "es": "Él tiene treinta y tres años."},
+      {"en": "The temperature is thirty-three degrees.", "es": "La temperatura es treinta y tres grados."},
+      {"en": "Room thirty-three is next door.", "es": "La habitación treinta y tres está al lado."},
+      {"en": "Thirty-three is a repeating decimal in fractions.", "es": "El treinta y tres aparece en decimales periódicos en fracciones."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_72",
+    "english": "forty-two",
+    "spanish": "cuarenta y dos",
+    "phonetic": "/ˌfɔːr.tiˈtuː/",
+    "examples": [
+      {"en": "In 'The Hitchhiker’s Guide', 42 is the answer.", "es": "En 'La guía del autoestopista galáctico', 42 es la respuesta."},
+      {"en": "He is forty-two years old.", "es": "Él tiene cuarenta y dos años."},
+      {"en": "The code is forty-two.", "es": "El código es cuarenta y dos."},
+      {"en": "Forty-two divided by six is seven.", "es": "Cuarenta y dos dividido entre seis es siete."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_73",
+    "english": "sixty",
+    "spanish": "sesenta",
+    "phonetic": "/ˈsɪk.sti/",
+    "examples": [
+      {"en": "There are sixty seconds in a minute.", "es": "Hay sesenta segundos en un minuto."},
+      {"en": "He is sixty years old.", "es": "Él tiene sesenta años."},
+      {"en": "The speed limit is sixty miles per hour.", "es": "El límite de velocidad es sesenta millas por hora."},
+      {"en": "Sixty percent agreed with the proposal.", "es": "El sesenta por ciento estuvo de acuerdo con la propuesta."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_74",
+    "english": "seventy",
+    "spanish": "setenta",
+    "phonetic": "/ˈsev.ən.ti/",
+    "examples": [
+      {"en": "She is seventy years old.", "es": "Ella tiene setenta años."},
+      {"en": "The score was seventy to sixty.", "es": "El marcador fue setenta a sesenta."},
+      {"en": "Seventy degrees is a comfortable room temperature.", "es": "Setenta grados es una temperatura cómoda en una habitación."},
+      {"en": "Seventy nations participated.", "es": "Setenta naciones participaron."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_75",
+    "english": "eighty",
+    "spanish": "ochenta",
+    "phonetic": "/ˈeɪ.ti/",
+    "examples": [
+      {"en": "He is eighty years old.", "es": "Él tiene ochenta años."},
+      {"en": "The test score was eighty percent.", "es": "La calificación fue ochenta por ciento."},
+      {"en": "Eighty kilometers per hour is the limit.", "es": "El límite es ochenta kilómetros por hora."},
+      {"en": "Eighty people showed up.", "es": "Ochenta personas aparecieron."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_76",
+    "english": "ninety",
+    "spanish": "noventa",
+    "phonetic": "/ˈnaɪn.ti/",
+    "examples": [
+      {"en": "She is ninety years old.", "es": "Ella tiene noventa años."},
+      {"en": "Ninety percent of the work is done.", "es": "El noventa por ciento del trabajo está hecho."},
+      {"en": "The angle is ninety degrees.", "es": "El ángulo es de noventa grados."},
+      {"en": "Ninety days is about three months.", "es": "Noventa días son aproximadamente tres meses."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_77",
+    "english": "one hundred fifty",
+    "spanish": "ciento cincuenta",
+    "phonetic": "/wʌn ˈhʌn.drəd ˈfɪf.ti/",
+    "examples": [
+      {"en": "The distance is one hundred fifty miles.", "es": "La distancia es ciento cincuenta millas."},
+      {"en": "He scored one hundred fifty points.", "es": "Él obtuvo ciento cincuenta puntos."},
+      {"en": "The temperature reached one hundred fifty in the desert.", "es": "La temperatura alcanzó ciento cincuenta en el desierto."},
+      {"en": "One hundred fifty students enrolled.", "es": "Ciento cincuenta estudiantes se inscribieron."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_78",
+    "english": "two hundred",
+    "spanish": "doscientos",
+    "phonetic": "/tuː ˈhʌn.drəd/",
+    "examples": [
+      {"en": "The book has two hundred pages.", "es": "El libro tiene doscientas páginas."},
+      {"en": "Two hundred years ago, this city was founded.", "es": "Hace doscientos años, se fundó esta ciudad."},
+      {"en": "He has two hundred dollars in his wallet.", "es": "Él tiene doscientos dólares en su billetera."},
+      {"en": "Two hundred is written as 200.", "es": "Doscientos se escribe como 200."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_79",
+    "english": "three hundred",
+    "spanish": "trescientos",
+    "phonetic": "/θriː ˈhʌn.drəd/",
+    "examples": [
+      {"en": "The hotel has three hundred rooms.", "es": "El hotel tiene trescientas habitaciones."},
+      {"en": "Three hundred people attended the wedding.", "es": "Trescientas personas asistieron a la boda."},
+      {"en": "The cost is three hundred euros.", "es": "El costo es trescientos euros."},
+      {"en": "Year three hundred was during the Roman Empire.", "es": "El año trescientos fue durante el Imperio Romano."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_80",
+    "english": "five hundred fifty-five",
+    "spanish": "quinientos cincuenta y cinco",
+    "phonetic": "/faɪv ˈhʌn.drəd ˈfɪf.ti faɪv/",
+    "examples": [
+      {"en": "Call 555-1234 for information.", "es": "Llama al 555-1234 para información."},
+      {"en": "The code is five five five.", "es": "El código es quinientos cincuenta y cinco."},
+      {"en": "Room 555 is on the fifth floor.", "es": "La habitación 555 está en el quinto piso."},
+      {"en": "In the US, 555 numbers are fictional.", "es": "En EE.UU., los números 555 son ficticios."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_81",
+    "english": "one million one",
+    "spanish": "un millón uno",
+    "phonetic": "/wʌn ˈmɪl.jən wʌn/",
+    "examples": [
+      {"en": "The population is one million one.", "es": "La población es un millón uno."},
+      {"en": "He has one million one followers.", "es": "Él tiene un millón un seguidores."},
+      {"en": "The serial number is 1000001.", "es": "El número de serie es 1000001."},
+      {"en": "One million one is 1,000,001.", "es": "Un millón uno es 1.000.001."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_82",
+    "english": "ten million",
+    "spanish": "diez millones",
+    "phonetic": "/ten ˈmɪl.jən/",
+    "examples": [
+      {"en": "The city has ten million inhabitants.", "es": "La ciudad tiene diez millones de habitantes."},
+      {"en": "He earned ten million dollars.", "es": "Él ganó diez millones de dólares."},
+      {"en": "Ten million seconds is about 115 days.", "es": "Diez millones de segundos son aproximadamente 115 días."},
+      {"en": "The app has ten million downloads.", "es": "La app tiene diez millones de descargas."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_83",
+    "english": "one billion",
+    "spanish": "mil millones",
+    "phonetic": "/wʌn ˈbɪl.jən/",
+    "examples": [
+      {"en": "The company is worth one billion dollars.", "es": "La empresa vale mil millones de dólares."},
+      {"en": "One billion people speak English.", "es": "Mil millones de personas hablan inglés."},
+      {"en": "One billion seconds is about 31.7 years.", "es": "Mil millones de segundos son aproximadamente 31,7 años."},
+      {"en": "The budget is one billion euros.", "es": "El presupuesto es mil millones de euros."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_84",
+    "english": "two point seven one eight",
+    "spanish": "dos coma siete uno ocho",
+    "phonetic": "/tuː pɔɪnt ˈsev.ən wʌn eɪt/",
+    "examples": [
+      {"en": "The number e is approximately 2.718.", "es": "El número e es aproximadamente 2,718."},
+      {"en": "Use 2.718 for calculations with e.", "es": "Usa 2,718 para cálculos con e."},
+      {"en": "Euler’s number is 2.71828…", "es": "El número de Euler es 2,71828…"},
+      {"en": "Memorize e as two point seven one eight.", "es": "Memoriza e como dos coma siete uno ocho."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_85",
+    "english": "square root of two",
+    "spanish": "raíz cuadrada de dos",
+    "phonetic": "/skwer ruːt əv tuː/",
+    "examples": [
+      {"en": "The square root of two is about 1.414.", "es": "La raíz cuadrada de dos es aproximadamente 1,414."},
+      {"en": "It’s an irrational number: √2.", "es": "Es un número irracional: √2."},
+      {"en": "The diagonal of a unit square is √2.", "es": "La diagonal de un cuadrado unitario es √2."},
+      {"en": "√2 cannot be written as a fraction.", "es": "√2 no se puede escribir como fracción."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_86",
+    "english": "pi",
+    "spanish": "pi",
+    "phonetic": "/paɪ/",
+    "examples": [
+      {"en": "Pi is approximately 3.1416.", "es": "Pi es aproximadamente 3,1416."},
+      {"en": "The area of a circle is πr².", "es": "El área de un círculo es πr²."},
+      {"en": "Pi is an irrational number.", "es": "Pi es un número irracional."},
+      {"en": "Pi Day is on March 14 (3/14).", "es": "El Día de Pi es el 14 de marzo (3/14)."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_87",
+    "english": "zero degrees",
+    "spanish": "cero grados",
+    "phonetic": "/ˈzɪr.oʊ dɪˈɡriːz/",
+    "examples": [
+      {"en": "Water freezes at zero degrees Celsius.", "es": "El agua se congela a cero grados Celsius."},
+      {"en": "It’s zero degrees outside!", "es": "¡Hace cero grados afuera!"},
+      {"en": "Zero degrees Fahrenheit is very cold.", "es": "Cero grados Fahrenheit es muy frío."},
+      {"en": "The thermostat is set to zero degrees.", "es": "El termostato está ajustado a cero grados."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_88",
+    "english": "one hundred degrees",
+    "spanish": "cien grados",
+    "phonetic": "/wʌn ˈhʌn.drəd dɪˈɡriːz/",
+    "examples": [
+      {"en": "Water boils at one hundred degrees Celsius.", "es": "El agua hierve a cien grados Celsius."},
+      {"en": "It’s one hundred degrees in the shade!", "es": "¡Hace cien grados a la sombra!"},
+      {"en": "The fever reached one hundred degrees.", "es": "La fiebre alcanzó cien grados."},
+      {"en": "One hundred degrees Fahrenheit is hot.", "es": "Cien grados Fahrenheit es caluroso."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_89",
+    "english": "minus forty",
+    "spanish": "menos cuarenta",
+    "phonetic": "/ˈmaɪ.nəs ˈfɔːr.ti/",
+    "examples": [
+      {"en": "Minus forty is the same in Celsius and Fahrenheit.", "es": "Menos cuarenta es lo mismo en Celsius y Fahrenheit."},
+      {"en": "It’s minus forty outside!", "es": "¡Hace menos cuarenta afuera!"},
+      {"en": "The temperature dropped to minus forty.", "es": "La temperatura bajó a menos cuarenta."},
+      {"en": "Minus forty is extremely cold.", "es": "Menos cuarenta es extremadamente frío."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_90",
+    "english": "one half",
+    "spanish": "un medio",
+    "phonetic": "/wʌn hæf/",
+    "examples": [
+      {"en": "One half is 0.5 or 50%.", "es": "Un medio es 0,5 o 50%."},
+      {"en": "Give me one half of the apple.", "es": "Dame la mitad de la manzana."},
+      {"en": "One half plus one half equals one.", "es": "Un medio más un medio es igual a uno."},
+      {"en": "The recipe calls for one half cup of sugar.", "es": "La receta pide media taza de azúcar."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_91",
+    "english": "three fifths",
+    "spanish": "tres quintos",
+    "phonetic": "/θriː fɪfθs/",
+    "examples": [
+      {"en": "Three fifths of the students passed.", "es": "Tres quintos de los estudiantes aprobaron."},
+      {"en": "Three fifths is 0.6 or 60%.", "es": "Tres quintos es 0,6 o 60%."},
+      {"en": "He ate three fifths of the cake.", "es": "Él comió tres quintos del pastel."},
+      {"en": "The tank is three fifths full.", "es": "El tanque está tres quintos lleno."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_92",
+    "english": "seven eighths",
+    "spanish": "siete octavos",
+    "phonetic": "/ˈsev.ən eɪts/",
+    "examples": [
+      {"en": "Seven eighths of the work is done.", "es": "Siete octavos del trabajo están hechos."},
+      {"en": "Seven eighths is 0.875.", "es": "Siete octavos es 0,875."},
+      {"en": "The glass is seven eighths full.", "es": "El vaso está siete octavos lleno."},
+      {"en": "Add seven eighths of a cup of flour.", "es": "Añade siete octavos de taza de harina."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_93",
+    "english": "eleventh",
+    "spanish": "undécimo",
+    "phonetic": "/ɪˈlev.ənθ/",
+    "examples": [
+      {"en": "November is the eleventh month.", "es": "Noviembre es el undécimo mes."},
+      {"en": "He finished in eleventh place.", "es": "Él quedó en undécimo lugar."},
+      {"en": "This is my eleventh attempt.", "es": "Este es mi undécimo intento."},
+      {"en": "The eleventh chapter is short.", "es": "El undécimo capítulo es corto."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_94",
+    "english": "twelfth",
+    "spanish": "duodécimo",
+    "phonetic": "/twel fθ/",
+    "examples": [
+      {"en": "December is the twelfth month.", "es": "Diciembre es el duodécimo mes."},
+      {"en": "She came in twelfth place.", "es": "Ella quedó en duodécimo lugar."},
+      {"en": "This is my twelfth birthday.", "es": "Este es mi duodécimo cumpleaños."},
+      {"en": "The twelfth night is a Shakespeare play.", "es": "La duodécima noche es una obra de Shakespeare."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_95",
+    "english": "thirteenth",
+    "spanish": "decimotercero",
+    "phonetic": "/ˌθɝːˈtiːnθ/",
+    "examples": [
+      {"en": "Friday the thirteenth is Friday the 13th.", "es": "El viernes trece es el viernes 13."},
+      {"en": "He lives on the thirteenth floor.", "es": "Él vive en el decimotercer piso."},
+      {"en": "This is my thirteenth try.", "es": "Este es mi decimotercer intento."},
+      {"en": "The thirteenth amendment abolished slavery.", "es": "La decimotercera enmienda abolió la esclavitud."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_96",
+    "english": "twentieth century",
+    "spanish": "siglo veinte",
+    "phonetic": "/ˈtwen.ti.əθ ˈsen.tʃər.i/",
+    "examples": [
+      {"en": "World War II was in the twentieth century.", "es": "La Segunda Guerra Mundial fue en el siglo veinte."},
+      {"en": "The twentieth century saw huge technological advances.", "es": "El siglo veinte vio grandes avances tecnológicos."},
+      {"en": "He was born in the twentieth century.", "es": "Él nació en el siglo veinte."},
+      {"en": "The twentieth century ended in 2000.", "es": "El siglo veinte terminó en el 2000."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_97",
+    "english": "twenty-first century",
+    "spanish": "siglo veintiuno",
+    "phonetic": "/ˌtwen.ti fɝːst ˈsen.tʃər.i/",
+    "examples": [
+      {"en": "We live in the twenty-first century.", "es": "Vivimos en el siglo veintiuno."},
+      {"en": "The twenty-first century began in 2001.", "es": "El siglo veintiuno comenzó en 2001."},
+      {"en": "Technology defines the twenty-first century.", "es": "La tecnología define el siglo veintiuno."},
+      {"en": "Climate change is a key issue of the 21st century.", "es": "El cambio climático es un tema clave del siglo XXI."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_98",
+    "english": "one quarter",
+    "spanish": "un cuarto",
+    "phonetic": "/wʌn ˈkwɔːr.t̬ɚ/",
+    "examples": [
+      {"en": "One quarter is 0.25 or 25%.", "es": "Un cuarto es 0,25 o 25%."},
+      {"en": "Give me one quarter of the pizza.", "es": "Dame un cuarto de la pizza."},
+      {"en": "One quarter plus one half is three quarters.", "es": "Un cuarto más un medio es tres cuartos."},
+      {"en": "The meeting lasted one quarter of an hour.", "es": "La reunión duró un cuarto de hora."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_99",
+    "english": "three point five",
+    "spanish": "tres coma cinco",
+    "phonetic": "/θriː pɔɪnt faɪv/",
+    "examples": [
+      {"en": "The rating is 3.5 stars.", "es": "La calificación es de 3,5 estrellas."},
+      {"en": "He is 3.5 years old.", "es": "Él tiene tres años y medio."},
+      {"en": "The average is 3.5 children per family.", "es": "El promedio es 3,5 hijos por familia."},
+      {"en": "It costs $3.50.", "es": "Cuesta 3,50 dólares."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_100",
+    "english": "zero point two five",
+    "spanish": "cero coma dos cinco",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt tuː faɪv/",
+    "examples": [
+      {"en": "0.25 is the same as one quarter.", "es": "0,25 es lo mismo que un cuarto."},
+      {"en": "Add 0.25 grams of the substance.", "es": "Añade 0,25 gramos de la sustancia."},
+      {"en": "The probability is 0.25, or 25%.", "es": "La probabilidad es 0,25, o 25%."},
+      {"en": "It’s 0.25 degrees above zero.", "es": "Está 0,25 grados por encima de cero."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_101",
+    "english": "one point five",
+    "spanish": "uno coma cinco",
+    "phonetic": "/wʌn pɔɪnt faɪv/",
+    "examples": [
+      {"en": "The baby is one point five years old.", "es": "El bebé tiene un año y medio."},
+      {"en": "The score was 1.5 to 0.", "es": "El marcador fue 1,5 a 0."},
+      {"en": "Add 1.5 cups of milk.", "es": "Añade una taza y media de leche."},
+      {"en": "It’s 1.5 kilometers away.", "es": "Está a 1,5 kilómetros de distancia."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_102",
+    "english": "two point zero",
+    "spanish": "dos coma cero",
+    "phonetic": "/tuː pɔɪnt ˈzɪr.oʊ/",
+    "examples": [
+      {"en": "The version is 2.0.", "es": "La versión es 2.0."},
+      {"en": "His GPA is 2.0.", "es": "Su promedio es 2,0."},
+      {"en": "The rating is two point zero.", "es": "La calificación es dos coma cero."},
+      {"en": "It’s exactly 2.0 meters tall.", "es": "Mide exactamente 2,0 metros."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_103",
+    "english": "four point nine",
+    "spanish": "cuatro coma nueve",
+    "phonetic": "/fɔːr pɔɪnt naɪn/",
+    "examples": [
+      {"en": "The rating is 4.9 out of 5.", "es": "La calificación es 4,9 de 5."},
+      {"en": "The pH is 4.9.", "es": "El pH es 4,9."},
+      {"en": "It costs $4.99, which is almost five.", "es": "Cuesta 4,99 dólares, que es casi cinco."},
+      {"en": "The earthquake measured 4.9 on the Richter scale.", "es": "El terremoto midió 4,9 en la escala Richter."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_104",
+    "english": "nine point nine nine",
+    "spanish": "nueve coma nueve nueve",
+    "phonetic": "/naɪn pɔɪnt naɪn naɪn/",
+    "examples": [
+      {"en": "The price is $9.99.", "es": "El precio es 9,99 dólares."},
+      {"en": "The rating is 9.99, almost perfect.", "es": "La calificación es 9,99, casi perfecta."},
+      {"en": "It’s 9.99 seconds in the 100m dash.", "es": "Son 9,99 segundos en los 100 metros planos."},
+      {"en": "The score was 9.99 out of 10.", "es": "La puntuación fue 9,99 de 10."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_105",
+    "english": "fifty point five",
+    "spanish": "cincuenta coma cinco",
+    "phonetic": "/ˈfɪf.ti pɔɪnt faɪv/",
+    "examples": [
+      {"en": "The temperature is 50.5°F.", "es": "La temperatura es 50,5°F."},
+      {"en": "She weighs 50.5 kilograms.", "es": "Ella pesa 50,5 kilogramos."},
+      {"en": "The result is 50.5 percent.", "es": "El resultado es 50,5 por ciento."},
+      {"en": "He ran 50.5 miles.", "es": "Él corrió 50,5 millas."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_106",
+    "english": "one hundred point one",
+    "spanish": "cien coma uno",
+    "phonetic": "/wʌn ˈhʌn.drəd pɔɪnt wʌn/",
+    "examples": [
+      {"en": "The fever is 100.1°F.", "es": "La fiebre es 100,1°F."},
+      {"en": "The score was 100.1 points.", "es": "La puntuación fue 100,1 puntos."},
+      {"en": "It’s 100.1 degrees in the desert.", "es": "Hace 100,1 grados en el desierto."},
+      {"en": "The measurement is 100.1 cm.", "es": "La medición es 100,1 cm."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_107",
+    "english": "two thousand ten",
+    "spanish": "dos mil diez",
+    "phonetic": "/tuː ˈθaʊ.zənd ten/",
+    "examples": [
+      {"en": "The World Cup was in two thousand ten.", "es": "El Mundial fue en dos mil diez."},
+      {"en": "He graduated in 2010.", "es": "Él se graduó en 2010."},
+      {"en": "The iPad was released in two thousand ten.", "es": "El iPad se lanzó en dos mil diez."},
+      {"en": "Two thousand ten was a great year.", "es": "Dos mil diez fue un gran año."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_108",
+    "english": "two thousand twenty",
+    "spanish": "dos mil veinte",
+    "phonetic": "/tuː ˈθaʊ.zənd ˈtwen.ti/",
+    "examples": [
+      {"en": "The pandemic started in two thousand twenty.", "es": "La pandemia empezó en dos mil veinte."},
+      {"en": "He was born in 2020.", "es": "Él nació en 2020."},
+      {"en": "The Tokyo Olympics were postponed to 2021 from 2020.", "es": "Los Juegos Olímpicos de Tokio se pospusieron a 2021 desde 2020."},
+      {"en": "Two thousand twenty was a leap year.", "es": "Dos mil veinte fue un año bisiesto."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_109",
+    "english": "nineteen hundred",
+    "spanish": "mil novecientos",
+    "phonetic": "/ˌnaɪnˈtiːn ˈhʌn.drəd/",
+    "examples": [
+      {"en": "The house was built in nineteen hundred.", "es": "La casa se construyó en mil novecientos."},
+      {"en": "Nineteen hundred is the same as 1900.", "es": "Mil novecientos es lo mismo que 1900."},
+      {"en": "The style is from the nineteen hundreds.", "es": "El estilo es de los años mil novecientos."},
+      {"en": "He was born in the nineteen hundreds.", "es": "Él nació en los años mil novecientos."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_110",
+    "english": "two thousand and one",
+    "spanish": "dos mil uno",
+    "phonetic": "/tuː ˈθaʊ.zənd ən wʌn/",
+    "examples": [
+      {"en": "The attacks happened in two thousand and one.", "es": "Los ataques ocurrieron en dos mil uno."},
+      {"en": "He moved to New York in 2001.", "es": "Él se mudó a Nueva York en 2001."},
+      {"en": "Two thousand and one changed the world.", "es": "Dos mil uno cambió el mundo."},
+      {"en": "The movie came out in two thousand and one.", "es": "La película salió en dos mil uno."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_111",
+    "english": "one two three",
+    "spanish": "uno dos tres",
+    "phonetic": "/wʌn tuː θriː/",
+    "examples": [
+      {"en": "Count with me: one, two, three!", "es": "¡Cuenta conmigo: uno, dos, tres!"},
+      {"en": "The code is one-two-three.", "es": "El código es uno-dos-tres."},
+      {"en": "One two three, go!", "es": "Uno dos tres, ¡ya!"},
+      {"en": "Dial one two three for customer service.", "es": "Marca uno dos tres para servicio al cliente."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_112",
+    "english": "four five six",
+    "spanish": "cuatro cinco seis",
+    "phonetic": "/fɔːr faɪv sɪks/",
+    "examples": [
+      {"en": "The extension is four-five-six.", "es": "La extensión es cuatro-cinco-seis."},
+      {"en": "The password starts with 456.", "es": "La contraseña empieza con 456."},
+      {"en": "Four five six is a common PIN.", "es": "Cuatro cinco seis es un PIN común."},
+      {"en": "Say the numbers: four, five, six.", "es": "Di los números: cuatro, cinco, seis."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_113",
+    "english": "seven eight nine",
+    "spanish": "siete ocho nueve",
+    "phonetic": "/ˈsev.ən eɪt naɪn/",
+    "examples": [
+      {"en": "The code ends with seven-eight-nine.", "es": "El código termina con siete-ocho-nueve."},
+      {"en": "Repeat after me: seven, eight, nine.", "es": "Repite después de mí: siete, ocho, nueve."},
+      {"en": "The combination is 789.", "es": "La combinación es 789."},
+      {"en": "Seven eight nine is easy to remember.", "es": "Siete ocho nueve es fácil de recordar."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_114",
+    "english": "zero one two",
+    "spanish": "cero uno dos",
+    "phonetic": "/ˈzɪr.oʊ wʌn tuː/",
+    "examples": [
+      {"en": "The binary code starts with 012.", "es": "El código binario empieza con 012."},
+      {"en": "Say the digits: zero, one, two.", "es": "Di los dígitos: cero, uno, dos."},
+      {"en": "The model number is zero-one-two.", "es": "El número de modelo es cero-uno-dos."},
+      {"en": "Dial zero one two for tech support.", "es": "Marca cero uno dos para soporte técnico."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_115",
+    "english": "double zero",
+    "spanish": "doble cero",
+    "phonetic": "/ˈdʌb.əl ˈzɪr.oʊ/",
+    "examples": [
+      {"en": "James Bond is agent double zero seven.", "es": "James Bond es el agente doble cero siete."},
+      {"en": "The code has double zero at the end.", "es": "El código tiene doble cero al final."},
+      {"en": "Double zero means 00.", "es": "Doble cero significa 00."},
+      {"en": "In roulette, double zero is a green slot.", "es": "En la ruleta, el doble cero es una casilla verde."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_116",
+    "english": "triple nine",
+    "spanish": "triple nueve",
+    "phonetic": "/ˈtrɪp.əl naɪn/",
+    "examples": [
+      {"en": "The emergency number in some countries is triple nine.", "es": "El número de emergencia en algunos países es triple nueve."},
+      {"en": "His rating is triple nine: 999.", "es": "Su calificación es triple nueve: 999."},
+      {"en": "Triple nine steel is very pure.", "es": "El acero triple nueve es muy puro."},
+      {"en": "The code is triple nine.", "es": "El código es triple nueve."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_117",
+    "english": "one oh one",
+    "spanish": "uno cero uno",
+    "phonetic": "/wʌn oʊ wʌn/",
+    "examples": [
+      {"en": "Psychology 101 is an intro course.", "es": "Psicología 101 es un curso introductorio."},
+      {"en": "The room number is one-oh-one.", "es": "El número de habitación es uno-cero-uno."},
+      {"en": "Marketing 101: know your audience.", "es": "Marketing 101: conoce a tu audiencia."},
+      {"en": "It’s Computer Science one-oh-one.", "es": "Es Ciencias de la Computación uno-cero-uno."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_118",
+    "english": "five hundred percent",
+    "spanish": "quinientos por ciento",
+    "phonetic": "/faɪv ˈhʌn.drəd pɚˈsen t/",
+    "examples": [
+      {"en": "Sales increased by five hundred percent.", "es": "Las ventas aumentaron en quinientos por ciento."},
+      {"en": "He gave five hundred percent effort.", "es": "Él dio un quinientos por ciento de esfuerzo."},
+      {"en": "Five hundred percent is five times the original.", "es": "Quinientos por ciento es cinco veces el original."},
+      {"en": "The stock rose five hundred percent.", "es": "La acción subió quinientos por ciento."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_119",
+    "english": "zero percent",
+    "spanish": "cero por ciento",
+    "phonetic": "/ˈzɪr.oʊ pɚˈsen t/",
+    "examples": [
+      {"en": "There is zero percent chance of rain.", "es": "Hay cero por ciento de probabilidad de lluvia."},
+      {"en": "He got zero percent on the test.", "es": "Él obtuvo cero por ciento en el examen."},
+      {"en": "Zero percent interest for 12 months.", "es": "Cero por ciento de interés durante 12 meses."},
+      {"en": "The battery is at zero percent.", "es": "La batería está al cero por ciento."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_120",
+    "english": "one hundred twenty",
+    "spanish": "ciento veinte",
+    "phonetic": "/wʌn ˈhʌn.drəd ˈtwen.ti/",
+    "examples": [
+      {"en": "The speed limit is one hundred twenty km/h.", "es": "El límite de velocidad es ciento veinte km/h."},
+      {"en": "He scored one hundred twenty points.", "es": "Él obtuvo ciento veinte puntos."},
+      {"en": "The temperature reached one hundred twenty.", "es": "La temperatura alcanzó ciento veinte."},
+      {"en": "One hundred twenty students enrolled.", "es": "Ciento veinte estudiantes se inscribieron."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_121",
+    "english": "three hundred sixty-five",
+    "spanish": "trescientos sesenta y cinco",
+    "phonetic": "/θriː ˈhʌn.drəd ˈsɪk.sti faɪv/",
+    "examples": [
+      {"en": "There are three hundred sixty-five days in a year.", "es": "Hay trescientos sesenta y cinco días en un año."},
+      {"en": "He has been working there for 365 days.", "es": "Él ha estado trabajando allí durante 365 días."},
+      {"en": "The project lasted three hundred sixty-five days.", "es": "El proyecto duró trescientos sesenta y cinco días."},
+      {"en": "Day three hundred sixty-five is the last day.", "es": "El día trescientos sesenta y cinco es el último día."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_122",
+    "english": "one thousand two hundred",
+    "spanish": "mil doscientos",
+    "phonetic": "/wʌn ˈθaʊ.zənd tuː ˈhʌn.drəd/",
+    "examples": [
+      {"en": "The population is one thousand two hundred.", "es": "La población es mil doscientos."},
+      {"en": "The year one thousand two hundred was medieval.", "es": "El año mil doscientos fue medieval."},
+      {"en": "He saved one thousand two hundred dollars.", "es": "Él ahorró mil doscientos dólares."},
+      {"en": "The altitude is 1,200 meters.", "es": "La altitud es 1.200 metros."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_123",
+    "english": "five thousand",
+    "spanish": "cinco mil",
+    "phonetic": "/faɪv ˈθaʊ.zənd/",
+    "examples": [
+      {"en": "The car costs five thousand dollars.", "es": "El coche cuesta cinco mil dólares."},
+      {"en": "Five thousand people attended the concert.", "es": "Cinco mil personas asistieron al concierto."},
+      {"en": "He ran five thousand meters.", "es": "Él corrió cinco mil metros."},
+      {"en": "The year five thousand is far in the future.", "es": "El año cinco mil está lejos en el futuro."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_124",
+    "english": "ten thousand five hundred",
+    "spanish": "diez mil quinientos",
+    "phonetic": "/ten ˈθaʊ.zənd faɪv ˈhʌn.drəd/",
+    "examples": [
+      {"en": "The city has ten thousand five hundred residents.", "es": "La ciudad tiene diez mil quinientos habitantes."},
+      {"en": "He earns ten thousand five hundred a month.", "es": "Él gana diez mil quinientos al mes."},
+      {"en": "The distance is 10,500 kilometers.", "es": "La distancia es 10.500 kilómetros."},
+      {"en": "The year ten thousand five hundred is speculative.", "es": "El año diez mil quinientos es especulativo."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_125",
+    "english": "one million five hundred thousand",
+    "spanish": "un millón quinientos mil",
+    "phonetic": "/wʌn ˈmɪl.jən faɪv ˈhʌn.drəd ˈθaʊ.zənd/",
+    "examples": [
+      {"en": "The budget is one million five hundred thousand dollars.", "es": "El presupuesto es un millón quinientos mil dólares."},
+      {"en": "The population is 1,500,000.", "es": "La población es 1.500.000."},
+      {"en": "He donated one million five hundred thousand.", "es": "Él donó un millón quinientos mil."},
+      {"en": "The company earned 1.5 million last year.", "es": "La empresa ganó 1,5 millones el año pasado."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_126",
+    "english": "two point two",
+    "spanish": "dos coma dos",
+    "phonetic": "/tuː pɔɪnt tuː/",
+    "examples": [
+      {"en": "The rating is 2.2 out of 5.", "es": "La calificación es 2,2 de 5."},
+      {"en": "He is 2.2 meters tall.", "es": "Él mide 2,2 metros."},
+      {"en": "The average is 2.2 children per woman.", "es": "El promedio es 2,2 hijos por mujer."},
+      {"en": "It costs $2.20.", "es": "Cuesta 2,20 dólares."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_127",
+    "english": "three point three",
+    "spanish": "tres coma tres",
+    "phonetic": "/θriː pɔɪnt θriː/",
+    "examples": [
+      {"en": "The score was 3.3.", "es": "La puntuación fue 3,3."},
+      {"en": "The pH is 3.3.", "es": "El pH es 3,3."},
+      {"en": "It’s 3.3 kilometers away.", "es": "Está a 3,3 kilómetros de distancia."},
+      {"en": "The version is 3.3.", "es": "La versión es 3.3."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_128",
+    "english": "four point four",
+    "spanish": "cuatro coma cuatro",
+    "phonetic": "/fɔːr pɔɪnt fɔːr/",
+    "examples": [
+      {"en": "The rating is 4.4 stars.", "es": "La calificación es de 4,4 estrellas."},
+      {"en": "The earthquake was 4.4 on the scale.", "es": "El terremoto fue de 4,4 en la escala."},
+      {"en": "It costs $4.40.", "es": "Cuesta 4,40 dólares."},
+      {"en": "The temperature is 4.4°C.", "es": "La temperatura es 4,4°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_129",
+    "english": "five point five",
+    "spanish": "cinco coma cinco",
+    "phonetic": "/faɪv pɔɪnt faɪv/",
+    "examples": [
+      {"en": "The rating is 5.5 out of 10.", "es": "La calificación es 5,5 de 10."},
+      {"en": "He is 5.5 feet tall.", "es": "Él mide 5,5 pies."},
+      {"en": "The average is 5.5.", "es": "El promedio es 5,5."},
+      {"en": "It’s 5.5 miles to the next town.", "es": "Hay 5,5 millas hasta la próxima ciudad."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_130",
+    "english": "six point six",
+    "spanish": "seis coma seis",
+    "phonetic": "/sɪks pɔɪnt sɪks/",
+    "examples": [
+      {"en": "The score was 6.6.", "es": "La puntuación fue 6,6."},
+      {"en": "The version is 6.6.", "es": "La versión es 6.6."},
+      {"en": "It costs $6.60.", "es": "Cuesta 6,60 dólares."},
+      {"en": "The pH is 6.6.", "es": "El pH es 6,6."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_131",
+    "english": "seven point seven",
+    "spanish": "siete coma siete",
+    "phonetic": "/ˈsev.ən pɔɪnt ˈsev.ən/",
+    "examples": [
+      {"en": "The earthquake was 7.7 magnitude.", "es": "El terremoto fue de magnitud 7,7."},
+      {"en": "The rating is 7.7 out of 10.", "es": "La calificación es 7,7 de 10."},
+      {"en": "It’s 7.7 kilometers long.", "es": "Mide 7,7 kilómetros de largo."},
+      {"en": "The temperature is 7.7°C.", "es": "La temperatura es 7,7°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_132",
+    "english": "eight point eight",
+    "spanish": "ocho coma ocho",
+    "phonetic": "/eɪt pɔɪnt eɪt/",
+    "examples": [
+      {"en": "The rating is 8.8.", "es": "La calificación es 8,8."},
+      {"en": "The version is 8.8.", "es": "La versión es 8.8."},
+      {"en": "It costs $8.80.", "es": "Cuesta 8,80 dólares."},
+      {"en": "The pH is 8.8.", "es": "El pH es 8,8."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_133",
+    "english": "nine point nine",
+    "spanish": "nueve coma nueve",
+    "phonetic": "/naɪn pɔɪnt naɪn/",
+    "examples": [
+      {"en": "The rating is 9.9 out of 10.", "es": "La calificación es 9,9 de 10."},
+      {"en": "The earthquake was 9.9, but that’s impossible.", "es": "El terremoto fue de 9,9, pero eso es imposible."},
+      {"en": "It’s 9.9 miles away.", "es": "Está a 9,9 millas de distancia."},
+      {"en": "The score was 9.9.", "es": "La puntuación fue 9,9."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_134",
+    "english": "zero point nine",
+    "spanish": "cero coma nueve",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt naɪn/",
+    "examples": [
+      {"en": "The probability is 0.9, or 90%.", "es": "La probabilidad es 0,9, o 90%."},
+      {"en": "Add 0.9 grams of salt.", "es": "Añade 0,9 gramos de sal."},
+      {"en": "It’s 0.9 degrees below zero.", "es": "Está 0,9 grados bajo cero."},
+      {"en": "The rating is 0.9, very low.", "es": "La calificación es 0,9, muy baja."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_135",
+    "english": "one point one",
+    "spanish": "uno coma uno",
+    "phonetic": "/wʌn pɔɪnt wʌn/",
+    "examples": [
+      {"en": "The version is 1.1.", "es": "La versión es 1.1."},
+      {"en": "The rating is 1.1 out of 5.", "es": "La calificación es 1,1 de 5."},
+      {"en": "It’s 1.1 meters tall.", "es": "Mide 1,1 metros."},
+      {"en": "The score was 1.1.", "es": "La puntuación fue 1,1."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_136",
+    "english": "two point three",
+    "spanish": "dos coma tres",
+    "phonetic": "/tuː pɔɪnt θriː/",
+    "examples": [
+      {"en": "The rating is 2.3.", "es": "La calificación es 2,3."},
+      {"en": "The pH is 2.3.", "es": "El pH es 2,3."},
+      {"en": "It costs $2.30.", "es": "Cuesta 2,30 dólares."},
+      {"en": "The earthquake was 2.3.", "es": "El terremoto fue de 2,3."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_137",
+    "english": "three point seven",
+    "spanish": "tres coma siete",
+    "phonetic": "/θriː pɔɪnt ˈsev.ən/",
+    "examples": [
+      {"en": "The rating is 3.7 out of 5.", "es": "La calificación es 3,7 de 5."},
+      {"en": "His GPA is 3.7.", "es": "Su promedio es 3,7."},
+      {"en": "It’s 3.7 kilometers away.", "es": "Está a 3,7 kilómetros de distancia."},
+      {"en": "The temperature is 3.7°C.", "es": "La temperatura es 3,7°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_138",
+    "english": "four point six",
+    "spanish": "cuatro coma seis",
+    "phonetic": "/fɔːr pɔɪnt sɪks/",
+    "examples": [
+      {"en": "The rating is 4.6 stars.", "es": "La calificación es de 4,6 estrellas."},
+      {"en": "The earthquake was 4.6.", "es": "El terremoto fue de 4,6."},
+      {"en": "It costs $4.60.", "es": "Cuesta 4,60 dólares."},
+      {"en": "The pH is 4.6.", "es": "El pH es 4,6."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_139",
+    "english": "five point eight",
+    "spanish": "cinco coma ocho",
+    "phonetic": "/faɪv pɔɪnt eɪt/",
+    "examples": [
+      {"en": "The rating is 5.8 out of 10.", "es": "La calificación es 5,8 de 10."},
+      {"en": "The version is 5.8.", "es": "La versión es 5.8."},
+      {"en": "It’s 5.8 miles to the beach.", "es": "Hay 5,8 millas hasta la playa."},
+      {"en": "The temperature is 5.8°C.", "es": "La temperatura es 5,8°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_140",
+    "english": "six point nine",
+    "spanish": "seis coma nueve",
+    "phonetic": "/sɪks pɔɪnt naɪn/",
+    "examples": [
+      {"en": "The rating is 6.9.", "es": "La calificación es 6,9."},
+      {"en": "The earthquake was 6.9.", "es": "El terremoto fue de 6,9."},
+      {"en": "It costs $6.90.", "es": "Cuesta 6,90 dólares."},
+      {"en": "The pH is 6.9.", "es": "El pH es 6,9."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_141",
+    "english": "seven point one",
+    "spanish": "siete coma uno",
+    "phonetic": "/ˈsev.ən pɔɪnt wʌn/",
+    "examples": [
+      {"en": "The rating is 7.1 out of 10.", "es": "La calificación es 7,1 de 10."},
+      {"en": "The earthquake was 7.1.", "es": "El terremoto fue de 7,1."},
+      {"en": "It’s 7.1 kilometers long.", "es": "Mide 7,1 kilómetros de largo."},
+      {"en": "The temperature is 7.1°C.", "es": "La temperatura es 7,1°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_142",
+    "english": "eight point two",
+    "spanish": "ocho coma dos",
+    "phonetic": "/eɪt pɔɪnt tuː/",
+    "examples": [
+      {"en": "The rating is 8.2.", "es": "La calificación es 8,2."},
+      {"en": "The version is 8.2.", "es": "La versión es 8.2."},
+      {"en": "It costs $8.20.", "es": "Cuesta 8,20 dólares."},
+      {"en": "The pH is 8.2.", "es": "El pH es 8,2."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_143",
+    "english": "nine point three",
+    "spanish": "nueve coma tres",
+    "phonetic": "/naɪn pɔɪnt θriː/",
+    "examples": [
+      {"en": "The rating is 9.3 out of 10.", "es": "La calificación es 9,3 de 10."},
+      {"en": "The earthquake was 9.3.", "es": "El terremoto fue de 9,3."},
+      {"en": "It’s 9.3 miles away.", "es": "Está a 9,3 millas de distancia."},
+      {"en": "The score was 9.3.", "es": "La puntuación fue 9,3."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_144",
+    "english": "zero point three",
+    "spanish": "cero coma tres",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt θriː/",
+    "examples": [
+      {"en": "The probability is 0.3, or 30%.", "es": "La probabilidad es 0,3, o 30%."},
+      {"en": "Add 0.3 grams of powder.", "es": "Añade 0,3 gramos de polvo."},
+      {"en": "It’s 0.3 degrees above zero.", "es": "Está 0,3 grados por encima de cero."},
+      {"en": "The rating is 0.3, very poor.", "es": "La calificación es 0,3, muy mala."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_145",
+    "english": "one point four",
+    "spanish": "uno coma cuatro",
+    "phonetic": "/wʌn pɔɪnt fɔːr/",
+    "examples": [
+      {"en": "The rating is 1.4 out of 5.", "es": "La calificación es 1,4 de 5."},
+      {"en": "The version is 1.4.", "es": "La versión es 1.4."},
+      {"en": "It’s 1.4 meters tall.", "es": "Mide 1,4 metros."},
+      {"en": "The score was 1.4.", "es": "La puntuación fue 1,4."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_146",
+    "english": "two point six",
+    "spanish": "dos coma seis",
+    "phonetic": "/tuː pɔɪnt sɪks/",
+    "examples": [
+      {"en": "The rating is 2.6.", "es": "La calificación es 2,6."},
+      {"en": "The pH is 2.6.", "es": "El pH es 2,6."},
+      {"en": "It costs $2.60.", "es": "Cuesta 2,60 dólares."},
+      {"en": "The earthquake was 2.6.", "es": "El terremoto fue de 2,6."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_147",
+    "english": "three point nine",
+    "spanish": "tres coma nueve",
+    "phonetic": "/θriː pɔɪnt naɪn/",
+    "examples": [
+      {"en": "The rating is 3.9 out of 5.", "es": "La calificación es 3,9 de 5."},
+      {"en": "His GPA is 3.9.", "es": "Su promedio es 3,9."},
+      {"en": "It’s 3.9 kilometers away.", "es": "Está a 3,9 kilómetros de distancia."},
+      {"en": "The temperature is 3.9°C.", "es": "La temperatura es 3,9°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_148",
+    "english": "four point one",
+    "spanish": "cuatro coma uno",
+    "phonetic": "/fɔːr pɔɪnt wʌn/",
+    "examples": [
+      {"en": "The rating is 4.1 stars.", "es": "La calificación es de 4,1 estrellas."},
+      {"en": "The earthquake was 4.1.", "es": "El terremoto fue de 4,1."},
+      {"en": "It costs $4.10.", "es": "Cuesta 4,10 dólares."},
+      {"en": "The pH is 4.1.", "es": "El pH es 4,1."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_149",
+    "english": "five point two",
+    "spanish": "cinco coma dos",
+    "phonetic": "/faɪv pɔɪnt tuː/",
+    "examples": [
+      {"en": "The rating is 5.2 out of 10.", "es": "La calificación es 5,2 de 10."},
+      {"en": "The version is 5.2.", "es": "La versión es 5.2."},
+      {"en": "It’s 5.2 miles to the park.", "es": "Hay 5,2 millas hasta el parque."},
+      {"en": "The temperature is 5.2°C.", "es": "La temperatura es 5,2°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_150",
+    "english": "six point three",
+    "spanish": "seis coma tres",
+    "phonetic": "/sɪks pɔɪnt θriː/",
+    "examples": [
+      {"en": "The rating is 6.3.", "es": "La calificación es 6,3."},
+      {"en": "The earthquake was 6.3.", "es": "El terremoto fue de 6,3."},
+      {"en": "It costs $6.30.", "es": "Cuesta 6,30 dólares."},
+      {"en": "The pH is 6.3.", "es": "El pH es 6,3."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_151",
+    "english": "seven point four",
+    "spanish": "siete coma cuatro",
+    "phonetic": "/ˈsev.ən pɔɪnt fɔːr/",
+    "examples": [
+      {"en": "The rating is 7.4 out of 10.", "es": "La calificación es 7,4 de 10."},
+      {"en": "The earthquake was 7.4.", "es": "El terremoto fue de 7,4."},
+      {"en": "It’s 7.4 kilometers long.", "es": "Mide 7,4 kilómetros de largo."},
+      {"en": "The temperature is 7.4°C.", "es": "La temperatura es 7,4°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_152",
+    "english": "eight point five",
+    "spanish": "ocho coma cinco",
+    "phonetic": "/eɪt pɔɪnt faɪv/",
+    "examples": [
+      {"en": "The rating is 8.5.", "es": "La calificación es 8,5."},
+      {"en": "The version is 8.5.", "es": "La versión es 8.5."},
+      {"en": "It costs $8.50.", "es": "Cuesta 8,50 dólares."},
+      {"en": "The pH is 8.5.", "es": "El pH es 8,5."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_153",
+    "english": "nine point six",
+    "spanish": "nueve coma seis",
+    "phonetic": "/naɪn pɔɪnt sɪks/",
+    "examples": [
+      {"en": "The rating is 9.6 out of 10.", "es": "La calificación es 9,6 de 10."},
+      {"en": "The earthquake was 9.6.", "es": "El terremoto fue de 9,6."},
+      {"en": "It’s 9.6 miles away.", "es": "Está a 9,6 millas de distancia."},
+      {"en": "The score was 9.6.", "es": "La puntuación fue 9,6."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_154",
+    "english": "zero point four",
+    "spanish": "cero coma cuatro",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt fɔːr/",
+    "examples": [
+      {"en": "The probability is 0.4, or 40%.", "es": "La probabilidad es 0,4, o 40%."},
+      {"en": "Add 0.4 grams of salt.", "es": "Añade 0,4 gramos de sal."},
+      {"en": "It’s 0.4 degrees below zero.", "es": "Está 0,4 grados bajo cero."},
+      {"en": "The rating is 0.4, very low.", "es": "La calificación es 0,4, muy baja."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_155",
+    "english": "one point six",
+    "spanish": "uno coma seis",
+    "phonetic": "/wʌn pɔɪnt sɪks/",
+    "examples": [
+      {"en": "The rating is 1.6 out of 5.", "es": "La calificación es 1,6 de 5."},
+      {"en": "The version is 1.6.", "es": "La versión es 1.6."},
+      {"en": "It’s 1.6 meters tall.", "es": "Mide 1,6 metros."},
+      {"en": "The score was 1.6.", "es": "La puntuación fue 1,6."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_156",
+    "english": "two point eight",
+    "spanish": "dos coma ocho",
+    "phonetic": "/tuː pɔɪnt eɪt/",
+    "examples": [
+      {"en": "The rating is 2.8.", "es": "La calificación es 2,8."},
+      {"en": "The pH is 2.8.", "es": "El pH es 2,8."},
+      {"en": "It costs $2.80.", "es": "Cuesta 2,80 dólares."},
+      {"en": "The earthquake was 2.8.", "es": "El terremoto fue de 2,8."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_157",
+    "english": "three point two",
+    "spanish": "tres coma dos",
+    "phonetic": "/θriː pɔɪnt tuː/",
+    "examples": [
+      {"en": "The rating is 3.2 out of 5.", "es": "La calificación es 3,2 de 5."},
+      {"en": "His GPA is 3.2.", "es": "Su promedio es 3,2."},
+      {"en": "It’s 3.2 kilometers away.", "es": "Está a 3,2 kilómetros de distancia."},
+      {"en": "The temperature is 3.2°C.", "es": "La temperatura es 3,2°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_158",
+    "english": "four point three",
+    "spanish": "cuatro coma tres",
+    "phonetic": "/fɔːr pɔɪnt θriː/",
+    "examples": [
+      {"en": "The rating is 4.3 stars.", "es": "La calificación es de 4,3 estrellas."},
+      {"en": "The earthquake was 4.3.", "es": "El terremoto fue de 4,3."},
+      {"en": "It costs $4.30.", "es": "Cuesta 4,30 dólares."},
+      {"en": "The pH is 4.3.", "es": "El pH es 4,3."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_159",
+    "english": "five point four",
+    "spanish": "cinco coma cuatro",
+    "phonetic": "/faɪv pɔɪnt fɔːr/",
+    "examples": [
+      {"en": "The rating is 5.4 out of 10.", "es": "La calificación es 5,4 de 10."},
+      {"en": "The version is 5.4.", "es": "La versión es 5.4."},
+      {"en": "It’s 5.4 miles to the lake.", "es": "Hay 5,4 millas hasta el lago."},
+      {"en": "The temperature is 5.4°C.", "es": "La temperatura es 5,4°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_160",
+    "english": "six point five",
+    "spanish": "seis coma cinco",
+    "phonetic": "/sɪks pɔɪnt faɪv/",
+    "examples": [
+      {"en": "The rating is 6.5.", "es": "La calificación es 6,5."},
+      {"en": "The earthquake was 6.5.", "es": "El terremoto fue de 6,5."},
+      {"en": "It costs $6.50.", "es": "Cuesta 6,50 dólares."},
+      {"en": "The pH is 6.5.", "es": "El pH es 6,5."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_161",
+    "english": "seven point six",
+    "spanish": "siete coma seis",
+    "phonetic": "/ˈsev.ən pɔɪnt sɪks/",
+    "examples": [
+      {"en": "The rating is 7.6 out of 10.", "es": "La calificación es 7,6 de 10."},
+      {"en": "The earthquake was 7.6.", "es": "El terremoto fue de 7,6."},
+      {"en": "It’s 7.6 kilometers long.", "es": "Mide 7,6 kilómetros de largo."},
+      {"en": "The temperature is 7.6°C.", "es": "La temperatura es 7,6°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_162",
+    "english": "eight point seven",
+    "spanish": "ocho coma siete",
+    "phonetic": "/eɪt pɔɪnt ˈsev.ən/",
+    "examples": [
+      {"en": "The rating is 8.7.", "es": "La calificación es 8,7."},
+      {"en": "The version is 8.7.", "es": "La versión es 8.7."},
+      {"en": "It costs $8.70.", "es": "Cuesta 8,70 dólares."},
+      {"en": "The pH is 8.7.", "es": "El pH es 8,7."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_163",
+    "english": "nine point eight",
+    "spanish": "nueve coma ocho",
+    "phonetic": "/naɪn pɔɪnt eɪt/",
+    "examples": [
+      {"en": "The rating is 9.8 out of 10.", "es": "La calificación es 9,8 de 10."},
+      {"en": "The earthquake was 9.8.", "es": "El terremoto fue de 9,8."},
+      {"en": "It’s 9.8 miles away.", "es": "Está a 9,8 millas de distancia."},
+      {"en": "The score was 9.8.", "es": "La puntuación fue 9,8."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_164",
+    "english": "zero point six",
+    "spanish": "cero coma seis",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt sɪks/",
+    "examples": [
+      {"en": "The probability is 0.6, or 60%.", "es": "La probabilidad es 0,6, o 60%."},
+      {"en": "Add 0.6 grams of sugar.", "es": "Añade 0,6 gramos de azúcar."},
+      {"en": "It’s 0.6 degrees above zero.", "es": "Está 0,6 grados por encima de cero."},
+      {"en": "The rating is 0.6, low.", "es": "La calificación es 0,6, baja."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_165",
+    "english": "one point seven",
+    "spanish": "uno coma siete",
+    "phonetic": "/wʌn pɔɪnt ˈsev.ən/",
+    "examples": [
+      {"en": "The rating is 1.7 out of 5.", "es": "La calificación es 1,7 de 5."},
+      {"en": "The version is 1.7.", "es": "La versión es 1.7."},
+      {"en": "It’s 1.7 meters tall.", "es": "Mide 1,7 metros."},
+      {"en": "The score was 1.7.", "es": "La puntuación fue 1,7."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_166",
+    "english": "two point nine",
+    "spanish": "dos coma nueve",
+    "phonetic": "/tuː pɔɪnt naɪn/",
+    "examples": [
+      {"en": "The rating is 2.9.", "es": "La calificación es 2,9."},
+      {"en": "The pH is 2.9.", "es": "El pH es 2,9."},
+      {"en": "It costs $2.90.", "es": "Cuesta 2,90 dólares."},
+      {"en": "The earthquake was 2.9.", "es": "El terremoto fue de 2,9."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_167",
+    "english": "three point four",
+    "spanish": "tres coma cuatro",
+    "phonetic": "/θriː pɔɪnt fɔːr/",
+    "examples": [
+      {"en": "The rating is 3.4 out of 5.", "es": "La calificación es 3,4 de 5."},
+      {"en": "His GPA is 3.4.", "es": "Su promedio es 3,4."},
+      {"en": "It’s 3.4 kilometers away.", "es": "Está a 3,4 kilómetros de distancia."},
+      {"en": "The temperature is 3.4°C.", "es": "La temperatura es 3,4°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_168",
+    "english": "four point five",
+    "spanish": "cuatro coma cinco",
+    "phonetic": "/fɔːr pɔɪnt faɪv/",
+    "examples": [
+      {"en": "The rating is 4.5 stars.", "es": "La calificación es de 4,5 estrellas."},
+      {"en": "The earthquake was 4.5.", "es": "El terremoto fue de 4,5."},
+      {"en": "It costs $4.50.", "es": "Cuesta 4,50 dólares."},
+      {"en": "The pH is 4.5.", "es": "El pH es 4,5."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_169",
+    "english": "five point six",
+    "spanish": "cinco coma seis",
+    "phonetic": "/faɪv pɔɪnt sɪks/",
+    "examples": [
+      {"en": "The rating is 5.6 out of 10.", "es": "La calificación es 5,6 de 10."},
+      {"en": "The version is 5.6.", "es": "La versión es 5.6."},
+      {"en": "It’s 5.6 miles to the station.", "es": "Hay 5,6 millas hasta la estación."},
+      {"en": "The temperature is 5.6°C.", "es": "La temperatura es 5,6°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_170",
+    "english": "six point seven",
+    "spanish": "seis coma siete",
+    "phonetic": "/sɪks pɔɪnt ˈsev.ən/",
+    "examples": [
+      {"en": "The rating is 6.7.", "es": "La calificación es 6,7."},
+      {"en": "The earthquake was 6.7.", "es": "El terremoto fue de 6,7."},
+      {"en": "It costs $6.70.", "es": "Cuesta 6,70 dólares."},
+      {"en": "The pH is 6.7.", "es": "El pH es 6,7."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_171",
+    "english": "seven point eight",
+    "spanish": "siete coma ocho",
+    "phonetic": "/ˈsev.ən pɔɪnt eɪt/",
+    "examples": [
+      {"en": "The rating is 7.8 out of 10.", "es": "La calificación es 7,8 de 10."},
+      {"en": "The earthquake was 7.8.", "es": "El terremoto fue de 7,8."},
+      {"en": "It’s 7.8 kilometers long.", "es": "Mide 7,8 kilómetros de largo."},
+      {"en": "The temperature is 7.8°C.", "es": "La temperatura es 7,8°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_172",
+    "english": "eight point nine",
+    "spanish": "ocho coma nueve",
+    "phonetic": "/eɪt pɔɪnt naɪn/",
+    "examples": [
+      {"en": "The rating is 8.9.", "es": "La calificación es 8,9."},
+      {"en": "The version is 8.9.", "es": "La versión es 8.9."},
+      {"en": "It costs $8.90.", "es": "Cuesta 8,90 dólares."},
+      {"en": "The pH is 8.9.", "es": "El pH es 8,9."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_173",
+    "english": "nine point one",
+    "spanish": "nueve coma uno",
+    "phonetic": "/naɪn pɔɪnt wʌn/",
+    "examples": [
+      {"en": "The rating is 9.1 out of 10.", "es": "La calificación es 9,1 de 10."},
+      {"en": "The earthquake was 9.1.", "es": "El terremoto fue de 9,1."},
+      {"en": "It’s 9.1 miles away.", "es": "Está a 9,1 millas de distancia."},
+      {"en": "The score was 9.1.", "es": "La puntuación fue 9,1."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_174",
+    "english": "zero point seven",
+    "spanish": "cero coma siete",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt ˈsev.ən/",
+    "examples": [
+      {"en": "The probability is 0.7, or 70%.", "es": "La probabilidad es 0,7, o 70%."},
+      {"en": "Add 0.7 grams of spice.", "es": "Añade 0,7 gramos de especia."},
+      {"en": "It’s 0.7 degrees below zero.", "es": "Está 0,7 grados bajo cero."},
+      {"en": "The rating is 0.7, low.", "es": "La calificación es 0,7, baja."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_175",
+    "english": "one point eight",
+    "spanish": "uno coma ocho",
+    "phonetic": "/wʌn pɔɪnt eɪt/",
+    "examples": [
+      {"en": "The rating is 1.8 out of 5.", "es": "La calificación es 1,8 de 5."},
+      {"en": "The version is 1.8.", "es": "La versión es 1.8."},
+      {"en": "It’s 1.8 meters tall.", "es": "Mide 1,8 metros."},
+      {"en": "The score was 1.8.", "es": "La puntuación fue 1,8."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_176",
+    "english": "two point four",
+    "spanish": "dos coma cuatro",
+    "phonetic": "/tuː pɔɪnt fɔːr/",
+    "examples": [
+      {"en": "The rating is 2.4.", "es": "La calificación es 2,4."},
+      {"en": "The pH is 2.4.", "es": "El pH es 2,4."},
+      {"en": "It costs $2.40.", "es": "Cuesta 2,40 dólares."},
+      {"en": "The earthquake was 2.4.", "es": "El terremoto fue de 2,4."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_177",
+    "english": "three point six",
+    "spanish": "tres coma seis",
+    "phonetic": "/θriː pɔɪnt sɪks/",
+    "examples": [
+      {"en": "The rating is 3.6 out of 5.", "es": "La calificación es 3,6 de 5."},
+      {"en": "His GPA is 3.6.", "es": "Su promedio es 3,6."},
+      {"en": "It’s 3.6 kilometers away.", "es": "Está a 3,6 kilómetros de distancia."},
+      {"en": "The temperature is 3.6°C.", "es": "La temperatura es 3,6°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_178",
+    "english": "four point seven",
+    "spanish": "cuatro coma siete",
+    "phonetic": "/fɔːr pɔɪnt ˈsev.ən/",
+    "examples": [
+      {"en": "The rating is 4.7 stars.", "es": "La calificación es de 4,7 estrellas."},
+      {"en": "The earthquake was 4.7.", "es": "El terremoto fue de 4,7."},
+      {"en": "It costs $4.70.", "es": "Cuesta 4,70 dólares."},
+      {"en": "The pH is 4.7.", "es": "El pH es 4,7."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_179",
+    "english": "five point seven",
+    "spanish": "cinco coma siete",
+    "phonetic": "/faɪv pɔɪnt ˈsev.ən/",
+    "examples": [
+      {"en": "The rating is 5.7 out of 10.", "es": "La calificación es 5,7 de 10."},
+      {"en": "The version is 5.7.", "es": "La versión es 5.7."},
+      {"en": "It’s 5.7 miles to the airport.", "es": "Hay 5,7 millas hasta el aeropuerto."},
+      {"en": "The temperature is 5.7°C.", "es": "La temperatura es 5,7°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_180",
+    "english": "six point eight",
+    "spanish": "seis coma ocho",
+    "phonetic": "/sɪks pɔɪnt eɪt/",
+    "examples": [
+      {"en": "The rating is 6.8.", "es": "La calificación es 6,8."},
+      {"en": "The earthquake was 6.8.", "es": "El terremoto fue de 6,8."},
+      {"en": "It costs $6.80.", "es": "Cuesta 6,80 dólares."},
+      {"en": "The pH is 6.8.", "es": "El pH es 6,8."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_181",
+    "english": "seven point nine",
+    "spanish": "siete coma nueve",
+    "phonetic": "/ˈsev.ən pɔɪnt naɪn/",
+    "examples": [
+      {"en": "The rating is 7.9 out of 10.", "es": "La calificación es 7,9 de 10."},
+      {"en": "The earthquake was 7.9.", "es": "El terremoto fue de 7,9."},
+      {"en": "It’s 7.9 kilometers long.", "es": "Mide 7,9 kilómetros de largo."},
+      {"en": "The temperature is 7.9°C.", "es": "La temperatura es 7,9°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_182",
+    "english": "eight point one",
+    "spanish": "ocho coma uno",
+    "phonetic": "/eɪt pɔɪnt wʌn/",
+    "examples": [
+      {"en": "The rating is 8.1.", "es": "La calificación es 8,1."},
+      {"en": "The version is 8.1.", "es": "La versión es 8.1."},
+      {"en": "It costs $8.10.", "es": "Cuesta 8,10 dólares."},
+      {"en": "The pH is 8.1.", "es": "El pH es 8,1."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_183",
+    "english": "nine point two",
+    "spanish": "nueve coma dos",
+    "phonetic": "/naɪn pɔɪnt tuː/",
+    "examples": [
+      {"en": "The rating is 9.2 out of 10.", "es": "La calificación es 9,2 de 10."},
+      {"en": "The earthquake was 9.2.", "es": "El terremoto fue de 9,2."},
+      {"en": "It’s 9.2 miles away.", "es": "Está a 9,2 millas de distancia."},
+      {"en": "The score was 9.2.", "es": "La puntuación fue 9,2."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_184",
+    "english": "zero point eight",
+    "spanish": "cero coma ocho",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt eɪt/",
+    "examples": [
+      {"en": "The probability is 0.8, or 80%.", "es": "La probabilidad es 0,8, o 80%."},
+      {"en": "Add 0.8 grams of powder.", "es": "Añade 0,8 gramos de polvo."},
+      {"en": "It’s 0.8 degrees above zero.", "es": "Está 0,8 grados por encima de cero."},
+      {"en": "The rating is 0.8, low but improving.", "es": "La calificación es 0,8, baja pero mejorando."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_185",
+    "english": "one point nine",
+    "spanish": "uno coma nueve",
+    "phonetic": "/wʌn pɔɪnt naɪn/",
+    "examples": [
+      {"en": "The rating is 1.9 out of 5.", "es": "La calificación es 1,9 de 5."},
+      {"en": "The version is 1.9.", "es": "La versión es 1.9."},
+      {"en": "It’s 1.9 meters tall.", "es": "Mide 1,9 metros."},
+      {"en": "The score was 1.9.", "es": "La puntuación fue 1,9."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_186",
+    "english": "two point one",
+    "spanish": "dos coma uno",
+    "phonetic": "/tuː pɔɪnt wʌn/",
+    "examples": [
+      {"en": "The rating is 2.1.", "es": "La calificación es 2,1."},
+      {"en": "The pH is 2.1.", "es": "El pH es 2,1."},
+      {"en": "It costs $2.10.", "es": "Cuesta 2,10 dólares."},
+      {"en": "The earthquake was 2.1.", "es": "El terremoto fue de 2,1."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_187",
+    "english": "three point eight",
+    "spanish": "tres coma ocho",
+    "phonetic": "/θriː pɔɪnt eɪt/",
+    "examples": [
+      {"en": "The rating is 3.8 out of 5.", "es": "La calificación es 3,8 de 5."},
+      {"en": "His GPA is 3.8.", "es": "Su promedio es 3,8."},
+      {"en": "It’s 3.8 kilometers away.", "es": "Está a 3,8 kilómetros de distancia."},
+      {"en": "The temperature is 3.8°C.", "es": "La temperatura es 3,8°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_188",
+    "english": "four point eight",
+    "spanish": "cuatro coma ocho",
+    "phonetic": "/fɔːr pɔɪnt eɪt/",
+    "examples": [
+      {"en": "The rating is 4.8 stars.", "es": "La calificación es de 4,8 estrellas."},
+      {"en": "The earthquake was 4.8.", "es": "El terremoto fue de 4,8."},
+      {"en": "It costs $4.80.", "es": "Cuesta 4,80 dólares."},
+      {"en": "The pH is 4.8.", "es": "El pH es 4,8."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_189",
+    "english": "five point nine",
+    "spanish": "cinco coma nueve",
+    "phonetic": "/faɪv pɔɪnt naɪn/",
+    "examples": [
+      {"en": "The rating is 5.9 out of 10.", "es": "La calificación es 5,9 de 10."},
+      {"en": "The version is 5.9.", "es": "La versión es 5.9."},
+      {"en": "It’s 5.9 miles to the city.", "es": "Hay 5,9 millas hasta la ciudad."},
+      {"en": "The temperature is 5.9°C.", "es": "La temperatura es 5,9°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_190",
+    "english": "six point one",
+    "spanish": "seis coma uno",
+    "phonetic": "/sɪks pɔɪnt wʌn/",
+    "examples": [
+      {"en": "The rating is 6.1.", "es": "La calificación es 6,1."},
+      {"en": "The earthquake was 6.1.", "es": "El terremoto fue de 6,1."},
+      {"en": "It costs $6.10.", "es": "Cuesta 6,10 dólares."},
+      {"en": "The pH is 6.1.", "es": "El pH es 6,1."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_191",
+    "english": "seven point two",
+    "spanish": "siete coma dos",
+    "phonetic": "/ˈsev.ən pɔɪnt tuː/",
+    "examples": [
+      {"en": "The rating is 7.2 out of 10.", "es": "La calificación es 7,2 de 10."},
+      {"en": "The earthquake was 7.2.", "es": "El terremoto fue de 7,2."},
+      {"en": "It’s 7.2 kilometers long.", "es": "Mide 7,2 kilómetros de largo."},
+      {"en": "The temperature is 7.2°C.", "es": "La temperatura es 7,2°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_192",
+    "english": "eight point three",
+    "spanish": "ocho coma tres",
+    "phonetic": "/eɪt pɔɪnt θriː/",
+    "examples": [
+      {"en": "The rating is 8.3.", "es": "La calificación es 8,3."},
+      {"en": "The version is 8.3.", "es": "La versión es 8.3."},
+      {"en": "It costs $8.30.", "es": "Cuesta 8,30 dólares."},
+      {"en": "The pH is 8.3.", "es": "El pH es 8,3."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_193",
+    "english": "nine point four",
+    "spanish": "nueve coma cuatro",
+    "phonetic": "/naɪn pɔɪnt fɔːr/",
+    "examples": [
+      {"en": "The rating is 9.4 out of 10.", "es": "La calificación es 9,4 de 10."},
+      {"en": "The earthquake was 9.4.", "es": "El terremoto fue de 9,4."},
+      {"en": "It’s 9.4 miles away.", "es": "Está a 9,4 millas de distancia."},
+      {"en": "The score was 9.4.", "es": "La puntuación fue 9,4."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_194",
+    "english": "zero point nine nine",
+    "spanish": "cero coma nueve nueve",
+    "phonetic": "/ˈzɪr.oʊ pɔɪnt naɪn naɪn/",
+    "examples": [
+      {"en": "The probability is 0.99, or 99%.", "es": "La probabilidad es 0,99, o 99%."},
+      {"en": "It’s 0.99 degrees below freezing.", "es": "Está 0,99 grados bajo el punto de congelación."},
+      {"en": "The rating is 0.99, almost 1.", "es": "La calificación es 0,99, casi 1."},
+      {"en": "Add 0.99 grams precisely.", "es": "Añade 0,99 gramos con precisión."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_195",
+    "english": "one point nine nine",
+    "spanish": "uno coma nueve nueve",
+    "phonetic": "/wʌn pɔɪnt naɪn naɪn/",
+    "examples": [
+      {"en": "The price is $1.99.", "es": "El precio es 1,99 dólares."},
+      {"en": "The rating is 1.99 out of 5.", "es": "La calificación es 1,99 de 5."},
+      {"en": "It’s 1.99 meters tall.", "es": "Mide 1,99 metros."},
+      {"en": "The score was 1.99, almost 2.", "es": "La puntuación fue 1,99, casi 2."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_196",
+    "english": "two point nine nine",
+    "spanish": "dos coma nueve nueve",
+    "phonetic": "/tuː pɔɪnt naɪn naɪn/",
+    "examples": [
+      {"en": "The price is $2.99.", "es": "El precio es 2,99 dólares."},
+      {"en": "The rating is 2.99.", "es": "La calificación es 2,99."},
+      {"en": "It costs 2.99 euros.", "es": "Cuesta 2,99 euros."},
+      {"en": "The version is 2.99, almost 3.0.", "es": "La versión es 2,99, casi 3.0."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_197",
+    "english": "three point nine nine",
+    "spanish": "tres coma nueve nueve",
+    "phonetic": "/θriː pɔɪnt naɪn naɪn/",
+    "examples": [
+      {"en": "The price is $3.99.", "es": "El precio es 3,99 dólares."},
+      {"en": "The rating is 3.99 out of 5.", "es": "La calificación es 3,99 de 5."},
+      {"en": "It’s 3.99 kilometers away.", "es": "Está a 3,99 kilómetros de distancia."},
+      {"en": "The temperature is 3.99°C.", "es": "La temperatura es 3,99°C."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_198",
+    "english": "four point nine nine",
+    "spanish": "cuatro coma nueve nueve",
+    "phonetic": "/fɔːr pɔɪnt naɪn naɪn/",
+    "examples": [
+      {"en": "The price is $4.99.", "es": "El precio es 4,99 dólares."},
+      {"en": "The rating is 4.99 stars.", "es": "La calificación es de 4,99 estrellas."},
+      {"en": "It costs 4.99 pounds.", "es": "Cuesta 4,99 libras."},
+      {"en": "The pH is 4.99.", "es": "El pH es 4,99."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_199",
+    "english": "five point nine nine",
+    "spanish": "cinco coma nueve nueve",
+    "phonetic": "/faɪv pɔɪnt naɪn naɪn/",
+    "examples": [
+      {"en": "The price is $5.99.", "es": "El precio es 5,99 dólares."},
+      {"en": "The rating is 5.99 out of 10.", "es": "La calificación es 5,99 de 10."},
+      {"en": "It’s 5.99 miles to the exit.", "es": "Hay 5,99 millas hasta la salida."},
+      {"en": "The version is 5.99, almost 6.0.", "es": "La versión es 5,99, casi 6.0."}
+    ],
+    "category": "Numbers"
+  },
+  {
+    "id": "num_200",
+    "english": "nine point nine nine nine",
+    "spanish": "nueve coma nueve nueve nueve",
+    "phonetic": "/naɪn pɔɪnt naɪn naɪn naɪn/",
+    "examples": [
+      {"en": "The rating is 9.999, nearly perfect.", "es": "La calificación es 9,999, casi perfecta."},
+      {"en": "The purity is 99.999%, or 'five nines'.", "es": "La pureza es 99,999%, o 'cinco nueves'."},
+      {"en": "It costs $9.999, almost ten dollars.", "es": "Cuesta 9,999 dólares, casi diez dólares."},
+      {"en": "The score was 9.999 in the competition.", "es": "La puntuación fue 9,999 en la competencia."}
+    ],
+    "category": "Numbers"
+  }
+]
