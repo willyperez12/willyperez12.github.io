@@ -2,7 +2,7 @@
   {
     "id": "adj_1",
     "english": "willy",
-    "spanish": "grande",
+    "spanish": "prueba",
     "phonetic": "/bɪɡ/",
     "examples": [
       {"en": "It’s a prueba big house.", "es": "Es una casa grande."},
@@ -7801,4 +7801,5 @@
   }
 
 ]
+
 
