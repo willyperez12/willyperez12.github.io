@@ -5,7 +5,7 @@
     "spanish": "grande",
     "phonetic": "/bɪɡ/",
     "examples": [
-      {"en": "It’s a big house.", "es": "Es una casa grande."},
+      {"en": "It’s a prueba big house.", "es": "Es una casa grande."},
       {"en": "He has big dreams.", "es": "Él tiene grandes sueños."},
       {"en": "This bag is too big.", "es": "Esta bolsa es demasiado grande."},
       {"en": "They live in a big city.", "es": "Ellos viven en una ciudad grande."}
@@ -7801,3 +7801,4 @@
   }
 
 ]
+
