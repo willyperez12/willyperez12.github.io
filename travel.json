@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "trav_1",
+    "english": "airport",
+    "spanish": "aeropuerto",
+    "phonetic": "/ˈer.pɔːrt/",
+    "examples": [
+      {"en": "We arrived at the airport at 6 AM.", "es": "Llegamos al aeropuerto a las 6 AM."},
+      {"en": "The airport is very busy today.", "es": "El aeropuerto está muy ocupado hoy."},
+      {"en": "Where is the nearest airport?", "es": "¿Dónde está el aeropuerto más cercano?"},
+      {"en": "I lost my luggage at the airport.", "es": "Perdí mi equipaje en el aeropuerto."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_2",
+    "english": "airplane",
+    "spanish": "avión",
+    "phonetic": "/ˈer.pleɪn/",
+    "examples": [
+      {"en": "The airplane takes off at noon.", "es": "El avión despega al mediodía."},
+      {"en": "I’m afraid of flying in an airplane.", "es": "Tengo miedo de volar en avión."},
+      {"en": "We boarded the airplane on time.", "es": "Abordamos el avión a tiempo."},
+      {"en": "The airplane has Wi-Fi.", "es": "El avión tiene Wi-Fi."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_3",
+    "english": "flight",
+    "spanish": "vuelo",
+    "phonetic": "/flaɪt/",
+    "examples": [
+      {"en": "My flight was delayed by two hours.", "es": "Mi vuelo se retrasó dos horas."},
+      {"en": "What’s your flight number?", "es": "¿Cuál es tu número de vuelo?"},
+      {"en": "The flight to Paris is full.", "es": "El vuelo a París está lleno."},
+      {"en": "I booked a round-trip flight.", "es": "Reservé un vuelo de ida y vuelta."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_4",
+    "english": "ticket",
+    "spanish": "boleto",
+    "phonetic": "/ˈtɪk.ɪt/",
+    "examples": [
+      {"en": "Do you have your plane ticket?", "es": "¿Tienes tu boleto de avión?"},
+      {"en": "I bought a one-way ticket.", "es": "Compré un boleto de ida."},
+      {"en": "Show your ticket at the gate.", "es": "Muestra tu boleto en la puerta."},
+      {"en": "The ticket includes baggage.", "es": "El boleto incluye equipaje."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_5",
+    "english": "passport",
+    "spanish": "pasaporte",
+    "phonetic": "/ˈpæs.pɔːrt/",
+    "examples": [
+      {"en": "Don’t forget your passport!", "es": "¡No olvides tu pasaporte!"},
+      {"en": "My passport expires next year.", "es": "Mi pasaporte vence el próximo año."},
+      {"en": "They checked my passport at customs.", "es": "Revisaron mi pasaporte en aduana."},
+      {"en": "You need a passport to travel abroad.", "es": "Necesitas un pasaporte para viajar al extranjero."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_6",
+    "english": "visa",
+    "spanish": "visa",
+    "phonetic": "/ˈviː.zə/",
+    "examples": [
+      {"en": "I applied for a tourist visa.", "es": "Solicité una visa de turista."},
+      {"en": "Do I need a visa to enter Spain?", "es": "¿Necesito una visa para entrar a España?"},
+      {"en": "Her visa was approved last week.", "es": "Su visa fue aprobada la semana pasada."},
+      {"en": "The visa is valid for 90 days.", "es": "La visa es válida por 90 días."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_7",
+    "english": "luggage",
+    "spanish": "equipaje",
+    "phonetic": "/ˈlʌɡ.ɪdʒ/",
+    "examples": [
+      {"en": "My luggage was lost.", "es": "Mi equipaje se perdió."},
+      {"en": "Check your luggage at the counter.", "es": "Registra tu equipaje en el mostrador."},
+      {"en": "Carry-on luggage must fit overhead.", "es": "El equipaje de mano debe caber arriba."},
+      {"en": "How much luggage can I bring?", "es": "¿Cuánto equipaje puedo llevar?"}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_8",
+    "english": "suitcase",
+    "spanish": "maleta",
+    "phonetic": "/ˈsuːt.keɪs/",
+    "examples": [
+      {"en": "I packed my suitcase last night.", "es": "Hice mi maleta anoche."},
+      {"en": "Her suitcase has wheels.", "es": "Su maleta tiene ruedas."},
+      {"en": "Don’t forget to lock your suitcase.", "es": "No olvides cerrar tu maleta con llave."},
+      {"en": "This suitcase is too heavy.", "es": "Esta maleta pesa demasiado."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_9",
+    "english": "boarding pass",
+    "spanish": "tarjeta de embarque",
+    "phonetic": "/ˈbɔːr.dɪŋ pæs/",
+    "examples": [
+      {"en": "Scan your boarding pass at the gate.", "es": "Escanea tu tarjeta de embarque en la puerta."},
+      {"en": "I printed my boarding pass at home.", "es": "Imprimí mi tarjeta de embarque en casa."},
+      {"en": "Your boarding pass shows your seat.", "es": "Tu tarjeta de embarque muestra tu asiento."},
+      {"en": "Keep your boarding pass safe.", "es": "Guarda tu tarjeta de embarque segura."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_10",
+    "english": "gate",
+    "spanish": "puerta (de embarque)",
+    "phonetic": "/ɡeɪt/",
+    "examples": [
+      {"en": "Our flight boards at Gate B12.", "es": "Nuestro vuelo aborda en la Puerta B12."},
+      {"en": "The gate changed to C5.", "es": "La puerta cambió a C5."},
+      {"en": "Wait near the gate.", "es": "Espera cerca de la puerta."},
+      {"en": "They announced the gate closing.", "es": "Anunciaron el cierre de la puerta."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_11",
+    "english": "terminal",
+    "spanish": "terminal",
+    "phonetic": "/ˈtɜːr.mə.nl/",
+    "examples": [
+      {"en": "The international flights are in Terminal 2.", "es": "Los vuelos internacionales están en la Terminal 2."},
+      {"en": "How do I get to Terminal 3?", "es": "¿Cómo llego a la Terminal 3?"},
+      {"en": "We met at the arrivals terminal.", "es": "Nos encontramos en la terminal de llegadas."},
+      {"en": "Each terminal has its own security.", "es": "Cada terminal tiene su propia seguridad."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_12",
+    "english": "check-in",
+    "spanish": "registro",
+    "phonetic": "/ˈtʃek.ɪn/",
+    "examples": [
+      {"en": "Online check-in opens 24 hours before.", "es": "El registro en línea abre 24 horas antes."},
+      {"en": "Where is the check-in counter?", "es": "¿Dónde está el mostrador de registro?"},
+      {"en": "I checked in using my phone.", "es": "Hice el registro con mi teléfono."},
+      {"en": "Check-in closes 45 minutes before departure.", "es": "El registro cierra 45 minutos antes de la salida."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_13",
+    "english": "security",
+    "spanish": "seguridad",
+    "phonetic": "/səˈkjʊr.ə.ti/",
+    "examples": [
+      {"en": "Go through security after check-in.", "es": "Pasa por seguridad después del registro."},
+      {"en": "Remove your shoes at security.", "es": "Quítate los zapatos en seguridad."},
+      {"en": "Security lines were long today.", "es": "Las filas de seguridad fueron largas hoy."},
+      {"en": "Liquids must be in a clear bag for security.", "es": "Los líquidos deben ir en una bolsa transparente para seguridad."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_14",
+    "english": "customs",
+    "spanish": "aduana",
+    "phonetic": "/ˈkʌs.təmz/",
+    "examples": [
+      {"en": "Declare items at customs.", "es": "Declara artículos en aduana."},
+      {"en": "We waited in line at customs.", "es": "Esperamos en fila en aduana."},
+      {"en": "Customs officers checked my bag.", "es": "Los oficiales de aduana revisaron mi maleta."},
+      {"en": "Some foods are not allowed through customs.", "es": "Algunos alimentos no están permitidos en aduana."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_15",
+    "english": "immigration",
+    "spanish": "inmigración",
+    "phonetic": "/ˌɪm.ɪˈɡreɪ.ʃən/",
+    "examples": [
+      {"en": "Show your passport at immigration.", "es": "Muestra tu pasaporte en inmigración."},
+      {"en": "Immigration asked about my stay.", "es": "Inmigración preguntó sobre mi estadía."},
+      {"en": "There were two lines: citizens and visitors.", "es": "Había dos filas: ciudadanos y visitantes."},
+      {"en": "Immigration control is after landing.", "es": "El control de inmigración es después del aterrizaje."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_16",
+    "english": "departure",
+    "spanish": "salida",
+    "phonetic": "/dɪˈpɑːr.tʃər/",
+    "examples": [
+      {"en": "The departure time is 3 PM.", "es": "La hora de salida es 3 PM."},
+      {"en": "Check the departure board.", "es": "Revisa el panel de salidas."},
+      {"en": "Our departure was delayed.", "es": "Nuestra salida se retrasó."},
+      {"en": "Departure gate is B7.", "es": "La puerta de salida es B7."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_17",
+    "english": "arrival",
+    "spanish": "llegada",
+    "phonetic": "/əˈraɪ.vəl/",
+    "examples": [
+      {"en": "The arrival time is 8 PM.", "es": "La hora de llegada es 8 PM."},
+      {"en": "Welcome to your arrival city!", "es": "¡Bienvenido a tu ciudad de llegada!"},
+      {"en": "The arrival hall is on the first floor.", "es": "La sala de llegadas está en la planta baja."},
+      {"en": "My flight’s arrival was early.", "es": "La llegada de mi vuelo fue temprana."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_18",
+    "english": "delay",
+    "spanish": "retraso",
+    "phonetic": "/dɪˈleɪ/",
+    "examples": [
+      {"en": "There’s a two-hour delay.", "es": "Hay un retraso de dos horas."},
+      {"en": "The delay was due to weather.", "es": "El retraso fue por el clima."},
+      {"en": "I hate flight delays.", "es": "Odio los retrasos de vuelo."},
+      {"en": "They announced a delay over the speaker.", "es": "Anunciaron un retraso por el altavoz."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_19",
+    "english": "cancel",
+    "spanish": "cancelar",
+    "phonetic": "/ˈkæn.səl/",
+    "examples": [
+      {"en": "They canceled my flight.", "es": "Cancelaron mi vuelo."},
+      {"en": "Can I cancel my ticket?", "es": "¿Puedo cancelar mi boleto?"},
+      {"en": "The trip was canceled due to rain.", "es": "El viaje se canceló por la lluvia."},
+      {"en": "I canceled my reservation yesterday.", "es": "Cancelé mi reserva ayer."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_20",
+    "english": "reservation",
+    "spanish": "reserva",
+    "phonetic": "/ˌrez.ərˈveɪ.ʃən/",
+    "examples": [
+      {"en": "I made a hotel reservation.", "es": "Hice una reserva de hotel."},
+      {"en": "Do you have a reservation?", "es": "¿Tiene una reserva?"},
+      {"en": "My reservation is under Smith.", "es": "Mi reserva está a nombre de Smith."},
+      {"en": "Confirm your reservation online.", "es": "Confirma tu reserva en línea."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_21",
+    "english": "hotel",
+    "spanish": "hotel",
+    "phonetic": "/hoʊˈtel/",
+    "examples": [
+      {"en": "We stayed at a nice hotel.", "es": "Nos quedamos en un hotel bonito."},
+      {"en": "The hotel has free breakfast.", "es": "El hotel tiene desayuno gratis."},
+      {"en": "Check-in at the hotel desk.", "es": "Regístrese en la recepción del hotel."},
+      {"en": "Our hotel is near the beach.", "es": "Nuestro hotel está cerca de la playa."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_22",
+    "english": "hostel",
+    "spanish": "hostal",
+    "phonetic": "/ˈhɒs.təl/",
+    "examples": [
+      {"en": "Backpackers often stay in hostels.", "es": "Los mochileros suelen alojarse en hostales."},
+      {"en": "The hostel has shared bathrooms.", "es": "El hostal tiene baños compartidos."},
+      {"en": "I booked a bed in a hostel.", "es": "Reservé una cama en un hostal."},
+      {"en": "Hostels are cheaper than hotels.", "es": "Los hostales son más baratos que los hoteles."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_23",
+    "english": "motel",
+    "spanish": "motel",
+    "phonetic": "/ˈmoʊ.təl/",
+    "examples": [
+      {"en": "We stopped at a motel for the night.", "es": "Paramos en un motel por la noche."},
+      {"en": "The motel is right off the highway.", "es": "El motel está justo al lado de la carretera."},
+      {"en": "Motel rooms have parking outside.", "es": "Las habitaciones del motel tienen estacionamiento afuera."},
+      {"en": "It’s a budget motel.", "es": "Es un motel económico."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_24",
+    "english": "resort",
+    "spanish": "resort",
+    "phonetic": "/rɪˈzɔːrt/",
+    "examples": [
+      {"en": "We went to an all-inclusive resort.", "es": "Fuimos a un resort todo incluido."},
+      {"en": "The beach resort has a spa.", "es": "El resort de playa tiene un spa."},
+      {"en": "Families love ski resorts.", "es": "Las familias aman los resorts de esquí."},
+      {"en": "Book your resort early for summer.", "es": "Reserva tu resort temprano para el verano."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_25",
+    "english": "camping",
+    "spanish": "acampar",
+    "phonetic": "/ˈkæm.pɪŋ/",
+    "examples": [
+      {"en": "We went camping in the mountains.", "es": "Fuimos a acampar a las montañas."},
+      {"en": "Camping is fun but requires preparation.", "es": "Acampar es divertido pero requiere preparación."},
+      {"en": "Is camping allowed here?", "es": "¿Se permite acampar aquí?"},
+      {"en": "We slept in a tent while camping.", "es": "Dormimos en una carpa mientras acampábamos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_26",
+    "english": "backpack",
+    "spanish": "mochila",
+    "phonetic": "/ˈbæk.pæk/",
+    "examples": [
+      {"en": "I carry everything in my backpack.", "es": "Llevo todo en mi mochila."},
+      {"en": "He’s a backpacker traveling through Europe.", "es": "Él es un mochilero viajando por Europa."},
+      {"en": "My backpack is too heavy.", "es": "Mi mochila pesa demasiado."},
+      {"en": "Use a waterproof backpack.", "es": "Usa una mochila impermeable."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_27",
+    "english": "map",
+    "spanish": "mapa",
+    "phonetic": "/mæp/",
+    "examples": [
+      {"en": "I used a map to find the museum.", "es": "Usé un mapa para encontrar el museo."},
+      {"en": "Do you have a city map?", "es": "¿Tienes un mapa de la ciudad?"},
+      {"en": "The map shows all tourist attractions.", "es": "El mapa muestra todas las atracciones turísticas."},
+      {"en": "Digital maps are very useful.", "es": "Los mapas digitales son muy útiles."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_28",
+    "english": "GPS",
+    "spanish": "GPS",
+    "phonetic": "/ˌdʒiː.piːˈes/",
+    "examples": [
+      {"en": "The GPS guided us to the hotel.", "es": "El GPS nos guió al hotel."},
+      {"en": "My phone has GPS.", "es": "Mi teléfono tiene GPS."},
+      {"en": "GPS doesn’t work underground.", "es": "El GPS no funciona bajo tierra."},
+      {"en": "Turn on GPS for navigation.", "es": "Activa el GPS para navegación."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_29",
+    "english": "directions",
+    "spanish": "direcciones",
+    "phonetic": "/dəˈrek.ʃənz/",
+    "examples": [
+      {"en": "Can you give me directions to the station?", "es": "¿Puedes darme direcciones a la estación?"},
+      {"en": "Follow the directions on the app.", "es": "Sigue las direcciones en la app."},
+      {"en": "I got lost because I ignored the directions.", "es": "Me perdí porque ignoré las direcciones."},
+      {"en": "Write down the directions.", "es": "Anota las direcciones."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_30",
+    "english": "tourist",
+    "spanish": "turista",
+    "phonetic": "/ˈtʊr.ɪst/",
+    "examples": [
+      {"en": "There are many tourists in summer.", "es": "Hay muchos turistas en verano."},
+      {"en": "She’s a tourist from Canada.", "es": "Ella es una turista de Canadá."},
+      {"en": "Tourists visit the Eiffel Tower.", "es": "Los turistas visitan la Torre Eiffel."},
+      {"en": "Be a respectful tourist.", "es": "Sé un turista respetuoso."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_31",
+    "english": "sightseeing",
+    "spanish": "turismo",
+    "phonetic": "/ˈsaɪtˌsiː.ɪŋ/",
+    "examples": [
+      {"en": "We spent the day sightseeing.", "es": "Pasamos el día haciendo turismo."},
+      {"en": "Sightseeing tours are available daily.", "es": "Hay tours turísticos disponibles diariamente."},
+      {"en": "Rome is perfect for sightseeing.", "es": "Roma es perfecta para hacer turismo."},
+      {"en": "Don’t miss the main sightseeing spots.", "es": "No te pierdas los lugares turísticos principales."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_32",
+    "english": "guide",
+    "spanish": "guía",
+    "phonetic": "/ɡaɪd/",
+    "examples": [
+      {"en": "Our tour guide spoke three languages.", "es": "Nuestro guía turístico hablaba tres idiomas."},
+      {"en": "Hire a local guide for the best experience.", "es": "Contrata un guía local para la mejor experiencia."},
+      {"en": "The museum provides a free guide.", "es": "El museo ofrece una guía gratuita."},
+      {"en": "She works as a travel guide.", "es": "Ella trabaja como guía de viajes."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_33",
+    "english": "itinerary",
+    "spanish": "itinerario",
+    "phonetic": "/aɪˈtɪn.ər.er.i/",
+    "examples": [
+      {"en": "Here’s your travel itinerary.", "es": "Aquí está tu itinerario de viaje."},
+      {"en": "The itinerary includes five cities.", "es": "El itinerario incluye cinco ciudades."},
+      {"en": "Check your itinerary before leaving.", "es": "Revisa tu itinerario antes de salir."},
+      {"en": "The tour itinerary is flexible.", "es": "El itinerario del tour es flexible."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_34",
+    "english": "travel agency",
+    "spanish": "agencia de viajes",
+    "phonetic": "/ˈtræv.əl ˈeɪ.dʒən.si/",
+    "examples": [
+      {"en": "I booked my trip through a travel agency.", "es": "Reservé mi viaje a través de una agencia de viajes."},
+      {"en": "The travel agency helped with visas.", "es": "La agencia de viajes ayudó con las visas."},
+      {"en": "Find a reliable travel agency.", "es": "Encuentra una agencia de viajes confiable."},
+      {"en": "They offer package deals at the travel agency.", "es": "Ofrecen paquetes en la agencia de viajes."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_35",
+    "english": "travel insurance",
+    "spanish": "seguro de viaje",
+    "phonetic": "/ˈtræv.əl ɪnˈʃʊr.əns/",
+    "examples": [
+      {"en": "Always buy travel insurance.", "es": "Siempre compra un seguro de viaje."},
+      {"en": "My travel insurance covered the cancellation.", "es": "Mi seguro de viaje cubrió la cancelación."},
+      {"en": "Travel insurance includes medical coverage.", "es": "El seguro de viaje incluye cobertura médica."},
+      {"en": "Is travel insurance required?", "es": "¿Es obligatorio el seguro de viaje?"}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_36",
+    "english": "currency",
+    "spanish": "moneda",
+    "phonetic": "/ˈkɜːr.ən.si/",
+    "examples": [
+      {"en": "What’s the local currency?", "es": "¿Cuál es la moneda local?"},
+      {"en": "I exchanged dollars for euros.", "es": "Cambié dólares por euros."},
+      {"en": "Carry some local currency.", "es": "Lleva algo de moneda local."},
+      {"en": "The currency in Japan is the yen.", "es": "La moneda en Japón es el yen."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_37",
+    "english": "exchange rate",
+    "spanish": "tipo de cambio",
+    "phonetic": "/ɪksˈtʃeɪndʒ reɪt/",
+    "examples": [
+      {"en": "Check the exchange rate before traveling.", "es": "Revisa el tipo de cambio antes de viajar."},
+      {"en": "The exchange rate is favorable today.", "es": "El tipo de cambio es favorable hoy."},
+      {"en": "How much is the exchange rate for pounds?", "es": "¿Cuánto es el tipo de cambio para libras?"},
+      {"en": "Banks offer better exchange rates.", "es": "Los bancos ofrecen mejores tipos de cambio."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_38",
+    "english": "ATM",
+    "spanish": "cajero automático",
+    "phonetic": "/ˌeɪ.tiːˈem/",
+    "examples": [
+      {"en": "I withdrew cash from an ATM.", "es": "Retiré efectivo de un cajero automático."},
+      {"en": "There’s an ATM near the hotel.", "es": "Hay un cajero automático cerca del hotel."},
+      {"en": "ATMs charge fees abroad.", "es": "Los cajeros cobran comisiones en el extranjero."},
+      {"en": "Use your debit card at the ATM.", "es": "Usa tu tarjeta de débito en el cajero."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_39",
+    "english": "credit card",
+    "spanish": "tarjeta de crédito",
+    "phonetic": "/ˈkred.ɪt kɑːrd/",
+    "examples": [
+      {"en": "Most hotels accept credit cards.", "es": "La mayoría de los hoteles aceptan tarjetas de crédito."},
+      {"en": "Notify your bank before traveling.", "es": "Notifica a tu banco antes de viajar."},
+      {"en": "I paid with a credit card.", "es": "Pagué con tarjeta de crédito."},
+      {"en": "Some places don’t take credit cards.", "es": "Algunos lugares no aceptan tarjetas de crédito."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_40",
+    "english": "cash",
+    "spanish": "efectivo",
+    "phonetic": "/kæʃ/",
+    "examples": [
+      {"en": "Do you accept cash?", "es": "¿Aceptan efectivo?"},
+      {"en": "I always carry some cash.", "es": "Siempre llevo algo de efectivo."},
+      {"en": "Small vendors prefer cash.", "es": "Los pequeños vendedores prefieren efectivo."},
+      {"en": "Don’t carry too much cash.", "es": "No lleves demasiado efectivo."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_41",
+    "english": "tip",
+    "spanish": "propina",
+    "phonetic": "/tɪp/",
+    "examples": [
+      {"en": "Leave a tip for good service.", "es": "Deja una propina por buen servicio."},
+      {"en": "In some countries, tipping is expected.", "es": "En algunos países, se espera propina."},
+      {"en": "How much should I tip the waiter?", "es": "¿Cuánto debo dejar de propina al mesero?"},
+      {"en": "Tipping customs vary by country.", "es": "Las costumbres de propina varían por país."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_42",
+    "english": "souvenir",
+    "spanish": "recuerdo",
+    "phonetic": "/ˌsuː.vəˈnɪr/",
+    "examples": [
+      {"en": "I bought a souvenir for my mom.", "es": "Compré un recuerdo para mi mamá."},
+      {"en": "Souvenir shops are near the monument.", "es": "Las tiendas de recuerdos están cerca del monumento."},
+      {"en": "This keychain is a nice souvenir.", "es": "Este llavero es un buen recuerdo."},
+      {"en": "Collect souvenirs from every trip.", "es": "Colecciona recuerdos de cada viaje."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_43",
+    "english": "passport control",
+    "spanish": "control de pasaportes",
+    "phonetic": "/ˈpæs.pɔːrt kənˈtroʊl/",
+    "examples": [
+      {"en": "Go through passport control after landing.", "es": "Pasa por control de pasaportes después de aterrizar."},
+      {"en": "Passport control was fast today.", "es": "El control de pasaportes fue rápido hoy."},
+      {"en": "Have your passport ready for control.", "es": "Ten tu pasaporte listo para el control."},
+      {"en": "They asked questions at passport control.", "es": "Hicieron preguntas en control de pasaportes."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_44",
+    "english": "baggage claim",
+    "spanish": "reclamo de equipaje",
+    "phonetic": "/ˈbæɡ.ɪdʒ kleɪm/",
+    "examples": [
+      {"en": "Meet me at baggage claim.", "es": "Encuéntrame en reclamo de equipaje."},
+      {"en": "My suitcase is at baggage claim.", "es": "Mi maleta está en reclamo de equipaje."},
+      {"en": "Baggage claim is on the ground floor.", "es": "El reclamo de equipaje está en la planta baja."},
+      {"en": "Wait for your luggage at baggage claim.", "es": "Espera tu equipaje en reclamo de equipaje."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_45",
+    "english": "carry-on",
+    "spanish": "equipaje de mano",
+    "phonetic": "/ˈker.i ɒn/",
+    "examples": [
+      {"en": "You can bring one carry-on bag.", "es": "Puedes llevar una pieza de equipaje de mano."},
+      {"en": "My carry-on fits under the seat.", "es": "Mi equipaje de mano cabe bajo el asiento."},
+      {"en": "Liquids in carry-on must be under 100ml.", "es": "Los líquidos en equipaje de mano deben ser menores a 100ml."},
+      {"en": "No sharp objects in carry-on.", "es": "No objetos punzantes en equipaje de mano."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_46",
+    "english": "checked baggage",
+    "spanish": "equipaje facturado",
+    "phonetic": "/tʃekt ˈbæɡ.ɪdʒ/",
+    "examples": [
+      {"en": "Checked baggage goes in the cargo hold.", "es": "El equipaje facturado va en la bodega."},
+      {"en": "There’s a fee for checked baggage.", "es": "Hay una tarifa por equipaje facturado."},
+      {"en": "My checked baggage arrived late.", "es": "Mi equipaje facturado llegó tarde."},
+      {"en": "Weigh your checked baggage before check-in.", "es": "Pesa tu equipaje facturado antes del registro."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_47",
+    "english": "overweight",
+    "spanish": "exceso de peso",
+    "phonetic": "/ˌoʊ.vərˈweɪt/",
+    "examples": [
+      {"en": "My suitcase is overweight.", "es": "Mi maleta tiene exceso de peso."},
+      {"en": "You’ll pay a fee for overweight luggage.", "es": "Pagarás una tarifa por exceso de peso."},
+      {"en": "The limit is 23 kg; mine is 26.", "es": "El límite es 23 kg; el mío es 26."},
+      {"en": "Avoid overweight by packing light.", "es": "Evita el exceso de peso empacando ligero."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_48",
+    "english": "layover",
+    "spanish": "escala",
+    "phonetic": "/ˈleɪ.oʊ.vər/",
+    "examples": [
+      {"en": "I have a 3-hour layover in Chicago.", "es": "Tengo una escala de 3 horas en Chicago."},
+      {"en": "During the layover, I ate at the airport.", "es": "Durante la escala, comí en el aeropuerto."},
+      {"en": "Long layovers can be boring.", "es": "Las escalas largas pueden ser aburridas."},
+      {"en": "Is there a hotel for layovers?", "es": "¿Hay un hotel para escalas?"}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_49",
+    "english": "stopover",
+    "spanish": "parada prolongada",
+    "phonetic": "/ˈstɒp.oʊ.vər/",
+    "examples": [
+      {"en": "I booked a stopover in Tokyo for two days.", "es": "Reservé una parada prolongada en Tokio por dos días."},
+      {"en": "Stopovers are different from layovers.", "es": "Las paradas prolongadas son distintas de las escalas."},
+      {"en": "Some airlines offer free stopovers.", "es": "Algunas aerolíneas ofrecen paradas gratuitas."},
+      {"en": "Use a stopover to explore a new city.", "es": "Usa una parada para explorar una ciudad nueva."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_50",
+    "english": "direct flight",
+    "spanish": "vuelo directo",
+    "phonetic": "/dəˈrekt flaɪt/",
+    "examples": [
+      {"en": "I prefer a direct flight.", "es": "Prefiero un vuelo directo."},
+      {"en": "The direct flight takes 6 hours.", "es": "El vuelo directo dura 6 horas."},
+      {"en": "Direct flights are more expensive.", "es": "Los vuelos directos son más caros."},
+      {"en": "Is this a direct flight to Madrid?", "es": "¿Este es un vuelo directo a Madrid?"}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_51",
+    "english": "nonstop flight",
+    "spanish": "vuelo sin escalas",
+    "phonetic": "/ˌnɒnˈstɒp flaɪt/",
+    "examples": [
+      {"en": "This is a nonstop flight to Los Angeles.", "es": "Este es un vuelo sin escalas a Los Ángeles."},
+      {"en": "Nonstop flights are faster.", "es": "Los vuelos sin escalas son más rápidos."},
+      {"en": "I booked a nonstop flight for convenience.", "es": "Reservé un vuelo sin escalas por comodidad."},
+      {"en": "Nonstop doesn’t mean direct (sometimes).", "es": "Sin escalas no siempre significa directo."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_52",
+    "english": "connecting flight",
+    "spanish": "vuelo de conexión",
+    "phonetic": "/kəˈnek.tɪŋ flaɪt/",
+    "examples": [
+      {"en": "I have a connecting flight in Atlanta.", "es": "Tengo un vuelo de conexión en Atlanta."},
+      {"en": "Allow time for connecting flights.", "es": "Deja tiempo para vuelos de conexión."},
+      {"en": "My connecting flight was delayed.", "es": "Mi vuelo de conexión se retrasó."},
+      {"en": "Check your gate for the connecting flight.", "es": "Revisa tu puerta para el vuelo de conexión."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_53",
+    "english": "takeoff",
+    "spanish": "despegue",
+    "phonetic": "/ˈteɪk.ɒf/",
+    "examples": [
+      {"en": "Fasten your seatbelt for takeoff.", "es": "Abrocha tu cinturón para el despegue."},
+      {"en": "Takeoff was smooth.", "es": "El despegue fue suave."},
+      {"en": "The plane is ready for takeoff.", "es": "El avión está listo para despegar."},
+      {"en": "Takeoff time is 10:15 AM.", "es": "La hora de despegue es 10:15 AM."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_54",
+    "english": "landing",
+    "spanish": "aterrizaje",
+    "phonetic": "/ˈlæn.dɪŋ/",
+    "examples": [
+      {"en": "Prepare for landing.", "es": "Prepárate para el aterrizaje."},
+      {"en": "The landing was bumpy.", "es": "El aterrizaje fue brusco."},
+      {"en": "We’ll begin descent for landing soon.", "es": "Empezaremos el descenso para aterrizar pronto."},
+      {"en": "Landing time is 7 PM local.", "es": "La hora de aterrizaje es 7 PM local."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_55",
+    "english": "turbulence",
+    "spanish": "turbulencia",
+    "phonetic": "/ˈtɜːr.bjə.ləns/",
+    "examples": [
+      {"en": "We hit some turbulence.", "es": "Tuvimos algo de turbulencia."},
+      {"en": "Stay seated during turbulence.", "es": "Quédate sentado durante la turbulencia."},
+      {"en": "Turbulence is normal and safe.", "es": "La turbulencia es normal y segura."},
+      {"en": "The pilot warned about light turbulence.", "es": "El piloto advirtió sobre turbulencia ligera."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_56",
+    "english": "seat",
+    "spanish": "asiento",
+    "phonetic": "/siːt/",
+    "examples": [
+      {"en": "My seat is 14A, window.", "es": "Mi asiento es 14A, ventana."},
+      {"en": "Can I change my seat?", "es": "¿Puedo cambiar mi asiento?"},
+      {"en": "The seat belt sign is on.", "es": "La señal de cinturón está encendida."},
+      {"en": "Exit row seats have more legroom.", "es": "Los asientos de la fila de salida tienen más espacio para piernas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_57",
+    "english": "aisle",
+    "spanish": "pasillo",
+    "phonetic": "/ˈaɪl/",
+    "examples": [
+      {"en": "I prefer an aisle seat.", "es": "Prefiero un asiento de pasillo."},
+      {"en": "The bathroom is down the aisle.", "es": "El baño está al final del pasillo."},
+      {"en": "Please return to your aisle seat.", "es": "Por favor, regrese a su asiento de pasillo."},
+      {"en": "Aisle seats allow easy movement.", "es": "Los asientos de pasillo permiten moverse fácilmente."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_58",
+    "english": "window seat",
+    "spanish": "asiento de ventana",
+    "phonetic": "/ˈwɪn.doʊ siːt/",
+    "examples": [
+      {"en": "I always choose a window seat.", "es": "Siempre elijo un asiento de ventana."},
+      {"en": "The window seat has the best view.", "es": "El asiento de ventana tiene la mejor vista."},
+      {"en": "Can I have the window seat?", "es": "¿Puedo tener el asiento de ventana?"},
+      {"en": "She fell asleep in the window seat.", "es": "Ella se durmió en el asiento de ventana."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_59",
+    "english": "overhead bin",
+    "spanish": "compartimento superior",
+    "phonetic": "/ˌoʊ.vərˈhed bɪn/",
+    "examples": [
+      {"en": "Store your bag in the overhead bin.", "es": "Guarda tu bolsa en el compartimento superior."},
+      {"en": "The overhead bin is full.", "es": "El compartimento superior está lleno."},
+      {"en": "Don’t put heavy items in the overhead bin.", "es": "No pongas objetos pesados en el compartimento superior."},
+      {"en": "Overhead bins close before takeoff.", "es": "Los compartimentos superiores se cierran antes del despegue."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_60",
+    "english": "in-flight",
+    "spanish": "durante el vuelo",
+    "phonetic": "/ɪn flaɪt/",
+    "examples": [
+      {"en": "In-flight meals are served after takeoff.", "es": "Las comidas a bordo se sirven después del despegue."},
+      {"en": "In-flight entertainment includes movies.", "es": "El entretenimiento a bordo incluye películas."},
+      {"en": "Stay hydrated during in-flight hours.", "es": "Mantente hidratado durante el vuelo."},
+      {"en": "In-flight Wi-Fi costs extra.", "es": "El Wi-Fi a bordo cuesta extra."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_61",
+    "english": "airline",
+    "spanish": "aerolínea",
+    "phonetic": "/ˈer.laɪn/",
+    "examples": [
+      {"en": "Which airline are you flying with?", "es": "¿Con qué aerolínea vuelas?"},
+      {"en": "The airline lost my luggage.", "es": "La aerolínea perdió mi equipaje."},
+      {"en": "I’m loyal to this airline.", "es": "Soy fiel a esta aerolínea."},
+      {"en": "Budget airlines charge for bags.", "es": "Las aerolíneas de bajo costo cobran por maletas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_62",
+    "english": "pilot",
+    "spanish": "piloto",
+    "phonetic": "/ˈpaɪ.lət/",
+    "examples": [
+      {"en": "The pilot announced our arrival.", "es": "El piloto anunció nuestra llegada."},
+      {"en": "She wants to be a pilot.", "es": "Ella quiere ser piloto."},
+      {"en": "The pilot handled the turbulence well.", "es": "El piloto manejó bien la turbulencia."},
+      {"en": "Pilots train for years.", "es": "Los pilotos entrenan durante años."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_63",
+    "english": "flight attendant",
+    "spanish": "auxiliar de vuelo",
+    "phonetic": "/flaɪt əˈten.dənt/",
+    "examples": [
+      {"en": "The flight attendant offered drinks.", "es": "La auxiliar de vuelo ofreció bebidas."},
+      {"en": "Flight attendants ensure passenger safety.", "es": "Los auxiliares de vuelo garantizan la seguridad."},
+      {"en": "She works as a flight attendant.", "es": "Ella trabaja como auxiliar de vuelo."},
+      {"en": "Thank the flight attendant before leaving.", "es": "Agradece al auxiliar de vuelo antes de irte."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_64",
+    "english": "runway",
+    "spanish": "pista (de aterrizaje)",
+    "phonetic": "/ˈrʌn.weɪ/",
+    "examples": [
+      {"en": "The plane taxied to the runway.", "es": "El avión rodó hacia la pista."},
+      {"en": "We waited on the runway for 20 minutes.", "es": "Esperamos en la pista 20 minutos."},
+      {"en": "Runway 27 is closed for maintenance.", "es": "La pista 27 está cerrada por mantenimiento."},
+      {"en": "The runway was wet after rain.", "es": "La pista estaba mojada después de la lluvia."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_65",
+    "english": "taxi",
+    "spanish": "taxi",
+    "phonetic": "/ˈtæk.si/",
+    "examples": [
+      {"en": "We took a taxi from the airport.", "es": "Tomamos un taxi desde el aeropuerto."},
+      {"en": "Taxis are expensive in this city.", "es": "Los taxis son caros en esta ciudad."},
+      {"en": "Call a taxi to the hotel.", "es": "Llama un taxi al hotel."},
+      {"en": "The taxi driver knows the city well.", "es": "El taxista conoce bien la ciudad."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_66",
+    "english": "ride-share",
+    "spanish": "servicio de transporte compartido",
+    "phonetic": "/ˈraɪd ʃer/",
+    "examples": [
+      {"en": "I used a ride-share app to get downtown.", "es": "Usé una app de transporte compartido para ir al centro."},
+      {"en": "Ride-share is cheaper than taxis.", "es": "El transporte compartido es más barato que los taxis."},
+      {"en": "Book a ride-share in advance.", "es": "Reserva un transporte compartido con anticipación."},
+      {"en": "Ride-share drivers use GPS.", "es": "Los conductores de transporte compartido usan GPS."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_67",
+    "english": "bus",
+    "spanish": "autobús",
+    "phonetic": "/bʌs/",
+    "examples": [
+      {"en": "The airport bus leaves every 30 minutes.", "es": "El autobús del aeropuerto sale cada 30 minutos."},
+      {"en": "Take the city bus to the museum.", "es": "Toma el autobús urbano al museo."},
+      {"en": "Bus tickets cost $2.", "es": "Los boletos de autobús cuestan $2."},
+      {"en": "The bus was late due to traffic.", "es": "El autobús llegó tarde por el tráfico."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_68",
+    "english": "train",
+    "spanish": "tren",
+    "phonetic": "/treɪn/",
+    "examples": [
+      {"en": "We traveled by train across Europe.", "es": "Viajamos en tren por Europa."},
+      {"en": "The train arrives at Platform 3.", "es": "El tren llega al andén 3."},
+      {"en": "High-speed trains are fast and comfortable.", "es": "Los trenes de alta velocidad son rápidos y cómodos."},
+      {"en": "Buy your train ticket online.", "es": "Compra tu boleto de tren en línea."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_69",
+    "english": "subway",
+    "spanish": "metro",
+    "phonetic": "/ˈsʌb.weɪ/",
+    "examples": [
+      {"en": "The subway is the fastest way downtown.", "es": "El metro es la forma más rápida de ir al centro."},
+      {"en": "Take the subway to avoid traffic.", "es": "Toma el metro para evitar el tráfico."},
+      {"en": "Subway maps can be confusing.", "es": "Los mapas del metro pueden ser confusos."},
+      {"en": "I got lost in the subway station.", "es": "Me perdí en la estación de metro."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_70",
+    "english": "tram",
+    "spanish": "tranvía",
+    "phonetic": "/træm/",
+    "examples": [
+      {"en": "The historic tram runs through the old town.", "es": "El tranvía histórico recorre el casco antiguo."},
+      {"en": "Take the tram to the beach.", "es": "Toma el tranvía a la playa."},
+      {"en": "Trams are common in European cities.", "es": "Los tranvías son comunes en ciudades europeas."},
+      {"en": "The tram stops every 500 meters.", "es": "El tranvía para cada 500 metros."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_71",
+    "english": "ferry",
+    "spanish": "ferri",
+    "phonetic": "/ˈfer.i/",
+    "examples": [
+      {"en": "We took a ferry to the island.", "es": "Tomamos un ferri a la isla."},
+      {"en": "The ferry departs at 9 AM.", "es": "El ferri sale a las 9 AM."},
+      {"en": "Ferries carry cars and passengers.", "es": "Los ferris transportan autos y pasajeros."},
+      {"en": "Book ferry tickets in advance in summer.", "es": "Reserva boletos de ferri con anticipación en verano."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_72",
+    "english": "cruise",
+    "spanish": "crucero",
+    "phonetic": "/kruːz/",
+    "examples": [
+      {"en": "We went on a Caribbean cruise.", "es": "Fuimos a un crucero por el Caribe."},
+      {"en": "Cruises include food and entertainment.", "es": "Los cruceros incluyen comida y entretenimiento."},
+      {"en": "The cruise ship has a pool and theater.", "es": "El barco de crucero tiene piscina y teatro."},
+      {"en": "Book your cabin early for the best price.", "es": "Reserva tu camarote temprano para el mejor precio."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_73",
+    "english": "car rental",
+    "spanish": "alquiler de coches",
+    "phonetic": "/kɑːr ˈren.təl/",
+    "examples": [
+      {"en": "I reserved a car rental online.", "es": "Reservé un alquiler de coche en línea."},
+      {"en": "Car rental requires a driver’s license.", "es": "El alquiler de coches requiere licencia de conducir."},
+      {"en": "Compare car rental prices before booking.", "es": "Compara precios de alquiler antes de reservar."},
+      {"en": "The car rental office is at the airport.", "es": "La oficina de alquiler está en el aeropuerto."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_74",
+    "english": "driver’s license",
+    "spanish": "licencia de conducir",
+    "phonetic": "/ˈdraɪ.vərz ˈlaɪ.səns/",
+    "examples": [
+      {"en": "You need an international driver’s license.", "es": "Necesitas una licencia de conducir internacional."},
+      {"en": "My driver’s license expires next month.", "es": "Mi licencia de conducir vence el próximo mes."},
+      {"en": "Show your driver’s license at rental.", "es": "Muestra tu licencia en el alquiler."},
+      {"en": "Some countries don’t accept foreign licenses.", "es": "Algunos países no aceptan licencias extranjeras."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_75",
+    "english": "gas station",
+    "spanish": "gasolinera",
+    "phonetic": "/ˈɡæs ˌsteɪ.ʃən/",
+    "examples": [
+      {"en": "Stop at the gas station for fuel.", "es": "Para en la gasolinera a cargar combustible."},
+      {"en": "The gas station has a convenience store.", "es": "La gasolinera tiene una tienda."},
+      {"en": "Fill up the tank at the gas station.", "es": "Llena el tanque en la gasolinera."},
+      {"en": "Gas stations are every few miles.", "es": "Hay gasolineras cada pocos kilómetros."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_76",
+    "english": "highway",
+    "spanish": "autopista",
+    "phonetic": "/ˈhaɪ.weɪ/",
+    "examples": [
+      {"en": "Take the highway to the city center.", "es": "Toma la autopista al centro de la ciudad."},
+      {"en": "The highway is closed due to construction.", "es": "La autopista está cerrada por obras."},
+      {"en": "Speed limits on highways are higher.", "es": "Los límites de velocidad en autopistas son más altos."},
+      {"en": "We drove 200 miles on the highway.", "es": "Condujimos 200 millas por la autopista."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_77",
+    "english": "toll",
+    "spanish": "peaje",
+    "phonetic": "/toʊl/",
+    "examples": [
+      {"en": "There’s a toll on this highway.", "es": "Hay un peaje en esta autopista."},
+      {"en": "Pay the toll with cash or card.", "es": "Paga el peaje con efectivo o tarjeta."},
+      {"en": "Toll roads are faster but cost more.", "es": "Las carreteras de peaje son más rápidas pero cuestan más."},
+      {"en": "I forgot to bring money for the toll.", "es": "Olvidé traer dinero para el peaje."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_78",
+    "english": "parking",
+    "spanish": "estacionamiento",
+    "phonetic": "/ˈpɑːr.kɪŋ/",
+    "examples": [
+      {"en": "Where is the parking lot?", "es": "¿Dónde está el estacionamiento?"},
+      {"en": "Parking costs $10 per hour.", "es": "El estacionamiento cuesta $10 por hora."},
+      {"en": "Free parking is available after 6 PM.", "es": "Hay estacionamiento gratis después de las 6 PM."},
+      {"en": "Don’t park in a no-parking zone.", "es": "No estaciones en zona prohibida."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_79",
+    "english": "traffic",
+    "spanish": "tráfico",
+    "phonetic": "/ˈtræf.ɪk/",
+    "examples": [
+      {"en": "Traffic is heavy during rush hour.", "es": "El tráfico es denso en hora pico."},
+      {"en": "We were stuck in traffic for an hour.", "es": "Estuvimos atrapados en tráfico una hora."},
+      {"en": "Check traffic before leaving.", "es": "Revisa el tráfico antes de salir."},
+      {"en": "Avoid downtown due to traffic.", "es": "Evita el centro por el tráfico."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_80",
+    "english": "rush hour",
+    "spanish": "hora pico",
+    "phonetic": "/ˈrʌʃ ˌaʊər/",
+    "examples": [
+      {"en": "Avoid driving during rush hour.", "es": "Evita conducir en hora pico."},
+      {"en": "Rush hour is from 7 to 9 AM.", "es": "La hora pico es de 7 a 9 AM."},
+      {"en": "Subways are packed at rush hour.", "es": "Los subterráneos están llenos en hora pico."},
+      {"en": "Traffic jams happen at rush hour.", "es": "Los embotellamientos ocurren en hora pico."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_81",
+    "english": "map app",
+    "spanish": "aplicación de mapas",
+    "phonetic": "/mæp æp/",
+    "examples": [
+      {"en": "I use a map app to navigate.", "es": "Uso una aplicación de mapas para navegar."},
+      {"en": "The map app shows real-time traffic.", "es": "La app de mapas muestra tráfico en tiempo real."},
+      {"en": "Download the map app before traveling.", "es": "Descarga la app de mapas antes de viajar."},
+      {"en": "Map apps help find nearby restaurants.", "es": "Las apps de mapas ayudan a encontrar restaurantes cercanos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_82",
+    "english": "navigation",
+    "spanish": "navegación",
+    "phonetic": "/ˌnæv.ɪˈɡeɪ.ʃən/",
+    "examples": [
+      {"en": "Turn on navigation for the route.", "es": "Activa la navegación para la ruta."},
+      {"en": "The car has built-in navigation.", "es": "El coche tiene navegación incorporada."},
+      {"en": "Navigation guided us perfectly.", "es": "La navegación nos guió perfectamente."},
+      {"en": "Offline navigation works without internet.", "es": "La navegación sin conexión funciona sin internet."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_83",
+    "english": "route",
+    "spanish": "ruta",
+    "phonetic": "/ruːt/",
+    "examples": [
+      {"en": "What’s the best route to the beach?", "es": "¿Cuál es la mejor ruta a la playa?"},
+      {"en": "The GPS suggested a faster route.", "es": "El GPS sugirió una ruta más rápida."},
+      {"en": "We took a scenic route.", "es": "Tomamos una ruta panorámica."},
+      {"en": "Avoid this route during snow.", "es": "Evita esta ruta durante la nieve."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_84",
+    "english": "detour",
+    "spanish": "desvío",
+    "phonetic": "/dɪˈtʊr/",
+    "examples": [
+      {"en": "There’s a detour due to construction.", "es": "Hay un desvío por obras."},
+      {"en": "The detour added 20 minutes.", "es": "El desvío añadió 20 minutos."},
+      {"en": "Follow the detour signs.", "es": "Sigue las señales de desvío."},
+      {"en": "Unexpected detours happen on road trips.", "es": "Los desvíos inesperados ocurren en viajes por carretera."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_85",
+    "english": "road trip",
+    "spanish": "viaje por carretera",
+    "phonetic": "/ˈroʊd trɪp/",
+    "examples": [
+      {"en": "We’re planning a road trip to California.", "es": "Planeamos un viaje por carretera a California."},
+      {"en": "Pack snacks for the road trip.", "es": "Lleva bocadillos para el viaje por carretera."},
+      {"en": "Road trips are great for families.", "es": "Los viajes por carretera son geniales para familias."},
+      {"en": "Our road trip lasted two weeks.", "es": "Nuestro viaje por carretera duró dos semanas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_86",
+    "english": "hitchhike",
+    "spanish": "hacer autostop",
+    "phonetic": "/ˈhɪtʃ.haɪk/",
+    "examples": [
+      {"en": "He hitchhiked across Europe.", "es": "Él hizo autostop por Europa."},
+      {"en": "Hitchhiking can be dangerous.", "es": "Hacer autostop puede ser peligroso."},
+      {"en": "I don’t recommend hitchhiking alone.", "es": "No recomiendo hacer autostop solo."},
+      {"en": "They hitchhiked to save money.", "es": "Hicieron autostop para ahorrar dinero."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_87",
+    "english": "backpacker",
+    "spanish": "mochilero",
+    "phonetic": "/ˈbæk.pæk.ər/",
+    "examples": [
+      {"en": "She’s a solo backpacker in Asia.", "es": "Ella es una mochilera solitaria en Asia."},
+      {"en": "Backpackers stay in hostels.", "es": "Los mochileros se alojan en hostales."},
+      {"en": "Backpackers travel on a budget.", "es": "Los mochileros viajan con poco presupuesto."},
+      {"en": "Meet other backpackers at the hostel.", "es": "Conoce otros mochileros en el hostal."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_88",
+    "english": "expedition",
+    "spanish": "expedición",
+    "phonetic": "/ˌek.spəˈdɪʃ.ən/",
+    "examples": [
+      {"en": "They joined an Amazon expedition.", "es": "Se unieron a una expedición al Amazonas."},
+      {"en": "The expedition lasted 30 days.", "es": "La expedición duró 30 días."},
+      {"en": "Expeditions require special gear.", "es": "Las expediciones requieren equipo especial."},
+      {"en": "Scientists led the Arctic expedition.", "es": "Científicos lideraron la expedición al Ártico."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_89",
+    "english": "adventure travel",
+    "spanish": "turismo de aventura",
+    "phonetic": "/ədˈven.tʃər ˈtræv.əl/",
+    "examples": [
+      {"en": "Adventure travel includes hiking and rafting.", "es": "El turismo de aventura incluye senderismo y rafting."},
+      {"en": "She loves adventure travel.", "es": "A ella le encanta el turismo de aventura."},
+      {"en": "Adventure travel requires good fitness.", "es": "El turismo de aventura requiere buena condición física."},
+      {"en": "Book adventure travel with certified guides.", "es": "Reserva turismo de aventura con guías certificados."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_90",
+    "english": "eco-tourism",
+    "spanish": "ecoturismo",
+    "phonetic": "/ˈiː.koʊ ˌtʊr.ɪz.əm/",
+    "examples": [
+      {"en": "Eco-tourism supports conservation.", "es": "El ecoturismo apoya la conservación."},
+      {"en": "We chose an eco-tourism lodge.", "es": "Elegimos un alojamiento de ecoturismo."},
+      {"en": "Eco-tourism respects local cultures.", "es": "El ecoturismo respeta las culturas locales."},
+      {"en": "Costa Rica is famous for eco-tourism.", "es": "Costa Rica es famosa por el ecoturismo."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_91",
+    "english": "visa on arrival",
+    "spanish": "visa a la llegada",
+    "phonetic": "/ˈviː.zə ɒn əˈraɪ.vəl/",
+    "examples": [
+      {"en": "Thailand offers visa on arrival.", "es": "Tailandia ofrece visa a la llegada."},
+      {"en": "You pay for visa on arrival at the airport.", "es": "Pagas la visa a la llegada en el aeropuerto."},
+      {"en": "Not all nationalities get visa on arrival.", "es": "No todas las nacionalidades obtienen visa a la llegada."},
+      {"en": "Bring cash for visa on arrival fees.", "es": "Lleva efectivo para las tarifas de visa a la llegada."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_92",
+    "english": "embassy",
+    "spanish": "embajada",
+    "phonetic": "/ˈem.bə.si/",
+    "examples": [
+      {"en": "Go to your embassy if you lose your passport.", "es": "Ve a tu embajada si pierdes tu pasaporte."},
+      {"en": "The U.S. embassy is in the capital.", "es": "La embajada de EE.UU. está en la capital."},
+      {"en": "Embassies help citizens abroad.", "es": "Las embajadas ayudan a ciudadanos en el extranjero."},
+      {"en": "Schedule an appointment at the embassy.", "es": "Agenda una cita en la embajada."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_93",
+    "english": "consulate",
+    "spanish": "consulado",
+    "phonetic": "/ˈkɒn.sjə.leɪt/",
+    "examples": [
+      {"en": "Apply for a visa at the consulate.", "es": "Solicita una visa en el consulado."},
+      {"en": "The consulate issues passports.", "es": "El consulado emite pasaportes."},
+      {"en": "Find the nearest consulate online.", "es": "Encuentra el consulado más cercano en línea."},
+      {"en": "Consulates assist with legal issues.", "es": "Los consulados ayudan con asuntos legales."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_94",
+    "english": "lost and found",
+    "spanish": "objetos perdidos",
+    "phonetic": "/ˌlɒst ənd ˈfaʊnd/",
+    "examples": [
+      {"en": "I found my phone at lost and found.", "es": "Encontré mi teléfono en objetos perdidos."},
+      {"en": "Report lost items to lost and found.", "es": "Reporta objetos perdidos a objetos perdidos."},
+      {"en": "The lost and found is near Gate 5.", "es": "Objetos perdidos está cerca de la Puerta 5."},
+      {"en": "They returned my wallet from lost and found.", "es": "Me devolvieron mi billetera desde objetos perdidos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_95",
+    "english": "emergency",
+    "spanish": "emergencia",
+    "phonetic": "/ɪˈmɜːr.dʒən.si/",
+    "examples": [
+      {"en": "Call 911 in case of emergency.", "es": "Llama al 911 en caso de emergencia."},
+      {"en": "Know the local emergency number.", "es": "Conoce el número de emergencia local."},
+      {"en": "The flight had a medical emergency.", "es": "El vuelo tuvo una emergencia médica."},
+      {"en": "Keep emergency contacts in your phone.", "es": "Guarda contactos de emergencia en tu teléfono."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_96",
+    "english": "first aid",
+    "spanish": "primeros auxilios",
+    "phonetic": "/ˌfɜːrst ˈeɪd/",
+    "examples": [
+      {"en": "The hotel has a first aid kit.", "es": "El hotel tiene un botiquín de primeros auxilios."},
+      {"en": "Learn basic first aid before traveling.", "es": "Aprende primeros auxilios básicos antes de viajar."},
+      {"en": "She gave first aid to the injured hiker.", "es": "Ella dio primeros auxilios al excursionista herido."},
+      {"en": "First aid can save lives.", "es": "Los primeros auxilios pueden salvar vidas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_97",
+    "english": "vaccination",
+    "spanish": "vacunación",
+    "phonetic": "/ˌvæk.sɪˈneɪ.ʃən/",
+    "examples": [
+      {"en": "Some countries require vaccination proof.", "es": "Algunos países requieren prueba de vacunación."},
+      {"en": "Get your vaccinations before travel.", "es": "Ponte las vacunas antes de viajar."},
+      {"en": "Yellow fever vaccination is needed for Africa.", "es": "Se necesita vacuna contra la fiebre amarilla para África."},
+      {"en": "Carry your vaccination record.", "es": "Lleva tu certificado de vacunación."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_98",
+    "english": "travel alert",
+    "spanish": "alerta de viaje",
+    "phonetic": "/ˈtræv.əl əˈlɜːrt/",
+    "examples": [
+      {"en": "There’s a travel alert for that country.", "es": "Hay una alerta de viaje para ese país."},
+      {"en": "Check government travel alerts before going.", "es": "Revisa las alertas gubernamentales antes de ir."},
+      {"en": "The travel alert warns of protests.", "es": "La alerta de viaje advierte sobre protestas."},
+      {"en": "Sign up for travel alert notifications.", "es": "Regístrate para recibir notificaciones de alertas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_99",
+    "english": "time zone",
+    "spanish": "zona horaria",
+    "phonetic": "/ˈtaɪm zoʊn/",
+    "examples": [
+      {"en": "New York is in the Eastern time zone.", "es": "Nueva York está en la zona horaria del Este."},
+      {"en": "What time zone are you in?", "es": "¿En qué zona horaria estás?"},
+      {"en": "We crossed three time zones.", "es": "Cruzamos tres zonas horarias."},
+      {"en": "Adjust your clock to the local time zone.", "es": "Ajusta tu reloj a la zona horaria local."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_100",
+    "english": "jet lag",
+    "spanish": "desfase horario",
+    "phonetic": "/ˈdʒet læɡ/",
+    "examples": [
+      {"en": "I have jet lag after the long flight.", "es": "Tengo desfase horario después del vuelo largo."},
+      {"en": "Jet lag affects sleep and energy.", "es": "El desfase horario afecta el sueño y la energía."},
+      {"en": "Drink water to reduce jet lag.", "es": "Bebe agua para reducir el desfase horario."},
+      {"en": "It takes days to recover from jet lag.", "es": "Toma días recuperarse del desfase horario."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_101",
+    "english": "passport photo",
+    "spanish": "foto para pasaporte",
+    "phonetic": "/ˈpæs.pɔːrt ˈfoʊ.toʊ/",
+    "examples": [
+      {"en": "I need a new passport photo.", "es": "Necesito una nueva foto para pasaporte."},
+      {"en": "Passport photos must be recent and clear.", "es": "Las fotos para pasaporte deben ser recientes y claras."},
+      {"en": "Where can I take a passport photo?", "es": "¿Dónde puedo tomar una foto para pasaporte?"},
+      {"en": "No smiling in passport photos.", "es": "No se permite sonreír en fotos de pasaporte."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_102",
+    "english": "boarding",
+    "spanish": "embarque",
+    "phonetic": "/ˈbɔːr.dɪŋ/",
+    "examples": [
+      {"en": "Boarding starts at 2:30 PM.", "es": "El embarque empieza a las 2:30 PM."},
+      {"en": "They called my group for boarding.", "es": "Llamaron a mi grupo para embarcar."},
+      {"en": "Boarding will be delayed 15 minutes.", "es": "El embarque se retrasará 15 minutos."},
+      {"en": "Have your boarding pass ready for boarding.", "es": "Ten tu tarjeta de embarque lista para el embarque."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_103",
+    "english": "departure lounge",
+    "spanish": "sala de espera",
+    "phonetic": "/dɪˈpɑːr.tʃər laʊndʒ/",
+    "examples": [
+      {"en": "We waited in the departure lounge.", "es": "Esperamos en la sala de espera."},
+      {"en": "The departure lounge has free Wi-Fi.", "es": "La sala de espera tiene Wi-Fi gratis."},
+      {"en": "Shops and restaurants are in the departure lounge.", "es": "Hay tiendas y restaurantes en la sala de espera."},
+      {"en": "Boarding is announced in the departure lounge.", "es": "Anuncian el embarque en la sala de espera."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_104",
+    "english": "arrival lounge",
+    "spanish": "sala de llegadas",
+    "phonetic": "/əˈraɪ.vəl laʊndʒ/",
+    "examples": [
+      {"en": "Meet me in the arrival lounge.", "es": "Encuéntrame en la sala de llegadas."},
+      {"en": "The arrival lounge is crowded.", "es": "La sala de llegadas está llena."},
+      {"en": "Information desks are in the arrival lounge.", "es": "Los mostradores de información están en la sala de llegadas."},
+      {"en": "Passengers exit through the arrival lounge.", "es": "Los pasajeros salen por la sala de llegadas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_105",
+    "english": "duty-free",
+    "spanish": "libre de impuestos",
+    "phonetic": "/ˌduː.ti ˈfriː/",
+    "examples": [
+      {"en": "I bought perfume at the duty-free shop.", "es": "Compré perfume en la tienda libre de impuestos."},
+      {"en": "Duty-free prices are lower.", "es": "Los precios libres de impuestos son más bajos."},
+      {"en": "Duty-free shops are after security.", "es": "Las tiendas libres de impuestos están después de seguridad."},
+      {"en": "Alcohol and tobacco are popular duty-free items.", "es": "El alcohol y el tabaco son artículos populares libres de impuestos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_106",
+    "english": "transit",
+    "spanish": "tránsito",
+    "phonetic": "/ˈtræn.zɪt/",
+    "examples": [
+      {"en": "I’m in transit for 4 hours.", "es": "Estoy en tránsito por 4 horas."},
+      {"en": "Transit passengers don’t clear immigration.", "es": "Los pasajeros en tránsito no pasan por inmigración."},
+      {"en": "There’s a transit hotel in the airport.", "es": "Hay un hotel de tránsito en el aeropuerto."},
+      {"en": "Stay in the transit area if not leaving the airport.", "es": "Quédate en el área de tránsito si no sales del aeropuerto."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_107",
+    "english": "public transport",
+    "spanish": "transporte público",
+    "phonetic": "/ˈpʌb.lɪk trænˈspɔːrt/",
+    "examples": [
+      {"en": "Use public transport to save money.", "es": "Usa transporte público para ahorrar dinero."},
+      {"en": "Public transport includes buses and trains.", "es": "El transporte público incluye autobuses y trenes."},
+      {"en": "Buy a public transport pass for the week.", "es": "Compra un pase de transporte público para la semana."},
+      {"en": "Public transport is efficient in this city.", "es": "El transporte público es eficiente en esta ciudad."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_108",
+    "english": "metro card",
+    "spanish": "tarjeta del metro",
+    "phonetic": "/ˈmet.roʊ kɑːrd/",
+    "examples": [
+      {"en": "Reload your metro card at the machine.", "es": "Recarga tu tarjeta del metro en la máquina."},
+      {"en": "The metro card gives you unlimited rides.", "es": "La tarjeta del metro te da viajes ilimitados."},
+      {"en": "Tap your metro card at the turnstile.", "es": "Pasa tu tarjeta del metro en el torniquete."},
+      {"en": "Lost metro cards can’t be replaced.", "es": "Las tarjetas del metro perdidas no se reemplazan."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_109",
+    "english": "platform",
+    "spanish": "andén",
+    "phonetic": "/ˈplæt.fɔːrm/",
+    "examples": [
+      {"en": "The train to Paris leaves from Platform 4.", "es": "El tren a París sale del andén 4."},
+      {"en": "Wait on the platform for your train.", "es": "Espera en el andén tu tren."},
+      {"en": "Platform numbers are on the board.", "es": "Los números de andén están en el panel."},
+      {"en": "Don’t cross the yellow line on the platform.", "es": "No cruces la línea amarilla en el andén."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_110",
+    "english": "station",
+    "spanish": "estación",
+    "phonetic": "/ˈsteɪ.ʃən/",
+    "examples": [
+      {"en": "The train station is downtown.", "es": "La estación de tren está en el centro."},
+      {"en": "Buy tickets at the station counter.", "es": "Compra boletos en el mostrador de la estación."},
+      {"en": "We met at the bus station.", "es": "Nos encontramos en la estación de autobuses."},
+      {"en": "The subway station has elevators.", "es": "La estación de metro tiene ascensores."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_111",
+    "english": "port",
+    "spanish": "puerto",
+    "phonetic": "/pɔːrt/",
+    "examples": [
+      {"en": "The cruise ship docked at the port.", "es": "El barco de crucero atracó en el puerto."},
+      {"en": "The port is busy with cargo ships.", "es": "El puerto está ocupado con barcos de carga."},
+      {"en": "We walked from the port to the city.", "es": "Caminamos del puerto a la ciudad."},
+      {"en": "Ferries leave from the main port.", "es": "Los ferris salen del puerto principal."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_112",
+    "english": "harbor",
+    "spanish": "puerto / bahía",
+    "phonetic": "/ˈhɑːr.bər/",
+    "examples": [
+      {"en": "The boats are anchored in the harbor.", "es": "Los barcos están anclados en el puerto."},
+      {"en": "Sydney Harbor is famous.", "es": "El puerto de Sídney es famoso."},
+      {"en": "We took a harbor tour.", "es": "Hicimos un tour por el puerto."},
+      {"en": "The harbor has clear blue water.", "es": "El puerto tiene agua azul clara."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_113",
+    "english": "dock",
+    "spanish": "muelle",
+    "phonetic": "/dɒk/",
+    "examples": [
+      {"en": "The ferry arrives at Dock 3.", "es": "El ferri llega al muelle 3."},
+      {"en": "Fishermen work at the dock.", "es": "Los pescadores trabajan en el muelle."},
+      {"en": "We ate seafood at a dockside restaurant.", "es": "Comimos mariscos en un restaurante junto al muelle."},
+      {"en": "The boat is tied to the dock.", "es": "El barco está amarrado al muelle."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_114",
+    "english": "pier",
+    "spanish": "embarcadero",
+    "phonetic": "/pɪr/",
+    "examples": [
+      {"en": "We walked to the end of the pier.", "es": "Caminamos hasta el final del embarcadero."},
+      {"en": "The pier has shops and restaurants.", "es": "El embarcadero tiene tiendas y restaurantes."},
+      {"en": "Fishing is popular at the pier.", "es": "Pescar es popular en el embarcadero."},
+      {"en": "Sunset views from the pier are amazing.", "es": "Las vistas del atardecer desde el embarcadero son increíbles."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_115",
+    "english": "lighthouse",
+    "spanish": "faro",
+    "phonetic": "/ˈlaɪt.haʊs/",
+    "examples": [
+      {"en": "The lighthouse guides ships at night.", "es": "El faro guía a los barcos de noche."},
+      {"en": "We visited an old lighthouse.", "es": "Visitamos un faro antiguo."},
+      {"en": "The lighthouse is on a rocky cliff.", "es": "El faro está en un acantilado rocoso."},
+      {"en": "Lighthouses are historic landmarks.", "es": "Los faros son monumentos históricos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_116",
+    "english": "helicopter",
+    "spanish": "helicóptero",
+    "phonetic": "/ˈhel.ɪ.kɒp.tər/",
+    "examples": [
+      {"en": "We took a helicopter tour over the Grand Canyon.", "es": "Tomamos un tour en helicóptero sobre el Gran Cañón."},
+      {"en": "Helicopters land on the roof.", "es": "Los helicópteros aterrizan en la azotea."},
+      {"en": "Helicopter rides are expensive but thrilling.", "es": "Los paseos en helicóptero son caros pero emocionantes."},
+      {"en": "Emergency helicopters rescue hikers.", "es": "Helicópteros de emergencia rescatan excursionistas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_117",
+    "english": "hot air balloon",
+    "spanish": "globo aerostático",
+    "phonetic": "/ˌhɒt ˈer ˈbæl.ən/",
+    "examples": [
+      {"en": "We flew in a hot air balloon at sunrise.", "es": "Volamos en globo aerostático al amanecer."},
+      {"en": "Hot air balloon rides are peaceful.", "es": "Los paseos en globo son tranquilos."},
+      {"en": "Cappadocia is famous for hot air balloons.", "es": "Capadocia es famosa por los globos aerostáticos."},
+      {"en": "Book your hot air balloon ride early.", "es": "Reserva tu paseo en globo con anticipación."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_118",
+    "english": "bike rental",
+    "spanish": "alquiler de bicicletas",
+    "phonetic": "/ˈbaɪk ˈren.təl/",
+    "examples": [
+      {"en": "We used bike rental to explore the city.", "es": "Usamos alquiler de bicicletas para explorar la ciudad."},
+      {"en": "Bike rental costs $10 per hour.", "es": "El alquiler de bicicletas cuesta $10 por hora."},
+      {"en": "Many cities have bike rental stations.", "es": "Muchas ciudades tienen estaciones de alquiler de bicicletas."},
+      {"en": "Wear a helmet with bike rental.", "es": "Usa casco con el alquiler de bicicletas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_119",
+    "english": "scooter",
+    "spanish": "scooter",
+    "phonetic": "/ˈskuː.t̬ɚ/",
+    "examples": [
+      {"en": "I rented an electric scooter.", "es": "Alquilé un scooter eléctrico."},
+      {"en": "Scooters are fun for short trips.", "es": "Los scooters son divertidos para trayectos cortos."},
+      {"en": "Park the scooter in designated areas.", "es": "Estaciona el scooter en áreas designadas."},
+      {"en": "Wear a helmet when riding a scooter.", "es": "Usa casco al andar en scooter."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_120",
+    "english": "walking tour",
+    "spanish": "tour a pie",
+    "phonetic": "/ˈwɔː.kɪŋ tʊr/",
+    "examples": [
+      {"en": "We joined a free walking tour.", "es": "Nos unimos a un tour a pie gratuito."},
+      {"en": "The walking tour covers old town.", "es": "El tour a pie cubre el casco antiguo."},
+      {"en": "Wear comfortable shoes for the walking tour.", "es": "Lleva zapatos cómodos para el tour a pie."},
+      {"en": "The guide gave great stories on the walking tour.", "es": "El guía contó historias geniales en el tour a pie."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_121",
+    "english": "guided tour",
+    "spanish": "tour guiado",
+    "phonetic": "/ˈɡaɪ.dɪd tʊr/",
+    "examples": [
+      {"en": "We booked a guided tour of the museum.", "es": "Reservamos un tour guiado del museo."},
+      {"en": "Guided tours include expert commentary.", "es": "Los tours guiados incluyen comentarios de expertos."},
+      {"en": "The guided tour lasts two hours.", "es": "El tour guiado dura dos horas."},
+      {"en": "Ask questions during the guided tour.", "es": "Haz preguntas durante el tour guiado."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_122",
+    "english": "self-guided tour",
+    "spanish": "tour autoguiado",
+    "phonetic": "/ˌself ˈɡaɪ.dɪd tʊr/",
+    "examples": [
+      {"en": "We did a self-guided tour with an app.", "es": "Hicimos un tour autoguiado con una app."},
+      {"en": "Self-guided tours offer flexibility.", "es": "Los tours autoguiados ofrecen flexibilidad."},
+      {"en": "Download the self-guided tour map.", "es": "Descarga el mapa del tour autoguiado."},
+      {"en": "Self-guided tours are cheaper than guided ones.", "es": "Los tours autoguiados son más baratos que los guiados."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_123",
+    "english": "travel blog",
+    "spanish": "blog de viajes",
+    "phonetic": "/ˈtræv.əl blɒɡ/",
+    "examples": [
+      {"en": "I read a travel blog for tips.", "es": "Leo un blog de viajes para consejos."},
+      {"en": "She writes a popular travel blog.", "es": "Ella escribe un blog de viajes popular."},
+      {"en": "Travel blogs share real experiences.", "es": "Los blogs de viajes comparten experiencias reales."},
+      {"en": "Follow travel blogs for inspiration.", "es": "Sigue blogs de viajes para inspiración."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_124",
+    "english": "travel vlog",
+    "spanish": "vlog de viajes",
+    "phonetic": "/ˈtræv.əl vlɒɡ/",
+    "examples": [
+      {"en": "His travel vlog has millions of views.", "es": "Su vlog de viajes tiene millones de vistas."},
+      {"en": "Watch travel vlogs before your trip.", "es": "Mira vlogs de viajes antes de tu viaje."},
+      {"en": "She films her travel vlog daily.", "es": "Ella graba su vlog de viajes diariamente."},
+      {"en": "Travel vlogs show real-time adventures.", "es": "Los vlogs de viajes muestran aventuras en tiempo real."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_125",
+    "english": "packing",
+    "spanish": "empacar",
+    "phonetic": "/ˈpæk.ɪŋ/",
+    "examples": [
+      {"en": "Packing light makes travel easier.", "es": "Empacar ligero hace el viaje más fácil."},
+      {"en": "I finished packing last night.", "es": "Terminé de empacar anoche."},
+      {"en": "Use packing cubes to organize.", "es": "Usa cubos organizadores para empacar."},
+      {"en": "Don’t forget chargers when packing.", "es": "No olvides los cargadores al empacar."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_126",
+    "english": "packing list",
+    "spanish": "lista de empaque",
+    "phonetic": "/ˈpæk.ɪŋ lɪst/",
+    "examples": [
+      {"en": "Make a packing list before you go.", "es": "Haz una lista de empaque antes de irte."},
+      {"en": "My packing list includes toiletries.", "es": "Mi lista de empaque incluye artículos de tocador."},
+      {"en": "Check off items on your packing list.", "es": "Marca los artículos en tu lista de empaque."},
+      {"en": "A good packing list prevents forgetting things.", "es": "Una buena lista de empaque evita olvidos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_127",
+    "english": "toiletries",
+    "spanish": "artículos de tocador",
+    "phonetic": "/ˈtɔɪ.lə.triz/",
+    "examples": [
+      {"en": "Put toiletries in a clear bag.", "es": "Pon los artículos de tocador en una bolsa transparente."},
+      {"en": "Toiletries include toothbrush and shampoo.", "es": "Los artículos de tocador incluyen cepillo y champú."},
+      {"en": "Buy travel-sized toiletries.", "es": "Compra artículos de tocador de tamaño viaje."},
+      {"en": "Don’t forget your toiletries!", "es": "¡No olvides tus artículos de tocador!"}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_128",
+    "english": "adapter",
+    "spanish": "adaptador",
+    "phonetic": "/əˈdæp.tər/",
+    "examples": [
+      {"en": "You need an adapter for European outlets.", "es": "Necesitas un adaptador para enchufes europeos."},
+      {"en": "I forgot my travel adapter.", "es": "Olvidé mi adaptador de viaje."},
+      {"en": "Universal adapters work in many countries.", "es": "Los adaptadores universales funcionan en muchos países."},
+      {"en": "Buy an adapter before your trip.", "es": "Compra un adaptador antes de tu viaje."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_129",
+    "english": "converter",
+    "spanish": "convertidor de voltaje",
+    "phonetic": "/kənˈvɜːr.t̬ɚ/",
+    "examples": [
+      {"en": "Some devices need a voltage converter.", "es": "Algunos dispositivos necesitan un convertidor de voltaje."},
+      {"en": "Adapters and converters are different.", "es": "Los adaptadores y convertidores son distintos."},
+      {"en": "Check if your country needs a converter.", "es": "Revisa si tu país necesita un convertidor."},
+      {"en": "Hair dryers often require converters.", "es": "Los secadores de pelo suelen necesitar convertidores."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_130",
+    "english": "travel pillow",
+    "spanish": "almohada de viaje",
+    "phonetic": "/ˈtræv.əl ˈpɪl.oʊ/",
+    "examples": [
+      {"en": "My travel pillow helps me sleep on planes.", "es": "Mi almohada de viaje me ayuda a dormir en aviones."},
+      {"en": "Inflate the travel pillow before takeoff.", "es": "Infla la almohada de viaje antes del despegue."},
+      {"en": "Travel pillows come in many shapes.", "es": "Las almohadas de viaje vienen en muchas formas."},
+      {"en": "Pack your travel pillow in your carry-on.", "es": "Guarda tu almohada de viaje en tu equipaje de mano."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_131",
+    "english": "earplugs",
+    "spanish": "tapones para los oídos",
+    "phonetic": "/ˈɪr.plʌɡz/",
+    "examples": [
+      {"en": "Use earplugs on noisy flights.", "es": "Usa tapones para los oídos en vuelos ruidosos."},
+      {"en": "Earplugs help you sleep better.", "es": "Los tapones ayudan a dormir mejor."},
+      {"en": "I always pack earplugs for travel.", "es": "Siempre llevo tapones para viajar."},
+      {"en": "Foam earplugs are cheap and effective.", "es": "Los tapones de espuma son baratos y efectivos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_132",
+    "english": "eye mask",
+    "spanish": "antifaz para dormir",
+    "phonetic": "/ˈaɪ mæsk/",
+    "examples": [
+      {"en": "An eye mask blocks light on planes.", "es": "Un antifaz bloquea la luz en aviones."},
+      {"en": "I use an eye mask to sleep during the day.", "es": "Uso un antifaz para dormir de día."},
+      {"en": "Silk eye masks are comfortable.", "es": "Los antifaces de seda son cómodos."},
+      {"en": "Pack an eye mask in your carry-on.", "es": "Lleva un antifaz en tu equipaje de mano."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_133",
+    "english": "hand sanitizer",
+    "spanish": "desinfectante de manos",
+    "phonetic": "/hænd ˈsæn.ɪ.taɪ.zər/",
+    "examples": [
+      {"en": "Use hand sanitizer after touching surfaces.", "es": "Usa desinfectante de manos tras tocar superficies."},
+      {"en": "Hand sanitizer must be under 100ml in carry-on.", "es": "El desinfectante debe ser menor a 100ml en equipaje de mano."},
+      {"en": "Keep hand sanitizer in your pocket.", "es": "Lleva desinfectante en tu bolsillo."},
+      {"en": "Travel-size hand sanitizer is convenient.", "es": "El desinfectante de tamaño viaje es conveniente."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_134",
+    "english": "first aid kit",
+    "spanish": "botiquín de primeros auxilios",
+    "phonetic": "/ˌfɜːrst ˈeɪd kɪt/",
+    "examples": [
+      {"en": "Every traveler should carry a first aid kit.", "es": "Todo viajero debe llevar un botiquín."},
+      {"en": "My first aid kit has bandages and painkillers.", "es": "Mi botiquín tiene vendas y analgésicos."},
+      {"en": "Buy a compact first aid kit for travel.", "es": "Compra un botiquín compacto para viajar."},
+      {"en": "Check your first aid kit before leaving.", "es": "Revisa tu botiquín antes de salir."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_135",
+    "english": "medication",
+    "spanish": "medicamentos",
+    "phonetic": "/ˌmed.ɪˈkeɪ.ʃən/",
+    "examples": [
+      {"en": "Bring your medication in original bottles.", "es": "Lleva tus medicamentos en frascos originales."},
+      {"en": "Some countries restrict certain medications.", "es": "Algunos países restringen ciertos medicamentos."},
+      {"en": "Keep medication in your carry-on.", "es": "Guarda medicamentos en tu equipaje de mano."},
+      {"en": "Prescription medication requires a doctor’s note.", "es": "Los medicamentos recetados requieren nota médica."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_136",
+    "english": "sunscreen",
+    "spanish": "protector solar",
+    "phonetic": "/ˈsʌn.skriːn/",
+    "examples": [
+      {"en": "Apply sunscreen before going to the beach.", "es": "Aplica protector solar antes de ir a la playa."},
+      {"en": "Sunscreen prevents sunburn.", "es": "El protector solar previene quemaduras."},
+      {"en": "Use SPF 30 or higher.", "es": "Usa FPS 30 o más."},
+      {"en": "Travel-size sunscreen fits in carry-on.", "es": "El protector solar de viaje cabe en equipaje de mano."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_137",
+    "english": "insect repellent",
+    "spanish": "repelente de insectos",
+    "phonetic": "/ɪnˈsekt rɪˈpel.ənt/",
+    "examples": [
+      {"en": "Use insect repellent in tropical areas.", "es": "Usa repelente de insectos en zonas tropicales."},
+      {"en": "DEET is an effective insect repellent.", "es": "El DEET es un repelente efectivo."},
+      {"en": "Insect repellent prevents mosquito bites.", "es": "El repelente previene picaduras de mosquito."},
+      {"en": "Spray insect repellent on exposed skin.", "es": "Rocía repelente en la piel expuesta."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_138",
+    "english": "water bottle",
+    "spanish": "botella de agua",
+    "phonetic": "/ˈwɔː.t̬ɚ ˌbɒt.əl/",
+    "examples": [
+      {"en": "Refill your water bottle at the airport.", "es": "Llena tu botella de agua en el aeropuerto."},
+      {"en": "Carry a reusable water bottle.", "es": "Lleva una botella de agua reutilizable."},
+      {"en": "Empty water bottles before security.", "es": "Vacía las botellas antes de seguridad."},
+      {"en": "Stay hydrated with a water bottle.", "es": "Mantente hidratado con una botella de agua."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_139",
+    "english": "snacks",
+    "spanish": "bocadillos",
+    "phonetic": "/snæks/",
+    "examples": [
+      {"en": "Bring snacks for long flights.", "es": "Lleva bocadillos para vuelos largos."},
+      {"en": "Healthy snacks keep energy up.", "es": "Los bocadillos saludables mantienen la energía."},
+      {"en": "Airport snacks are expensive.", "es": "Los bocadillos del aeropuerto son caros."},
+      {"en": "Pack nuts and granola bars as snacks.", "es": "Lleva frutos secos y barras de granola como bocadillos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_140",
+    "english": "travel documents",
+    "spanish": "documentos de viaje",
+    "phonetic": "/ˈtræv.əl ˈdɒk.jə.mənts/",
+    "examples": [
+      {"en": "Keep all travel documents in one folder.", "es": "Guarda todos los documentos de viaje en una carpeta."},
+      {"en": "Travel documents include passport and tickets.", "es": "Los documentos de viaje incluyen pasaporte y boletos."},
+      {"en": "Make copies of your travel documents.", "es": "Haz copias de tus documentos de viaje."},
+      {"en": "Check travel documents before leaving home.", "es": "Revisa los documentos antes de salir de casa."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_141",
+    "english": "itinerary printout",
+    "spanish": "impresión del itinerario",
+    "phonetic": "/aɪˈtɪn.ər.er.i ˈprɪnt.aʊt/",
+    "examples": [
+      {"en": "Carry an itinerary printout as backup.", "es": "Lleva una impresión del itinerario como respaldo."},
+      {"en": "Hotels may ask for your itinerary printout.", "es": "Los hoteles pueden pedir tu impresión del itinerario."},
+      {"en": "The itinerary printout shows all bookings.", "es": "La impresión del itinerario muestra todas las reservas."},
+      {"en": "Even with a phone, keep a printout.", "es": "Aunque tengas teléfono, lleva una impresión."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_142",
+    "english": "travel wallet",
+    "spanish": "billetera de viaje",
+    "phonetic": "/ˈtræv.əl ˈwɒl.ɪt/",
+    "examples": [
+      {"en": "My travel wallet holds passport and cards.", "es": "Mi billetera de viaje guarda pasaporte y tarjetas."},
+      {"en": "Use a travel wallet to stay organized.", "es": "Usa una billetera de viaje para estar organizado."},
+      {"en": "Travel wallets have RFID protection.", "es": "Las billeteras de viaje tienen protección RFID."},
+      {"en": "Keep your travel wallet secure at all times.", "es": "Mantén tu billetera de viaje segura siempre."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_143",
+    "english": "luggage tag",
+    "spanish": "etiqueta de equipaje",
+    "phonetic": "/ˈlʌɡ.ɪdʒ tæɡ/",
+    "examples": [
+      {"en": "Attach a luggage tag with your contact info.", "es": "Pon una etiqueta con tu información de contacto."},
+      {"en": "Luggage tags help identify your suitcase.", "es": "Las etiquetas ayudan a identificar tu maleta."},
+      {"en": "Use a durable luggage tag.", "es": "Usa una etiqueta resistente."},
+      {"en": "Don’t put your home address on the luggage tag.", "es": "No pongas tu dirección en la etiqueta."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_144",
+    "english": "travel lock",
+    "spanish": "candado de viaje",
+    "phonetic": "/ˈtræv.əl lɒk/",
+    "examples": [
+      {"en": "Use a TSA-approved travel lock.", "es": "Usa un candado de viaje aprobado por la TSA."},
+      {"en": "Travel locks prevent theft.", "es": "Los candados de viaje previenen robos."},
+      {"en": "Set a combination on your travel lock.", "es": "Pon una combinación en tu candado."},
+      {"en": "TSA can open approved travel locks.", "es": "La TSA puede abrir candados aprobados."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_145",
+    "english": "TSA",
+    "spanish": "Administración de Seguridad en el Transporte",
+    "phonetic": "/ˌtiː.esˈeɪ/",
+    "examples": [
+      {"en": "TSA checks carry-on bags.", "es": "La TSA revisa el equipaje de mano."},
+      {"en": "TSA-approved locks are recommended.", "es": "Se recomiendan candados aprobados por la TSA."},
+      {"en": "TSA PreCheck speeds up security.", "es": "TSA PreCheck acelera la seguridad."},
+      {"en": "Follow TSA liquid rules.", "es": "Sigue las reglas de líquidos de la TSA."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_146",
+    "english": "PreCheck",
+    "spanish": "PreCheck",
+    "phonetic": "/ˈpriː.tʃek/",
+    "examples": [
+      {"en": "I have TSA PreCheck.", "es": "Tengo TSA PreCheck."},
+      {"en": "PreCheck lets you keep shoes on.", "es": "PreCheck te permite mantener los zapatos puestos."},
+      {"en": "Apply for PreCheck online.", "es": "Solicita PreCheck en línea."},
+      {"en": "PreCheck lanes are faster.", "es": "Las filas de PreCheck son más rápidas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_147",
+    "english": "Global Entry",
+    "spanish": "Global Entry",
+    "phonetic": "/ˈɡloʊ.bəl ˈen.tri/",
+    "examples": [
+      {"en": "Global Entry includes TSA PreCheck.", "es": "Global Entry incluye TSA PreCheck."},
+      {"en": "Global Entry speeds up customs.", "es": "Global Entry acelera la aduana."},
+      {"en": "Apply for Global Entry in advance.", "es": "Solicita Global Entry con anticipación."},
+      {"en": "Global Entry is for frequent international travelers.", "es": "Global Entry es para viajeros internacionales frecuentes."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_148",
+    "english": "frequent flyer",
+    "spanish": "viajero frecuente",
+    "phonetic": "/ˈfriː.kwənt ˈflaɪ.ər/",
+    "examples": [
+      {"en": "I’m a frequent flyer with Delta.", "es": "Soy viajero frecuente con Delta."},
+      {"en": "Frequent flyers earn miles.", "es": "Los viajeros frecuentes acumulan millas."},
+      {"en": "Frequent flyer status gives lounge access.", "es": "El estatus de viajero frecuente da acceso a salas VIP."},
+      {"en": "Join the frequent flyer program.", "es": "Únete al programa de viajero frecuente."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_149",
+    "english": "miles",
+    "spanish": "millas",
+    "phonetic": "/maɪlz/",
+    "examples": [
+      {"en": "I redeemed miles for a free flight.", "es": "Canjeé millas por un vuelo gratis."},
+      {"en": "Earn miles with every flight.", "es": "Acumula millas con cada vuelo."},
+      {"en": "Miles expire if not used.", "es": "Las millas caducan si no se usan."},
+      {"en": "Credit cards offer bonus miles.", "es": "Las tarjetas de crédito ofrecen millas de bonificación."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_150",
+    "english": "upgrade",
+    "spanish": "mejora de clase",
+    "phonetic": "/ʌpˈɡreɪd/",
+    "examples": [
+      {"en": "I got a free upgrade to business class.", "es": "Obtuve una mejora gratis a clase ejecutiva."},
+      {"en": "Upgrades cost extra.", "es": "Las mejoras cuestan extra."},
+      {"en": "Ask at the counter for an upgrade.", "es": "Pregunta en el mostrador por una mejora."},
+      {"en": "Frequent flyers get priority for upgrades.", "es": "Los viajeros frecuentes tienen prioridad para mejoras."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_151",
+    "english": "business class",
+    "spanish": "clase ejecutiva",
+    "phonetic": "/ˈbɪz.nəs klæs/",
+    "examples": [
+      {"en": "Business class has lie-flat seats.", "es": "La clase ejecutiva tiene asientos reclinables."},
+      {"en": "Business class meals are gourmet.", "es": "Las comidas de clase ejecutiva son gourmet."},
+      {"en": "Business class is expensive but comfortable.", "es": "La clase ejecutiva es cara pero cómoda."},
+      {"en": "Access the lounge with business class.", "es": "Accede a la sala VIP con clase ejecutiva."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_152",
+    "english": "first class",
+    "spanish": "primera clase",
+    "phonetic": "/ˈfɜːrst klæs/",
+    "examples": [
+      {"en": "First class has private suites.", "es": "La primera clase tiene suites privadas."},
+      {"en": "First class tickets cost thousands.", "es": "Los boletos de primera clase cuestan miles."},
+      {"en": "First class includes chauffeur service.", "es": "La primera clase incluye servicio de chofer."},
+      {"en": "Only a few passengers fly first class.", "es": "Solo unos pocos pasajeros vuelan en primera clase."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_153",
+    "english": "economy class",
+    "spanish": "clase turista",
+    "phonetic": "/ɪˈkɒn.ə.mi klæs/",
+    "examples": [
+      {"en": "Most people fly economy class.", "es": "La mayoría vuela en clase turista."},
+      {"en": "Economy class is the cheapest option.", "es": "La clase turista es la opción más barata."},
+      {"en": "Economy class has limited legroom.", "es": "La clase turista tiene poco espacio para piernas."},
+      {"en": "Premium economy is between economy and business.", "es": "La económica premium está entre turista y ejecutiva."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_154",
+    "english": "premium economy",
+    "spanish": "económica premium",
+    "phonetic": "/ˌpriː.mi.əm ɪˈkɒn.ə.mi/",
+    "examples": [
+      {"en": "Premium economy has wider seats.", "es": "La económica premium tiene asientos más anchos."},
+      {"en": "Premium economy costs more than economy.", "es": "La económica premium cuesta más que la turista."},
+      {"en": "I upgraded to premium economy.", "es": "Mejoré a económica premium."},
+      {"en": "Premium economy includes better meals.", "es": "La económica premium incluye mejores comidas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_155",
+    "english": "lounge",
+    "spanish": "sala VIP",
+    "phonetic": "/luːndʒ/",
+    "examples": [
+      {"en": "Access the airline lounge with a pass.", "es": "Accede a la sala VIP con un pase."},
+      {"en": "Lounges offer free food and drinks.", "es": "Las salas VIP ofrecen comida y bebida gratis."},
+      {"en": "Wait in the lounge before your flight.", "es": "Espera en la sala VIP antes de tu vuelo."},
+      {"en": "Priority Pass gives lounge access worldwide.", "es": "Priority Pass da acceso a salas en todo el mundo."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_156",
+    "english": "baggage allowance",
+    "spanish": "franquicia de equipaje",
+    "phonetic": "/ˈbæɡ.ɪdʒ əˈlaʊ.əns/",
+    "examples": [
+      {"en": "Check your baggage allowance before flying.", "es": "Revisa tu franquicia de equipaje antes de volar."},
+      {"en": "Economy class allowance is 23 kg.", "es": "La franquicia en clase turista es 23 kg."},
+      {"en": "Exceeding baggage allowance costs extra.", "es": "Exceder la franquicia cuesta extra."},
+      {"en": "Some airlines have no free baggage allowance.", "es": "Algunas aerolíneas no tienen franquicia gratis."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_157",
+    "english": "excess baggage",
+    "spanish": "exceso de equipaje",
+    "phonetic": "/ɪkˈses ˈbæɡ.ɪdʒ/",
+    "examples": [
+      {"en": "I paid for excess baggage at the counter.", "es": "Pagué por exceso de equipaje en el mostrador."},
+      {"en": "Excess baggage fees are high.", "es": "Las tarifas por exceso son altas."},
+      {"en": "Weigh your bag to avoid excess baggage.", "es": "Pesa tu maleta para evitar exceso."},
+      {"en": "Excess baggage must be paid before check-in.", "es": "El exceso debe pagarse antes del registro."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_158",
+    "english": "lost luggage",
+    "spanish": "equipaje perdido",
+    "phonetic": "/lɒst ˈlʌɡ.ɪdʒ/",
+    "examples": [
+      {"en": "Report lost luggage immediately.", "es": "Reporta el equipaje perdido inmediatamente."},
+      {"en": "Airlines compensate for lost luggage.", "es": "Las aerolíneas indemnizan por equipaje perdido."},
+      {"en": "Lost luggage is rare but stressful.", "es": "El equipaje perdido es raro pero estresante."},
+      {"en": "File a claim for lost luggage.", "es": "Presenta un reclamo por equipaje perdido."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_159",
+    "english": "delayed luggage",
+    "spanish": "equipaje retrasado",
+    "phonetic": "/dɪˈleɪd ˈlʌɡ.ɪdʒ/",
+    "examples": [
+      {"en": "My delayed luggage arrived the next day.", "es": "Mi equipaje retrasado llegó al día siguiente."},
+      {"en": "Airlines deliver delayed luggage to your hotel.", "es": "Las aerolíneas entregan el equipaje retrasado al hotel."},
+      {"en": "Get essentials if luggage is delayed.", "es": "Compra lo esencial si el equipaje se retrasa."},
+      {"en": "Delayed luggage is more common than lost.", "es": "El equipaje retrasado es más común que el perdido."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_160",
+    "english": "travel size",
+    "spanish": "tamaño de viaje",
+    "phonetic": "/ˈtræv.əl saɪz/",
+    "examples": [
+      {"en": "Use travel-size shampoo in carry-on.", "es": "Usa champú de tamaño de viaje en equipaje de mano."},
+      {"en": "Travel-size items must be under 100ml.", "es": "Los artículos de tamaño de viaje deben ser menores a 100ml."},
+      {"en": "Buy travel-size toiletries at the airport.", "es": "Compra artículos de tocador de tamaño de viaje en el aeropuerto."},
+      {"en": "Travel-size means convenient and small.", "es": "Tamaño de viaje significa conveniente y pequeño."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_161",
+    "english": "clear bag",
+    "spanish": "bolsa transparente",
+    "phonetic": "/klɪr bæɡ/",
+    "examples": [
+      {"en": "Put liquids in a clear bag for security.", "es": "Pon los líquidos en una bolsa transparente para seguridad."},
+      {"en": "The clear bag must be quart-sized.", "es": "La bolsa transparente debe ser de un cuarto de galón."},
+      {"en": "One clear bag per passenger.", "es": "Una bolsa transparente por pasajero."},
+      {"en": "Ziplock bags work as clear bags.", "es": "Las bolsas Ziplock sirven como bolsas transparentes."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_162",
+    "english": "security checkpoint",
+    "spanish": "punto de control de seguridad",
+    "phonetic": "/səˈkjʊr.ə.ti ˈtʃek.pɔɪnt/",
+    "examples": [
+      {"en": "Remove shoes at the security checkpoint.", "es": "Quítate los zapatos en el punto de control de seguridad."},
+      {"en": "Security checkpoints can have long lines.", "es": "Los puntos de control pueden tener filas largas."},
+      {"en": "Have your ID ready at the checkpoint.", "es": "Ten tu identificación lista en el control."},
+      {"en": "Laptops go in a separate bin at the checkpoint.", "es": "Las laptops van en una bandeja separada en el control."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_163",
+    "english": "metal detector",
+    "spanish": "detector de metales",
+    "phonetic": "/ˈmet.əl dɪˈtek.tər/",
+    "examples": [
+      {"en": "Walk through the metal detector.", "es": "Pasa por el detector de metales."},
+      {"en": "Remove belts before the metal detector.", "es": "Quítate el cinturón antes del detector."},
+      {"en": "The metal detector beeped.", "es": "El detector de metales pitó."},
+      {"en": "Metal detectors are at every airport.", "es": "Hay detectores de metales en todos los aeropuertos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_164",
+    "english": "body scanner",
+    "spanish": "escáner corporal",
+    "phonetic": "/ˈbɒd.i ˌskæn.ər/",
+    "examples": [
+      {"en": "You may be selected for the body scanner.", "es": "Pueden seleccionarte para el escáner corporal."},
+      {"en": "Body scanners detect hidden items.", "es": "Los escáneres detectan objetos ocultos."},
+      {"en": "You can request a pat-down instead.", "es": "Puedes pedir un cacheo en vez del escáner."},
+      {"en": "Body scanners are common in U.S. airports.", "es": "Los escáneres son comunes en aeropuertos de EE.UU."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_165",
+    "english": "pat-down",
+    "spanish": "cacheo",
+    "phonetic": "/ˈpæt.daʊn/",
+    "examples": [
+      {"en": "I opted for a pat-down instead of the scanner.", "es": "Opté por un cacheo en vez del escáner."},
+      {"en": "Pat-downs are done by same-gender officers.", "es": "Los cacheos los hacen oficiales del mismo género."},
+      {"en": "Pat-downs ensure security.", "es": "Los cacheos garantizan la seguridad."},
+      {"en": "You can request a private pat-down.", "es": "Puedes pedir un cacheo privado."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_166",
+    "english": "immigration form",
+    "spanish": "formulario de inmigración",
+    "phonetic": "/ˌɪm.ɪˈɡreɪ.ʃən fɔːrm/",
+    "examples": [
+      {"en": "Fill out the immigration form on the plane.", "es": "Llena el formulario de inmigración en el avión."},
+      {"en": "The immigration form asks for your address.", "es": "El formulario de inmigración pide tu dirección."},
+      {"en": "Keep a copy of your immigration form.", "es": "Guarda una copia de tu formulario de inmigración."},
+      {"en": "Some countries use digital immigration forms.", "es": "Algunos países usan formularios digitales."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_167",
+    "english": "customs declaration",
+    "spanish": "declaración de aduana",
+    "phonetic": "/ˈkʌs.təmz ˌdek.ləˈreɪ.ʃən/",
+    "examples": [
+      {"en": "Declare all food items on customs declaration.", "es": "Declara todos los alimentos en la declaración de aduana."},
+      {"en": "Customs declaration forms are on the plane.", "es": "Los formularios de aduana están en el avión."},
+      {"en": "False customs declaration can cause fines.", "es": "Una declaración falsa puede causar multas."},
+      {"en": "Answer honestly on the customs declaration.", "es": "Responde honestamente en la declaración de aduana."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_168",
+    "english": "quarantine",
+    "spanish": "cuarentena",
+    "phonetic": "/ˈkwɒr.ən.tiːn/",
+    "examples": [
+      {"en": "Some countries require quarantine on arrival.", "es": "Algunos países requieren cuarentena al llegar."},
+      {"en": "Quarantine lasted 14 days.", "es": "La cuarentena duró 14 días."},
+      {"en": "Check quarantine rules before travel.", "es": "Revisa las reglas de cuarentena antes de viajar."},
+      {"en": "Quarantine is for health safety.", "es": "La cuarentena es por seguridad sanitaria."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_169",
+    "english": "health certificate",
+    "spanish": "certificado de salud",
+    "phonetic": "/helθ ˈsɜːr.tɪ.fɪ.kət/",
+    "examples": [
+      {"en": "Some countries require a health certificate.", "es": "Algunos países requieren certificado de salud."},
+      {"en": "Vaccination records are part of the health certificate.", "es": "Los registros de vacunación son parte del certificado."},
+      {"en": "Get your health certificate from a clinic.", "es": "Obtén tu certificado de salud en una clínica."},
+      {"en": "Health certificates may be digital.", "es": "Los certificados de salud pueden ser digitales."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_170",
+    "english": "travel advisory",
+    "spanish": "advertencia de viaje",
+    "phonetic": "/ˈtræv.əl ədˈvaɪ.zər.i/",
+    "examples": [
+      {"en": "The government issued a travel advisory.", "es": "El gobierno emitió una advertencia de viaje."},
+      {"en": "Check travel advisories before booking.", "es": "Revisa advertencias antes de reservar."},
+      {"en": "Level 4 means 'Do Not Travel'.", "es": "Nivel 4 significa 'No viajar'."},
+      {"en": "Travel advisories can change quickly.", "es": "Las advertencias pueden cambiar rápido."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_171",
+    "english": "embassy assistance",
+    "spanish": "asistencia consular",
+    "phonetic": "/ˈem.bə.si əˈsɪs.təns/",
+    "examples": [
+      {"en": "Contact embassy assistance if arrested.", "es": "Contacta asistencia consular si te arrestan."},
+      {"en": "Embassy assistance includes emergency loans.", "es": "La asistencia incluye préstamos de emergencia."},
+      {"en": "Register with your embassy for assistance.", "es": "Regístrate en tu embajada para asistencia."},
+      {"en": "Embassy assistance is for citizens only.", "es": "La asistencia consular es solo para ciudadanos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_172",
+    "english": "local SIM card",
+    "spanish": "tarjeta SIM local",
+    "phonetic": "/ˈloʊ.kəl sɪm kɑːrd/",
+    "examples": [
+      {"en": "Buy a local SIM card for data.", "es": "Compra una tarjeta SIM local para datos."},
+      {"en": "Local SIM cards are cheaper than roaming.", "es": "Las SIM locales son más baratas que el roaming."},
+      {"en": "Unlock your phone for a local SIM card.", "es": "Desbloquea tu teléfono para una SIM local."},
+      {"en": "Airports sell local SIM cards.", "es": "Los aeropuertos venden tarjetas SIM locales."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_173",
+    "english": "roaming",
+    "spanish": "itinerancia",
+    "phonetic": "/ˈroʊ.mɪŋ/",
+    "examples": [
+      {"en": "Roaming charges can be expensive.", "es": "Los cargos de itinerancia pueden ser caros."},
+      {"en": "Turn off roaming to avoid fees.", "es": "Desactiva la itinerancia para evitar cargos."},
+      {"en": "Some plans include international roaming.", "es": "Algunos planes incluyen itinerancia internacional."},
+      {"en": "Use Wi-Fi instead of roaming.", "es": "Usa Wi-Fi en vez de itinerancia."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_174",
+    "english": "Wi-Fi hotspot",
+    "spanish": "punto de acceso Wi-Fi",
+    "phonetic": "/ˈwaɪ.faɪ ˈhɒt.spɒt/",
+    "examples": [
+      {"en": "The hotel offers a free Wi-Fi hotspot.", "es": "El hotel ofrece un punto de acceso Wi-Fi gratis."},
+      {"en": "Use a portable Wi-Fi hotspot for travel.", "es": "Usa un punto de acceso portátil para viajar."},
+      {"en": "Connect to the airport Wi-Fi hotspot.", "es": "Conéctate al punto de acceso del aeropuerto."},
+      {"en": "Wi-Fi hotspots need password sometimes.", "es": "A veces los puntos de acceso necesitan contraseña."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_175",
+    "english": "portable charger",
+    "spanish": "cargador portátil",
+    "phonetic": "/ˈpɔːr.tə.bəl ˈtʃɑːr.dʒər/",
+    "examples": [
+      {"en": "Bring a portable charger for long trips.", "es": "Lleva un cargador portátil para viajes largos."},
+      {"en": "My portable charger saved my phone.", "es": "Mi cargador portátil salvó mi teléfono."},
+      {"en": "Portable chargers are allowed in carry-on.", "es": "Los cargadores portátiles están permitidos en equipaje de mano."},
+      {"en": "Charge your portable charger before travel.", "es": "Carga tu cargador portátil antes de viajar."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_176",
+    "english": "power bank",
+    "spanish": "batería externa",
+    "phonetic": "/ˈpaʊ.ər bæŋk/",
+    "examples": [
+      {"en": "My power bank lasts all day.", "es": "Mi batería externa dura todo el día."},
+      {"en": "Power banks are essential for travelers.", "es": "Las baterías externas son esenciales para viajeros."},
+      {"en": "Don’t pack power banks in checked luggage.", "es": "No pongas baterías externas en equipaje facturado."},
+      {"en": "Buy a high-capacity power bank.", "es": "Compra una batería externa de alta capacidad."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_177",
+    "english": "translation app",
+    "spanish": "aplicación de traducción",
+    "phonetic": "/ˌtrænˈsleɪ.ʃən æp/",
+    "examples": [
+      {"en": "Use a translation app to talk to locals.", "es": "Usa una app de traducción para hablar con locales."},
+      {"en": "Google Translate is a popular translation app.", "es": "Google Translate es una app de traducción popular."},
+      {"en": "Download translation app offline.", "es": "Descarga la app de traducción sin conexión."},
+      {"en": "Translation apps help with menus and signs.", "es": "Las apps de traducción ayudan con menús y señales."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_178",
+    "english": "phrasebook",
+    "spanish": "libro de frases",
+    "phonetic": "/ˈfreɪz.bʊk/",
+    "examples": [
+      {"en": "I carry a Spanish phrasebook.", "es": "Llevo un libro de frases en español."},
+      {"en": "Phrasebooks help when there’s no internet.", "es": "Los libros de frases ayudan sin internet."},
+      {"en": "Learn key phrases from a phrasebook.", "es": "Aprende frases clave de un libro de frases."},
+      {"en": "Pocket phrasebooks are handy.", "es": "Los libros de frases de bolsillo son útiles."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_179",
+    "english": "language barrier",
+    "spanish": "barrera del idioma",
+    "phonetic": "/ˈlæŋ.ɡwɪdʒ ˈber.i.ər/",
+    "examples": [
+      {"en": "The language barrier made ordering hard.", "es": "La barrera del idioma dificultó pedir comida."},
+      {"en": "Use gestures to overcome language barrier.", "es": "Usa gestos para superar la barrera del idioma."},
+      {"en": "Translation apps reduce language barriers.", "es": "Las apps de traducción reducen barreras del idioma."},
+      {"en": "Smiling helps despite language barrier.", "es": "Sonreír ayuda a pesar de la barrera del idioma."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_180",
+    "english": "cultural difference",
+    "spanish": "diferencia cultural",
+    "phonetic": "/ˈkʌl.tʃər.əl ˈdɪf.ər.əns/",
+    "examples": [
+      {"en": "Respect cultural differences when traveling.", "es": "Respeta las diferencias culturales al viajar."},
+      {"en": "Cultural differences include greetings and dress.", "es": "Las diferencias culturales incluyen saludos y vestimenta."},
+      {"en": "Learn about cultural differences before going.", "es": "Infórmate sobre diferencias culturales antes de ir."},
+      {"en": "Cultural differences make travel interesting.", "es": "Las diferencias culturales hacen el viaje interesante."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_181",
+    "english": "etiquette",
+    "spanish": "etiqueta",
+    "phonetic": "/ˈet.ɪ.ket/",
+    "examples": [
+      {"en": "Learn local etiquette before visiting.", "es": "Aprende la etiqueta local antes de visitar."},
+      {"en": "Table etiquette varies by country.", "es": "La etiqueta en la mesa varía por país."},
+      {"en": "Good etiquette shows respect.", "es": "La buena etiqueta muestra respeto."},
+      {"en": "Tipping etiquette differs worldwide.", "es": "La etiqueta de propinas difiere en el mundo."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_182",
+    "english": "local cuisine",
+    "spanish": "gastronomía local",
+    "phonetic": "/ˈloʊ.kəl kwɪˈziːn/",
+    "examples": [
+      {"en": "Try the local cuisine!", "es": "¡Prueba la gastronomía local!"},
+      {"en": "Local cuisine reflects culture and history.", "es": "La gastronomía local refleja cultura e historia."},
+      {"en": "I loved the local cuisine in Thailand.", "es": "Me encantó la gastronomía local en Tailandia."},
+      {"en": "Street food is part of local cuisine.", "es": "La comida callejera es parte de la gastronomía local."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_183",
+    "english": "street food",
+    "spanish": "comida callejera",
+    "phonetic": "/striːt fuːd/",
+    "examples": [
+      {"en": "Street food in Bangkok is delicious.", "es": "La comida callejera en Bangkok es deliciosa."},
+      {"en": "Be cautious with street food hygiene.", "es": "Ten cuidado con la higiene de la comida callejera."},
+      {"en": "Street food is cheap and authentic.", "es": "La comida callejera es barata y auténtica."},
+      {"en": "Ask locals for the best street food spots.", "es": "Pregunta a locales por los mejores puestos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_184",
+    "english": "tap water",
+    "spanish": "agua del grifo",
+    "phonetic": "/tæp ˈwɔː.t̬ɚ/",
+    "examples": [
+      {"en": "Is tap water safe to drink here?", "es": "¿Es segura el agua del grifo aquí?"},
+      {"en": "In some countries, avoid tap water.", "es": "En algunos países, evita el agua del grifo."},
+      {"en": "Use bottled water instead of tap water.", "es": "Usa agua embotellada en vez de agua del grifo."},
+      {"en": "Tap water is fine in most European cities.", "es": "El agua del grifo es segura en la mayoría de ciudades europeas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_185",
+    "english": "bottled water",
+    "spanish": "agua embotellada",
+    "phonetic": "/ˈbɒt.əld ˈwɔː.t̬ɚ/",
+    "examples": [
+      {"en": "Always drink bottled water in Mexico.", "es": "Siempre bebe agua embotellada en México."},
+      {"en": "Bottled water is sold everywhere.", "es": "El agua embotellada se vende en todas partes."},
+      {"en": "Reduce plastic: use refillable bottles.", "es": "Reduce plástico: usa botellas rellenables."},
+      {"en": "Check the seal on bottled water.", "es": "Revisa el sello del agua embotellada."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_186",
+    "english": "travel sickness",
+    "spanish": "mareo de viaje",
+    "phonetic": "/ˈtræv.əl ˈsɪk.nəs/",
+    "examples": [
+      {"en": "I get travel sickness on boats.", "es": "Me da mareo de viaje en barcos."},
+      {"en": "Take medicine for travel sickness.", "es": "Toma medicina para el mareo de viaje."},
+      {"en": "Ginger helps with travel sickness.", "es": "El jengibre ayuda con el mareo de viaje."},
+      {"en": "Sit in the front to avoid travel sickness.", "es": "Siéntate adelante para evitar mareo."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_187",
+    "english": "motion sickness",
+    "spanish": "cinetosis",
+    "phonetic": "/ˈmoʊ.ʃən ˌsɪk.nəs/",
+    "examples": [
+      {"en": "Motion sickness happens in cars and planes.", "es": "La cinetosis ocurre en coches y aviones."},
+      {"en": "Children are prone to motion sickness.", "es": "Los niños son propensos a la cinetosis."},
+      {"en": "Look at the horizon to reduce motion sickness.", "es": "Mira al horizonte para reducir la cinetosis."},
+      {"en": "Wristbands can help with motion sickness.", "es": "Las pulseras pueden ayudar con la cinetosis."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_188",
+    "english": "altitude sickness",
+    "spanish": "mal de altura",
+    "phonetic": "/ˈæl.tɪ.tjuːd ˌsɪk.nəs/",
+    "examples": [
+      {"en": "Altitude sickness occurs above 2,500 meters.", "es": "El mal de altura ocurre sobre los 2,500 metros."},
+      {"en": "Symptoms include headache and nausea.", "es": "Los síntomas incluyen dolor de cabeza y náuseas."},
+      {"en": "Ascend slowly to avoid altitude sickness.", "es": "Asciende lentamente para evitar el mal de altura."},
+      {"en": "Drink water to prevent altitude sickness.", "es": "Bebe agua para prevenir el mal de altura."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_189",
+    "english": "travel fatigue",
+    "spanish": "fatiga de viaje",
+    "phonetic": "/ˈtræv.əl fəˈtiːɡ/",
+    "examples": [
+      {"en": "Travel fatigue hits after long flights.", "es": "La fatiga de viaje aparece tras vuelos largos."},
+      {"en": "Rest to recover from travel fatigue.", "es": "Descansa para recuperarte de la fatiga de viaje."},
+      {"en": "Hydrate and stretch to reduce travel fatigue.", "es": "Hidrátate y estira para reducir la fatiga."},
+      {"en": "Travel fatigue is normal but manageable.", "es": "La fatiga de viaje es normal pero manejable."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_190",
+    "english": "solo travel",
+    "spanish": "viaje en solitario",
+    "phonetic": "/ˈsoʊ.loʊ ˈtræv.əl/",
+    "examples": [
+      {"en": "Solo travel builds confidence.", "es": "El viaje en solitario construye confianza."},
+      {"en": "She loves solo travel in Europe.", "es": "A ella le encanta viajar sola por Europa."},
+      {"en": "Plan carefully for solo travel.", "es": "Planea con cuidado un viaje en solitario."},
+      {"en": "Solo travel offers freedom and reflection.", "es": "El viaje en solitario ofrece libertad y reflexión."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_191",
+    "english": "group tour",
+    "spanish": "tour grupal",
+    "phonetic": "/ɡruːp tʊr/",
+    "examples": [
+      {"en": "We joined a group tour of Italy.", "es": "Nos unimos a un tour grupal por Italia."},
+      {"en": "Group tours include a guide and transport.", "es": "Los tours grupales incluyen guía y transporte."},
+      {"en": "Group tours are great for first-time travelers.", "es": "Los tours grupales son geniales para principiantes."},
+      {"en": "Group tours follow a fixed itinerary.", "es": "Los tours grupales siguen un itinerario fijo."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_192",
+    "english": "family vacation",
+    "spanish": "vacaciones en familia",
+    "phonetic": "/ˈfæm.əl.i vəˈkeɪ.ʃən/",
+    "examples": [
+      {"en": "We planned a family vacation to Disney.", "es": "Planeamos unas vacaciones en familia a Disney."},
+      {"en": "Family vacations create lasting memories.", "es": "Las vacaciones en familia crean recuerdos duraderos."},
+      {"en": "Book early for family vacation deals.", "es": "Reserva temprano para ofertas de vacaciones familiares."},
+      {"en": "Family vacations need more planning.", "es": "Las vacaciones en familia requieren más planificación."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_193",
+    "english": "honeymoon",
+    "spanish": "luna de miel",
+    "phonetic": "/ˈhʌn.i.muːn/",
+    "examples": [
+      {"en": "They went to Bali for their honeymoon.", "es": "Fueron a Bali de luna de miel."},
+      {"en": "Honeymoon destinations include beaches and cities.", "es": "Los destinos de luna de miel incluyen playas y ciudades."},
+      {"en": "Book your honeymoon right after the wedding.", "es": "Reserva tu luna de miel justo después de la boda."},
+      {"en": "Many resorts offer honeymoon packages.", "es": "Muchos resorts ofrecen paquetes de luna de miel."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_194",
+    "english": "staycation",
+    "spanish": "estancia en casa",
+    "phonetic": "/ˈsteɪ.keɪ.ʃən/",
+    "examples": [
+      {"en": "We had a staycation last summer.", "es": "Tuvimos una estancia en casa el verano pasado."},
+      {"en": "Staycations save money and reduce stress.", "es": "Las estancias en casa ahorran dinero y reducen estrés."},
+      {"en": "Explore your city during a staycation.", "es": "Explora tu ciudad durante una estancia en casa."},
+      {"en": "Staycations are eco-friendly.", "es": "Las estancias en casa son ecológicas."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_195",
+    "english": "glamping",
+    "spanish": "glamping",
+    "phonetic": "/ˈɡlæm.pɪŋ/",
+    "examples": [
+      {"en": "Glamping is glamorous camping.", "es": "El glamping es camping glamoroso."},
+      {"en": "Glamping includes real beds and electricity.", "es": "El glamping incluye camas reales y electricidad."},
+      {"en": "We tried glamping in the desert.", "es": "Probamos el glamping en el desierto."},
+      {"en": "Glamping is more comfortable than camping.", "es": "El glamping es más cómodo que el camping."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_196",
+    "english": "digital nomad",
+    "spanish": "nómada digital",
+    "phonetic": "/ˈdɪdʒ.ɪ.təl ˈnoʊ.mæd/",
+    "examples": [
+      {"en": "She’s a digital nomad working from Bali.", "es": "Ella es una nómada digital trabajando desde Bali."},
+      {"en": "Digital nomads need good internet.", "es": "Los nómadas digitales necesitan buen internet."},
+      {"en": "Many cities welcome digital nomads.", "es": "Muchas ciudades dan la bienvenida a nómadas digitales."},
+      {"en": "Digital nomad visas are becoming popular.", "es": "Las visas para nómadas digitales son populares."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_197",
+    "english": "overtourism",
+    "spanish": "sobreturismo",
+    "phonetic": "/ˌoʊ.vərˈtʊr.ɪz.əm/",
+    "examples": [
+      {"en": "Overtourism harms local communities.", "es": "El sobreturismo daña a las comunidades locales."},
+      {"en": "Venice suffers from overtourism.", "es": "Venecia sufre de sobreturismo."},
+      {"en": "Visit off-season to reduce overtourism.", "es": "Visita fuera de temporada para reducir el sobreturismo."},
+      {"en": "Overtourism leads to higher prices.", "es": "El sobreturismo lleva a precios más altos."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_198",
+    "english": "sustainable travel",
+    "spanish": "viaje sostenible",
+    "phonetic": "/səˈsteɪ.nə.bəl ˈtræv.əl/",
+    "examples": [
+      {"en": "Sustainable travel protects the environment.", "es": "El viaje sostenible protege el medio ambiente."},
+      {"en": "Choose eco-friendly hotels for sustainable travel.", "es": "Elige hoteles ecológicos para viajar sosteniblemente."},
+      {"en": "Sustainable travel supports local economies.", "es": "El viaje sostenible apoya economías locales."},
+      {"en": "Walk or bike for sustainable travel.", "es": "Camina o usa bici para viajar sosteniblemente."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_199",
+    "english": "carbon footprint",
+    "spanish": "huella de carbono",
+    "phonetic": "/ˈkɑːr.bən ˈfʊt.prɪnt/",
+    "examples": [
+      {"en": "Flying increases your carbon footprint.", "es": "Volar aumenta tu huella de carbono."},
+      {"en": "Offset your carbon footprint when flying.", "es": "Compensa tu huella de carbono al volar."},
+      {"en": "Trains have a lower carbon footprint than planes.", "es": "Los trenes tienen menor huella de carbono que los aviones."},
+      {"en": "Reduce carbon footprint by packing light.", "es": "Reduce tu huella de carbono empacando ligero."}
+    ],
+    "category": "Travel & Transport"
+  },
+  {
+    "id": "trav_200",
+    "english": "travel memories",
+    "spanish": "recuerdos de viaje",
+    "phonetic": "/ˈtræv.əl ˈmem.ər.iz/",
+    "examples": [
+      {"en": "Travel memories last a lifetime.", "es": "Los recuerdos de viaje duran toda la vida."},
+      {"en": "Take photos to preserve travel memories.", "es": "Toma fotos para preservar recuerdos de viaje."},
+      {"en": "Journaling helps capture travel memories.", "es": "Escribir un diario ayuda a capturar recuerdos."},
+      {"en": "Share your travel memories with friends.", "es": "Comparte tus recuerdos de viaje con amigos."}
+    ],
+    "category": "Travel & Transport"
+  }
+]

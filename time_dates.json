@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "time_1",
+    "english": "Monday",
+    "spanish": "lunes",
+    "phonetic": "/ˈmʌn.deɪ/",
+    "examples": [
+      {"en": "I start work on Monday.", "es": "Empiezo a trabajar el lunes."},
+      {"en": "We have a meeting every Monday.", "es": "Tenemos una reunión cada lunes."},
+      {"en": "Monday is the first day of the week.", "es": "El lunes es el primer día de la semana."},
+      {"en": "See you on Monday!", "es": "¡Nos vemos el lunes!"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_2",
+    "english": "Tuesday",
+    "spanish": "martes",
+    "phonetic": "/ˈtuːz.deɪ/",
+    "examples": [
+      {"en": "She has class on Tuesday.", "es": "Ella tiene clase el martes."},
+      {"en": "The store is closed on Tuesdays.", "es": "La tienda está cerrada los martes."},
+      {"en": "Let's meet next Tuesday.", "es": "Quedemos el próximo martes."},
+      {"en": "Tuesday follows Monday.", "es": "El martes sigue al lunes."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_3",
+    "english": "Wednesday",
+    "spanish": "miércoles",
+    "phonetic": "/ˈwenz.deɪ/",
+    "examples": [
+      {"en": "We go to the gym on Wednesday.", "es": "Vamos al gimnasio el miércoles."},
+      {"en": "It's hump day—Wednesday!", "es": "¡Es el día del bache: miércoles!"},
+      {"en": "The deadline is this Wednesday.", "es": "La fecha límite es este miércoles."},
+      {"en": "Wednesday is halfway through the week.", "es": "El miércoles está a mitad de semana."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_4",
+    "english": "Thursday",
+    "spanish": "jueves",
+    "phonetic": "/ˈθɜːrz.deɪ/",
+    "examples": [
+      {"en": "He arrives on Thursday morning.", "es": "Él llega el jueves por la mañana."},
+      {"en": "We eat out every Thursday.", "es": "Comemos fuera cada jueves."},
+      {"en": "Thursday is almost the weekend.", "es": "El jueves ya casi es fin de semana."},
+      {"en": "The concert is next Thursday.", "es": "El concierto es el próximo jueves."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_5",
+    "english": "Friday",
+    "spanish": "viernes",
+    "phonetic": "/ˈfraɪ.deɪ/",
+    "examples": [
+      {"en": "I love Fridays!", "es": "¡Me encantan los viernes!"},
+      {"en": "We finish work early on Friday.", "es": "Terminamos temprano el viernes."},
+      {"en": "Friday night is movie night.", "es": "La noche del viernes es noche de cine."},
+      {"en": "See you Friday afternoon.", "es": "Nos vemos el viernes por la tarde."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_6",
+    "english": "Saturday",
+    "spanish": "sábado",
+    "phonetic": "/ˈsæt.ər.deɪ/",
+    "examples": [
+      {"en": "We sleep in on Saturdays.", "es": "Dormimos hasta tarde los sábados."},
+      {"en": "The party is on Saturday.", "es": "La fiesta es el sábado."},
+      {"en": "I clean the house every Saturday.", "es": "Limpio la casa cada sábado."},
+      {"en": "Saturday is my favorite day.", "es": "El sábado es mi día favorito."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_7",
+    "english": "Sunday",
+    "spanish": "domingo",
+    "phonetic": "/ˈsʌn.deɪ/",
+    "examples": [
+      {"en": "We go to church on Sunday.", "es": "Vamos a la iglesia el domingo."},
+      {"en": "Sunday is a day of rest.", "es": "El domingo es un día de descanso."},
+      {"en": "I read the newspaper on Sunday mornings.", "es": "Leo el periódico los domingos por la mañana."},
+      {"en": "Let's have brunch on Sunday.", "es": "Tomemos brunch el domingo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_8",
+    "english": "January",
+    "spanish": "enero",
+    "phonetic": "/ˈdʒæn.ju.er.i/",
+    "examples": [
+      {"en": "My birthday is in January.", "es": "Mi cumpleaños es en enero."},
+      {"en": "January is the first month of the year.", "es": "Enero es el primer mes del año."},
+      {"en": "It’s very cold in January.", "es": "Hace mucho frío en enero."},
+      {"en": "New Year’s Day is January 1st.", "es": "El Año Nuevo es el 1 de enero."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_9",
+    "english": "February",
+    "spanish": "febrero",
+    "phonetic": "/ˈfeb.ru.er.i/",
+    "examples": [
+      {"en": "Valentine’s Day is in February.", "es": "El Día de San Valentín es en febrero."},
+      {"en": "February is the shortest month.", "es": "Febrero es el mes más corto."},
+      {"en": "It often snows in February.", "es": "A menudo nieva en febrero."},
+      {"en": "My brother was born in February.", "es": "Mi hermano nació en febrero."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_10",
+    "english": "March",
+    "spanish": "marzo",
+    "phonetic": "/mɑːrtʃ/",
+    "examples": [
+      {"en": "Spring begins in March.", "es": "La primavera empieza en marzo."},
+      {"en": "We start school in March.", "es": "Empezamos la escuela en marzo."},
+      {"en": "March has 31 days.", "es": "Marzo tiene 31 días."},
+      {"en": "The conference is in March.", "es": "La conferencia es en marzo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_11",
+    "english": "April",
+    "spanish": "abril",
+    "phonetic": "/ˈeɪ.prəl/",
+    "examples": [
+      {"en": "April showers bring May flowers.", "es": "Las lluvias de abril traen flores en mayo."},
+      {"en": "Tax day is in April.", "es": "El día de impuestos es en abril."},
+      {"en": "Her birthday is in April.", "es": "Su cumpleaños es en abril."},
+      {"en": "April is a rainy month.", "es": "Abril es un mes lluvioso."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_12",
+    "english": "May",
+    "spanish": "mayo",
+    "phonetic": "/meɪ/",
+    "examples": [
+      {"en": "May Day is celebrated on May 1st.", "es": "El Día del Trabajo se celebra el 1 de mayo."},
+      {"en": "The flowers bloom in May.", "es": "Las flores florecen en mayo."},
+      {"en": "We graduate in May.", "es": "Nos graduamos en mayo."},
+      {"en": "May is a beautiful spring month.", "es": "Mayo es un hermoso mes de primavera."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_13",
+    "english": "June",
+    "spanish": "junio",
+    "phonetic": "/dʒuːn/",
+    "examples": [
+      {"en": "School ends in June.", "es": "La escuela termina en junio."},
+      {"en": "We’re getting married in June.", "es": "Nos casamos en junio."},
+      {"en": "June has long summer days.", "es": "Junio tiene largos días de verano."},
+      {"en": "My vacation starts in June.", "es": "Mis vacaciones empiezan en junio."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_14",
+    "english": "July",
+    "spanish": "julio",
+    "phonetic": "/dʒuː.li/",
+    "examples": [
+      {"en": "Independence Day is in July.", "es": "El Día de la Independencia es en julio."},
+      {"en": "It’s very hot in July.", "es": "Hace mucho calor en julio."},
+      {"en": "We go to the beach every July.", "es": "Vamos a la playa cada julio."},
+      {"en": "July is peak summer.", "es": "Julio es el pico del verano."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_15",
+    "english": "August",
+    "spanish": "agosto",
+    "phonetic": "/ˈɔː.gəst/",
+    "examples": [
+      {"en": "Many people take vacations in August.", "es": "Muchas personas toman vacaciones en agosto."},
+      {"en": "School starts again in August.", "es": "La escuela empieza de nuevo en agosto."},
+      {"en": "August is the last full summer month.", "es": "Agosto es el último mes completo de verano."},
+      {"en": "My family reunion is in August.", "es": "La reunión familiar es en agosto."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_16",
+    "english": "September",
+    "spanish": "septiembre",
+    "phonetic": "/sepˈtem.bər/",
+    "examples": [
+      {"en": "Fall begins in September.", "es": "El otoño empieza en septiembre."},
+      {"en": "We go back to school in September.", "es": "Regresamos a la escuela en septiembre."},
+      {"en": "Labor Day is in September.", "es": "El Día del Trabajo es en septiembre."},
+      {"en": "September has cooler weather.", "es": "Septiembre tiene un clima más fresco."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_17",
+    "english": "October",
+    "spanish": "octubre",
+    "phonetic": "/ɒkˈtoʊ.bər/",
+    "examples": [
+      {"en": "Halloween is in October.", "es": "Halloween es en octubre."},
+      {"en": "The leaves change color in October.", "es": "Las hojas cambian de color en octubre."},
+      {"en": "My sister’s birthday is in October.", "es": "El cumpleaños de mi hermana es en octubre."},
+      {"en": "October is a festive month.", "es": "Octubre es un mes festivo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_18",
+    "english": "November",
+    "spanish": "noviembre",
+    "phonetic": "/noʊˈvem.bər/",
+    "examples": [
+      {"en": "Thanksgiving is in November.", "es": "El Día de Acción de Gracias es en noviembre."},
+      {"en": "It gets colder in November.", "es": "Hace más frío en noviembre."},
+      {"en": "Veterans Day is November 11th.", "es": "El Día de los Veteranos es el 11 de noviembre."},
+      {"en": "November marks the start of the holiday season.", "es": "Noviembre marca el inicio de la temporada navideña."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_19",
+    "english": "December",
+    "spanish": "diciembre",
+    "phonetic": "/dɪˈsem.bər/",
+    "examples": [
+      {"en": "Christmas is in December.", "es": "La Navidad es en diciembre."},
+      {"en": "December is the last month of the year.", "es": "Diciembre es el último mes del año."},
+      {"en": "It often snows in December.", "es": "A menudo nieva en diciembre."},
+      {"en": "We celebrate New Year’s Eve in December.", "es": "Celebramos la Nochevieja en diciembre."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_20",
+    "english": "weekend",
+    "spanish": "fin de semana",
+    "phonetic": "/ˈwiːk.end/",
+    "examples": [
+      {"en": "I relax on the weekend.", "es": "Me relajo el fin de semana."},
+      {"en": "We’re going camping this weekend.", "es": "Vamos a acampar este fin de semana."},
+      {"en": "The weekend starts on Friday night.", "es": "El fin de semana empieza el viernes por la noche."},
+      {"en": "Do you have plans for the weekend?", "es": "¿Tienes planes para el fin de semana?"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_21",
+    "english": "today",
+    "spanish": "hoy",
+    "phonetic": "/təˈdeɪ/",
+    "examples": [
+      {"en": "I’m busy today.", "es": "Estoy ocupado hoy."},
+      {"en": "What’s the date today?", "es": "¿Qué fecha es hoy?"},
+      {"en": "We’ll finish the project today.", "es": "Terminaremos el proyecto hoy."},
+      {"en": "Today is a great day!", "es": "¡Hoy es un gran día!"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_22",
+    "english": "tomorrow",
+    "spanish": "mañana",
+    "phonetic": "/təˈmɒr.oʊ/",
+    "examples": [
+      {"en": "I’ll call you tomorrow.", "es": "Te llamaré mañana."},
+      {"en": "Tomorrow is Saturday.", "es": "Mañana es sábado."},
+      {"en": "We’re leaving tomorrow morning.", "es": "Nos vamos mañana por la mañana."},
+      {"en": "See you tomorrow!", "es": "¡Nos vemos mañana!"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_23",
+    "english": "yesterday",
+    "spanish": "ayer",
+    "phonetic": "/ˈjes.tər.deɪ/",
+    "examples": [
+      {"en": "I saw her yesterday.", "es": "La vi ayer."},
+      {"en": "Yesterday was rainy.", "es": "Ayer llovió."},
+      {"en": "We finished the report yesterday.", "es": "Terminamos el informe ayer."},
+      {"en": "Yesterday feels like a long time ago.", "es": "Ayer parece hace mucho tiempo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_24",
+    "english": "now",
+    "spanish": "ahora",
+    "phonetic": "/naʊ/",
+    "examples": [
+      {"en": "I need to leave now.", "es": "Necesito irme ahora."},
+      {"en": "What are you doing now?", "es": "¿Qué estás haciendo ahora?"},
+      {"en": "Now is the time to act.", "es": "Ahora es el momento de actuar."},
+      {"en": "She’s sleeping now.", "es": "Ella está durmiendo ahora."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_25",
+    "english": "later",
+    "spanish": "después",
+    "phonetic": "/ˈleɪ.tər/",
+    "examples": [
+      {"en": "I’ll do it later.", "es": "Lo haré después."},
+      {"en": "See you later!", "es": "¡Nos vemos después!"},
+      {"en": "We can talk about it later.", "es": "Podemos hablar de eso después."},
+      {"en": "He arrived later than expected.", "es": "Él llegó más tarde de lo esperado."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_26",
+    "english": "soon",
+    "spanish": "pronto",
+    "phonetic": "/suːn/",
+    "examples": [
+      {"en": "She’ll be here soon.", "es": "Ella estará aquí pronto."},
+      {"en": "We’ll meet again soon.", "es": "Nos volveremos a ver pronto."},
+      {"en": "The results will be ready soon.", "es": "Los resultados estarán listos pronto."},
+      {"en": "I hope to see you soon.", "es": "Espero verte pronto."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_27",
+    "english": "early",
+    "spanish": "temprano",
+    "phonetic": "/ˈɜːr.li/",
+    "examples": [
+      {"en": "He wakes up early.", "es": "Él se despierta temprano."},
+      {"en": "We arrived early for the meeting.", "es": "Llegamos temprano a la reunión."},
+      {"en": "It’s still early.", "es": "Todavía es temprano."},
+      {"en": "She left early this morning.", "es": "Ella salió temprano esta mañana."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_28",
+    "english": "late",
+    "spanish": "tarde",
+    "phonetic": "/leɪt/",
+    "examples": [
+      {"en": "Don’t be late!", "es": "¡No llegues tarde!"},
+      {"en": "He’s always late for class.", "es": "Él siempre llega tarde a clase."},
+      {"en": "It’s getting late.", "es": "Se está haciendo tarde."},
+      {"en": "We stayed up late last night.", "es": "Nos quedamos despiertos hasta tarde anoche."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_29",
+    "english": "morning",
+    "spanish": "mañana",
+    "phonetic": "/ˈmɔːr.nɪŋ/",
+    "examples": [
+      {"en": "Good morning!", "es": "¡Buenos días!"},
+      {"en": "I drink coffee every morning.", "es": "Tomo café todas las mañanas."},
+      {"en": "She exercises in the morning.", "es": "Ella hace ejercicio por la mañana."},
+      {"en": "The meeting is Monday morning.", "es": "La reunión es el lunes por la mañana."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_30",
+    "english": "afternoon",
+    "spanish": "tarde",
+    "phonetic": "/ˌæf.tərˈnuːn/",
+    "examples": [
+      {"en": "Good afternoon!", "es": "¡Buenas tardes!"},
+      {"en": "We’ll meet in the afternoon.", "es": "Nos veremos por la tarde."},
+      {"en": "It’s hot in the afternoon.", "es": "Hace calor por la tarde."},
+      {"en": "She works every afternoon.", "es": "Ella trabaja todas las tardes."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_31",
+    "english": "evening",
+    "spanish": "noche",
+    "phonetic": "/ˈiːv.nɪŋ/",
+    "examples": [
+      {"en": "Good evening!", "es": "¡Buenas noches!"},
+      {"en": "We watched a movie last evening.", "es": "Vimos una película anoche."},
+      {"en": "He reads in the evening.", "es": "Él lee por la noche."},
+      {"en": "The concert is Friday evening.", "es": "El concierto es el viernes por la noche."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_32",
+    "english": "night",
+    "spanish": "noche",
+    "phonetic": "/naɪt/",
+    "examples": [
+      {"en": "It’s quiet at night.", "es": "Está tranquilo por la noche."},
+      {"en": "She works the night shift.", "es": "Ella trabaja en el turno de noche."},
+      {"en": "I had trouble sleeping last night.", "es": "Tuve problemas para dormir anoche."},
+      {"en": "Stars are visible at night.", "es": "Las estrellas son visibles por la noche."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_33",
+    "english": "midnight",
+    "spanish": "medianoche",
+    "phonetic": "/ˈmɪd.naɪt/",
+    "examples": [
+      {"en": "The party ends at midnight.", "es": "La fiesta termina a medianoche."},
+      {"en": "New Year begins at midnight.", "es": "El Año Nuevo comienza a medianoche."},
+      {"en": "It was past midnight.", "es": "Era pasada la medianoche."},
+      {"en": "Witches are said to gather at midnight.", "es": "Dicen que las brujas se reúnen a medianoche."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_34",
+    "english": "noon",
+    "spanish": "mediodía",
+    "phonetic": "/nuːn/",
+    "examples": [
+      {"en": "Let’s meet at noon.", "es": "Quedemos al mediodía."},
+      {"en": "The sun is highest at noon.", "es": "El sol está más alto al mediodía."},
+      {"en": "Lunch is at noon.", "es": "El almuerzo es al mediodía."},
+      {"en": "It’s almost noon.", "es": "Ya casi es mediodía."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_35",
+    "english": "hour",
+    "spanish": "hora",
+    "phonetic": "/aʊər/",
+    "examples": [
+      {"en": "The meeting lasts one hour.", "es": "La reunión dura una hora."},
+      {"en": "What time is it? It’s three o’clock.", "es": "¿Qué hora es? Son las tres."},
+      {"en": "She works eight hours a day.", "es": "Ella trabaja ocho horas al día."},
+      {"en": "We waited for two hours.", "es": "Esperamos durante dos horas."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_36",
+    "english": "minute",
+    "spanish": "minuto",
+    "phonetic": "/ˈmɪn.ɪt/",
+    "examples": [
+      {"en": "Wait a minute!", "es": "¡Espera un minuto!"},
+      {"en": "It takes five minutes to walk there.", "es": "Se tarda cinco minutos en caminar hasta allí."},
+      {"en": "Just a minute, please.", "es": "Un momento, por favor."},
+      {"en": "The train leaves in ten minutes.", "es": "El tren sale en diez minutos."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_37",
+    "english": "second",
+    "spanish": "segundo",
+    "phonetic": "/ˈsek.ənd/",
+    "examples": [
+      {"en": "Wait a second!", "es": "¡Espera un segundo!"},
+      {"en": "It happened in less than a second.", "es": "Sucedió en menos de un segundo."},
+      {"en": "Count to three: one, two, three!", "es": "Cuenta hasta tres: ¡uno, dos, tres!"},
+      {"en": "He won by a fraction of a second.", "es": "Ganó por una fracción de segundo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_38",
+    "english": "day",
+    "spanish": "día",
+    "phonetic": "/deɪ/",
+    "examples": [
+      {"en": "Have a nice day!", "es": "¡Que tengas un buen día!"},
+      {"en": "It’s a beautiful day.", "es": "Es un día hermoso."},
+      {"en": "She works five days a week.", "es": "Ella trabaja cinco días a la semana."},
+      {"en": "This day will be remembered.", "es": "Este día será recordado."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_39",
+    "english": "week",
+    "spanish": "semana",
+    "phonetic": "/wiːk/",
+    "examples": [
+      {"en": "I’ll see you next week.", "es": "Te veré la próxima semana."},
+      {"en": "There are seven days in a week.", "es": "Hay siete días en una semana."},
+      {"en": "She’s on vacation this week.", "es": "Ella está de vacaciones esta semana."},
+      {"en": "We meet once a week.", "es": "Nos reunimos una vez por semana."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_40",
+    "english": "month",
+    "spanish": "mes",
+    "phonetic": "/mʌnθ/",
+    "examples": [
+      {"en": "My birthday is next month.", "es": "Mi cumpleaños es el próximo mes."},
+      {"en": "February is the shortest month.", "es": "Febrero es el mes más corto."},
+      {"en": "Rent is due every month.", "es": "El alquiler vence cada mes."},
+      {"en": "We’ve known each other for six months.", "es": "Nos conocemos desde hace seis meses."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_41",
+    "english": "year",
+    "spanish": "año",
+    "phonetic": "/jɪr/",
+    "examples": [
+      {"en": "Happy New Year!", "es": "¡Feliz Año Nuevo!"},
+      {"en": "She’s lived here for three years.", "es": "Ella ha vivido aquí durante tres años."},
+      {"en": "This year is going fast.", "es": "Este año va rápido."},
+      {"en": "I was born in 1990.", "es": "Nací en 1990."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_42",
+    "english": "decade",
+    "spanish": "década",
+    "phonetic": "/ˈdek.eɪd/",
+    "examples": [
+      {"en": "The 1980s were a great decade.", "es": "Los años 80 fueron una gran década."},
+      {"en": "Technology changed a lot in the last decade.", "es": "La tecnología cambió mucho en la última década."},
+      {"en": "He’s been working here for two decades.", "es": "Él ha trabajado aquí durante dos décadas."},
+      {"en": "Each decade has its own style.", "es": "Cada década tiene su propio estilo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_43",
+    "english": "century",
+    "spanish": "siglo",
+    "phonetic": "/ˈsen.tʃər.i/",
+    "examples": [
+      {"en": "We live in the 21st century.", "es": "Vivimos en el siglo XXI."},
+      {"en": "The telephone was invented in the 19th century.", "es": "El teléfono se inventó en el siglo XIX."},
+      {"en": "Rome fell in the 5th century.", "es": "Roma cayó en el siglo V."},
+      {"en": "This building is over a century old.", "es": "Este edificio tiene más de un siglo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_44",
+    "english": "millennium",
+    "spanish": "milenio",
+    "phonetic": "/mɪˈlen.i.əm/",
+    "examples": [
+      {"en": "The new millennium began in 2001.", "es": "El nuevo milenio comenzó en 2001."},
+      {"en": "We’re in the third millennium.", "es": "Estamos en el tercer milenio."},
+      {"en": "It happens once every millennium.", "es": "Sucede una vez cada milenio."},
+      {"en": "The celebration marked the start of the millennium.", "es": "La celebración marcó el inicio del milenio."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_45",
+    "english": "past",
+    "spanish": "pasado",
+    "phonetic": "/pæst/",
+    "examples": [
+      {"en": "We learned from the past.", "es": "Aprendimos del pasado."},
+      {"en": "In the past, people wrote letters.", "es": "En el pasado, la gente escribía cartas."},
+      {"en": "Don’t dwell on the past.", "es": "No te obsesiones con el pasado."},
+      {"en": "History studies the past.", "es": "La historia estudia el pasado."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_46",
+    "english": "present",
+    "spanish": "presente",
+    "phonetic": "/ˈprez.ənt/",
+    "examples": [
+      {"en": "Live in the present.", "es": "Vive en el presente."},
+      {"en": "The present moment is all we have.", "es": "El momento presente es todo lo que tenemos."},
+      {"en": "She’s focused on the present.", "es": "Ella está enfocada en el presente."},
+      {"en": "We can’t change the past, only the present.", "es": "No podemos cambiar el pasado, solo el presente."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_47",
+    "english": "future",
+    "spanish": "futuro",
+    "phonetic": "/ˈfjuː.tʃər/",
+    "examples": [
+      {"en": "What are your plans for the future?", "es": "¿Cuáles son tus planes para el futuro?"},
+      {"en": "Technology will shape the future.", "es": "La tecnología dará forma al futuro."},
+      {"en": "I’m excited about the future.", "es": "Estoy emocionado por el futuro."},
+      {"en": "Save money for the future.", "es": "Ahorra dinero para el futuro."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_48",
+    "english": "spring",
+    "spanish": "primavera",
+    "phonetic": "/sprɪŋ/",
+    "examples": [
+      {"en": "Flowers bloom in spring.", "es": "Las flores florecen en primavera."},
+      {"en": "Spring starts in March.", "es": "La primavera empieza en marzo."},
+      {"en": "I love the fresh air in spring.", "es": "Me encanta el aire fresco en primavera."},
+      {"en": "Birds return in spring.", "es": "Los pájaros regresan en primavera."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_49",
+    "english": "summer",
+    "spanish": "verano",
+    "phonetic": "/ˈsʌm.ər/",
+    "examples": [
+      {"en": "We go to the beach in summer.", "es": "Vamos a la playa en verano."},
+      {"en": "Summer is hot and sunny.", "es": "El verano es caluroso y soleado."},
+      {"en": "School is out in summer.", "es": "La escuela cierra en verano."},
+      {"en": "My favorite season is summer.", "es": "Mi estación favorita es el verano."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_50",
+    "english": "autumn",
+    "spanish": "otoño",
+    "phonetic": "/ˈɔː.təm/",
+    "examples": [
+      {"en": "Leaves fall in autumn.", "es": "Las hojas caen en otoño."},
+      {"en": "Autumn is my favorite season.", "es": "El otoño es mi estación favorita."},
+      {"en": "The weather cools down in autumn.", "es": "El clima se enfría en otoño."},
+      {"en": "We harvest apples in autumn.", "es": "Cosechamos manzanas en otoño."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_51",
+    "english": "fall",
+    "spanish": "otoño",
+    "phonetic": "/fɔːl/",
+    "examples": [
+      {"en": "In the U.S., people say 'fall' instead of 'autumn'.", "es": "En EE.UU., la gente dice 'fall' en vez de 'autumn'."},
+      {"en": "Fall colors are beautiful.", "es": "Los colores del otoño son hermosos."},
+      {"en": "School starts in the fall.", "es": "La escuela empieza en otoño."},
+      {"en": "Pumpkins are popular in the fall.", "es": "Las calabazas son populares en otoño."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_52",
+    "english": "winter",
+    "spanish": "invierno",
+    "phonetic": "/ˈwɪn.tər/",
+    "examples": [
+      {"en": "It snows in winter.", "es": "Nieva en invierno."},
+      {"en": "Winter is cold and dark.", "es": "El invierno es frío y oscuro."},
+      {"en": "We ski in the winter.", "es": "Esquiamos en invierno."},
+      {"en": "Christmas is in winter.", "es": "La Navidad es en invierno."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_53",
+    "english": "season",
+    "spanish": "estación",
+    "phonetic": "/ˈsiː.zən/",
+    "examples": [
+      {"en": "There are four seasons in a year.", "es": "Hay cuatro estaciones en un año."},
+      {"en": "My favorite season is spring.", "es": "Mi estación favorita es la primavera."},
+      {"en": "Each season has its own beauty.", "es": "Cada estación tiene su propia belleza."},
+      {"en": "Rainy season starts in June.", "es": "La temporada de lluvias empieza en junio."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_54",
+    "english": "era",
+    "spanish": "era",
+    "phonetic": "/ˈɪr.ə/",
+    "examples": [
+      {"en": "The digital era changed everything.", "es": "La era digital lo cambió todo."},
+      {"en": "We live in the information era.", "es": "Vivimos en la era de la información."},
+      {"en": "The Victorian era was in the 1800s.", "es": "La era victoriana fue en los 1800s."},
+      {"en": "A new era begins.", "es": "Una nueva era comienza."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_55",
+    "english": "age",
+    "spanish": "edad",
+    "phonetic": "/eɪdʒ/",
+    "examples": [
+      {"en": "He’s the same age as me.", "es": "Él tiene la misma edad que yo."},
+      {"en": "What’s your age?", "es": "¿Cuál es tu edad?"},
+      {"en": "The Stone Age came before the Bronze Age.", "es": "La Edad de Piedra vino antes de la Edad de Bronce."},
+      {"en": "Age brings wisdom.", "es": "La edad trae sabiduría."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_56",
+    "english": "birthday",
+    "spanish": "cumpleaños",
+    "phonetic": "/ˈbɜːrθ.deɪ/",
+    "examples": [
+      {"en": "Happy birthday!", "es": "¡Feliz cumpleaños!"},
+      {"en": "My birthday is in July.", "es": "Mi cumpleaños es en julio."},
+      {"en": "We had a party for her birthday.", "es": "Tuvimos una fiesta por su cumpleaños."},
+      {"en": "How old are you on your birthday?", "es": "¿Cuántos años cumples en tu cumpleaños?"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_57",
+    "english": "anniversary",
+    "spanish": "aniversario",
+    "phonetic": "/ˌæn.ɪˈvɜːr.sər.i/",
+    "examples": [
+      {"en": "It’s our wedding anniversary.", "es": "Es nuestro aniversario de bodas."},
+      {"en": "They celebrated their 10th anniversary.", "es": "Celebraron su décimo aniversario."},
+      {"en": "The company’s anniversary is next month.", "es": "El aniversario de la empresa es el próximo mes."},
+      {"en": "Happy anniversary!", "es": "¡Feliz aniversario!"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_58",
+    "english": "holiday",
+    "spanish": "día festivo",
+    "phonetic": "/ˈhɒl.ə.deɪ/",
+    "examples": [
+      {"en": "Christmas is a holiday.", "es": "La Navidad es un día festivo."},
+      {"en": "We get paid time off on holidays.", "es": "Tenemos días pagados en festivos."},
+      {"en": "Is Monday a holiday?", "es": "¿Es lunes un día festivo?"},
+      {"en": "They traveled during the holidays.", "es": "Viajaron durante las fiestas."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_59",
+    "english": "vacation",
+    "spanish": "vacaciones",
+    "phonetic": "/vəˈkeɪ.ʃən/",
+    "examples": [
+      {"en": "I’m going on vacation next week.", "es": "Me voy de vacaciones la próxima semana."},
+      {"en": "We took a vacation to Spain.", "es": "Nos tomamos unas vacaciones en España."},
+      {"en": "Summer vacation starts in June.", "es": "Las vacaciones de verano empiezan en junio."},
+      {"en": "Do you get two weeks of vacation?", "es": "¿Tienes dos semanas de vacaciones?"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_60",
+    "english": "schedule",
+    "spanish": "horario",
+    "phonetic": "/ˈʃedʒ.uːl/",
+    "examples": [
+      {"en": "What’s your class schedule?", "es": "¿Cuál es tu horario de clases?"},
+      {"en": "The train is on schedule.", "es": "El tren va puntual."},
+      {"en": "I have a busy schedule this week.", "es": "Tengo un horario ocupado esta semana."},
+      {"en": "Check the schedule online.", "es": "Consulta el horario en línea."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_61",
+    "english": "calendar",
+    "spanish": "calendario",
+    "phonetic": "/ˈkæl.ɪn.dər/",
+    "examples": [
+      {"en": "Mark the date on your calendar.", "es": "Marca la fecha en tu calendario."},
+      {"en": "The meeting is on the calendar.", "es": "La reunión está en el calendario."},
+      {"en": "December is the last month on the calendar.", "es": "Diciembre es el último mes del calendario."},
+      {"en": "I use a digital calendar.", "es": "Uso un calendario digital."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_62",
+    "english": "clock",
+    "spanish": "reloj",
+    "phonetic": "/klɒk/",
+    "examples": [
+      {"en": "What time does the clock show?", "es": "¿Qué hora marca el reloj?"},
+      {"en": "The clock is ten minutes fast.", "es": "El reloj va diez minutos adelantado."},
+      {"en": "There’s a clock on the wall.", "es": "Hay un reloj en la pared."},
+      {"en": "My alarm clock didn’t ring.", "es": "Mi despertador no sonó."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_63",
+    "english": "watch",
+    "spanish": "reloj de pulsera",
+    "phonetic": "/wɒtʃ/",
+    "examples": [
+      {"en": "He wears a gold watch.", "es": "Él lleva un reloj de oro."},
+      {"en": "Do you have the time? My watch stopped.", "es": "¿Tienes la hora? Mi reloj se paró."},
+      {"en": "She checks her watch often.", "es": "Ella mira su reloj a menudo."},
+      {"en": "Smartwatches can track your health.", "es": "Los relojes inteligentes pueden rastrear tu salud."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_64",
+    "english": "time",
+    "spanish": "tiempo",
+    "phonetic": "/taɪm/",
+    "examples": [
+      {"en": "What time is it?", "es": "¿Qué hora es?"},
+      {"en": "Time flies when you’re having fun.", "es": "El tiempo vuela cuando te diviertes."},
+      {"en": "We don’t have much time.", "es": "No tenemos mucho tiempo."},
+      {"en": "It’s time to go.", "es": "Es hora de irse."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_65",
+    "english": "date",
+    "spanish": "fecha",
+    "phonetic": "/deɪt/",
+    "examples": [
+      {"en": "What’s today’s date?", "es": "¿Cuál es la fecha de hoy?"},
+      {"en": "The document has an expiration date.", "es": "El documento tiene una fecha de vencimiento."},
+      {"en": "Write the date at the top.", "es": "Escribe la fecha en la parte superior."},
+      {"en": "My passport’s expiration date is next year.", "es": "La fecha de vencimiento de mi pasaporte es el próximo año."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_66",
+    "english": "deadline",
+    "spanish": "fecha límite",
+    "phonetic": "/ˈded.laɪn/",
+    "examples": [
+      {"en": "The deadline is Friday.", "es": "La fecha límite es el viernes."},
+      {"en": "We missed the deadline.", "es": "Perdimos la fecha límite."},
+      {"en": "Submit your work before the deadline.", "es": "Envía tu trabajo antes de la fecha límite."},
+      {"en": "There’s a hard deadline for applications.", "es": "Hay una fecha límite estricta para las solicitudes."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_67",
+    "english": "appointment",
+    "spanish": "cita",
+    "phonetic": "/əˈpɔɪnt.mənt/",
+    "examples": [
+      {"en": "I have a dentist appointment.", "es": "Tengo una cita con el dentista."},
+      {"en": "Don’t forget your appointment tomorrow.", "es": "No olvides tu cita mañana."},
+      {"en": "She canceled her appointment.", "es": "Ella canceló su cita."},
+      {"en": "Make an appointment online.", "es": "Haz una cita en línea."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_68",
+    "english": "duration",
+    "spanish": "duración",
+    "phonetic": "/dʊəˈreɪ.ʃən/",
+    "examples": [
+      {"en": "The duration of the movie is two hours.", "es": "La duración de la película es de dos horas."},
+      {"en": "What’s the duration of the flight?", "es": "¿Cuál es la duración del vuelo?"},
+      {"en": "The course has a duration of six weeks.", "es": "El curso tiene una duración de seis semanas."},
+      {"en": "Short duration, big impact.", "es": "Corta duración, gran impacto."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_69",
+    "english": "period",
+    "spanish": "período",
+    "phonetic": "/ˈpɪə.ri.əd/",
+    "examples": [
+      {"en": "The Renaissance was a creative period.", "es": "El Renacimiento fue un período creativo."},
+      {"en": "She studied abroad for a short period.", "es": "Ella estudió en el extranjero por un corto período."},
+      {"en": "There was a quiet period after the storm.", "es": "Hubo un período de calma después de la tormenta."},
+      {"en": "The loan is for a three-year period.", "es": "El préstamo es por un período de tres años."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_70",
+    "english": "interval",
+    "spanish": "intervalo",
+    "phonetic": "/ˈɪn.tər.vəl/",
+    "examples": [
+      {"en": "Buses come at 15-minute intervals.", "es": "Los autobuses vienen cada 15 minutos."},
+      {"en": "There was a short interval between events.", "es": "Hubo un breve intervalo entre eventos."},
+      {"en": "Take medicine at regular intervals.", "es": "Toma la medicina a intervalos regulares."},
+      {"en": "The interval between heartbeats is steady.", "es": "El intervalo entre latidos es constante."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_71",
+    "english": "moment",
+    "spanish": "momento",
+    "phonetic": "/ˈmoʊ.mənt/",
+    "examples": [
+      {"en": "Wait a moment!", "es": "¡Espera un momento!"},
+      {"en": "This is a special moment.", "es": "Este es un momento especial."},
+      {"en": "I’ll be back in a moment.", "es": "Volveré en un momento."},
+      {"en": "Capture the moment with a photo.", "es": "Captura el momento con una foto."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_72",
+    "english": "instant",
+    "spanish": "instante",
+    "phonetic": "/ˈɪn.stənt/",
+    "examples": [
+      {"en": "It happened in an instant.", "es": "Sucedió en un instante."},
+      {"en": "She knew the answer in an instant.", "es": "Ella supo la respuesta al instante."},
+      {"en": "At that instant, everything changed.", "es": "En ese instante, todo cambió."},
+      {"en": "Instant coffee is convenient.", "es": "El café instantáneo es conveniente."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_73",
+    "english": "while",
+    "spanish": "mientras",
+    "phonetic": "/waɪl/",
+    "examples": [
+      {"en": "I read while I wait.", "es": "Leo mientras espero."},
+      {"en": "While you were sleeping, I cleaned.", "es": "Mientras dormías, limpié."},
+      {"en": "It took a while to finish.", "es": "Tomó un rato terminar."},
+      {"en": "Stay here for a while.", "es": "Quédate aquí un rato."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_74",
+    "english": "awhile",
+    "spanish": "un rato",
+    "phonetic": "/əˈwaɪl/",
+    "examples": [
+      {"en": "Stay awhile.", "es": "Quédate un rato."},
+      {"en": "I haven’t seen you in awhile.", "es": "Hace rato que no te veo."},
+      {"en": "Let’s rest awhile.", "es": "Descansemos un rato."},
+      {"en": "It’s been awhile since we talked.", "es": "Ha pasado un tiempo desde que hablamos."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_75",
+    "english": "forever",
+    "spanish": "para siempre",
+    "phonetic": "/fərˈev.ər/",
+    "examples": [
+      {"en": "I’ll love you forever.", "es": "Te amaré para siempre."},
+      {"en": "It felt like forever.", "es": "Pareció una eternidad."},
+      {"en": "Diamonds last forever.", "es": "Los diamantes duran para siempre."},
+      {"en": "Wait forever if you must.", "es": "Espera para siempre si es necesario."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_76",
+    "english": "eternity",
+    "spanish": "eternidad",
+    "phonetic": "/ɪˈtɜːr.nə.ti/",
+    "examples": [
+      {"en": "They believe in life after eternity.", "es": "Creen en la vida después de la eternidad."},
+      {"en": "It felt like an eternity.", "es": "Pareció una eternidad."},
+      {"en": "Love lasts for eternity.", "es": "El amor dura por la eternidad."},
+      {"en": "The stars shine for eternity.", "es": "Las estrellas brillan por la eternidad."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_77",
+    "english": "always",
+    "spanish": "siempre",
+    "phonetic": "/ˈɔːl.weɪz/",
+    "examples": [
+      {"en": "She’s always on time.", "es": "Ella siempre llega a tiempo."},
+      {"en": "I will always remember you.", "es": "Siempre te recordaré."},
+      {"en": "He always helps others.", "es": "Él siempre ayuda a otros."},
+      {"en": "Always look both ways.", "es": "Siempre mira a ambos lados."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_78",
+    "english": "never",
+    "spanish": "nunca",
+    "phonetic": "/ˈnev.ər/",
+    "examples": [
+      {"en": "I have never been to Japan.", "es": "Nunca he estado en Japón."},
+      {"en": "She never lies.", "es": "Ella nunca miente."},
+      {"en": "Never say never.", "es": "Nunca digas nunca."},
+      {"en": "We’ll never forget that day.", "es": "Nunca olvidaremos ese día."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_79",
+    "english": "sometimes",
+    "spanish": "a veces",
+    "phonetic": "/ˈsʌm.taɪmz/",
+    "examples": [
+      {"en": "I sometimes go for a walk.", "es": "A veces voy a caminar."},
+      {"en": "Sometimes it rains in the desert.", "es": "A veces llueve en el desierto."},
+      {"en": "She sometimes works late.", "es": "Ella a veces trabaja tarde."},
+      {"en": "Sometimes things don’t go as planned.", "es": "A veces las cosas no salen como se planean."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_80",
+    "english": "often",
+    "spanish": "a menudo",
+    "phonetic": "/ˈɒf.ən/",
+    "examples": [
+      {"en": "I often visit my parents.", "es": "Visito a menudo a mis padres."},
+      {"en": "He often forgets his keys.", "es": "Él a menudo olvida sus llaves."},
+      {"en": "We often eat out on Fridays.", "es": "A menudo comemos fuera los viernes."},
+      {"en": "It often rains in April.", "es": "A menudo llueve en abril."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_81",
+    "english": "rarely",
+    "spanish": "rara vez",
+    "phonetic": "/ˈreə.li/",
+    "examples": [
+      {"en": "I rarely drink coffee.", "es": "Rara vez tomo café."},
+      {"en": "She rarely complains.", "es": "Ella rara vez se queja."},
+      {"en": "It rarely snows here.", "es": "Rara vez nieva aquí."},
+      {"en": "He rarely misses a meeting.", "es": "Él rara vez falta a una reunión."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_82",
+    "english": "seldom",
+    "spanish": "rara vez",
+    "phonetic": "/ˈsel.dəm/",
+    "examples": [
+      {"en": "We seldom go out on weekdays.", "es": "Rara vez salimos entre semana."},
+      {"en": "He seldom speaks in meetings.", "es": "Él rara vez habla en reuniones."},
+      {"en": "It seldom happens.", "es": "Rara vez sucede."},
+      {"en": "Seldom do we see such beauty.", "es": "Rara vez vemos tanta belleza."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_83",
+    "english": "usually",
+    "spanish": "normalmente",
+    "phonetic": "/ˈjuː.ʒu.ə.li/",
+    "examples": [
+      {"en": "I usually wake up at 7.", "es": "Normalmente me despierto a las 7."},
+      {"en": "She usually takes the bus.", "es": "Ella normalmente toma el autobús."},
+      {"en": "We usually eat dinner at 8.", "es": "Normalmente cenamos a las 8."},
+      {"en": "It’s usually cold in January.", "es": "Normalmente hace frío en enero."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_84",
+    "english": "generally",
+    "spanish": "generalmente",
+    "phonetic": "/ˈdʒen.ər.ə.li/",
+    "examples": [
+      {"en": "Generally, I agree with you.", "es": "Generalmente, estoy de acuerdo contigo."},
+      {"en": "It’s generally warm in summer.", "es": "Generalmente hace calor en verano."},
+      {"en": "He’s generally very punctual.", "es": "Él es generalmente muy puntual."},
+      {"en": "Generally speaking, it’s safe.", "es": "Hablando en general, es seguro."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_85",
+    "english": "occasionally",
+    "spanish": "ocasionalmente",
+    "phonetic": "/əˈkeɪ.ʒən.əl.i/",
+    "examples": [
+      {"en": "I occasionally meet friends for coffee.", "es": "Ocasionalmente me reúno con amigos para tomar café."},
+      {"en": "She occasionally works from home.", "es": "Ella ocasionalmente trabaja desde casa."},
+      {"en": "It occasionally rains in summer.", "es": "Ocasionalmente llueve en verano."},
+      {"en": "We occasionally visit our grandparents.", "es": "Ocasionalmente visitamos a nuestros abuelos."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_86",
+    "english": "daily",
+    "spanish": "diariamente",
+    "phonetic": "/ˈdeɪ.li/",
+    "examples": [
+      {"en": "I exercise daily.", "es": "Hago ejercicio diariamente."},
+      {"en": "The newspaper is published daily.", "es": "El periódico se publica diariamente."},
+      {"en": "She checks her email daily.", "es": "Ella revisa su correo diariamente."},
+      {"en": "Take one pill daily.", "es": "Toma una pastilla diariamente."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_87",
+    "english": "weekly",
+    "spanish": "semanalmente",
+    "phonetic": "/ˈwiːk.li/",
+    "examples": [
+      {"en": "We have a weekly meeting.", "es": "Tenemos una reunión semanal."},
+      {"en": "The magazine is published weekly.", "es": "La revista se publica semanalmente."},
+      {"en": "He gets paid weekly.", "es": "Él cobra semanalmente."},
+      {"en": "Clean the house weekly.", "es": "Limpia la casa semanalmente."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_88",
+    "english": "monthly",
+    "spanish": "mensualmente",
+    "phonetic": "/ˈmʌnθ.li/",
+    "examples": [
+      {"en": "I pay rent monthly.", "es": "Pago el alquiler mensualmente."},
+      {"en": "The report is updated monthly.", "es": "El informe se actualiza mensualmente."},
+      {"en": "She receives a monthly allowance.", "es": "Ella recibe una asignación mensual."},
+      {"en": "Subscribe for monthly updates.", "es": "Suscríbete para actualizaciones mensuales."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_89",
+    "english": "yearly",
+    "spanish": "anualmente",
+    "phonetic": "/ˈjɪr.li/",
+    "examples": [
+      {"en": "We have a yearly check-up.", "es": "Tenemos un chequeo anual."},
+      {"en": "The event happens yearly.", "es": "El evento ocurre anualmente."},
+      {"en": "He gets a yearly bonus.", "es": "Él recibe una bonificación anual."},
+      {"en": "Review your goals yearly.", "es": "Revisa tus metas anualmente."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_90",
+    "english": "annually",
+    "spanish": "anualmente",
+    "phonetic": "/ˈæn.ju.ə.li/",
+    "examples": [
+      {"en": "The conference is held annually.", "es": "La conferencia se celebra anualmente."},
+      {"en": "Taxes are filed annually.", "es": "Los impuestos se declaran anualmente."},
+      {"en": "We donate annually to charity.", "es": "Donamos anualmente a la caridad."},
+      {"en": "The festival takes place annually.", "es": "El festival tiene lugar anualmente."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_91",
+    "english": "quarterly",
+    "spanish": "trimestralmente",
+    "phonetic": "/ˈkwɔːr.t̬ɚ.li/",
+    "examples": [
+      {"en": "The company reports earnings quarterly.", "es": "La empresa informa ganancias trimestralmente."},
+      {"en": "We meet quarterly.", "es": "Nos reunimos trimestralmente."},
+      {"en": "Interest is paid quarterly.", "es": "Los intereses se pagan trimestralmente."},
+      {"en": "Review your budget quarterly.", "es": "Revisa tu presupuesto trimestralmente."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_92",
+    "english": "biweekly",
+    "spanish": "cada dos semanas",
+    "phonetic": "/ˌbaɪˈwiːk.li/",
+    "examples": [
+      {"en": "The newsletter is sent biweekly.", "es": "El boletín se envía cada dos semanas."},
+      {"en": "They get paid biweekly.", "es": "Cobran cada dos semanas."},
+      {"en": "We have biweekly meetings.", "es": "Tenemos reuniones cada dos semanas."},
+      {"en": "Biweekly cleaning schedule.", "es": "Horario de limpieza cada dos semanas."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_93",
+    "english": "bimonthly",
+    "spanish": "bimensual",
+    "phonetic": "/ˌbaɪˈmʌnθ.li/",
+    "examples": [
+      {"en": "The magazine is published bimonthly.", "es": "La revista se publica bimensualmente."},
+      {"en": "We meet bimonthly.", "es": "Nos reunimos bimensualmente."},
+      {"en": "Bimonthly reports are due on the 1st and 15th.", "es": "Los informes bimensuales vencen el 1 y el 15."},
+      {"en": "Careful: bimonthly can mean twice a month or every two months.", "es": "Cuidado: bimensual puede significar dos veces al mes o cada dos meses."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_94",
+    "english": "temporary",
+    "spanish": "temporal",
+    "phonetic": "/ˈtem.pə.rer.i/",
+    "examples": [
+      {"en": "It’s a temporary job.", "es": "Es un trabajo temporal."},
+      {"en": "The closure is temporary.", "es": "El cierre es temporal."},
+      {"en": "She has a temporary visa.", "es": "Ella tiene una visa temporal."},
+      {"en": "This solution is only temporary.", "es": "Esta solución es solo temporal."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_95",
+    "english": "permanent",
+    "spanish": "permanente",
+    "phonetic": "/ˈpɜːr.mə.nənt/",
+    "examples": [
+      {"en": "He got a permanent position.", "es": "Él obtuvo un puesto permanente."},
+      {"en": "The change is permanent.", "es": "El cambio es permanente."},
+      {"en": "Permanent marker doesn’t wash off.", "es": "El marcador permanente no se lava."},
+      {"en": "They moved to a permanent home.", "es": "Se mudaron a una casa permanente."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_96",
+    "english": "current",
+    "spanish": "actual",
+    "phonetic": "/ˈkɜːr.ənt/",
+    "examples": [
+      {"en": "What’s the current time?", "es": "¿Cuál es la hora actual?"},
+      {"en": "The current month is October.", "es": "El mes actual es octubre."},
+      {"en": "She’s the current president.", "es": "Ella es la presidenta actual."},
+      {"en": "Update to the current version.", "es": "Actualiza a la versión actual."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_97",
+    "english": "previous",
+    "spanish": "anterior",
+    "phonetic": "/ˈpriː.vi.əs/",
+    "examples": [
+      {"en": "The previous day was rainy.", "es": "El día anterior estuvo lluvioso."},
+      {"en": "See the previous chapter.", "es": "Mira el capítulo anterior."},
+      {"en": "He worked at his previous job for five years.", "es": "Trabajó en su trabajo anterior durante cinco años."},
+      {"en": "The previous month was busier.", "es": "El mes anterior fue más ocupado."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_98",
+    "english": "next",
+    "spanish": "próximo",
+    "phonetic": "/nekst/",
+    "examples": [
+      {"en": "See you next week!", "es": "¡Nos vemos la próxima semana!"},
+      {"en": "The next meeting is on Friday.", "es": "La próxima reunión es el viernes."},
+      {"en": "What’s the next step?", "es": "¿Cuál es el siguiente paso?"},
+      {"en": "I’ll call you next month.", "es": "Te llamaré el próximo mes."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_99",
+    "english": "last",
+    "spanish": "pasado",
+    "phonetic": "/læst/",
+    "examples": [
+      {"en": "I saw her last week.", "es": "La vi la semana pasada."},
+      {"en": "Last year was difficult.", "es": "El año pasado fue difícil."},
+      {"en": "We went to the beach last summer.", "es": "Fuimos a la playa el verano pasado."},
+      {"en": "The last day of school is Friday.", "es": "El último día de clase es viernes."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_100",
+    "english": "upcoming",
+    "spanish": "próximo",
+    "phonetic": "/ʌpˈkʌm.ɪŋ/",
+    "examples": [
+      {"en": "The upcoming weekend is free.", "es": "El próximo fin de semana está libre."},
+      {"en": "We’re preparing for the upcoming event.", "es": "Nos estamos preparando para el próximo evento."},
+      {"en": "Her upcoming birthday is in May.", "es": "Su próximo cumpleaños es en mayo."},
+      {"en": "Stay tuned for upcoming news.", "es": "Mantente atento a las próximas noticias."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_101",
+    "english": "recent",
+    "spanish": "reciente",
+    "phonetic": "/ˈriː.sənt/",
+    "examples": [
+      {"en": "I read a recent article.", "es": "Leí un artículo reciente."},
+      {"en": "Have you heard the recent news?", "es": "¿Has oído las noticias recientes?"},
+      {"en": "She moved here in recent months.", "es": "Ella se mudó aquí en los últimos meses."},
+      {"en": "Recent events changed everything.", "es": "Los eventos recientes lo cambiaron todo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_102",
+    "english": "ancient",
+    "spanish": "antiguo",
+    "phonetic": "/ˈeɪn.ʃənt/",
+    "examples": [
+      {"en": "The pyramids are ancient.", "es": "Las pirámides son antiguas."},
+      {"en": "Ancient history fascinates me.", "es": "La historia antigua me fascina."},
+      {"en": "They found ancient artifacts.", "es": "Encontraron artefactos antiguos."},
+      {"en": "Ancient civilizations built great cities.", "es": "Las civilizaciones antiguas construyeron grandes ciudades."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_103",
+    "english": "modern",
+    "spanish": "moderno",
+    "phonetic": "/ˈmɒd.ən/",
+    "examples": [
+      {"en": "This is a modern building.", "es": "Este es un edificio moderno."},
+      {"en": "Modern technology changes fast.", "es": "La tecnología moderna cambia rápido."},
+      {"en": "She studies modern art.", "es": "Ella estudia arte moderno."},
+      {"en": "Modern times bring new challenges.", "es": "Los tiempos modernos traen nuevos desafíos."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_104",
+    "english": "contemporary",
+    "spanish": "contemporáneo",
+    "phonetic": "/kənˈtem.pə.rer.i/",
+    "examples": [
+      {"en": "He’s a contemporary artist.", "es": "Él es un artista contemporáneo."},
+      {"en": "Contemporary issues affect us all.", "es": "Los asuntos contemporáneos nos afectan a todos."},
+      {"en": "They live in a contemporary house.", "es": "Viven en una casa contemporánea."},
+      {"en": "Contemporary history starts after WWII.", "es": "La historia contemporánea empieza después de la Segunda Guerra Mundial."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_105",
+    "english": "historic",
+    "spanish": "histórico",
+    "phonetic": "/hɪˈstɒr.ɪk/",
+    "examples": [
+      {"en": "This is a historic moment.", "es": "Este es un momento histórico."},
+      {"en": "They visited a historic castle.", "es": "Visitaron un castillo histórico."},
+      {"en": "The treaty was a historic agreement.", "es": "El tratado fue un acuerdo histórico."},
+      {"en": "Historic buildings are protected by law.", "es": "Los edificios históricos están protegidos por ley."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_106",
+    "english": "historical",
+    "spanish": "histórico",
+    "phonetic": "/hɪˈstɒr.ɪ.kəl/",
+    "examples": [
+      {"en": "She wrote a historical novel.", "es": "Ella escribió una novela histórica."},
+      {"en": "The museum has historical documents.", "es": "El museo tiene documentos históricos."},
+      {"en": "Historical accuracy is important.", "es": "La precisión histórica es importante."},
+      {"en": "We studied historical events in class.", "es": "Estudiamos eventos históricos en clase."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_107",
+    "english": "timely",
+    "spanish": "oportuno",
+    "phonetic": "/ˈtaɪm.li/",
+    "examples": [
+      {"en": "Your message was very timely.", "es": "Tu mensaje fue muy oportuno."},
+      {"en": "Timely action prevented a disaster.", "es": "Una acción oportuna evitó un desastre."},
+      {"en": "Make a timely decision.", "es": "Toma una decisión oportuna."},
+      {"en": "The report was submitted in a timely manner.", "es": "El informe se presentó de manera oportuna."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_108",
+    "english": "punctual",
+    "spanish": "puntual",
+    "phonetic": "/ˈpʌŋk.tʃu.əl/",
+    "examples": [
+      {"en": "She’s always punctual.", "es": "Ella siempre es puntual."},
+      {"en": "Be punctual for the interview.", "es": "Sé puntual para la entrevista."},
+      {"en": "Punctual people are reliable.", "es": "Las personas puntuales son confiables."},
+      {"en": "The train was punctual.", "es": "El tren fue puntual."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_109",
+    "english": "delayed",
+    "spanish": "retrasado",
+    "phonetic": "/dɪˈleɪd/",
+    "examples": [
+      {"en": "The flight was delayed.", "es": "El vuelo fue retrasado."},
+      {"en": "Sorry for the delayed response.", "es": "Disculpa por la respuesta retrasada."},
+      {"en": "The project is delayed by two weeks.", "es": "El proyecto está retrasado dos semanas."},
+      {"en": "Delayed trains are frustrating.", "es": "Los trenes retrasados son frustrantes."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_110",
+    "english": "on time",
+    "spanish": "a tiempo",
+    "phonetic": "/ɒn taɪm/",
+    "examples": [
+      {"en": "She arrived on time.", "es": "Ella llegó a tiempo."},
+      {"en": "The train left on time.", "es": "El tren salió a tiempo."},
+      {"en": "Please submit your work on time.", "es": "Por favor, entrega tu trabajo a tiempo."},
+      {"en": "We were on time for the meeting.", "es": "Llegamos a tiempo a la reunión."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_111",
+    "english": "in time",
+    "spanish": "a tiempo",
+    "phonetic": "/ɪn taɪm/",
+    "examples": [
+      {"en": "We got there in time.", "es": "Llegamos allí a tiempo."},
+      {"en": "He called just in time.", "es": "Él llamó justo a tiempo."},
+      {"en": "Will you finish in time?", "es": "¿Terminarás a tiempo?"},
+      {"en": "She arrived in time to see the show.", "es": "Ella llegó a tiempo para ver el espectáculo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_112",
+    "english": "ahead of time",
+    "spanish": "antes de tiempo",
+    "phonetic": "/əˈhed əv taɪm/",
+    "examples": [
+      {"en": "He arrived ahead of time.", "es": "Él llegó antes de tiempo."},
+      {"en": "Finish the report ahead of time.", "es": "Termina el informe antes de tiempo."},
+      {"en": "Planning ahead of time helps.", "es": "Planificar antes de tiempo ayuda."},
+      {"en": "We booked tickets ahead of time.", "es": "Reservamos boletos antes de tiempo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_113",
+    "english": "behind schedule",
+    "spanish": "retrasado",
+    "phonetic": "/bɪˈhaɪnd ˈʃedʒ.uːl/",
+    "examples": [
+      {"en": "The project is behind schedule.", "es": "El proyecto va retrasado."},
+      {"en": "We’re behind schedule by two days.", "es": "Vamos dos días retrasados."},
+      {"en": "Don’t fall behind schedule.", "es": "No te retrases."},
+      {"en": "The train is behind schedule.", "es": "El tren va retrasado."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_114",
+    "english": "on schedule",
+    "spanish": "en horario",
+    "phonetic": "/ɒn ˈʃedʒ.uːl/",
+    "examples": [
+      {"en": "The train is on schedule.", "es": "El tren va en horario."},
+      {"en": "We’re on schedule to finish Friday.", "es": "Vamos en horario para terminar el viernes."},
+      {"en": "Everything is on schedule.", "es": "Todo va en horario."},
+      {"en": "Stay on schedule!", "es": "¡Mantente en horario!"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_115",
+    "english": "time zone",
+    "spanish": "zona horaria",
+    "phonetic": "/ˈtaɪm zoʊn/",
+    "examples": [
+      {"en": "New York is in the Eastern time zone.", "es": "Nueva York está en la zona horaria del Este."},
+      {"en": "What time zone are you in?", "es": "¿En qué zona horaria estás?"},
+      {"en": "We crossed three time zones.", "es": "Cruzamos tres zonas horarias."},
+      {"en": "Adjust your clock to the local time zone.", "es": "Ajusta tu reloj a la zona horaria local."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_116",
+    "english": "daylight",
+    "spanish": "luz del día",
+    "phonetic": "/ˈdeɪ.laɪt/",
+    "examples": [
+      {"en": "We arrived at daylight.", "es": "Llegamos al amanecer."},
+      {"en": "Daylight saving time starts in March.", "es": "El horario de verano empieza en marzo."},
+      {"en": "There’s more daylight in summer.", "es": "Hay más luz del día en verano."},
+      {"en": "The room is filled with daylight.", "es": "La habitación está llena de luz natural."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_117",
+    "english": "dawn",
+    "spanish": "amanecer",
+    "phonetic": "/dɔːn/",
+    "examples": [
+      {"en": "Birds sing at dawn.", "es": "Los pájaros cantan al amanecer."},
+      {"en": "We left at dawn.", "es": "Salimos al amanecer."},
+      {"en": "The sky turns pink at dawn.", "es": "El cielo se vuelve rosa al amanecer."},
+      {"en": "New hope rises at dawn.", "es": "Una nueva esperanza surge al amanecer."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_118",
+    "english": "dusk",
+    "spanish": "atardecer",
+    "phonetic": "/dʌsk/",
+    "examples": [
+      {"en": "Fireflies appear at dusk.", "es": "Las luciérnagas aparecen al atardecer."},
+      {"en": "We walked home at dusk.", "es": "Caminamos a casa al atardecer."},
+      {"en": "The city lights come on at dusk.", "es": "Las luces de la ciudad se encienden al atardecer."},
+      {"en": "Dusk is my favorite time of day.", "es": "El atardecer es mi momento favorito del día."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_119",
+    "english": "sunrise",
+    "spanish": "salida del sol",
+    "phonetic": "/ˈsʌn.raɪz/",
+    "examples": [
+      {"en": "We watched the sunrise.", "es": "Vimos la salida del sol."},
+      {"en": "Sunrise is at 6:30 AM.", "es": "La salida del sol es a las 6:30 a.m."},
+      {"en": "The beach is beautiful at sunrise.", "es": "La playa es hermosa al amanecer."},
+      {"en": "Photographers love sunrise.", "es": "A los fotógrafos les encanta el amanecer."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_120",
+    "english": "sunset",
+    "spanish": "puesta del sol",
+    "phonetic": "/ˈsʌn.set/",
+    "examples": [
+      {"en": "We watched the sunset together.", "es": "Vimos la puesta del sol juntos."},
+      {"en": "Sunset is at 8 PM in summer.", "es": "La puesta del sol es a las 8 p.m. en verano."},
+      {"en": "The sky turns orange at sunset.", "es": "El cielo se vuelve naranja al atardecer."},
+      {"en": "Sunset marks the end of the day.", "es": "La puesta del sol marca el fin del día."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_121",
+    "english": "twilight",
+    "spanish": "crepúsculo",
+    "phonetic": "/ˈtwaɪ.laɪt/",
+    "examples": [
+      {"en": "Twilight is between sunset and night.", "es": "El crepúsculo está entre la puesta del sol y la noche."},
+      {"en": "The stars appear at twilight.", "es": "Las estrellas aparecen en el crepúsculo."},
+      {"en": "They walked in the twilight.", "es": "Caminaron en el crepúsculo."},
+      {"en": "Twilight is magical.", "es": "El crepúsculo es mágico."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_122",
+    "english": "midday",
+    "spanish": "mediodía",
+    "phonetic": "/ˌmɪdˈdeɪ/",
+    "examples": [
+      {"en": "It’s hottest at midday.", "es": "Hace más calor al mediodía."},
+      {"en": "We’ll meet at midday.", "es": "Nos encontraremos al mediodía."},
+      {"en": "Shadows are shortest at midday.", "es": "Las sombras son más cortas al mediodía."},
+      {"en": "Midday sun is strong.", "es": "El sol del mediodía es fuerte."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_123",
+    "english": "midweek",
+    "spanish": "mitad de semana",
+    "phonetic": "/ˌmɪdˈwiːk/",
+    "examples": [
+      {"en": "We have a meeting midweek.", "es": "Tenemos una reunión a mitad de semana."},
+      {"en": "Midweek sales are popular.", "es": "Las ofertas de mitad de semana son populares."},
+      {"en": "She travels midweek to avoid crowds.", "es": "Ella viaja a mitad de semana para evitar multitudes."},
+      {"en": "Midweek is Wednesday.", "es": "La mitad de semana es el miércoles."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_124",
+    "english": "weeknight",
+    "spanish": "noche entre semana",
+    "phonetic": "/ˈwiːk.naɪt/",
+    "examples": [
+      {"en": "I don’t go out on weeknights.", "es": "No salgo en noches entre semana."},
+      {"en": "Weeknights are for studying.", "es": "Las noches entre semana son para estudiar."},
+      {"en": "TV ratings drop on weeknights.", "es": "Las audiencias bajan en noches entre semana."},
+      {"en": "He works late on weeknights.", "es": "Él trabaja tarde en noches entre semana."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_125",
+    "english": "weekday",
+    "spanish": "día entre semana",
+    "phonetic": "/ˈwiːk.deɪ/",
+    "examples": [
+      {"en": "I work Monday to Friday, weekdays.", "es": "Trabajo de lunes a viernes, días entre semana."},
+      {"en": "Traffic is heavier on weekdays.", "es": "El tráfico es más denso en días entre semana."},
+      {"en": "The museum is closed on weekdays.", "es": "El museo está cerrado en días entre semana."},
+      {"en": "Weekdays are busy.", "es": "Los días entre semana son ocupados."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_126",
+    "english": "workday",
+    "spanish": "día laboral",
+    "phonetic": "/ˈwɜːk.deɪ/",
+    "examples": [
+      {"en": "My workday starts at 9 AM.", "es": "Mi día laboral empieza a las 9 a.m."},
+      {"en": "The average workday is 8 hours.", "es": "El día laboral promedio es de 8 horas."},
+      {"en": "He finished early on his workday.", "es": "Terminó temprano en su día laboral."},
+      {"en": "Workday ends at 5 PM.", "es": "El día laboral termina a las 5 p.m."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_127",
+    "english": "business hours",
+    "spanish": "horario comercial",
+    "phonetic": "/ˈbɪz.nəs ˌaʊərz/",
+    "examples": [
+      {"en": "The store is open during business hours.", "es": "La tienda está abierta en horario comercial."},
+      {"en": "Call us during business hours.", "es": "Llámanos en horario comercial."},
+      {"en": "Business hours are 9 to 5.", "es": "El horario comercial es de 9 a 5."},
+      {"en": "Outside business hours, leave a message.", "es": "Fuera de horario comercial, deja un mensaje."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_128",
+    "english": "opening hours",
+    "spanish": "horario de apertura",
+    "phonetic": "/ˈoʊ.pən.ɪŋ ˌaʊərz/",
+    "examples": [
+      {"en": "Check the opening hours online.", "es": "Consulta el horario de apertura en línea."},
+      {"en": "The museum’s opening hours are 10–6.", "es": "El horario de apertura del museo es de 10 a 6."},
+      {"en": "Opening hours vary by season.", "es": "El horario de apertura varía por temporada."},
+      {"en": "Are you open during holiday opening hours?", "es": "¿Están abiertos en horario festivo?"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_129",
+    "english": "closing time",
+    "spanish": "hora de cierre",
+    "phonetic": "/ˈkloʊ.zɪŋ taɪm/",
+    "examples": [
+      {"en": "What’s the closing time?", "es": "¿Cuál es la hora de cierre?"},
+      {"en": "The bar’s closing time is 2 AM.", "es": "La hora de cierre del bar es las 2 a.m."},
+      {"en": "We stayed until closing time.", "es": "Nos quedamos hasta la hora de cierre."},
+      {"en": "Closing time is earlier on Sundays.", "es": "La hora de cierre es más temprano los domingos."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_130",
+    "english": "rush hour",
+    "spanish": "hora pico",
+    "phonetic": "/ˈrʌʃ ˌaʊər/",
+    "examples": [
+      {"en": "Avoid driving during rush hour.", "es": "Evita conducir en hora pico."},
+      {"en": "Traffic is terrible at rush hour.", "es": "El tráfico es terrible en hora pico."},
+      {"en": "Rush hour is from 7 to 9 AM.", "es": "La hora pico es de 7 a 9 a.m."},
+      {"en": "Subways are packed at rush hour.", "es": "Los subterráneos están llenos en hora pico."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_131",
+    "english": "prime time",
+    "spanish": "hora de máxima audiencia",
+    "phonetic": "/ˈpraɪm taɪm/",
+    "examples": [
+      {"en": "The show airs in prime time.", "es": "El programa se transmite en hora de máxima audiencia."},
+      {"en": "Prime time is 8–11 PM.", "es": "La hora de máxima audiencia es de 8 a 11 p.m."},
+      {"en": "Advertisements cost more in prime time.", "es": "Los anuncios cuestan más en hora de máxima audiencia."},
+      {"en": "They scheduled the finale for prime time.", "es": "Programaron el final para hora de máxima audiencia."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_132",
+    "english": "off-peak",
+    "spanish": "fuera de hora pico",
+    "phonetic": "/ˌɒfˈpiːk/",
+    "examples": [
+      {"en": "Train tickets are cheaper off-peak.", "es": "Los boletos de tren son más baratos fuera de hora pico."},
+      {"en": "Call during off-peak hours.", "es": "Llama en horas fuera de pico."},
+      {"en": "Off-peak electricity rates are lower.", "es": "Las tarifas de electricidad fuera de pico son más bajas."},
+      {"en": "Visit the museum off-peak for fewer crowds.", "es": "Visita el museo fuera de hora pico para evitar multitudes."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_133",
+    "english": "peak season",
+    "spanish": "temporada alta",
+    "phonetic": "/piːk ˈsiː.zən/",
+    "examples": [
+      {"en": "Prices are higher in peak season.", "es": "Los precios son más altos en temporada alta."},
+      {"en": "July is peak season for tourism.", "es": "Julio es temporada alta para el turismo."},
+      {"en": "Book early for peak season.", "es": "Reserva con anticipación para temporada alta."},
+      {"en": "Avoid peak season if you want lower prices.", "es": "Evita la temporada alta si quieres precios más bajos."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_134",
+    "english": "low season",
+    "spanish": "temporada baja",
+    "phonetic": "/loʊ ˈsiː.zən/",
+    "examples": [
+      {"en": "Hotels offer discounts in low season.", "es": "Los hoteles ofrecen descuentos en temporada baja."},
+      {"en": "January is low season for travel.", "es": "Enero es temporada baja para viajar."},
+      {"en": "Low season means fewer tourists.", "es": "Temporada baja significa menos turistas."},
+      {"en": "Visit in low season for peace and quiet.", "es": "Visita en temporada baja para paz y tranquilidad."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_135",
+    "english": "high season",
+    "spanish": "temporada alta",
+    "phonetic": "/haɪ ˈsiː.zən/",
+    "examples": [
+      {"en": "High season starts in June.", "es": "La temporada alta empieza en junio."},
+      {"en": "Expect crowds in high season.", "es": "Espera multitudes en temporada alta."},
+      {"en": "Reservations are essential in high season.", "es": "Las reservas son esenciales en temporada alta."},
+      {"en": "High season rates apply July–August.", "es": "Las tarifas de temporada alta aplican julio–agosto."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_136",
+    "english": "fiscal year",
+    "spanish": "año fiscal",
+    "phonetic": "/ˈfɪs.kəl jɪr/",
+    "examples": [
+      {"en": "The fiscal year ends in June.", "es": "El año fiscal termina en junio."},
+      {"en": "Budgets are planned by fiscal year.", "es": "Los presupuestos se planean por año fiscal."},
+      {"en": "Our fiscal year starts October 1.", "es": "Nuestro año fiscal empieza el 1 de octubre."},
+      {"en": "Report earnings for the fiscal year.", "es": "Reporta ganancias del año fiscal."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_137",
+    "english": "academic year",
+    "spanish": "año académico",
+    "phonetic": "/ˌæk.əˈdem.ɪk jɪr/",
+    "examples": [
+      {"en": "The academic year starts in September.", "es": "El año académico empieza en septiembre."},
+      {"en": "Students get summer break after the academic year.", "es": "Los estudiantes tienen vacaciones de verano tras el año académico."},
+      {"en": "Tuition is paid per academic year.", "es": "La matrícula se paga por año académico."},
+      {"en": "The academic year has two semesters.", "es": "El año académico tiene dos semestres."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_138",
+    "english": "semester",
+    "spanish": "semestre",
+    "phonetic": "/səˈmes.tər/",
+    "examples": [
+      {"en": "The semester ends in December.", "es": "El semestre termina en diciembre."},
+      {"en": "I’m taking five classes this semester.", "es": "Estoy tomando cinco clases este semestre."},
+      {"en": "Fall semester starts in August.", "es": "El semestre de otoño empieza en agosto."},
+      {"en": "Grades are posted at semester’s end.", "es": "Las calificaciones se publican al final del semestre."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_139",
+    "english": "trimester",
+    "spanish": "trimestre",
+    "phonetic": "/traɪˈmes.tər/",
+    "examples": [
+      {"en": "The school year has three trimesters.", "es": "El año escolar tiene tres trimestres."},
+      {"en": "She’s in her second trimester of pregnancy.", "es": "Ella está en su segundo trimestre de embarazo."},
+      {"en": "Report cards come out each trimester.", "es": "Las boletas salen cada trimestre."},
+      {"en": "The first trimester is critical.", "es": "El primer trimestre es crítico."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_140",
+    "english": "quarter",
+    "spanish": "cuatrimestre / trimestre",
+    "phonetic": "/ˈkwɔːr.t̬ɚ/",
+    "examples": [
+      {"en": "The company reports quarterly earnings.", "es": "La empresa reporta ganancias trimestrales."},
+      {"en": "Each quarter is three months.", "es": "Cada trimestre son tres meses."},
+      {"en": "The fiscal year has four quarters.", "es": "El año fiscal tiene cuatro trimestres."},
+      {"en": "We review goals every quarter.", "es": "Revisamos metas cada trimestre."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_141",
+    "english": "century",
+    "spanish": "siglo",
+    "phonetic": "/ˈsen.tʃər.i/",
+    "examples": [
+      {"en": "The 20th century saw two world wars.", "es": "El siglo XX vio dos guerras mundiales."},
+      {"en": "We’re in the 21st century.", "es": "Estamos en el siglo XXI."},
+      {"en": "This building is two centuries old.", "es": "Este edificio tiene dos siglos."},
+      {"en": "Centuries ago, people traveled by horse.", "es": "Hace siglos, la gente viajaba a caballo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_142",
+    "english": "millennium",
+    "spanish": "milenio",
+    "phonetic": "/mɪˈlen.i.əm/",
+    "examples": [
+      {"en": "The year 2000 marked a new millennium.", "es": "El año 2000 marcó un nuevo milenio."},
+      {"en": "Humans have existed for millennia.", "es": "Los humanos han existido durante milenios."},
+      {"en": "The library has books from the last millennium.", "es": "La biblioteca tiene libros del milenio pasado."},
+      {"en": "A millennium is 1,000 years.", "es": "Un milenio son 1,000 años."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_143",
+    "english": "epoch",
+    "spanish": "época",
+    "phonetic": "/ˈep.ək/",
+    "examples": [
+      {"en": "The Industrial Revolution was a new epoch.", "es": "La Revolución Industrial fue una nueva época."},
+      {"en": "We live in the digital epoch.", "es": "Vivimos en la época digital."},
+      {"en": "Geologists study Earth’s epochs.", "es": "Los geólogos estudian las épocas de la Tierra."},
+      {"en": "This discovery marks a new epoch.", "es": "Este descubrimiento marca una nueva época."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_144",
+    "english": "generation",
+    "spanish": "generación",
+    "phonetic": "/ˌdʒen.əˈreɪ.ʃən/",
+    "examples": [
+      {"en": "My grandparents are from the Silent Generation.", "es": "Mis abuelos son de la Generación Silenciosa."},
+      {"en": "Millennials are a tech-savvy generation.", "es": "Los millennials son una generación experta en tecnología."},
+      {"en": "Each generation has its values.", "es": "Cada generación tiene sus valores."},
+      {"en": "The new generation is more global.", "es": "La nueva generación es más global."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_145",
+    "english": "lifetime",
+    "spanish": "toda la vida",
+    "phonetic": "/ˈlaɪf.taɪm/",
+    "examples": [
+      {"en": "I’ve known her my whole lifetime.", "es": "La conozco desde toda mi vida."},
+      {"en": "This is a once-in-a-lifetime opportunity.", "es": "Esta es una oportunidad única en la vida."},
+      {"en": "He saved for a lifetime.", "es": "Él ahorró toda una vida."},
+      {"en": "Lifetime warranty means forever.", "es": "Garantía de por vida significa para siempre."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_146",
+    "english": "era",
+    "spanish": "era",
+    "phonetic": "/ˈɪr.ə/",
+    "examples": [
+      {"en": "The space era began in 1957.", "es": "La era espacial comenzó en 1957."},
+      {"en": "We’re in the AI era.", "es": "Estamos en la era de la IA."},
+      {"en": "The Renaissance was a golden era.", "es": "El Renacimiento fue una era dorada."},
+      {"en": "Each era has its challenges.", "es": "Cada era tiene sus desafíos."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_147",
+    "english": "age",
+    "spanish": "edad",
+    "phonetic": "/eɪdʒ/",
+    "examples": [
+      {"en": "The Bronze Age came after the Stone Age.", "es": "La Edad de Bronce vino después de la Edad de Piedra."},
+      {"en": "We live in the Information Age.", "es": "Vivimos en la Edad de la Información."},
+      {"en": "The Middle Ages lasted centuries.", "es": "La Edad Media duró siglos."},
+      {"en": "What age are you?", "es": "¿Qué edad tienes?"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_148",
+    "english": "momentum",
+    "spanish": "impulso",
+    "phonetic": "/moʊˈmen.təm/",
+    "examples": [
+      {"en": "The project gained momentum.", "es": "El proyecto ganó impulso."},
+      {"en": "Once it starts, momentum carries it forward.", "es": "Una vez que empieza, el impulso lo lleva adelante."},
+      {"en": "Don’t lose momentum now.", "es": "No pierdas el impulso ahora."},
+      {"en": "Time and momentum are related.", "es": "El tiempo y el impulso están relacionados."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_149",
+    "english": "pace",
+    "spanish": "ritmo",
+    "phonetic": "/peɪs/",
+    "examples": [
+      {"en": "Life moves at a fast pace.", "es": "La vida avanza a un ritmo rápido."},
+      {"en": "Slow down your pace.", "es": "Reduce tu ritmo."},
+      {"en": "He works at his own pace.", "es": "Él trabaja a su propio ritmo."},
+      {"en": "The pace of change is accelerating.", "es": "El ritmo del cambio se está acelerando."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_150",
+    "english": "rhythm",
+    "spanish": "ritmo",
+    "phonetic": "/ˈrɪð.əm/",
+    "examples": [
+      {"en": "Life has its own rhythm.", "es": "La vida tiene su propio ritmo."},
+      {"en": "Find your daily rhythm.", "es": "Encuentra tu ritmo diario."},
+      {"en": "The rhythm of the seasons.", "es": "El ritmo de las estaciones."},
+      {"en": "Work in rhythm with nature.", "es": "Trabaja en ritmo con la naturaleza."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_151",
+    "english": "cycle",
+    "spanish": "ciclo",
+    "phonetic": "/ˈsaɪ.kəl/",
+    "examples": [
+      {"en": "The water cycle is essential.", "es": "El ciclo del agua es esencial."},
+      {"en": "Life goes in cycles.", "es": "La vida va en ciclos."},
+      {"en": "Menstrual cycle lasts about 28 days.", "es": "El ciclo menstrual dura unos 28 días."},
+      {"en": "Business cycles affect the economy.", "es": "Los ciclos económicos afectan la economía."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_152",
+    "english": "phase",
+    "spanish": "fase",
+    "phonetic": "/feɪz/",
+    "examples": [
+      {"en": "The moon has eight phases.", "es": "La luna tiene ocho fases."},
+      {"en": "We’re in the planning phase.", "es": "Estamos en la fase de planificación."},
+      {"en": "Teenagers go through a rebellious phase.", "es": "Los adolescentes pasan por una fase rebelde."},
+      {"en": "Each phase takes two weeks.", "es": "Cada fase dura dos semanas."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_153",
+    "english": "stage",
+    "spanish": "etapa",
+    "phonetic": "/steɪdʒ/",
+    "examples": [
+      {"en": "Childhood is an important stage.", "es": "La infancia es una etapa importante."},
+      {"en": "We’re at an early stage.", "es": "Estamos en una etapa temprana."},
+      {"en": "Life has many stages.", "es": "La vida tiene muchas etapas."},
+      {"en": "The project is in its final stage.", "es": "El proyecto está en su etapa final."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_154",
+    "english": "interval",
+    "spanish": "intervalo",
+    "phonetic": "/ˈɪn.tər.vəl/",
+    "examples": [
+      {"en": "There’s a 10-minute interval between classes.", "es": "Hay un intervalo de 10 minutos entre clases."},
+      {"en": "Heartbeats occur at regular intervals.", "es": "Los latidos ocurren a intervalos regulares."},
+      {"en": "The play has a 15-minute interval.", "es": "La obra tiene un intervalo de 15 minutos."},
+      {"en": "Check your email at intervals.", "es": "Revisa tu correo a intervalos."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_155",
+    "english": "span",
+    "spanish": "lapso",
+    "phonetic": "/spæn/",
+    "examples": [
+      {"en": "His career spanned 40 years.", "es": "Su carrera abarcó 40 años."},
+      {"en": "The bridge spans the river.", "es": "El puente cruza el río."},
+      {"en": "A lifespan can be long or short.", "es": "Un lapso de vida puede ser largo o corto."},
+      {"en": "The event spanned three days.", "es": "El evento duró tres días."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_156",
+    "english": "duration",
+    "spanish": "duración",
+    "phonetic": "/dʊəˈreɪ.ʃən/",
+    "examples": [
+      {"en": "The duration of the film is 2 hours.", "es": "La duración de la película es de 2 horas."},
+      {"en": "Flight duration: 5 hours.", "es": "Duración del vuelo: 5 horas."},
+      {"en": "Short duration, high impact.", "es": "Corta duración, alto impacto."},
+      {"en": "What’s the duration of your stay?", "es": "¿Cuál es la duración de tu estancia?"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_157",
+    "english": "length",
+    "spanish": "duración",
+    "phonetic": "/leŋkθ/",
+    "examples": [
+      {"en": "The length of the meeting was one hour.", "es": "La duración de la reunión fue de una hora."},
+      {"en": "Movie length: 120 minutes.", "es": "Duración de la película: 120 minutos."},
+      {"en": "What’s the length of your vacation?", "es": "¿Cuál es la duración de tus vacaciones?"},
+      {"en": "Contract length: 12 months.", "es": "Duración del contrato: 12 meses."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_158",
+    "english": "period",
+    "spanish": "período",
+    "phonetic": "/ˈpɪə.ri.əd/",
+    "examples": [
+      {"en": "The Renaissance was a creative period.", "es": "El Renacimiento fue un período creativo."},
+      {"en": "She studied abroad for a short period.", "es": "Ella estudió en el extranjero por un corto período."},
+      {"en": "There was a quiet period after the storm.", "es": "Hubo un período de calma después de la tormenta."},
+      {"en": "The loan is for a three-year period.", "es": "El préstamo es por un período de tres años."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_159",
+    "english": "term",
+    "spanish": "término",
+    "phonetic": "/tɜːrm/",
+    "examples": [
+      {"en": "The school term ends in June.", "es": "El período escolar termina en junio."},
+      {"en": "Presidential term is four years.", "es": "El mandato presidencial es de cuatro años."},
+      {"en": "Loan terms include interest rate.", "es": "Los términos del préstamo incluyen la tasa de interés."},
+      {"en": "He served two terms in office.", "es": "Él cumplió dos mandatos en el cargo."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_160",
+    "english": "tenure",
+    "spanish": "mandato",
+    "phonetic": "/ˈten.jər/",
+    "examples": [
+      {"en": "His tenure as mayor lasted six years.", "es": "Su mandato como alcalde duró seis años."},
+      {"en": "Academic tenure provides job security.", "es": "La titularidad académica brinda seguridad laboral."},
+      {"en": "She completed her tenure successfully.", "es": "Ella completó su mandato con éxito."},
+      {"en": "Tenure in office is limited.", "es": "El mandato en el cargo es limitado."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_161",
+    "english": "reign",
+    "spanish": "reinado",
+    "phonetic": "/reɪn/",
+    "examples": [
+      {"en": "Queen Victoria’s reign lasted 63 years.", "es": "El reinado de la reina Victoria duró 63 años."},
+      {"en": "The king’s reign was peaceful.", "es": "El reinado del rey fue pacífico."},
+      {"en": "During his reign, the empire expanded.", "es": "Durante su reinado, el imperio se expandió."},
+      {"en": "The reign of technology has begun.", "es": "Ha comenzado el reinado de la tecnología."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_162",
+    "english": "epoch",
+    "spanish": "época",
+    "phonetic": "/ˈep.ək/",
+    "examples": [
+      {"en": "The digital epoch changed communication.", "es": "La época digital cambió la comunicación."},
+      {"en": "Geologists divide time into epochs.", "es": "Los geólogos dividen el tiempo en épocas."},
+      {"en": "We’re living in a historic epoch.", "es": "Vivimos en una época histórica."},
+      {"en": "The Victorian epoch was in the 1800s.", "es": "La época victoriana fue en los 1800s."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_163",
+    "english": "millennia",
+    "spanish": "milenios",
+    "phonetic": "/mɪˈlen.i.ə/",
+    "examples": [
+      {"en": "Humans have existed for millennia.", "es": "Los humanos han existido durante milenios."},
+      {"en": "Civilizations rose and fell over millennia.", "es": "Las civilizaciones surgieron y cayeron durante milenios."},
+      {"en": "Some traditions last millennia.", "es": "Algunas tradiciones duran milenios."},
+      {"en": "The stars have shone for millennia.", "es": "Las estrellas han brillado durante milenios."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_164",
+    "english": "aeon",
+    "spanish": "eón",
+    "phonetic": "/ˈiː.ɒn/",
+    "examples": [
+      {"en": "It feels like an aeon since we met.", "es": "Parece un eón desde que nos conocimos."},
+      {"en": "Geological time is measured in aeons.", "es": "El tiempo geológico se mide en eones."},
+      {"en": "An aeon is an immeasurable period.", "es": "Un eón es un período inmedible."},
+      {"en": "Stars form over aeons.", "es": "Las estrellas se forman durante eones."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_165",
+    "english": "eon",
+    "spanish": "eón",
+    "phonetic": "/ˈiː.ɒn/",
+    "examples": [
+      {"en": "It took eons for life to evolve.", "es": "Tomó eones para que la vida evolucionara."},
+      {"en": "In the eon of dinosaurs...", "es": "En el eón de los dinosaurios..."},
+      {"en": "An eon is longer than an era.", "es": "Un eón es más largo que una era."},
+      {"en": "Wait an eon if you must.", "es": "Espera un eón si es necesario."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_166",
+    "english": "chronology",
+    "spanish": "cronología",
+    "phonetic": "/krəˈnɒl.ə.dʒi/",
+    "examples": [
+      {"en": "Study the chronology of events.", "es": "Estudia la cronología de los eventos."},
+      {"en": "The book follows a strict chronology.", "es": "El libro sigue una cronología estricta."},
+      {"en": "Historians rely on chronology.", "es": "Los historiadores se basan en la cronología."},
+      {"en": "Put these dates in correct chronology.", "es": "Pon estas fechas en la cronología correcta."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_167",
+    "english": "timeline",
+    "spanish": "línea de tiempo",
+    "phonetic": "/ˈtaɪm.laɪn/",
+    "examples": [
+      {"en": "Create a timeline of your life.", "es": "Crea una línea de tiempo de tu vida."},
+      {"en": "The project has a tight timeline.", "es": "El proyecto tiene una línea de tiempo ajustada."},
+      {"en": "Historical timeline shows key events.", "es": "La línea de tiempo histórica muestra eventos clave."},
+      {"en": "Follow the timeline carefully.", "es": "Sigue la línea de tiempo cuidadosamente."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_168",
+    "english": "schedule",
+    "spanish": "cronograma",
+    "phonetic": "/ˈʃedʒ.uːl/",
+    "examples": [
+      {"en": "The construction schedule is delayed.", "es": "El cronograma de construcción está retrasado."},
+      {"en": "Follow the project schedule.", "es": "Sigue el cronograma del proyecto."},
+      {"en": "The schedule includes all deadlines.", "es": "El cronograma incluye todas las fechas límite."},
+      {"en": "Update the schedule weekly.", "es": "Actualiza el cronograma semanalmente."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_169",
+    "english": "agenda",
+    "spanish": "agenda",
+    "phonetic": "/əˈdʒen.də/",
+    "examples": [
+      {"en": "What’s on the meeting agenda?", "es": "¿Qué hay en la agenda de la reunión?"},
+      {"en": "She has a hidden agenda.", "es": "Ella tiene una agenda oculta."},
+      {"en": "Set the agenda for tomorrow.", "es": "Establece la agenda para mañana."},
+      {"en": "The political agenda changed.", "es": "La agenda política cambió."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_170",
+    "english": "itinerary",
+    "spanish": "itinerario",
+    "phonetic": "/aɪˈtɪn.ər.er.i/",
+    "examples": [
+      {"en": "Here’s your travel itinerary.", "es": "Aquí está tu itinerario de viaje."},
+      {"en": "The itinerary includes five cities.", "es": "El itinerario incluye cinco ciudades."},
+      {"en": "Check your itinerary before leaving.", "es": "Revisa tu itinerario antes de salir."},
+      {"en": "The tour itinerary is flexible.", "es": "El itinerario del tour es flexible."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_171",
+    "english": "timetable",
+    "spanish": "horario",
+    "phonetic": "/ˈtaɪm.teɪ.bəl/",
+    "examples": [
+      {"en": "Check the train timetable.", "es": "Consulta el horario de trenes."},
+      {"en": "The school timetable changed.", "es": "El horario escolar cambió."},
+      {"en": "Timetables help organize your day.", "es": "Los horarios ayudan a organizar tu día."},
+      {"en": "Is the timetable accurate?", "es": "¿Es preciso el horario?"}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_172",
+    "english": "deadline",
+    "spanish": "plazo límite",
+    "phonetic": "/ˈded.laɪn/",
+    "examples": [
+      {"en": "The deadline for applications is Friday.", "es": "El plazo límite para solicitudes es viernes."},
+      {"en": "Don’t miss the deadline!", "es": "¡No pierdas el plazo límite!"},
+      {"en": "They extended the deadline by one week.", "es": "Extendieron el plazo límite una semana."},
+      {"en": "Hard deadline: no extensions.", "es": "Plazo límite firme: sin extensiones."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_173",
+    "english": "due date",
+    "spanish": "fecha de vencimiento",
+    "phonetic": "/duː deɪt/",
+    "examples": [
+      {"en": "The rent is due on the 1st.", "es": "El alquiler vence el día 1."},
+      {"en": "What’s the due date for the assignment?", "es": "¿Cuál es la fecha de entrega de la tarea?"},
+      {"en": "Bills have a due date.", "es": "Las facturas tienen una fecha de vencimiento."},
+      {"en": "Pay before the due date to avoid fees.", "es": "Paga antes de la fecha de vencimiento para evitar cargos."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_174",
+    "english": "expiration date",
+    "spanish": "fecha de caducidad",
+    "phonetic": "/ˌek.spəˈreɪ.ʃən deɪt/",
+    "examples": [
+      {"en": "Check the expiration date on milk.", "es": "Revisa la fecha de caducidad de la leche."},
+      {"en": "My passport’s expiration date is 2025.", "es": "La fecha de caducidad de mi pasaporte es 2025."},
+      {"en": "Don’t use medicine after its expiration date.", "es": "No uses medicina después de su fecha de caducidad."},
+      {"en": "Credit cards have an expiration date.", "es": "Las tarjetas de crédito tienen una fecha de vencimiento."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_175",
+    "english": "validity",
+    "spanish": "validez",
+    "phonetic": "/vəˈlɪd.ə.ti/",
+    "examples": [
+      {"en": "The visa has a two-year validity.", "es": "La visa tiene una validez de dos años."},
+      {"en": "Check the validity of your ticket.", "es": "Revisa la validez de tu boleto."},
+      {"en": "The offer’s validity ends tomorrow.", "es": "La validez de la oferta termina mañana."},
+      {"en": "Validity period: 30 days.", "es": "Período de validez: 30 días."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_176",
+    "english": "timeframe",
+    "spanish": "marco temporal",
+    "phonetic": "/ˈtaɪm.freɪm/",
+    "examples": [
+      {"en": "The project has a six-month timeframe.", "es": "El proyecto tiene un marco temporal de seis meses."},
+      {"en": "What’s the timeframe for delivery?", "es": "¿Cuál es el marco temporal para la entrega?"},
+      {"en": "We need a realistic timeframe.", "es": "Necesitamos un marco temporal realista."},
+      {"en": "The timeframe is flexible.", "es": "El marco temporal es flexible."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_177",
+    "english": "window",
+    "spanish": "ventana (de tiempo)",
+    "phonetic": "/ˈwɪn.doʊ/",
+    "examples": [
+      {"en": "There’s a two-hour window for delivery.", "es": "Hay una ventana de dos horas para la entrega."},
+      {"en": "Launch window opens at 3 PM.", "es": "La ventana de lanzamiento abre a las 3 p.m."},
+      {"en": "The best time window is morning.", "es": "La mejor ventana de tiempo es la mañana."},
+      {"en": "Miss the window and wait a week.", "es": "Pierde la ventana y espera una semana."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_178",
+    "english": "interval",
+    "spanish": "intervalo",
+    "phonetic": "/ˈɪn.tər.vəl/",
+    "examples": [
+      {"en": "Buses run at 20-minute intervals.", "es": "Los autobuses circulan cada 20 minutos."},
+      {"en": "Take breaks at regular intervals.", "es": "Toma descansos a intervalos regulares."},
+      {"en": "The interval between earthquakes was short.", "es": "El intervalo entre terremotos fue corto."},
+      {"en": "Measure heart rate at intervals.", "es": "Mide el ritmo cardíaco a intervalos."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_179",
+    "english": "pause",
+    "spanish": "pausa",
+    "phonetic": "/pɔːz/",
+    "examples": [
+      {"en": "Take a pause before answering.", "es": "Haz una pausa antes de responder."},
+      {"en": "The movie has a pause button.", "es": "La película tiene un botón de pausa."},
+      {"en": "Life needs a pause sometimes.", "es": "La vida necesita una pausa a veces."},
+      {"en": "Press pause on your busy day.", "es": "Haz pausa en tu día ocupado."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_180",
+    "english": "break",
+    "spanish": "descanso",
+    "phonetic": "/breɪk/",
+    "examples": [
+      {"en": "Let’s take a coffee break.", "es": "Tomemos un descanso para el café."},
+      {"en": "Lunch break is from 12 to 1.", "es": "El descanso para almorzar es de 12 a 1."},
+      {"en": "I need a break from work.", "es": "Necesito un descanso del trabajo."},
+      {"en": "Summer break starts next week.", "es": "Las vacaciones de verano empiezan la próxima semana."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_181",
+    "english": "intermission",
+    "spanish": "intermedio",
+    "phonetic": "/ˌɪn.tərˈmɪʃ.ən/",
+    "examples": [
+      {"en": "There’s a 15-minute intermission.", "es": "Hay un intermedio de 15 minutos."},
+      {"en": "Buy popcorn during intermission.", "es": "Compra palomitas durante el intermedio."},
+      {"en": "The play resumes after intermission.", "es": "La obra continúa después del intermedio."},
+      {"en": "Intermission is a good time to stretch.", "es": "El intermedio es buen momento para estirarse."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_182",
+    "english": "hiatus",
+    "spanish": "hiato",
+    "phonetic": "/haɪˈeɪ.təs/",
+    "examples": [
+      {"en": "The show is on hiatus until fall.", "es": "La serie está en hiato hasta el otoño."},
+      {"en": "He took a hiatus from work.", "es": "Él tomó un hiato del trabajo."},
+      {"en": "After a two-year hiatus, they returned.", "es": "Después de un hiato de dos años, regresaron."},
+      {"en": "The band is on an indefinite hiatus.", "es": "La banda está en un hiato indefinido."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_183",
+    "english": "sabbatical",
+    "spanish": "excedencia",
+    "phonetic": "/səˈbæt.ɪ.kəl/",
+    "examples": [
+      {"en": "She’s on sabbatical this year.", "es": "Ella está de excedencia este año."},
+      {"en": "Professors take sabbatical every seven years.", "es": "Los profesores toman excedencia cada siete años."},
+      {"en": "He used sabbatical to write a book.", "es": "Él usó la excedencia para escribir un libro."},
+      {"en": "Sabbatical leave is unpaid but approved.", "es": "La excedencia es sin sueldo pero aprobada."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_184",
+    "english": "leave",
+    "spanish": "permiso",
+    "phonetic": "/liːv/",
+    "examples": [
+      {"en": "He’s on sick leave.", "es": "Él está de permiso por enfermedad."},
+      {"en": "Maternity leave lasts 12 weeks.", "es": "La licencia de maternidad dura 12 semanas."},
+      {"en": "Request leave in advance.", "es": "Solicita permiso con anticipación."},
+      {"en": "Annual leave is paid.", "es": "El permiso anual es remunerado."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_185",
+    "english": "maternity leave",
+    "spanish": "licencia de maternidad",
+    "phonetic": "/məˈtɜːr.nə.ti liːv/",
+    "examples": [
+      {"en": "She’s on maternity leave until June.", "es": "Ella está de licencia de maternidad hasta junio."},
+      {"en": "Maternity leave is protected by law.", "es": "La licencia de maternidad está protegida por ley."},
+      {"en": "How long is your maternity leave?", "es": "¿Cuánto dura tu licencia de maternidad?"},
+      {"en": "Paid maternity leave varies by country.", "es": "La licencia de maternidad pagada varía por país."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_186",
+    "english": "paternity leave",
+    "spanish": "licencia de paternidad",
+    "phonetic": "/pəˈtɜːr.nə.ti liːv/",
+    "examples": [
+      {"en": "He took two weeks of paternity leave.", "es": "Él tomó dos semanas de licencia de paternidad."},
+      {"en": "Paternity leave is becoming more common.", "es": "La licencia de paternidad es cada vez más común."},
+      {"en": "Some companies offer paid paternity leave.", "es": "Algunas empresas ofrecen licencia de paternidad pagada."},
+      {"en": "Use your paternity leave to bond with your baby.", "es": "Usa tu licencia de paternidad para crear vínculo con tu bebé."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_187",
+    "english": "retirement",
+    "spanish": "jubilación",
+    "phonetic": "/rɪˈtaɪər.mənt/",
+    "examples": [
+      {"en": "He retired at age 65.", "es": "Él se jubiló a los 65 años."},
+      {"en": "Plan for retirement early.", "es": "Planea tu jubilación temprano."},
+      {"en": "Retirement age is changing.", "es": "La edad de jubilación está cambiando."},
+      {"en": "They moved to the coast after retirement.", "es": "Se mudaron a la costa tras la jubilación."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_188",
+    "english": "pension",
+    "spanish": "pensión",
+    "phonetic": "/ˈpen.ʃən/",
+    "examples": [
+      {"en": "He receives a monthly pension.", "es": "Él recibe una pensión mensual."},
+      {"en": "Pension plans help after retirement.", "es": "Los planes de pensión ayudan tras la jubilación."},
+      {"en": "Contribute to your pension fund.", "es": "Contribuye a tu fondo de pensión."},
+      {"en": "State pension starts at 67.", "es": "La pensión estatal empieza a los 67."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_189",
+    "english": "golden years",
+    "spanish": "años dorados",
+    "phonetic": "/ˈɡoʊl.dən jɪrz/",
+    "examples": [
+      {"en": "They enjoy their golden years traveling.", "es": "Disfrutan sus años dorados viajando."},
+      {"en": "Golden years start after retirement.", "es": "Los años dorados empiezan tras la jubilación."},
+      {"en": "Spend your golden years wisely.", "es": "Pasa tus años dorados sabiamente."},
+      {"en": "Communities for golden years exist.", "es": "Existen comunidades para los años dorados."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_190",
+    "english": "infancy",
+    "spanish": "infancia temprana",
+    "phonetic": "/ˈɪn.fən.si/",
+    "examples": [
+      {"en": "Infancy lasts from birth to age 1.", "es": "La infancia temprana dura del nacimiento al año 1."},
+      {"en": "Brain development is rapid in infancy.", "es": "El desarrollo cerebral es rápido en la infancia temprana."},
+      {"en": "They adopted the baby in infancy.", "es": "Adoptaron al bebé en su infancia temprana."},
+      {"en": "Nutrition is critical in infancy.", "es": "La nutrición es crítica en la infancia temprana."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_191",
+    "english": "childhood",
+    "spanish": "infancia",
+    "phonetic": "/ˈtʃaɪld.hʊd/",
+    "examples": [
+      {"en": "Childhood memories are precious.", "es": "Los recuerdos de la infancia son preciosos."},
+      {"en": "Childhood lasts until age 12.", "es": "La infancia dura hasta los 12 años."},
+      {"en": "He had a happy childhood.", "es": "Él tuvo una infancia feliz."},
+      {"en": "Vaccines are given in childhood.", "es": "Las vacunas se administran en la infancia."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_192",
+    "english": "adolescence",
+    "spanish": "adolescencia",
+    "phonetic": "/ˌæd.əˈles.əns/",
+    "examples": [
+      {"en": "Adolescence is from 13 to 19.", "es": "La adolescencia es de 13 a 19 años."},
+      {"en": "Hormonal changes occur in adolescence.", "es": "Los cambios hormonales ocurren en la adolescencia."},
+      {"en": "She struggled during adolescence.", "es": "Ella tuvo dificultades durante la adolescencia."},
+      {"en": "Adolescence is a time of identity formation.", "es": "La adolescencia es una etapa de formación de identidad."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_193",
+    "english": "adulthood",
+    "spanish": "edad adulta",
+    "phonetic": "/ˈæd.ʌlt.hʊd/",
+    "examples": [
+      {"en": "Adulthood begins at 18.", "es": "La edad adulta empieza a los 18."},
+      {"en": "Responsibilities increase in adulthood.", "es": "Las responsabilidades aumentan en la edad adulta."},
+      {"en": "He achieved success in adulthood.", "es": "Él logró el éxito en la edad adulta."},
+      {"en": "Mental health matters in adulthood.", "es": "La salud mental importa en la edad adulta."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_194",
+    "english": "middle age",
+    "spanish": "mediana edad",
+    "phonetic": "/ˈmɪd.əl eɪdʒ/",
+    "examples": [
+      {"en": "Middle age is around 40–60.", "es": "La mediana edad es alrededor de 40–60."},
+      {"en": "Many reassess life in middle age.", "es": "Muchos reevalúan la vida en la mediana edad."},
+      {"en": "Health screenings are important in middle age.", "es": "Los chequeos médicos son importantes en la mediana edad."},
+      {"en": "He started a new career in middle age.", "es": "Él empezó una nueva carrera en la mediana edad."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_195",
+    "english": "old age",
+    "spanish": "vejez",
+    "phonetic": "/ˈoʊld eɪdʒ/",
+    "examples": [
+      {"en": "Old age brings wisdom.", "es": "La vejez trae sabiduría."},
+      {"en": "Exercise helps in old age.", "es": "El ejercicio ayuda en la vejez."},
+      {"en": "He lived to a ripe old age.", "es": "Él vivió hasta una edad avanzada."},
+      {"en": "Social connection is vital in old age.", "es": "La conexión social es vital en la vejez."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_196",
+    "english": "centenarian",
+    "spanish": "centenario",
+    "phonetic": "/ˌsen.təˈner.i.ən/",
+    "examples": [
+      {"en": "She became a centenarian last year.", "es": "Ella se convirtió en centenaria el año pasado."},
+      {"en": "Centenarians often have healthy habits.", "es": "Los centenarios suelen tener hábitos saludables."},
+      {"en": "He celebrated his 100th birthday as a centenarian.", "es": "Celebró su cumpleaños 100 como centenario."},
+      {"en": "Japan has many centenarians.", "es": "Japón tiene muchos centenarios."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_197",
+    "english": "millennial",
+    "spanish": "milenial",
+    "phonetic": "/mɪˈlen.i.əl/",
+    "examples": [
+      {"en": "Millennials were born between 1981–1996.", "es": "Los mileniales nacieron entre 1981 y 1996."},
+      {"en": "Millennials value work-life balance.", "es": "Los mileniales valoran el equilibrio entre trabajo y vida."},
+      {"en": "She’s a millennial entrepreneur.", "es": "Ella es una emprendedora milenial."},
+      {"en": "Millennials grew up with the internet.", "es": "Los mileniales crecieron con internet."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_198",
+    "english": "Gen Z",
+    "spanish": "Generación Z",
+    "phonetic": "/dʒen ˈziː/",
+    "examples": [
+      {"en": "Gen Z is tech-native.", "es": "La Generación Z es nativa digital."},
+      {"en": "Gen Z values authenticity.", "es": "La Generación Z valora la autenticidad."},
+      {"en": "Born after 1996, they’re Gen Z.", "es": "Nacidos después de 1996, son Generación Z."},
+      {"en": "Gen Z is shaping future trends.", "es": "La Generación Z está definiendo tendencias futuras."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_199",
+    "english": "Boomer",
+    "spanish": "baby boomer",
+    "phonetic": "/ˈbuː.mər/",
+    "examples": [
+      {"en": "Baby boomers were born 1946–1964.", "es": "Los baby boomers nacieron entre 1946 y 1964."},
+      {"en": "Many boomers are retiring now.", "es": "Muchos boomers se están jubilando ahora."},
+      {"en": "He’s a classic boomer.", "es": "Él es un boomer clásico."},
+      {"en": "Boomers shaped modern culture.", "es": "Los boomers moldearon la cultura moderna."}
+    ],
+    "category": "Time & Dates"
+  },
+  {
+    "id": "time_200",
+    "english": "timestamp",
+    "spanish": "marca de tiempo",
+    "phonetic": "/ˈtaɪm.stæmp/",
+    "examples": [
+      {"en": "The photo has a digital timestamp.", "es": "La foto tiene una marca de tiempo digital."},
+      {"en": "Add a timestamp to your file.", "es": "Agrega una marca de tiempo a tu archivo."},
+      {"en": "The email includes a timestamp.", "es": "El correo incluye una marca de tiempo."},
+      {"en": "Timestamps help track changes.", "es": "Las marcas de tiempo ayudan a rastrear cambios."}
+    ],
+    "category": "Time & Dates"
+  }
+]

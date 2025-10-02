@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "shop_1",
+    "english": "price",
+    "spanish": "precio",
+    "phonetic": "/praɪs/",
+    "examples": [
+      {"en": "What is the price of this shirt?", "es": "¿Cuál es el precio de esta camisa?"},
+      {"en": "The price is too high.", "es": "El precio es demasiado alto."},
+      {"en": "They reduced the price by 20%.", "es": "Reducieron el precio en un 20%."},
+      {"en": "Check the price before buying.", "es": "Revisa el precio antes de comprar."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_2",
+    "english": "discount",
+    "spanish": "descuento",
+    "phonetic": "/ˈdɪs.kaʊnt/",
+    "examples": [
+      {"en": "I got a 30% discount on these shoes.", "es": "Obtuve un 30% de descuento en estos zapatos."},
+      {"en": "The store offers student discounts.", "es": "La tienda ofrece descuentos para estudiantes."},
+      {"en": "Show your membership card for a discount.", "es": "Muestra tu tarjeta de membresía para un descuento."},
+      {"en": "Discounts are available during the sale.", "es": "Hay descuentos disponibles durante la liquidación."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_3",
+    "english": "sale",
+    "spanish": "liquidación",
+    "phonetic": "/seɪl/",
+    "examples": [
+      {"en": "Everything is on sale this weekend.", "es": "Todo está en liquidación este fin de semana."},
+      {"en": "She bought a dress during the summer sale.", "es": "Ella compró un vestido durante la liquidación de verano."},
+      {"en": "The sale ends tomorrow.", "es": "La liquidación termina mañana."},
+      {"en": "I found a great deal at the clearance sale.", "es": "Encontré una gran oferta en la liquidación de saldos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_4",
+    "english": "receipt",
+    "spanish": "recibo",
+    "phonetic": "/rɪˈsiːt/",
+    "examples": [
+      {"en": "Keep your receipt in case you need to return it.", "es": "Guarda tu recibo por si necesitas devolverlo."},
+      {"en": "The receipt shows the total amount paid.", "es": "El recibo muestra el monto total pagado."},
+      {"en": "He lost the receipt and couldn’t get a refund.", "es": "Él perdió el recibo y no pudo obtener un reembolso."},
+      {"en": "Digital receipts are sent by email.", "es": "Los recibos digitales se envían por correo electrónico."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_5",
+    "english": "refund",
+    "spanish": "reembolso",
+    "phonetic": "/ˈriː.fʌnd/",
+    "examples": [
+      {"en": "I asked for a refund because the item was damaged.", "es": "Pedí un reembolso porque el artículo estaba dañado."},
+      {"en": "The store offers a full refund within 30 days.", "es": "La tienda ofrece un reembolso completo dentro de 30 días."},
+      {"en": "She received a refund to her credit card.", "es": "Ella recibió un reembolso en su tarjeta de crédito."},
+      {"en": "Refunds can take 5–7 business days.", "es": "Los reembolsos pueden tardar de 5 a 7 días hábiles."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_6",
+    "english": "return",
+    "spanish": "devolución",
+    "phonetic": "/rɪˈtɝːn/",
+    "examples": [
+      {"en": "You can return this item within 14 days.", "es": "Puedes devolver este artículo dentro de 14 días."},
+      {"en": "He returned the wrong size for a larger one.", "es": "Él devolvió la talla equivocada por una más grande."},
+      {"en": "Returns must have the original packaging.", "es": "Las devoluciones deben tener el empaque original."},
+      {"en": "The store has a generous return policy.", "es": "La tienda tiene una política de devolución generosa."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_7",
+    "english": "cashier",
+    "spanish": "cajero",
+    "phonetic": "/ˈkæʃ.ɚ/",
+    "examples": [
+      {"en": "The cashier scanned my items quickly.", "es": "El cajero escaneó mis artículos rápidamente."},
+      {"en": "She works as a cashier at the supermarket.", "es": "Ella trabaja como cajera en el supermercado."},
+      {"en": "The cashier gave me the correct change.", "es": "El cajero me dio el cambio correcto."},
+      {"en": "Please go to cashier number 3.", "es": "Por favor, vaya a la caja número 3."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_8",
+    "english": "checkout",
+    "spanish": "caja",
+    "phonetic": "/ˈtʃek.aʊt/",
+    "examples": [
+      {"en": "There’s a long line at checkout.", "es": "Hay una fila larga en la caja."},
+      {"en": "Self-checkout is faster for small purchases.", "es": "La caja automática es más rápida para compras pequeñas."},
+      {"en": "She went to checkout after picking her groceries.", "es": "Ella fue a la caja después de elegir sus compras."},
+      {"en": "Express checkout is for 10 items or fewer.", "es": "La caja rápida es para 10 artículos o menos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_9",
+    "english": "shopping cart",
+    "spanish": "carrito de compras",
+    "phonetic": "/ˈʃɑː.pɪŋ kɑːrt/",
+    "examples": [
+      {"en": "He pushed the shopping cart through the store.", "es": "Él empujó el carrito de compras por la tienda."},
+      {"en": "The shopping cart has a wobbly wheel.", "es": "El carrito de compras tiene una rueda floja."},
+      {"en": "She filled her shopping cart with groceries.", "es": "Ella llenó su carrito de compras con víveres."},
+      {"en": "Online shopping carts hold items before purchase.", "es": "Los carritos de compras en línea guardan artículos antes de la compra."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_10",
+    "english": "basket",
+    "spanish": "cesta",
+    "phonetic": "/ˈbæs.kɪt/",
+    "examples": [
+      {"en": "Use a basket for a few items.", "es": "Usa una cesta para pocos artículos."},
+      {"en": "She carried a wicker basket in the store.", "es": "Ella llevaba una cesta de mimbre en la tienda."},
+      {"en": "The basket is lighter than a shopping cart.", "es": "La cesta es más ligera que un carrito de compras."},
+      {"en": "He placed his groceries in the basket.", "es": "Él puso sus compras en la cesta."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_11",
+    "english": "mall",
+    "spanish": "centro comercial",
+    "phonetic": "/mæl/",
+    "examples": [
+      {"en": "We went to the mall to buy new shoes.", "es": "Fuimos al centro comercial a comprar zapatos nuevos."},
+      {"en": "The mall has over 100 stores.", "es": "El centro comercial tiene más de 100 tiendas."},
+      {"en": "She works at a clothing store in the mall.", "es": "Ella trabaja en una tienda de ropa en el centro comercial."},
+      {"en": "The mall is open from 10 a.m. to 9 p.m.", "es": "El centro comercial abre de 10 a.m. a 9 p.m."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_12",
+    "english": "supermarket",
+    "spanish": "supermercado",
+    "phonetic": "/ˈsuː.pɚˌmɑːr.kɪt/",
+    "examples": [
+      {"en": "I buy fruits and vegetables at the supermarket.", "es": "Compro frutas y verduras en el supermercado."},
+      {"en": "The supermarket is open 24 hours.", "es": "El supermercado está abierto 24 horas."},
+      {"en": "He compared prices at three supermarkets.", "es": "Él comparó precios en tres supermercados."},
+      {"en": "The supermarket has a bakery and deli.", "es": "El supermercado tiene panadería y charcutería."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_13",
+    "english": "grocery store",
+    "spanish": "tienda de abarrotes",
+    "phonetic": "/ˈɡroʊ.sər.i stoʊr/",
+    "examples": [
+      {"en": "We stopped by the grocery store on the way home.", "es": "Paramos en la tienda de abarrotes de camino a casa."},
+      {"en": "The grocery store sells milk, bread, and eggs.", "es": "La tienda de abarrotes vende leche, pan y huevos."},
+      {"en": "She shops at a local grocery store.", "es": "Ella compra en una tienda de abarrotes local."},
+      {"en": "Grocery stores are smaller than supermarkets.", "es": "Las tiendas de abarrotes son más pequeñas que los supermercados."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_14",
+    "english": "department store",
+    "spanish": "tienda por departamentos",
+    "phonetic": "/dɪˈpɑːrt.mənt stoʊr/",
+    "examples": [
+      {"en": "Macy’s is a famous department store.", "es": "Macy’s es una tienda por departamentos famosa."},
+      {"en": "The department store has clothing, cosmetics, and home goods.", "es": "La tienda por departamentos tiene ropa, cosméticos y artículos para el hogar."},
+      {"en": "She bought a perfume at the department store.", "es": "Ella compró un perfume en la tienda por departamentos."},
+      {"en": "Department stores often have sales after holidays.", "es": "Las tiendas por departamentos suelen tener ofertas después de los días festivos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_15",
+    "english": "boutique",
+    "spanish": "boutique",
+    "phonetic": "/buːˈtiːk/",
+    "examples": [
+      {"en": "She owns a small boutique downtown.", "es": "Ella tiene una boutique pequeña en el centro."},
+      {"en": "The boutique sells handmade jewelry.", "es": "La boutique vende joyas hechas a mano."},
+      {"en": "He bought a suit from a men’s boutique.", "es": "Él compró un traje en una boutique para hombres."},
+      {"en": "Boutiques offer unique, stylish clothing.", "es": "Las boutiques ofrecen ropa única y elegante."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_16",
+    "english": "online shopping",
+    "spanish": "compras en línea",
+    "phonetic": "/ˌɑːn.laɪn ˈʃɑː.pɪŋ/",
+    "examples": [
+      {"en": "Online shopping is convenient and fast.", "es": "Las compras en línea son convenientes y rápidas."},
+      {"en": "She ordered shoes through online shopping.", "es": "Ella pidió zapatos mediante compras en línea."},
+      {"en": "Online shopping has grown during the pandemic.", "es": "Las compras en línea han crecido durante la pandemia."},
+      {"en": "Always check reviews before online shopping.", "es": "Siempre revisa reseñas antes de comprar en línea."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_17",
+    "english": "website",
+    "spanish": "sitio web",
+    "phonetic": "/ˈweb.saɪt/",
+    "examples": [
+      {"en": "The product is available on their website.", "es": "El producto está disponible en su sitio web."},
+      {"en": "She browsed the website for deals.", "es": "Ella navegó el sitio web en busca de ofertas."},
+      {"en": "The website crashed during the sale.", "es": "El sitio web se cayó durante la liquidación."},
+      {"en": "Check the website for store hours.", "es": "Revisa el sitio web para horarios de la tienda."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_18",
+    "english": "app",
+    "spanish": "aplicación",
+    "phonetic": "/æp/",
+    "examples": [
+      {"en": "I use the store’s app to scan items.", "es": "Uso la aplicación de la tienda para escanear artículos."},
+      {"en": "The shopping app sends discount notifications.", "es": "La aplicación de compras envía notificaciones de descuentos."},
+      {"en": "Download the app for exclusive offers.", "es": "Descarga la aplicación para ofertas exclusivas."},
+      {"en": "He placed his order through the app.", "es": "Él hizo su pedido a través de la aplicación."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_19",
+    "english": "payment",
+    "spanish": "pago",
+    "phonetic": "/ˈpeɪ.mənt/",
+    "examples": [
+      {"en": "Payment is due at checkout.", "es": "El pago se realiza en la caja."},
+      {"en": "She made a payment with her phone.", "es": "Ella hizo un pago con su teléfono."},
+      {"en": "Online payment is secure and fast.", "es": "El pago en línea es seguro y rápido."},
+      {"en": "The payment failed, so try again.", "es": "El pago falló, así que inténtalo de nuevo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_20",
+    "english": "cash",
+    "spanish": "efectivo",
+    "phonetic": "/kæʃ/",
+    "examples": [
+      {"en": "Do you accept cash?", "es": "¿Aceptan efectivo?"},
+      {"en": "He paid in cash to avoid fees.", "es": "Él pagó en efectivo para evitar comisiones."},
+      {"en": "She keeps cash in her wallet.", "es": "Ella guarda efectivo en su billetera."},
+      {"en": "Some small stores only take cash.", "es": "Algunas tiendas pequeñas solo aceptan efectivo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_21",
+    "english": "credit card",
+    "spanish": "tarjeta de crédito",
+    "phonetic": "/ˈkred.ɪt kɑːrd/",
+    "examples": [
+      {"en": "She paid with a credit card.", "es": "Ella pagó con tarjeta de crédito."},
+      {"en": "The store accepts all major credit cards.", "es": "La tienda acepta todas las tarjetas de crédito principales."},
+      {"en": "He earned rewards points on his credit card.", "es": "Él obtuvo puntos de recompensa en su tarjeta de crédito."},
+      {"en": "Don’t overspend with your credit card.", "es": "No gastes de más con tu tarjeta de crédito."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_22",
+    "english": "debit card",
+    "spanish": "tarjeta de débito",
+    "phonetic": "/ˈdeb.ɪt kɑːrd/",
+    "examples": [
+      {"en": "I used my debit card to pay for groceries.", "es": "Usé mi tarjeta de débito para pagar las compras."},
+      {"en": "Debit cards withdraw money directly from your account.", "es": "Las tarjetas de débito retiran dinero directamente de tu cuenta."},
+      {"en": "She prefers debit cards over credit cards.", "es": "Ella prefiere tarjetas de débito sobre tarjetas de crédito."},
+      {"en": "The ATM issued a new debit card.", "es": "El cajero automático emitió una nueva tarjeta de débito."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_23",
+    "english": "coupon",
+    "spanish": "cupón",
+    "phonetic": "/ˈkuː.pɑːn/",
+    "examples": [
+      {"en": "I used a coupon for 10% off.", "es": "Usé un cupón con 10% de descuento."},
+      {"en": "Print coupons from the store’s website.", "es": "Imprime cupones del sitio web de la tienda."},
+      {"en": "The coupon expires next week.", "es": "El cupón vence la próxima semana."},
+      {"en": "She collects coupons to save money.", "es": "Ella colecciona cupones para ahorrar dinero."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_24",
+    "english": "loyalty card",
+    "spanish": "tarjeta de fidelidad",
+    "phonetic": "/ˈlɔɪ.əl.ti kɑːrd/",
+    "examples": [
+      {"en": "Show your loyalty card for points.", "es": "Muestra tu tarjeta de fidelidad para obtener puntos."},
+      {"en": "The loyalty card gives you exclusive discounts.", "es": "La tarjeta de fidelidad te da descuentos exclusivos."},
+      {"en": "He signed up for the store’s loyalty card.", "es": "Él se registró para la tarjeta de fidelidad de la tienda."},
+      {"en": "Loyalty cards track your purchases.", "es": "Las tarjetas de fidelidad registran tus compras."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_25",
+    "english": "brand",
+    "spanish": "marca",
+    "phonetic": "/brænd/",
+    "examples": [
+      {"en": "She only buys name-brand shoes.", "es": "Ella solo compra zapatos de marca conocida."},
+      {"en": "This brand is known for quality.", "es": "Esta marca es conocida por su calidad."},
+      {"en": "He prefers generic brands to save money.", "es": "Él prefiere marcas genéricas para ahorrar dinero."},
+      {"en": "The brand launched a new product line.", "es": "La marca lanzó una nueva línea de productos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_26",
+    "english": "size",
+    "spanish": "talla",
+    "phonetic": "/saɪz/",
+    "examples": [
+      {"en": "What size do you wear?", "es": "¿Qué talla usas?"},
+      {"en": "The shirt is too small; I need a larger size.", "es": "La camisa es muy pequeña; necesito una talla más grande."},
+      {"en": "Shoe sizes vary by brand.", "es": "Las tallas de zapatos varían según la marca."},
+      {"en": "Check the size chart before ordering online.", "es": "Revisa la tabla de tallas antes de pedir en línea."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_27",
+    "english": "fit",
+    "spanish": "ajuste",
+    "phonetic": "/fɪt/",
+    "examples": [
+      {"en": "The dress fits perfectly.", "es": "El vestido le queda perfecto."},
+      {"en": "Try it on to check the fit.", "es": "Pruébatelo para verificar el ajuste."},
+      {"en": "He returned the jacket because the fit was wrong.", "es": "Él devolvió la chaqueta porque el ajuste estaba mal."},
+      {"en": "Slim fit jeans are popular this season.", "es": "Los jeans de corte ajustado son populares esta temporada."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_28",
+    "english": "color",
+    "spanish": "color",
+    "phonetic": "/ˈkʌl.ɚ/",
+    "examples": [
+      {"en": "I like this shirt in blue.", "es": "Me gusta esta camisa en azul."},
+      {"en": "The color matches my shoes.", "es": "El color combina con mis zapatos."},
+      {"en": "She chose a neutral color for the sofa.", "es": "Ella eligió un color neutro para el sofá."},
+      {"en": "Available colors: red, black, and white.", "es": "Colores disponibles: rojo, negro y blanco."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_29",
+    "english": "style",
+    "spanish": "estilo",
+    "phonetic": "/staɪl/",
+    "examples": [
+      {"en": "This bag is in the latest style.", "es": "Este bolso está en el estilo más reciente."},
+      {"en": "He has a unique fashion style.", "es": "Él tiene un estilo de moda único."},
+      {"en": "Choose a style that suits your personality.", "es": "Elige un estilo que se adapte a tu personalidad."},
+      {"en": "The store offers classic and modern styles.", "es": "La tienda ofrece estilos clásicos y modernos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_30",
+    "english": "quality",
+    "spanish": "calidad",
+    "phonetic": "/ˈkwɑː.lə.t̬i/",
+    "examples": [
+      {"en": "The quality of this jacket is excellent.", "es": "La calidad de esta chaqueta es excelente."},
+      {"en": "You get what you pay for in terms of quality.", "es": "Obtienes lo que pagas en términos de calidad."},
+      {"en": "She checks the stitching for quality.", "es": "Ella revisa las costuras para verificar la calidad."},
+      {"en": "High-quality items last longer.", "es": "Los artículos de alta calidad duran más."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_31",
+    "english": "warranty",
+    "spanish": "garantía",
+    "phonetic": "/ˈwɔːr.ən.ti/",
+    "examples": [
+      {"en": "The laptop comes with a one-year warranty.", "es": "La laptop viene con una garantía de un año."},
+      {"en": "Keep your receipt for the warranty.", "es": "Guarda tu recibo para la garantía."},
+      {"en": "The warranty covers manufacturing defects.", "es": "La garantía cubre defectos de fabricación."},
+      {"en": "He used the warranty to replace the broken phone.", "es": "Él usó la garantía para reemplazar el teléfono roto."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_32",
+    "english": "tag",
+    "spanish": "etiqueta",
+    "phonetic": "/tæɡ/",
+    "examples": [
+      {"en": "The price tag says $29.99.", "es": "La etiqueta de precio dice $29.99."},
+      {"en": "Don’t remove the tag until you’re sure.", "es": "No quites la etiqueta hasta que estés seguro."},
+      {"en": "The clothing tag shows the size and material.", "es": "La etiqueta de la ropa muestra la talla y el material."},
+      {"en": "Some tags include care instructions.", "es": "Algunas etiquetas incluyen instrucciones de cuidado."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_33",
+    "english": "label",
+    "spanish": "etiqueta",
+    "phonetic": "/ˈleɪ.bəl/",
+    "examples": [
+      {"en": "Check the label for washing instructions.", "es": "Revisa la etiqueta para instrucciones de lavado."},
+      {"en": "The food label lists all ingredients.", "es": "La etiqueta de alimentos enumera todos los ingredientes."},
+      {"en": "Organic products have a special label.", "es": "Los productos orgánicos tienen una etiqueta especial."},
+      {"en": "He reads labels carefully due to allergies.", "es": "Él lee las etiquetas cuidadosamente por alergias."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_34",
+    "english": "barcode",
+    "spanish": "código de barras",
+    "phonetic": "/ˈbɑːr.koʊd/",
+    "examples": [
+      {"en": "The cashier scanned the barcode.", "es": "El cajero escaneó el código de barras."},
+      {"en": "Each product has a unique barcode.", "es": "Cada producto tiene un código de barras único."},
+      {"en": "The barcode contains price and inventory info.", "es": "El código de barras contiene información de precio e inventario."},
+      {"en": "She used her phone to scan the barcode.", "es": "Ella usó su teléfono para escanear el código de barras."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_35",
+    "english": "shelf",
+    "spanish": "estante",
+    "phonetic": "/ʃelf/",
+    "examples": [
+      {"en": "The cereal is on the top shelf.", "es": "Los cereales están en el estante superior."},
+      {"en": "He reached for the item on the bottom shelf.", "es": "Él alcanzó el artículo en el estante inferior."},
+      {"en": "Shelves are labeled by product category.", "es": "Los estantes están etiquetados por categoría de producto."},
+      {"en": "The store restocked the shelves this morning.", "es": "La tienda reabasteció los estantes esta mañana."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_36",
+    "english": "aisle",
+    "spanish": "pasillo",
+    "phonetic": "/aɪl/",
+    "examples": [
+      {"en": "Dairy products are in aisle 5.", "es": "Los productos lácteos están en el pasillo 5."},
+      {"en": "She pushed the cart down the aisle.", "es": "Ella empujó el carrito por el pasillo."},
+      {"en": "The store has 20 aisles.", "es": "La tienda tiene 20 pasillos."},
+      {"en": "Find cleaning supplies in the last aisle.", "es": "Encuentra artículos de limpieza en el último pasillo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_37",
+    "english": "display",
+    "spanish": "exhibidor",
+    "phonetic": "/dɪˈspleɪ/",
+    "examples": [
+      {"en": "New products are on display at the entrance.", "es": "Los productos nuevos están en exhibidor en la entrada."},
+      {"en": "The display caught her attention.", "es": "El exhibidor llamó su atención."},
+      {"en": "Seasonal items are in a special display.", "es": "Los artículos de temporada están en un exhibidor especial."},
+      {"en": "He bought something from the end-cap display.", "es": "Él compró algo del exhibidor al final del pasillo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_38",
+    "english": "sign",
+    "spanish": "letrero",
+    "phonetic": "/saɪn/",
+    "examples": [
+      {"en": "The sign says '50% off'.", "es": "El letrero dice '50% de descuento'."},
+      {"en": "Look for signs indicating sale items.", "es": "Busca letreros que indiquen artículos en oferta."},
+      {"en": "The store has clear directional signs.", "es": "La tienda tiene letreros direccionales claros."},
+      {"en": "He followed the 'Exit' sign.", "es": "Él siguió el letrero de 'Salida'."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_39",
+    "english": "sale tag",
+    "spanish": "etiqueta de oferta",
+    "phonetic": "/seɪl tæɡ/",
+    "examples": [
+      {"en": "The red sale tag means 30% off.", "es": "La etiqueta de oferta roja significa 30% de descuento."},
+      {"en": "She looked for items with sale tags.", "es": "Ella buscó artículos con etiquetas de oferta."},
+      {"en": "The sale tag shows the original and discounted price.", "es": "La etiqueta de oferta muestra el precio original y el rebajado."},
+      {"en": "Not all sale items have visible tags.", "es": "No todos los artículos en oferta tienen etiquetas visibles."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_40",
+    "english": "clearance",
+    "spanish": "saldo",
+    "phonetic": "/ˈklɪr.əns/",
+    "examples": [
+      {"en": "The clearance section has deep discounts.", "es": "La sección de saldos tiene descuentos profundos."},
+      {"en": "He found a jacket for $5 in clearance.", "es": "Él encontró una chaqueta por $5 en saldos."},
+      {"en": "Clearance items are final sale.", "es": "Los artículos de saldo son venta final."},
+      {"en": "The store marks clearance items with yellow tags.", "es": "La tienda marca los artículos de saldo con etiquetas amarillas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_41",
+    "english": "bargain",
+    "spanish": "ganga",
+    "phonetic": "/ˈbɑːr.ɡən/",
+    "examples": [
+      {"en": "This coat is a real bargain!", "es": "¡Este abrigo es una ganga!"},
+      {"en": "She loves hunting for bargains.", "es": "A ella le encanta buscar gangas."},
+      {"en": "The flea market is full of bargains.", "es": "El mercado de pulgas está lleno de gangas."},
+      {"en": "He got a bargain on a used laptop.", "es": "Él consiguió una ganga en una laptop usada."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_42",
+    "english": "deal",
+    "spanish": "oferta",
+    "phonetic": "/diːl/",
+    "examples": [
+      {"en": "That’s a great deal for a new phone!", "es": "¡Esa es una gran oferta para un teléfono nuevo!"},
+      {"en": "She found a deal online.", "es": "Ella encontró una oferta en línea."},
+      {"en": "Buy one, get one free is a popular deal.", "es": "Compre uno, lleve otro gratis es una oferta popular."},
+      {"en": "Don’t miss this limited-time deal.", "es": "No te pierdas esta oferta por tiempo limitado."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_43",
+    "english": "expensive",
+    "spanish": "caro",
+    "phonetic": "/ɪkˈspen.sɪv/",
+    "examples": [
+      {"en": "This watch is too expensive.", "es": "Este reloj es demasiado caro."},
+      {"en": "Designer clothes are often expensive.", "es": "La ropa de diseñador suele ser cara."},
+      {"en": "He can’t afford such an expensive car.", "es": "Él no puede permitirse un coche tan caro."},
+      {"en": "Luxury items are usually expensive.", "es": "Los artículos de lujo suelen ser caros."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_44",
+    "english": "cheap",
+    "spanish": "barato",
+    "phonetic": "/tʃiːp/",
+    "examples": [
+      {"en": "These socks are very cheap.", "es": "Estos calcetines son muy baratos."},
+      {"en": "You get what you pay for—cheap items break easily.", "es": "Obtienes lo que pagas: los artículos baratos se rompen fácilmente."},
+      {"en": "She found a cheap flight to Spain.", "es": "Ella encontró un vuelo barato a España."},
+      {"en": "Don’t buy cheap electronics—they don’t last.", "es": "No compres electrónicos baratos: no duran."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_45",
+    "english": "affordable",
+    "spanish": "asequible",
+    "phonetic": "/əˈfɔːr.də.bəl/",
+    "examples": [
+      {"en": "This brand offers affordable fashion.", "es": "Esta marca ofrece moda asequible."},
+      {"en": "We need an affordable laptop for school.", "es": "Necesitamos una laptop asequible para la escuela."},
+      {"en": "The store has affordable options for students.", "es": "La tienda tiene opciones asequibles para estudiantes."},
+      {"en": "Affordable doesn’t always mean low quality.", "es": "Asequible no siempre significa baja calidad."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_46",
+    "english": "budget",
+    "spanish": "presupuesto",
+    "phonetic": "/ˈbʌdʒ.ɪt/",
+    "examples": [
+      {"en": "I’m shopping on a tight budget.", "es": "Estoy comprando con un presupuesto ajustado."},
+      {"en": "She stuck to her budget while shopping.", "es": "Ella se mantuvo dentro de su presupuesto al comprar."},
+      {"en": "This phone fits my budget.", "es": "Este teléfono entra en mi presupuesto."},
+      {"en": "Plan your shopping budget in advance.", "es": "Planea tu presupuesto de compras con anticipación."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_47",
+    "english": "tax",
+    "spanish": "impuesto",
+    "phonetic": "/tæks/",
+    "examples": [
+      {"en": "Sales tax is added at checkout.", "es": "El impuesto sobre las ventas se añade en la caja."},
+      {"en": "The total includes 8% tax.", "es": "El total incluye 8% de impuesto."},
+      {"en": "Some items are tax-free.", "es": "Algunos artículos están exentos de impuestos."},
+      {"en": "He calculated the tax before paying.", "es": "Él calculó el impuesto antes de pagar."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_48",
+    "english": "total",
+    "spanish": "total",
+    "phonetic": "/ˈtoʊ.t̬əl/",
+    "examples": [
+      {"en": "The total came to $45.60.", "es": "El total fue de $45.60."},
+      {"en": "Check the total before paying.", "es": "Revisa el total antes de pagar."},
+      {"en": "The receipt shows the subtotal and total.", "es": "El recibo muestra el subtotal y el total."},
+      {"en": "Her online order total included shipping.", "es": "El total de su pedido en línea incluía envío."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_49",
+    "english": "subtotal",
+    "spanish": "subtotal",
+    "phonetic": "/ˌsʌbˈtoʊ.t̬əl/",
+    "examples": [
+      {"en": "The subtotal is $30 before tax.", "es": "El subtotal es $30 antes de impuestos."},
+      {"en": "Add the items to see the subtotal.", "es": "Suma los artículos para ver el subtotal."},
+      {"en": "The subtotal doesn’t include shipping.", "es": "El subtotal no incluye envío."},
+      {"en": "He compared subtotals from two stores.", "es": "Él comparó subtotales de dos tiendas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_50",
+    "english": "change",
+    "spanish": "cambio",
+    "phonetic": "/tʃeɪndʒ/",
+    "examples": [
+      {"en": "Do you have change for a $20 bill?", "es": "¿Tienes cambio para un billete de $20?"},
+      {"en": "The cashier gave me $3.50 in change.", "es": "El cajero me dio $3.50 de cambio."},
+      {"en": "Keep your change!", "es": "¡Quédese con el cambio!"},
+      {"en": "He put his change in a jar at home.", "es": "Él puso su cambio en un frasco en casa."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_51",
+    "english": "bill",
+    "spanish": "billete",
+    "phonetic": "/bɪl/",
+    "examples": [
+      {"en": "She paid with a $50 bill.", "es": "Ella pagó con un billete de $50."},
+      {"en": "The bill was torn but still valid.", "es": "El billete estaba roto pero aún válido."},
+      {"en": "He only carries small bills.", "es": "Él solo lleva billetes pequeños."},
+      {"en": "Don’t accept counterfeit bills.", "es": "No aceptes billetes falsos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_52",
+    "english": "coin",
+    "spanish": "moneda",
+    "phonetic": "/kɔɪn/",
+    "examples": [
+      {"en": "He dropped a coin on the floor.", "es": "Él dejó caer una moneda al suelo."},
+      {"en": "The vending machine only takes coins.", "es": "La máquina expendedora solo acepta monedas."},
+      {"en": "She collects rare coins.", "es": "Ella colecciona monedas raras."},
+      {"en": "Put your coins in the piggy bank.", "es": "Pon tus monedas en la alcancía."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_53",
+    "english": "wallet",
+    "spanish": "billetera",
+    "phonetic": "/ˈwɑː.lɪt/",
+    "examples": [
+      {"en": "He keeps his cash and cards in his wallet.", "es": "Él guarda su efectivo y tarjetas en su billetera."},
+      {"en": "She lost her wallet at the mall.", "es": "Ella perdió su billetera en el centro comercial."},
+      {"en": "My wallet is too full.", "es": "Mi billetera está demasiado llena."},
+      {"en": "He bought a leather wallet as a gift.", "es": "Él compró una billetera de cuero como regalo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_54",
+    "english": "purse",
+    "spanish": "bolso",
+    "phonetic": "/pɝːs/",
+    "examples": [
+      {"en": "She carries her phone in her purse.", "es": "Ella lleva su teléfono en su bolso."},
+      {"en": "His mom left her purse in the store.", "es": "Su mamá dejó su bolso en la tienda."},
+      {"en": "The purse matches her shoes.", "es": "El bolso combina con sus zapatos."},
+      {"en": "Designer purses can be very expensive.", "es": "Los bolsos de diseñador pueden ser muy caros."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_55",
+    "english": "receipt printer",
+    "spanish": "impresora de recibos",
+    "phonetic": "/rɪˈsiːt ˈprɪn.t̬ɚ/",
+    "examples": [
+      {"en": "The receipt printer ran out of paper.", "es": "La impresora de recibos se quedó sin papel."},
+      {"en": "The cashier replaced the receipt printer ribbon.", "es": "El cajero reemplazó la cinta de la impresora de recibos."},
+      {"en": "Digital receipts reduce paper waste from receipt printers.", "es": "Los recibos digitales reducen el desperdicio de papel de las impresoras de recibos."},
+      {"en": "The receipt printer is connected to the cash register.", "es": "La impresora de recibos está conectada a la caja registradora."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_56",
+    "english": "cash register",
+    "spanish": "caja registradora",
+    "phonetic": "/ˈkæʃ ˈredʒ.ɪ.stɚ/",
+    "examples": [
+      {"en": "The cashier entered the prices in the cash register.", "es": "El cajero ingresó los precios en la caja registradora."},
+      {"en": "The old cash register still works.", "es": "La caja registradora antigua aún funciona."},
+      {"en": "Modern cash registers are computerized.", "es": "Las cajas registradoras modernas son computarizadas."},
+      {"en": "She opened the cash register to give change.", "es": "Ella abrió la caja registradora para dar cambio."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_57",
+    "english": "self-checkout",
+    "spanish": "caja automática",
+    "phonetic": "/ˌself ˈtʃek.aʊt/",
+    "examples": [
+      {"en": "I prefer self-checkout for small purchases.", "es": "Prefiero la caja automática para compras pequeñas."},
+      {"en": "The self-checkout machine asked for help.", "es": "La máquina de caja automática pidió ayuda."},
+      {"en": "Self-checkout speeds up the shopping process.", "es": "La caja automática acelera el proceso de compra."},
+      {"en": "He scanned his items at self-checkout.", "es": "Él escaneó sus artículos en la caja automática."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_58",
+    "english": "line",
+    "spanish": "fila",
+    "phonetic": "/laɪn/",
+    "examples": [
+      {"en": "There’s a long line at the checkout.", "es": "Hay una fila larga en la caja."},
+      {"en": "She waited in line for 20 minutes.", "es": "Ella esperó en la fila durante 20 minutos."},
+      {"en": "Get in line behind the yellow marker.", "es": "Ponte en la fila detrás del marcador amarillo."},
+      {"en": "The express line is for 10 items or fewer.", "es": "La fila rápida es para 10 artículos o menos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_59",
+    "english": "queue",
+    "spanish": "cola",
+    "phonetic": "/kjuː/",
+    "examples": [
+      {"en": "There’s a queue for the fitting room.", "es": "Hay una cola para el probador."},
+      {"en": "He joined the queue at the customer service desk.", "es": "Él se unió a la cola en el mostrador de servicio al cliente."},
+      {"en": "The queue moved slowly.", "es": "La cola avanzó lentamente."},
+      {"en": "In British English, 'queue' means 'line'.", "es": "En inglés británico, 'queue' significa 'fila'."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_60",
+    "english": "fitting room",
+    "spanish": "probador",
+    "phonetic": "/ˈfɪt.ɪŋ ruːm/",
+    "examples": [
+      {"en": "She tried on three dresses in the fitting room.", "es": "Ella se probó tres vestidos en el probador."},
+      {"en": "The fitting room is at the back of the store.", "es": "El probador está al fondo de la tienda."},
+      {"en": "He waited outside the fitting room.", "es": "Él esperó afuera del probador."},
+      {"en": "Fitting rooms have mirrors and hooks.", "es": "Los probadores tienen espejos y ganchos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_61",
+    "english": "mirror",
+    "spanish": "espejo",
+    "phonetic": "/ˈmɪr.ɚ/",
+    "examples": [
+      {"en": "Check yourself in the mirror before buying.", "es": "Revísate en el espejo antes de comprar."},
+      {"en": "The fitting room has a full-length mirror.", "es": "El probador tiene un espejo de cuerpo entero."},
+      {"en": "She adjusted her outfit in the mirror.", "es": "Ella ajustó su atuendo en el espejo."},
+      {"en": "The mirror is foggy from the steam.", "es": "El espejo está empañado por el vapor."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_62",
+    "english": "hanger",
+    "spanish": "percha",
+    "phonetic": "/ˈhæŋ.ɚ/",
+    "examples": [
+      {"en": "Hang the clothes on a hanger to avoid wrinkles.", "es": "Cuelga la ropa en una percha para evitar arrugas."},
+      {"en": "The store provides hangers in the fitting room.", "es": "La tienda proporciona perchas en el probador."},
+      {"en": "He took the shirt off the hanger to try it on.", "es": "Él quitó la camisa de la percha para probársela."},
+      {"en": "Plastic hangers are common in retail stores.", "es": "Las perchas de plástico son comunes en tiendas minoristas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_63",
+    "english": "rack",
+    "spanish": "perchero",
+    "phonetic": "/ræk/",
+    "examples": [
+      {"en": "The sale items are on the front rack.", "es": "Los artículos en oferta están en el perchero delantero."},
+      {"en": "She browsed the clothing rack for a jacket.", "es": "Ella hojeó el perchero de ropa en busca de una chaqueta."},
+      {"en": "The rack is full of discounted shoes.", "es": "El perchero está lleno de zapatos con descuento."},
+      {"en": "He found a tie on the accessory rack.", "es": "Él encontró una corbata en el perchero de accesorios."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_64",
+    "english": "bin",
+    "spanish": "cajón",
+    "phonetic": "/bɪn/",
+    "examples": [
+      {"en": "Socks are sold in bins by color.", "es": "Los calcetines se venden en cajones por color."},
+      {"en": "He dug through the bin for a specific size.", "es": "Él rebuscó en el cajón en busca de una talla específica."},
+      {"en": "The clearance bin has items for $1.", "es": "El cajón de saldos tiene artículos por $1."},
+      {"en": "Toys are displayed in colorful bins.", "es": "Los juguetes se exhiben en cajones coloridos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_65",
+    "english": "mannequin",
+    "spanish": "maniquí",
+    "phonetic": "/ˈmæn.ə.kɪn/",
+    "examples": [
+      {"en": "The mannequin wears the new summer collection.", "es": "El maniquí lleva la nueva colección de verano."},
+      {"en": "She dressed the mannequin for the window display.", "es": "Ella vistió al maniquí para el escaparate."},
+      {"en": "The store has realistic mannequins.", "es": "La tienda tiene maniquíes realistas."},
+      {"en": "Mannequins help customers visualize outfits.", "es": "Los maniquíes ayudan a los clientes a visualizar conjuntos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_66",
+    "english": "window display",
+    "spanish": "escaparate",
+    "phonetic": "/ˈwɪn.doʊ dɪˈspleɪ/",
+    "examples": [
+      {"en": "The window display attracted many customers.", "es": "El escaparate atrajo a muchos clientes."},
+      {"en": "She stopped to admire the holiday window display.", "es": "Ella se detuvo a admirar el escaparate navideño."},
+      {"en": "The store changes its window display monthly.", "es": "La tienda cambia su escaparate mensualmente."},
+      {"en": "Window displays showcase new arrivals.", "es": "Los escaparates muestran las novedades."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_67",
+    "english": "customer",
+    "spanish": "cliente",
+    "phonetic": "/ˈkʌs.tə.mɚ/",
+    "examples": [
+      {"en": "The customer asked for help finding a product.", "es": "El cliente pidió ayuda para encontrar un producto."},
+      {"en": "She is a loyal customer of this store.", "es": "Ella es una cliente fiel de esta tienda."},
+      {"en": "Happy customers leave positive reviews.", "es": "Los clientes satisfechos dejan reseñas positivas."},
+      {"en": "The store values every customer.", "es": "La tienda valora a cada cliente."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_68",
+    "english": "salesperson",
+    "spanish": "vendedor",
+    "phonetic": "/ˈseɪlz.pɝː.sən/",
+    "examples": [
+      {"en": "The salesperson helped me choose a laptop.", "es": "El vendedor me ayudó a elegir una laptop."},
+      {"en": "She works as a salesperson in a shoe store.", "es": "Ella trabaja como vendedora en una tienda de zapatos."},
+      {"en": "A good salesperson listens to the customer.", "es": "Un buen vendedor escucha al cliente."},
+      {"en": "He recommended the best model for my needs.", "es": "Él recomendó el mejor modelo para mis necesidades."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_69",
+    "english": "clerk",
+    "spanish": "dependiente",
+    "phonetic": "/klɝːk/",
+    "examples": [
+      {"en": "The clerk folded the shirt neatly.", "es": "El dependiente dobló la camisa prolijamente."},
+      {"en": "She asked the clerk where the restrooms are.", "es": "Ella le preguntó al dependiente dónde están los baños."},
+      {"en": "The store clerk processed the return.", "es": "El dependiente procesó la devolución."},
+      {"en": "He works as a clerk in the electronics department.", "es": "Él trabaja como dependiente en el departamento de electrónica."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_70",
+    "english": "manager",
+    "spanish": "gerente",
+    "phonetic": "/ˈmæn.ɪ.dʒɚ/",
+    "examples": [
+      {"en": "The manager approved the refund.", "es": "El gerente aprobó el reembolso."},
+      {"en": "She spoke to the store manager about the issue.", "es": "Ella habló con el gerente de la tienda sobre el problema."},
+      {"en": "The manager trains new employees.", "es": "El gerente capacita a empleados nuevos."},
+      {"en": "He is the manager of this department store.", "es": "Él es el gerente de esta tienda por departamentos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_71",
+    "english": "customer service",
+    "spanish": "servicio al cliente",
+    "phonetic": "/ˈkʌs.tə.mɚ ˈsɝː.vɪs/",
+    "examples": [
+      {"en": "Call customer service for help with your order.", "es": "Llama al servicio al cliente para ayuda con tu pedido."},
+      {"en": "The customer service desk is near the entrance.", "es": "El mostrador de servicio al cliente está cerca de la entrada."},
+      {"en": "She works in customer service.", "es": "Ella trabaja en servicio al cliente."},
+      {"en": "Good customer service builds loyalty.", "es": "Un buen servicio al cliente genera fidelidad."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_72",
+    "english": "complaint",
+    "spanish": "queja",
+    "phonetic": "/kəmˈpleɪnt/",
+    "examples": [
+      {"en": "He filed a complaint about the defective product.", "es": "Él presentó una queja sobre el producto defectuoso."},
+      {"en": "The store takes complaints seriously.", "es": "La tienda toma las quejas en serio."},
+      {"en": "She resolved the complaint quickly.", "es": "Ella resolvió la queja rápidamente."},
+      {"en": "Write your complaint to customer service.", "es": "Escribe tu queja al servicio al cliente."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_73",
+    "english": "compliment",
+    "spanish": "cumplido",
+    "phonetic": "/ˈkɑːm.plə.mənt/",
+    "examples": [
+      {"en": "She gave the store a compliment on their service.", "es": "Ella le hizo un cumplido a la tienda por su servicio."},
+      {"en": "The manager appreciated the compliment.", "es": "El gerente agradeció el cumplido."},
+      {"en": "He received a compliment on his new watch.", "es": "Él recibió un cumplido por su nuevo reloj."},
+      {"en": "Compliments encourage good service.", "es": "Los cumplidos fomentan un buen servicio."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_74",
+    "english": "review",
+    "spanish": "reseña",
+    "phonetic": "/rɪˈvjuː/",
+    "examples": [
+      {"en": "She left a 5-star review online.", "es": "Ella dejó una reseña de 5 estrellas en línea."},
+      {"en": "Read reviews before buying electronics.", "es": "Lee reseñas antes de comprar electrónicos."},
+      {"en": "His review helped others decide.", "es": "Su reseña ayudó a otros a decidir."},
+      {"en": "The product has over 1,000 reviews.", "es": "El producto tiene más de 1,000 reseñas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_75",
+    "english": "rating",
+    "spanish": "calificación",
+    "phonetic": "/ˈreɪ.t̬ɪŋ/",
+    "examples": [
+      {"en": "The restaurant has a 4.5-star rating.", "es": "El restaurante tiene una calificación de 4.5 estrellas."},
+      {"en": "Check the product rating before purchasing.", "es": "Revisa la calificación del producto antes de comprar."},
+      {"en": "She gave it a high rating for quality.", "es": "Ella le dio una calificación alta por calidad."},
+      {"en": "Average rating: 4.2 out of 5.", "es": "Calificación promedio: 4.2 de 5."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_76",
+    "english": "recommendation",
+    "spanish": "recomendación",
+    "phonetic": "/ˌrek.ə.menˈdeɪ.ʃən/",
+    "examples": [
+      {"en": "The salesperson gave a good recommendation.", "es": "El vendedor dio una buena recomendación."},
+      {"en": "She followed her friend’s recommendation.", "es": "Ella siguió la recomendación de su amiga."},
+      {"en": "The website shows personalized recommendations.", "es": "El sitio web muestra recomendaciones personalizadas."},
+      {"en": "His recommendation saved me money.", "es": "Su recomendación me ahorró dinero."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_77",
+    "english": "brand loyalty",
+    "spanish": "fidelidad a la marca",
+    "phonetic": "/brænd ˈlɔɪ.əl.ti/",
+    "examples": [
+      {"en": "She has brand loyalty to Apple products.", "es": "Ella tiene fidelidad a la marca con productos Apple."},
+      {"en": "Brand loyalty leads to repeat purchases.", "es": "La fidelidad a la marca lleva a compras repetidas."},
+      {"en": "He never switches brands due to brand loyalty.", "es": "Él nunca cambia de marca por fidelidad a la marca."},
+      {"en": "Companies reward brand loyalty with points.", "es": "Las empresas recompensan la fidelidad a la marca con puntos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_78",
+    "english": "impulse buy",
+    "spanish": "compra por impulso",
+    "phonetic": "/ˈɪm.pʌls baɪ/",
+    "examples": [
+      {"en": "Chocolate bars are common impulse buys.", "es": "Las barras de chocolate son compras por impulso comunes."},
+      {"en": "She regretted her impulse buy the next day.", "es": "Ella se arrepintió de su compra por impulso al día siguiente."},
+      {"en": "Stores place small items near checkout for impulse buys.", "es": "Las tiendas colocan artículos pequeños cerca de la caja para compras por impulso."},
+      {"en": "He avoids impulse buys by making a list.", "es": "Él evita compras por impulso haciendo una lista."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_79",
+    "english": "shopping list",
+    "spanish": "lista de compras",
+    "phonetic": "/ˈʃɑː.pɪŋ lɪst/",
+    "examples": [
+      {"en": "She made a shopping list before going to the store.", "es": "Ella hizo una lista de compras antes de ir a la tienda."},
+      {"en": "Stick to your shopping list to avoid overspending.", "es": "Sigue tu lista de compras para evitar gastar de más."},
+      {"en": "He forgot his shopping list at home.", "es": "Él olvidó su lista de compras en casa."},
+      {"en": "The app syncs your shopping list across devices.", "es": "La aplicación sincroniza tu lista de compras en todos los dispositivos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_80",
+    "english": "cart",
+    "spanish": "carrito",
+    "phonetic": "/kɑːrt/",
+    "examples": [
+      {"en": "Add items to your online cart.", "es": "Añade artículos a tu carrito en línea."},
+      {"en": "His cart has 5 items.", "es": "Su carrito tiene 5 artículos."},
+      {"en": "Don’t abandon your cart before checkout.", "es": "No abandones tu carrito antes de pagar."},
+      {"en": "The cart total updates automatically.", "es": "El total del carrito se actualiza automáticamente."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_81",
+    "english": "abandoned cart",
+    "spanish": "carrito abandonado",
+    "phonetic": "/əˈbæn.dənd kɑːrt/",
+    "examples": [
+      {"en": "The store sent an email about my abandoned cart.", "es": "La tienda me envió un correo sobre mi carrito abandonado."},
+      {"en": "Many online shoppers have abandoned carts.", "es": "Muchos compradores en línea tienen carritos abandonados."},
+      {"en": "He returned to complete his abandoned cart purchase.", "es": "Él regresó para completar su compra de carrito abandonado."},
+      {"en": "Abandoned cart reminders increase sales.", "es": "Los recordatorios de carritos abandonados aumentan las ventas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_82",
+    "english": "shipping",
+    "spanish": "envío",
+    "phonetic": "/ˈʃɪp.ɪŋ/",
+    "examples": [
+      {"en": "Free shipping on orders over $50.", "es": "Envío gratis en pedidos de más de $50."},
+      {"en": "The shipping cost is $5.99.", "es": "El costo de envío es $5.99."},
+      {"en": "She chose express shipping for faster delivery.", "es": "Ella eligió envío exprés para entrega más rápida."},
+      {"en": "Shipping takes 3–5 business days.", "es": "El envío tarda de 3 a 5 días hábiles."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_83",
+    "english": "delivery",
+    "spanish": "entrega",
+    "phonetic": "/dɪˈlɪv.ɚ.i/",
+    "examples": [
+      {"en": "The delivery arrived this morning.", "es": "La entrega llegó esta mañana."},
+      {"en": "Same-day delivery is available in some areas.", "es": "La entrega el mismo día está disponible en algunas zonas."},
+      {"en": "He tipped the delivery driver.", "es": "Él le dio propina al repartidor."},
+      {"en": "Track your delivery with the provided code.", "es": "Rastrea tu entrega con el código proporcionado."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_84",
+    "english": "package",
+    "spanish": "paquete",
+    "phonetic": "/ˈpæk.ɪdʒ/",
+    "examples": [
+      {"en": "The package was left at the door.", "es": "El paquete se dejó en la puerta."},
+      {"en": "She received a package from Amazon.", "es": "Ella recibió un paquete de Amazon."},
+      {"en": "The package is marked 'Fragile'.", "es": "El paquete está marcado como 'Fragil'."},
+      {"en": "He opened the package carefully.", "es": "Él abrió el paquete cuidadosamente."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_85",
+    "english": "tracking number",
+    "spanish": "número de seguimiento",
+    "phonetic": "/ˈtræk.ɪŋ ˌnʌm.bɚ/",
+    "examples": [
+      {"en": "Use the tracking number to follow your package.", "es": "Usa el número de seguimiento para rastrear tu paquete."},
+      {"en": "The tracking number is in your email confirmation.", "es": "El número de seguimiento está en tu correo de confirmación."},
+      {"en": "She entered the tracking number on the carrier’s website.", "es": "Ella ingresó el número de seguimiento en el sitio web de la empresa de envíos."},
+      {"en": "The tracking number shows the package is out for delivery.", "es": "El número de seguimiento muestra que el paquete está en reparto."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_86",
+    "english": "carrier",
+    "spanish": "empresa de envíos",
+    "phonetic": "/ˈker.i.ɚ/",
+    "examples": [
+      {"en": "UPS is the carrier for this package.", "es": "UPS es la empresa de envíos para este paquete."},
+      {"en": "The carrier delivers packages daily.", "es": "La empresa de envíos entrega paquetes diariamente."},
+      {"en": "He works as a carrier for FedEx.", "es": "Él trabaja como repartidor para FedEx."},
+      {"en": "Check the carrier’s website for delivery updates.", "es": "Revisa el sitio web de la empresa de envíos para actualizaciones de entrega."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_87",
+    "english": "return policy",
+    "spanish": "política de devolución",
+    "phonetic": "/rɪˈtɝːn ˈpɑː.lə.si/",
+    "examples": [
+      {"en": "Read the return policy before buying.", "es": "Lee la política de devolución antes de comprar."},
+      {"en": "The store has a 30-day return policy.", "es": "La tienda tiene una política de devolución de 30 días."},
+      {"en": "Some items are final sale and not returnable.", "es": "Algunos artículos son venta final y no se pueden devolver."},
+      {"en": "The return policy is posted online.", "es": "La política de devolución está publicada en línea."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_88",
+    "english": "exchange",
+    "spanish": "cambio",
+    "phonetic": "/ɪksˈtʃeɪndʒ/",
+    "examples": [
+      {"en": "I want to exchange this shirt for a larger size.", "es": "Quiero cambiar esta camisa por una talla más grande."},
+      {"en": "The store allows exchanges within 14 days.", "es": "La tienda permite cambios dentro de 14 días."},
+      {"en": "He exchanged the gift for something else.", "es": "Él cambió el regalo por otra cosa."},
+      {"en": "Keep your receipt for exchanges.", "es": "Guarda tu recibo para cambios."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_89",
+    "english": "gift receipt",
+    "spanish": "recibo de regalo",
+    "phonetic": "/ˈɡɪft rɪˈsiːt/",
+    "examples": [
+      {"en": "Ask for a gift receipt when buying presents.", "es": "Pide un recibo de regalo al comprar regalos."},
+      {"en": "The gift receipt doesn’t show the price.", "es": "El recibo de regalo no muestra el precio."},
+      {"en": "She returned the gift using the gift receipt.", "es": "Ella devolvió el regalo usando el recibo de regalo."},
+      {"en": "Gift receipts allow returns without embarrassment.", "es": "Los recibos de regalo permiten devoluciones sin incomodidad."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_90",
+    "english": "gift card",
+    "spanish": "tarjeta de regalo",
+    "phonetic": "/ˈɡɪft kɑːrd/",
+    "examples": [
+      {"en": "She gave him a $50 gift card to Starbucks.", "es": "Ella le dio una tarjeta de regalo de $50 para Starbucks."},
+      {"en": "The gift card has a balance of $25.", "es": "La tarjeta de regalo tiene un saldo de $25."},
+      {"en": "He used his gift card to buy books.", "es": "Él usó su tarjeta de regalo para comprar libros."},
+      {"en": "Gift cards are popular holiday presents.", "es": "Las tarjetas de regalo son regalos populares en días festivos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_91",
+    "english": "balance",
+    "spanish": "saldo",
+    "phonetic": "/ˈbæl.əns/",
+    "examples": [
+      {"en": "Check the balance on your gift card.", "es": "Revisa el saldo de tu tarjeta de regalo."},
+      {"en": "The balance on my account is low.", "es": "El saldo en mi cuenta es bajo."},
+      {"en": "She paid the remaining balance today.", "es": "Ella pagó el saldo restante hoy."},
+      {"en": "The receipt shows your current balance.", "es": "El recibo muestra tu saldo actual."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_92",
+    "english": "receipt email",
+    "spanish": "correo de recibo",
+    "phonetic": "/rɪˈsiːt ˈiː.meɪl/",
+    "examples": [
+      {"en": "I received a receipt email after my purchase.", "es": "Recibí un correo de recibo después de mi compra."},
+      {"en": "The receipt email includes order details.", "es": "El correo de recibo incluye detalles del pedido."},
+      {"en": "Check your spam folder for the receipt email.", "es": "Revisa tu carpeta de spam para el correo de recibo."},
+      {"en": "She forwarded the receipt email to her accountant.", "es": "Ella reenvió el correo de recibo a su contador."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_93",
+    "english": "order confirmation",
+    "spanish": "confirmación de pedido",
+    "phonetic": "/ˈɔːr.dɚ kənˌfɝːˈmeɪ.ʃən/",
+    "examples": [
+      {"en": "The order confirmation arrived instantly.", "es": "La confirmación de pedido llegó al instante."},
+      {"en": "Your order confirmation number is #12345.", "es": "Tu número de confirmación de pedido es #12345."},
+      {"en": "Check your order confirmation for shipping details.", "es": "Revisa tu confirmación de pedido para detalles de envío."},
+      {"en": "He didn’t receive an order confirmation email.", "es": "Él no recibió un correo de confirmación de pedido."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_94",
+    "english": "back in stock",
+    "spanish": "de nuevo en stock",
+    "phonetic": "/bæk ɪn stɑːk/",
+    "examples": [
+      {"en": "The shoes are back in stock!", "es": "¡Los zapatos están de nuevo en stock!"},
+      {"en": "She got an email: 'Your item is back in stock.'", "es": "Ella recibió un correo: 'Tu artículo está de nuevo en stock.'"},
+      {"en": "Sign up for alerts when items are back in stock.", "es": "Regístrate para recibir alertas cuando los artículos estén de nuevo en stock."},
+      {"en": "He bought it as soon as it was back in stock.", "es": "Él lo compró tan pronto como estuvo de nuevo en stock."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_95",
+    "english": "out of stock",
+    "spanish": "agotado",
+    "phonetic": "/aʊt əv stɑːk/",
+    "examples": [
+      {"en": "Sorry, this item is out of stock.", "es": "Lo siento, este artículo está agotado."},
+      {"en": "The popular toy is out of stock everywhere.", "es": "El juguete popular está agotado en todas partes."},
+      {"en": "She checked online: 'Out of stock'.", "es": "Ella revisó en línea: 'Agotado'."},
+      {"en": "Pre-order to avoid missing out when it’s out of stock.", "es": "Haz un pedido anticipado para no perdértelo cuando esté agotado."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_96",
+    "english": "pre-order",
+    "spanish": "pedido anticipado",
+    "phonetic": "/ˌpriːˈɔːr.dɚ/",
+    "examples": [
+      {"en": "You can pre-order the new iPhone.", "es": "Puedes hacer un pedido anticipado del nuevo iPhone."},
+      {"en": "Pre-orders ship on release day.", "es": "Los pedidos anticipados se envían el día de lanzamiento."},
+      {"en": "She paid a deposit to pre-order the game.", "es": "Ella pagó un depósito para hacer un pedido anticipado del juego."},
+      {"en": "Pre-order bonuses include extra content.", "es": "Las bonificaciones por pedido anticipado incluyen contenido extra."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_97",
+    "english": "limited edition",
+    "spanish": "edición limitada",
+    "phonetic": "/ˈlɪm.ɪ.tɪd ɪˈdɪʃ.ən/",
+    "examples": [
+      {"en": "This watch is a limited edition.", "es": "Este reloj es una edición limitada."},
+      {"en": "Limited edition items sell out quickly.", "es": "Los artículos de edición limitada se agotan rápido."},
+      {"en": "He collects limited edition sneakers.", "es": "Él colecciona zapatillas de edición limitada."},
+      {"en": "The limited edition comes with a certificate.", "es": "La edición limitada viene con un certificado."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_98",
+    "english": "bestseller",
+    "spanish": "éxito de ventas",
+    "phonetic": "/ˈbestˌsel.ɚ/",
+    "examples": [
+      {"en": "This book is a New York Times bestseller.", "es": "Este libro es un éxito de ventas del New York Times."},
+      {"en": "The bestseller list is updated weekly.", "es": "La lista de éxitos de ventas se actualiza semanalmente."},
+      {"en": "She only buys bestselling skincare products.", "es": "Ella solo compra productos para el cuidado de la piel que son éxitos de ventas."},
+      {"en": "His novel became an instant bestseller.", "es": "Su novela se convirtió en un éxito de ventas instantáneo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_99",
+    "english": "trending",
+    "spanish": "tendencia",
+    "phonetic": "/ˈtren.dɪŋ/",
+    "examples": [
+      {"en": "These shoes are trending right now.", "es": "Estos zapatos están en tendencia ahora mismo."},
+      {"en": "Check the 'trending' section for new ideas.", "es": "Revisa la sección 'tendencias' para nuevas ideas."},
+      {"en": "Trending items sell out fast.", "es": "Los artículos en tendencia se agotan rápido."},
+      {"en": "She follows fashion trends on social media.", "es": "Ella sigue tendencias de moda en redes sociales."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_100",
+    "english": "new arrival",
+    "spanish": "novedad",
+    "phonetic": "/nuː əˈraɪ.vəl/",
+    "examples": [
+      {"en": "The new arrivals are on display.", "es": "Las novedades están en exhibición."},
+      {"en": "She checks the website for new arrivals weekly.", "es": "Ella revisa el sitio web en busca de novedades semanalmente."},
+      {"en": "New arrivals include summer dresses.", "es": "Las novedades incluyen vestidos de verano."},
+      {"en": "He bought a new arrival immediately.", "es": "Él compró una novedad inmediatamente."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_101",
+    "english": "clothing",
+    "spanish": "ropa",
+    "phonetic": "/ˈkloʊ.ðɪŋ/",
+    "examples": [
+      {"en": "She shops for clothing every season.", "es": "Ella compra ropa cada temporada."},
+      {"en": "The clothing section is on the second floor.", "es": "La sección de ropa está en el segundo piso."},
+      {"en": "He prefers casual clothing.", "es": "Él prefiere ropa casual."},
+      {"en": "Sustainable clothing is becoming popular.", "es": "La ropa sostenible se está volviendo popular."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_102",
+    "english": "shoes",
+    "spanish": "zapatos",
+    "phonetic": "/ʃuːz/",
+    "examples": [
+      {"en": "These shoes are comfortable for walking.", "es": "Estos zapatos son cómodos para caminar."},
+      {"en": "She bought new shoes for the party.", "es": "Ella compró zapatos nuevos para la fiesta."},
+      {"en": "The shoe store has a wide selection.", "es": "La tienda de zapatos tiene una amplia selección."},
+      {"en": "He collects vintage shoes.", "es": "Él colecciona zapatos vintage."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_103",
+    "english": "dress",
+    "spanish": "vestido",
+    "phonetic": "/dres/",
+    "examples": [
+      {"en": "She wore a red dress to the wedding.", "es": "Ella usó un vestido rojo a la boda."},
+      {"en": "The dress is on sale for $49.", "es": "El vestido está en oferta por $49."},
+      {"en": "He bought a dress for his daughter.", "es": "Él compró un vestido para su hija."},
+      {"en": "The dress fits perfectly.", "es": "El vestido le queda perfecto."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_104",
+    "english": "jeans",
+    "spanish": "vaqueros",
+    "phonetic": "/dʒiːnz/",
+    "examples": [
+      {"en": "He wears jeans every day.", "es": "Él usa vaqueros todos los días."},
+      {"en": "These jeans are high-waisted.", "es": "Estos vaqueros son de tiro alto."},
+      {"en": "She bought a pair of black jeans.", "es": "Ella compró un par de vaqueros negros."},
+      {"en": "Jeans are a wardrobe staple.", "es": "Los vaqueros son una prenda básica."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_105",
+    "english": "jacket",
+    "spanish": "chaqueta",
+    "phonetic": "/ˈdʒæk.ɪt/",
+    "examples": [
+      {"en": "He wore a leather jacket.", "es": "Él usó una chaqueta de cuero."},
+      {"en": "The jacket is waterproof.", "es": "La chaqueta es impermeable."},
+      {"en": "She bought a denim jacket.", "es": "Ella compró una chaqueta vaquera."},
+      {"en": "Winter jackets are on sale now.", "es": "Las chaquetas de invierno están en oferta ahora."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_106",
+    "english": "sweater",
+    "spanish": "suéter",
+    "phonetic": "/ˈswet.ɚ/",
+    "examples": [
+      {"en": "She knitted a sweater for her grandson.", "es": "Ella tejió un suéter para su nieto."},
+      {"en": "The sweater is made of wool.", "es": "El suéter es de lana."},
+      {"en": "He spilled coffee on his sweater.", "es": "Él derramó café en su suéter."},
+      {"en": "Cable-knit sweaters are cozy.", "es": "Los suéteres de punto trenzado son acogedores."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_107",
+    "english": "t-shirt",
+    "spanish": "camiseta",
+    "phonetic": "/ˈtiː.ʃɝːt/",
+    "examples": [
+      {"en": "He has 20 plain white t-shirts.", "es": "Él tiene 20 camisetas blancas lisas."},
+      {"en": "The band t-shirt is from their 2020 tour.", "es": "La camiseta de la banda es de su gira de 2020."},
+      {"en": "She designs custom t-shirts.", "es": "Ella diseña camisetas personalizadas."},
+      {"en": "Cotton t-shirts are breathable.", "es": "Las camisetas de algodón son transpirables."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_108",
+    "english": "socks",
+    "spanish": "calcetines",
+    "phonetic": "/sɑːks/",
+    "examples": [
+      {"en": "He lost one sock in the laundry.", "es": "Él perdió un calcetín en la lavandería."},
+      {"en": "She buys socks in packs of six.", "es": "Ella compra calcetines en paquetes de seis."},
+      {"en": "Wool socks keep your feet warm.", "es": "Los calcetines de lana mantienen los pies calientes."},
+      {"en": "Fun socks are a great gift.", "es": "Los calcetines divertidos son un gran regalo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_109",
+    "english": "underwear",
+    "spanish": "ropa interior",
+    "phonetic": "/ˌʌn.dɚˈwer/",
+    "examples": [
+      {"en": "Buy new underwear every season.", "es": "Compra ropa interior nueva cada temporada."},
+      {"en": "Cotton underwear is comfortable.", "es": "La ropa interior de algodón es cómoda."},
+      {"en": "He packed underwear for the trip.", "es": "Él empacó ropa interior para el viaje."},
+      {"en": "The store has a sale on underwear.", "es": "La tienda tiene una oferta en ropa interior."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_110",
+    "english": "accessories",
+    "spanish": "accesorios",
+    "phonetic": "/əkˈses.ər.iz/",
+    "examples": [
+      {"en": "She loves fashion accessories like scarves and hats.", "es": "A ella le encantan los accesorios de moda como bufandas y sombreros."},
+      {"en": "The accessories department is next to shoes.", "es": "El departamento de accesorios está al lado de los zapatos."},
+      {"en": "He bought a watch as an accessory.", "es": "Él compró un reloj como accesorio."},
+      {"en": "Accessories complete any outfit.", "es": "Los accesorios completan cualquier atuendo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_111",
+    "english": "handbag",
+    "spanish": "bolso de mano",
+    "phonetic": "/ˈhænd.bæɡ/",
+    "examples": [
+      {"en": "Her handbag matches her shoes.", "es": "Su bolso de mano combina con sus zapatos."},
+      {"en": "Designer handbags are expensive.", "es": "Los bolsos de diseñador son caros."},
+      {"en": "She carries everything in her handbag.", "es": "Ella lleva todo en su bolso de mano."},
+      {"en": "The handbag has multiple compartments.", "es": "El bolso de mano tiene varios compartimentos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_112",
+    "english": "wallet",
+    "spanish": "cartera",
+    "phonetic": "/ˈwɑː.lɪt/",
+    "examples": [
+      {"en": "He keeps his ID in his wallet.", "es": "Él guarda su identificación en su cartera."},
+      {"en": "She bought a leather wallet.", "es": "Ella compró una cartera de cuero."},
+      {"en": "His wallet is worn but functional.", "es": "Su cartera está gastada pero funcional."},
+      {"en": "Minimalist wallets are trending.", "es": "Las carteras minimalistas están en tendencia."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_113",
+    "english": "watch",
+    "spanish": "reloj",
+    "phonetic": "/wɑːtʃ/",
+    "examples": [
+      {"en": "He checks his watch every hour.", "es": "Él revisa su reloj cada hora."},
+      {"en": "She received a gold watch as a gift.", "es": "Ella recibió un reloj de oro como regalo."},
+      {"en": "Smartwatches track your health.", "es": "Los relojes inteligentes rastrean tu salud."},
+      {"en": "The watch is water-resistant.", "es": "El reloj es resistente al agua."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_114",
+    "english": "jewelry",
+    "spanish": "joyas",
+    "phonetic": "/ˈdʒuː.əl.ri/",
+    "examples": [
+      {"en": "She inherited her grandmother’s jewelry.", "es": "Ella heredó las joyas de su abuela."},
+      {"en": "The jewelry store has rings and necklaces.", "es": "La joyería tiene anillos y collares."},
+      {"en": "He bought diamond jewelry for the anniversary.", "es": "Él compró joyas de diamante para el aniversario."},
+      {"en": "Costume jewelry is affordable and stylish.", "es": "La bisutería es asequible y elegante."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_115",
+    "english": "ring",
+    "spanish": "anillo",
+    "phonetic": "/rɪŋ/",
+    "examples": [
+      {"en": "He proposed with a diamond ring.", "es": "Él propuso matrimonio con un anillo de diamante."},
+      {"en": "She wears a silver ring on her right hand.", "es": "Ella usa un anillo de plata en la mano derecha."},
+      {"en": "The ring size is 7.", "es": "La talla del anillo es 7."},
+      {"en": "Custom rings take 4 weeks to make.", "es": "Los anillos personalizados tardan 4 semanas en hacerse."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_116",
+    "english": "necklace",
+    "spanish": "collar",
+    "phonetic": "/ˈnek.ləs/",
+    "examples": [
+      {"en": "She received a pearl necklace for her birthday.", "es": "Ella recibió un collar de perlas por su cumpleaños."},
+      {"en": "The necklace is 18 inches long.", "es": "El collar mide 18 pulgadas de largo."},
+      {"en": "He gave her a gold necklace.", "es": "Él le dio un collar de oro."},
+      {"en": "Layered necklaces are fashionable.", "es": "Los collares superpuestos están de moda."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_117",
+    "english": "electronics",
+    "spanish": "electrónicos",
+    "phonetic": "/ɪˌlekˈtrɑː.nɪks/",
+    "examples": [
+      {"en": "The electronics store sells laptops and phones.", "es": "La tienda de electrónicos vende laptops y teléfonos."},
+      {"en": "He compared prices on electronics online.", "es": "Él comparó precios de electrónicos en línea."},
+      {"en": "Electronics often come with a warranty.", "es": "Los electrónicos suelen venir con garantía."},
+      {"en": "She bought new electronics for her home office.", "es": "Ella compró nuevos electrónicos para su oficina en casa."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_118",
+    "english": "laptop",
+    "spanish": "computadora portátil",
+    "phonetic": "/ˈlæp.tɑːp/",
+    "examples": [
+      {"en": "She uses her laptop for work.", "es": "Ella usa su computadora portátil para trabajar."},
+      {"en": "The laptop is lightweight and fast.", "es": "La computadora portátil es ligera y rápida."},
+      {"en": "He bought a gaming laptop.", "es": "Él compró una computadora portátil para juegos."},
+      {"en": "Laptops are on sale this week.", "es": "Las computadoras portátiles están en oferta esta semana."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_119",
+    "english": "smartphone",
+    "spanish": "teléfono inteligente",
+    "phonetic": "/ˈsmɑːrt.foʊn/",
+    "examples": [
+      {"en": "He upgraded to a new smartphone.", "es": "Él actualizó a un nuevo teléfono inteligente."},
+      {"en": "The smartphone has a great camera.", "es": "El teléfono inteligente tiene una cámara excelente."},
+      {"en": "She uses her smartphone for everything.", "es": "Ella usa su teléfono inteligente para todo."},
+      {"en": "Smartphones are expensive but useful.", "es": "Los teléfonos inteligentes son caros pero útiles."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_120",
+    "english": "headphones",
+    "spanish": "audífonos",
+    "phonetic": "/ˈhed.fəʊnz/",
+    "examples": [
+      {"en": "She listens to music with wireless headphones.", "es": "Ella escucha música con audífonos inalámbricos."},
+      {"en": "Noise-canceling headphones are great for travel.", "es": "Los audífonos con cancelación de ruido son geniales para viajar."},
+      {"en": "He lost his headphones on the bus.", "es": "Él perdió sus audífonos en el autobús."},
+      {"en": "Gaming headphones have a built-in mic.", "es": "Los audífonos para juegos tienen micrófono integrado."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_121",
+    "english": "charger",
+    "spanish": "cargador",
+    "phonetic": "/ˈtʃɑːr.dʒɚ/",
+    "examples": [
+      {"en": "Don’t forget your phone charger.", "es": "No olvides tu cargador de teléfono."},
+      {"en": "The charger is compatible with USB-C.", "es": "El cargador es compatible con USB-C."},
+      {"en": "He borrowed a charger from a friend.", "es": "Él tomó prestado un cargador de un amigo."},
+      {"en": "Wireless chargers are convenient.", "es": "Los cargadores inalámbricos son convenientes."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_122",
+    "english": "cable",
+    "spanish": "cable",
+    "phonetic": "/ˈkeɪ.bəl/",
+    "examples": [
+      {"en": "The charging cable is tangled.", "es": "El cable de carga está enredado."},
+      {"en": "She bought a longer HDMI cable.", "es": "Ella compró un cable HDMI más largo."},
+      {"en": "Keep spare cables in your bag.", "es": "Guarda cables de repuesto en tu bolso."},
+      {"en": "The cable connects the monitor to the laptop.", "es": "El cable conecta el monitor a la computadora portátil."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_123",
+    "english": "battery",
+    "spanish": "batería",
+    "phonetic": "/ˈbæt̬.ɚ.i/",
+    "examples": [
+      {"en": "The remote needs a new battery.", "es": "El control remoto necesita una batería nueva."},
+      {"en": "Rechargeable batteries save money.", "es": "Las baterías recargables ahorran dinero."},
+      {"en": "He replaced the battery in his watch.", "es": "Él reemplazó la batería de su reloj."},
+      {"en": "The battery life is 10 hours.", "es": "La duración de la batería es de 10 horas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_124",
+    "english": "camera",
+    "spanish": "cámara",
+    "phonetic": "/ˈkæm.ɚ.ə/",
+    "examples": [
+      {"en": "She bought a digital camera for travel.", "es": "Ella compró una cámara digital para viajar."},
+      {"en": "The camera has 20 megapixels.", "es": "La cámara tiene 20 megapíxeles."},
+      {"en": "He uses his smartphone instead of a camera.", "es": "Él usa su teléfono inteligente en lugar de una cámara."},
+      {"en": "DSLR cameras are popular with professionals.", "es": "Las cámaras DSLR son populares entre profesionales."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_125",
+    "english": "groceries",
+    "spanish": "comestibles",
+    "phonetic": "/ˈɡroʊ.sər.iz/",
+    "examples": [
+      {"en": "She went to the store for groceries.", "es": "Ella fue a la tienda por comestibles."},
+      {"en": "He carries the groceries in reusable bags.", "es": "Él lleva los comestibles en bolsas reutilizables."},
+      {"en": "Online grocery delivery is convenient.", "es": "La entrega de comestibles en línea es conveniente."},
+      {"en": "Fresh groceries are healthier.", "es": "Los comestibles frescos son más saludables."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_126",
+    "english": "produce",
+    "spanish": "productos agrícolas",
+    "phonetic": "/prəˈduːs/",
+    "examples": [
+      {"en": "Buy fresh produce at the farmers’ market.", "es": "Compra productos agrícolas frescos en el mercado de agricultores."},
+      {"en": "The produce section has fruits and vegetables.", "es": "La sección de productos agrícolas tiene frutas y verduras."},
+      {"en": "Organic produce is more expensive.", "es": "Los productos agrícolas orgánicos son más caros."},
+      {"en": "She washes produce before eating.", "es": "Ella lava los productos agrícolas antes de comerlos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_127",
+    "english": "dairy",
+    "spanish": "lácteos",
+    "phonetic": "/ˈder.i/",
+    "examples": [
+      {"en": "Milk, cheese, and yogurt are dairy products.", "es": "La leche, el queso y el yogur son productos lácteos."},
+      {"en": "The dairy aisle is near the back.", "es": "El pasillo de lácteos está cerca del fondo."},
+      {"en": "He is lactose intolerant, so he avoids dairy.", "es": "Él es intolerante a la lactosa, así que evita los lácteos."},
+      {"en": "Plant-based dairy alternatives are popular.", "es": "Las alternativas vegetales a los lácteos son populares."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_128",
+    "english": "meat",
+    "spanish": "carne",
+    "phonetic": "/miːt/",
+    "examples": [
+      {"en": "The butcher sells fresh meat.", "es": "El carnicero vende carne fresca."},
+      {"en": "She chose lean meat for the recipe.", "es": "Ella eligió carne magra para la receta."},
+      {"en": "Plant-based meat substitutes are available.", "es": "Hay sustitutos vegetales de la carne disponibles."},
+      {"en": "He grilled meat for dinner.", "es": "Él asó carne para la cena."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_129",
+    "english": "seafood",
+    "spanish": "mariscos",
+    "phonetic": "/ˈsiː.fuːd/",
+    "examples": [
+      {"en": "The seafood counter has fresh fish.", "es": "El mostrador de mariscos tiene pescado fresco."},
+      {"en": "She bought shrimp and salmon.", "es": "Ella compró camarones y salmón."},
+      {"en": "Frozen seafood is convenient.", "es": "Los mariscos congelados son convenientes."},
+      {"en": "He is allergic to shellfish.", "es": "Él es alérgico a los mariscos con concha."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_130",
+    "english": "bakery",
+    "spanish": "panadería",
+    "phonetic": "/ˈbeɪ.kər.i/",
+    "examples": [
+      {"en": "The bakery sells fresh bread and pastries.", "es": "La panadería vende pan y pasteles frescos."},
+      {"en": "She bought a cake from the bakery.", "es": "Ella compró un pastel en la panadería."},
+      {"en": "The smell of the bakery is amazing.", "es": "El olor de la panadería es increíble."},
+      {"en": "He works as a baker in a local bakery.", "es": "Él trabaja como panadero en una panadería local."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_131",
+    "english": "bread",
+    "spanish": "pan",
+    "phonetic": "/bred/",
+    "examples": [
+      {"en": "She bought a loaf of whole wheat bread.", "es": "Ella compró una barra de pan integral."},
+      {"en": "Fresh bread is best eaten the same day.", "es": "El pan fresco es mejor comerlo el mismo día."},
+      {"en": "He toasts bread for breakfast.", "es": "Él tuesta pan para el desayuno."},
+      {"en": "Gluten-free bread is available here.", "es": "Aquí hay pan sin gluten disponible."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_132",
+    "english": "snacks",
+    "spanish": "bocadillos",
+    "phonetic": "/snæks/",
+    "examples": [
+      {"en": "She keeps healthy snacks at her desk.", "es": "Ella guarda bocadillos saludables en su escritorio."},
+      {"en": "The snack aisle has chips and cookies.", "es": "El pasillo de bocadillos tiene papas fritas y galletas."},
+      {"en": "He ate a snack before dinner.", "es": "Él comió un bocadillo antes de la cena."},
+      {"en": "Low-calorie snacks are popular.", "es": "Los bocadillos bajos en calorías son populares."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_133",
+    "english": "beverages",
+    "spanish": "bebidas",
+    "phonetic": "/ˈbev.rɪdʒ.ɪz/",
+    "examples": [
+      {"en": "The store has a wide selection of beverages.", "es": "La tienda tiene una amplia selección de bebidas."},
+      {"en": "She bought sparkling water and juice.", "es": "Ella compró agua con gas y jugo."},
+      {"en": "Energy beverages contain caffeine.", "es": "Las bebidas energéticas contienen cafeína."},
+      {"en": "He avoids sugary beverages.", "es": "Él evita bebidas azucaradas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_134",
+    "english": "cleaning supplies",
+    "spanish": "artículos de limpieza",
+    "phonetic": "/ˈkliː.nɪŋ səˈplaɪz/",
+    "examples": [
+      {"en": "She bought cleaning supplies for the kitchen.", "es": "Ella compró artículos de limpieza para la cocina."},
+      {"en": "The cleaning supplies aisle is next to paper goods.", "es": "El pasillo de artículos de limpieza está al lado de los artículos de papel."},
+      {"en": "Eco-friendly cleaning supplies are better for the environment.", "es": "Los artículos de limpieza ecológicos son mejores para el medio ambiente."},
+      {"en": "He uses disinfectant wipes for quick cleaning.", "es": "Él usa toallitas desinfectantes para limpieza rápida."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_135",
+    "english": "toiletries",
+    "spanish": "artículos de tocador",
+    "phonetic": "/ˈtɔɪ.lə.triz/",
+    "examples": [
+      {"en": "She packed toiletries for her trip.", "es": "Ella empacó artículos de tocador para su viaje."},
+      {"en": "The toiletries section has shampoo and soap.", "es": "La sección de artículos de tocador tiene champú y jabón."},
+      {"en": "Travel-sized toiletries are convenient.", "es": "Los artículos de tocador de tamaño de viaje son convenientes."},
+      {"en": "He forgot his toothbrush and other toiletries.", "es": "Él olvidó su cepillo de dientes y otros artículos de tocador."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_136",
+    "english": "cosmetics",
+    "spanish": "cosméticos",
+    "phonetic": "/kɑːzˈmet̬.ɪks/",
+    "examples": [
+      {"en": "She bought new cosmetics at the department store.", "es": "Ella compró cosméticos nuevos en la tienda por departamentos."},
+      {"en": "The cosmetics counter offers free samples.", "es": "El mostrador de cosméticos ofrece muestras gratis."},
+      {"en": "He uses natural cosmetics.", "es": "Él usa cosméticos naturales."},
+      {"en": "Cruelty-free cosmetics are important to her.", "es": "Los cosméticos sin crueldad son importantes para ella."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_137",
+    "english": "perfume",
+    "spanish": "perfume",
+    "phonetic": "/ˈpɝː.fjuːm/",
+    "examples": [
+      {"en": "She sprayed perfume before the date.", "es": "Ella se roció perfume antes de la cita."},
+      {"en": "The perfume smells like jasmine.", "es": "El perfume huele a jazmín."},
+      {"en": "He gave her a bottle of perfume as a gift.", "es": "Él le dio una botella de perfume como regalo."},
+      {"en": "Designer perfumes are expensive.", "es": "Los perfumes de diseñador son caros."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_138",
+    "english": "makeup",
+    "spanish": "maquillaje",
+    "phonetic": "/ˈmeɪk.ʌp/",
+    "examples": [
+      {"en": "She applied makeup for the interview.", "es": "Ella se aplicó maquillaje para la entrevista."},
+      {"en": "The makeup kit includes foundation and lipstick.", "es": "El kit de maquillaje incluye base y lápiz labial."},
+      {"en": "He doesn’t wear makeup.", "es": "Él no usa maquillaje."},
+      {"en": "Waterproof makeup is good for summer.", "es": "El maquillaje resistente al agua es bueno para el verano."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_139",
+    "english": "skincare",
+    "spanish": "cuidado de la piel",
+    "phonetic": "/ˈskɪn.ker/",
+    "examples": [
+      {"en": "She has a daily skincare routine.", "es": "Ella tiene una rutina diaria de cuidado de la piel."},
+      {"en": "The skincare products are organic.", "es": "Los productos de cuidado de la piel son orgánicos."},
+      {"en": "He uses moisturizer as part of his skincare.", "es": "Él usa crema hidratante como parte de su cuidado de la piel."},
+      {"en": "Skincare is important for healthy skin.", "es": "El cuidado de la piel es importante para una piel saludable."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_140",
+    "english": "haircare",
+    "spanish": "cuidado del cabello",
+    "phonetic": "/ˈher.ker/",
+    "examples": [
+      {"en": "She bought new haircare products.", "es": "Ella compró nuevos productos para el cuidado del cabello."},
+      {"en": "The haircare aisle has shampoo and conditioner.", "es": "El pasillo de cuidado del cabello tiene champú y acondicionador."},
+      {"en": "He uses sulfate-free haircare.", "es": "Él usa productos para el cabello sin sulfatos."},
+      {"en": "Good haircare prevents damage.", "es": "Un buen cuidado del cabello previene el daño."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_141",
+    "english": "furniture",
+    "spanish": "muebles",
+    "phonetic": "/ˈfɝː.nɪ.tʃɚ/",
+    "examples": [
+      {"en": "They bought new furniture for the living room.", "es": "Ellos compraron muebles nuevos para la sala."},
+      {"en": "The furniture store has sofas and tables.", "es": "La tienda de muebles tiene sofás y mesas."},
+      {"en": "He assembled the furniture himself.", "es": "Él ensambló los muebles él mismo."},
+      {"en": "Flat-pack furniture is easy to transport.", "es": "Los muebles desarmados son fáciles de transportar."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_142",
+    "english": "sofa",
+    "spanish": "sofá",
+    "phonetic": "/ˈsoʊ.fə/",
+    "examples": [
+      {"en": "The sofa is comfortable for napping.", "es": "El sofá es cómodo para dormir la siesta."},
+      {"en": "She bought a leather sofa.", "es": "Ella compró un sofá de cuero."},
+      {"en": "He spilled coffee on the sofa.", "es": "Él derramó café en el sofá."},
+      {"en": "Sectional sofas are great for large rooms.", "es": "Los sofás modulares son geniales para habitaciones grandes."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_143",
+    "english": "table",
+    "spanish": "mesa",
+    "phonetic": "/ˈteɪ.bəl/",
+    "examples": [
+      {"en": "The dining table seats six people.", "es": "La mesa de comedor acomoda a seis personas."},
+      {"en": "She bought a wooden coffee table.", "es": "Ella compró una mesa de centro de madera."},
+      {"en": "He set the table for dinner.", "es": "Él puso la mesa para la cena."},
+      {"en": "Folding tables are good for small spaces.", "es": "Las mesas plegables son buenas para espacios pequeños."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_144",
+    "english": "chair",
+    "spanish": "silla",
+    "phonetic": "/tʃer/",
+    "examples": [
+      {"en": "The office chair is ergonomic.", "es": "La silla de oficina es ergonómica."},
+      {"en": "She bought a rocking chair for the porch.", "es": "Ella compró una mecedora para el porche."},
+      {"en": "He fixed the broken chair leg.", "es": "Él arregló la pata de la silla rota."},
+      {"en": "Dining chairs match the table.", "es": "Las sillas de comedor combinan con la mesa."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_145",
+    "english": "bed",
+    "spanish": "cama",
+    "phonetic": "/bed/",
+    "examples": [
+      {"en": "The bed is king-sized.", "es": "La cama es tamaño king."},
+      {"en": "She bought a new mattress for her bed.", "es": "Ella compró un colchón nuevo para su cama."},
+      {"en": "He made the bed this morning.", "es": "Él hizo la cama esta mañana."},
+      {"en": "Platform beds are modern and stylish.", "es": "Las camas con base son modernas y elegantes."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_146",
+    "english": "home goods",
+    "spanish": "artículos para el hogar",
+    "phonetic": "/hoʊm ɡʊdz/",
+    "examples": [
+      {"en": "The store sells home goods like towels and rugs.", "es": "La tienda vende artículos para el hogar como toallas y alfombras."},
+      {"en": "She decorated her home with new home goods.", "es": "Ella decoró su casa con nuevos artículos para el hogar."},
+      {"en": "He bought kitchen home goods.", "es": "Él compró artículos para el hogar de cocina."},
+      {"en": "Home goods make great housewarming gifts.", "es": "Los artículos para el hogar son excelentes regalos de inauguración."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_147",
+    "english": "kitchenware",
+    "spanish": "utensilios de cocina",
+    "phonetic": "/ˈkɪtʃ.ən.wer/",
+    "examples": [
+      {"en": "She bought new kitchenware for her apartment.", "es": "Ella compró nuevos utensilios de cocina para su apartamento."},
+      {"en": "The kitchenware set includes pots and pans.", "es": "El juego de utensilios de cocina incluye ollas y sartenes."},
+      {"en": "He uses stainless steel kitchenware.", "es": "Él usa utensilios de cocina de acero inoxidable."},
+      {"en": "Non-stick kitchenware is easy to clean.", "es": "Los utensilios de cocina antiadherentes son fáciles de limpiar."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_148",
+    "english": "tools",
+    "spanish": "herramientas",
+    "phonetic": "/tuːlz/",
+    "examples": [
+      {"en": "He bought tools for his workshop.", "es": "Él compró herramientas para su taller."},
+      {"en": "The hardware store sells tools and nails.", "es": "La ferretería vende herramientas y clavos."},
+      {"en": "She uses basic tools for home repairs.", "es": "Ella usa herramientas básicas para reparaciones en casa."},
+      {"en": "A toolbox keeps tools organized.", "es": "Una caja de herramientas mantiene las herramientas organizadas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_149",
+    "english": "sports equipment",
+    "spanish": "equipo deportivo",
+    "phonetic": "/spɔːrts ɪˈkwɪp.mənt/",
+    "examples": [
+      {"en": "The store sells sports equipment like balls and bats.", "es": "La tienda vende equipo deportivo como pelotas y bates."},
+      {"en": "He bought new tennis equipment.", "es": "Él compró nuevo equipo de tenis."},
+      {"en": "She stores sports equipment in the garage.", "es": "Ella guarda el equipo deportivo en el garaje."},
+      {"en": "Quality sports equipment improves performance.", "es": "El equipo deportivo de calidad mejora el rendimiento."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_150",
+    "english": "books",
+    "spanish": "libros",
+    "phonetic": "/bʊks/",
+    "examples": [
+      {"en": "She buys books at the local bookstore.", "es": "Ella compra libros en la librería local."},
+      {"en": "He prefers physical books over e-books.", "es": "Él prefiere libros físicos sobre libros electrónicos."},
+      {"en": "The bookstore has a sale on fiction books.", "es": "La librería tiene una oferta en libros de ficción."},
+      {"en": "Used books are cheaper.", "es": "Los libros usados son más baratos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_151",
+    "english": "toy",
+    "spanish": "juguete",
+    "phonetic": "/tɔɪ/",
+    "examples": [
+      {"en": "He bought a toy for his nephew.", "es": "Él compró un juguete para su sobrino."},
+      {"en": "The toy store has action figures and dolls.", "es": "La juguetería tiene figuras de acción y muñecas."},
+      {"en": "She collects vintage toys.", "es": "Ella colecciona juguetes vintage."},
+      {"en": "Educational toys help children learn.", "es": "Los juguetes educativos ayudan a los niños a aprender."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_152",
+    "english": "gift",
+    "spanish": "regalo",
+    "phonetic": "/ɡɪft/",
+    "examples": [
+      {"en": "She wrapped the gift beautifully.", "es": "Ella envolvió el regalo bellamente."},
+      {"en": "He forgot to buy a birthday gift.", "es": "Él olvidó comprar un regalo de cumpleaños."},
+      {"en": "The gift is for his graduation.", "es": "El regalo es para su graduación."},
+      {"en": "Personalized gifts are thoughtful.", "es": "Los regalos personalizados son considerados."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_153",
+    "english": "wrapping paper",
+    "spanish": "papel de regalo",
+    "phonetic": "/ˈræp.ɪŋ ˌpeɪ.pɚ/",
+    "examples": [
+      {"en": "She bought festive wrapping paper.", "es": "Ella compró papel de regalo festivo."},
+      {"en": "The wrapping paper has stars and snowflakes.", "es": "El papel de regalo tiene estrellas y copos de nieve."},
+      {"en": "He ran out of wrapping paper.", "es": "Él se quedó sin papel de regalo."},
+      {"en": "Reusable wrapping is eco-friendly.", "es": "El envoltorio reutilizable es ecológico."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_154",
+    "english": "bag",
+    "spanish": "bolsa",
+    "phonetic": "/bæɡ/",
+    "examples": [
+      {"en": "She carries her groceries in a reusable bag.", "es": "Ella lleva sus comestibles en una bolsa reutilizable."},
+      {"en": "The store charges for plastic bags.", "es": "La tienda cobra por bolsas de plástico."},
+      {"en": "He forgot his gym bag at home.", "es": "Él olvidó su bolsa de gimnasio en casa."},
+      {"en": "Paper bags are biodegradable.", "es": "Las bolsas de papel son biodegradables."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_155",
+    "english": "plastic bag",
+    "spanish": "bolsa de plástico",
+    "phonetic": "/ˈplæs.tɪk bæɡ/",
+    "examples": [
+      {"en": "Many cities ban plastic bags.", "es": "Muchas ciudades prohíben las bolsas de plástico."},
+      {"en": "She reused the plastic bag for trash.", "es": "Ella reutilizó la bolsa de plástico para la basura."},
+      {"en": "He carries a reusable bag to avoid plastic bags.", "es": "Él lleva una bolsa reutilizable para evitar bolsas de plástico."},
+      {"en": "Plastic bags harm the environment.", "es": "Las bolsas de plástico dañan el medio ambiente."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_156",
+    "english": "paper bag",
+    "spanish": "bolsa de papel",
+    "phonetic": "/ˈpeɪ.pɚ bæɡ/",
+    "examples": [
+      {"en": "The bakery uses paper bags.", "es": "La panadería usa bolsas de papel."},
+      {"en": "She prefers paper bags over plastic.", "es": "Ella prefiere bolsas de papel sobre plástico."},
+      {"en": "Paper bags are compostable.", "es": "Las bolsas de papel son compostables."},
+      {"en": "He carried his books in a paper bag.", "es": "Él llevó sus libros en una bolsa de papel."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_157",
+    "english": "reusable bag",
+    "spanish": "bolsa reutilizable",
+    "phonetic": "/riˈjuː.zə.bəl bæɡ/",
+    "examples": [
+      {"en": "She brings a reusable bag to the supermarket.", "es": "Ella lleva una bolsa reutilizable al supermercado."},
+      {"en": "The store sells branded reusable bags.", "es": "La tienda vende bolsas reutilizables con marca."},
+      {"en": "He keeps reusable bags in his car.", "es": "Él guarda bolsas reutilizables en su coche."},
+      {"en": "Reusable bags reduce waste.", "es": "Las bolsas reutilizables reducen los residuos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_158",
+    "english": "loyalty program",
+    "spanish": "programa de fidelidad",
+    "phonetic": "/ˈlɔɪ.əl.ti ˈproʊ.ɡræm/",
+    "examples": [
+      {"en": "She joined the store’s loyalty program.", "es": "Ella se unió al programa de fidelidad de la tienda."},
+      {"en": "The loyalty program gives you points for purchases.", "es": "El programa de fidelidad te da puntos por compras."},
+      {"en": "He redeemed points from the loyalty program.", "es": "Él canjeó puntos del programa de fidelidad."},
+      {"en": "Loyalty programs offer exclusive discounts.", "es": "Los programas de fidelidad ofrecen descuentos exclusivos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_159",
+    "english": "points",
+    "spanish": "puntos",
+    "phonetic": "/pɔɪnts/",
+    "examples": [
+      {"en": "She earned 100 points on her purchase.", "es": "Ella obtuvo 100 puntos en su compra."},
+      {"en": "Redeem points for discounts or free items.", "es": "Canjea puntos por descuentos o artículos gratis."},
+      {"en": "His loyalty card tracks points automatically.", "es": "Su tarjeta de fidelidad registra puntos automáticamente."},
+      {"en": "You need 500 points for a $10 reward.", "es": "Necesitas 500 puntos para una recompensa de $10."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_160",
+    "english": "reward",
+    "spanish": "recompensa",
+    "phonetic": "/rɪˈwɔːrd/",
+    "examples": [
+      {"en": "She got a $5 reward for her birthday.", "es": "Ella obtuvo una recompensa de $5 por su cumpleaños."},
+      {"en": "The reward is valid for 30 days.", "es": "La recompensa es válida por 30 días."},
+      {"en": "He used his reward on coffee.", "es": "Él usó su recompensa en café."},
+      {"en": "Rewards encourage repeat shopping.", "es": "Las recompensas fomentan las compras repetidas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_161",
+    "english": "membership",
+    "spanish": "membresía",
+    "phonetic": "/ˈmem.bɚ.ʃɪp/",
+    "examples": [
+      {"en": "Store membership gives you early access to sales.", "es": "La membresía de la tienda te da acceso anticipado a ofertas."},
+      {"en": "She pays an annual membership fee.", "es": "Ella paga una cuota anual de membresía."},
+      {"en": "His membership includes free shipping.", "es": "Su membresía incluye envío gratis."},
+      {"en": "Warehouse clubs require a membership.", "es": "Los clubes mayoristas requieren una membresía."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_162",
+    "english": "fee",
+    "spanish": "cuota",
+    "phonetic": "/fiː/",
+    "examples": [
+      {"en": "There’s a $10 membership fee.", "es": "Hay una cuota de membresía de $10."},
+      {"en": "The service has no monthly fee.", "es": "El servicio no tiene cuota mensual."},
+      {"en": "He avoided the restocking fee by returning quickly.", "es": "Él evitó la cuota de reabastecimiento al devolver rápidamente."},
+      {"en": "Late fees apply after 30 days.", "es": "Se aplican cuotas por retraso después de 30 días."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_163",
+    "english": "restocking fee",
+    "spanish": "cuota de reabastecimiento",
+    "phonetic": "/ˌriːˈstɑː.kɪŋ fiː/",
+    "examples": [
+      {"en": "The store charges a 15% restocking fee.", "es": "La tienda cobra una cuota de reabastecimiento del 15%."},
+      {"en": "She avoided the restocking fee by exchanging instead of returning.", "es": "Ella evitó la cuota de reabastecimiento cambiando en lugar de devolver."},
+      {"en": "Restocking fees cover handling costs.", "es": "Las cuotas de reabastecimiento cubren costos de manipulación."},
+      {"en": "Not all stores have a restocking fee.", "es": "No todas las tiendas tienen una cuota de reabastecimiento."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_164",
+    "english": "price match",
+    "spanish": "igualación de precios",
+    "phonetic": "/ˈpraɪs mætʃ/",
+    "examples": [
+      {"en": "The store offers price match within 14 days.", "es": "La tienda ofrece igualación de precios dentro de 14 días."},
+      {"en": "She got a price match for a lower online price.", "es": "Ella obtuvo una igualación de precios por un precio más bajo en línea."},
+      {"en": "Bring proof of the lower price for price match.", "es": "Trae prueba del precio más bajo para la igualación de precios."},
+      {"en": "Price match guarantees the best deal.", "es": "La igualación de precios garantiza la mejor oferta."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_165",
+    "english": "price tag",
+    "spanish": "etiqueta de precio",
+    "phonetic": "/ˈpraɪs tæɡ/",
+    "examples": [
+      {"en": "The price tag says $19.99.", "es": "La etiqueta de precio dice $19.99."},
+      {"en": "He checked the price tag before buying.", "es": "Él revisó la etiqueta de precio antes de comprar."},
+      {"en": "The price tag was missing.", "es": "Faltaba la etiqueta de precio."},
+      {"en": "Some price tags include barcodes.", "es": "Algunas etiquetas de precio incluyen códigos de barras."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_166",
+    "english": "barcode scanner",
+    "spanish": "lector de códigos de barras",
+    "phonetic": "/ˈbɑːr.koʊd ˈskæn.ɚ/",
+    "examples": [
+      {"en": "The cashier used a barcode scanner.", "es": "El cajero usó un lector de códigos de barras."},
+      {"en": "Self-checkout has a barcode scanner.", "es": "La caja automática tiene un lector de códigos de barras."},
+      {"en": "He scanned the item with his phone’s barcode scanner.", "es": "Él escaneó el artículo con el lector de códigos de barras de su teléfono."},
+      {"en": "Barcode scanners speed up checkout.", "es": "Los lectores de códigos de barras aceleran la caja."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_167",
+    "english": "scale",
+    "spanish": "báscula",
+    "phonetic": "/skeɪl/",
+    "examples": [
+      {"en": "The deli uses a scale to weigh meat.", "es": "La charcutería usa una báscula para pesar la carne."},
+      {"en": "She weighed the produce on the scale.", "es": "Ella pesó los productos agrícolas en la báscula."},
+      {"en": "The scale shows the price per pound.", "es": "La báscula muestra el precio por libra."},
+      {"en": "Digital scales are accurate.", "es": "Las básculas digitales son precisas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_168",
+    "english": "deli",
+    "spanish": "charcutería",
+    "phonetic": "/ˈdel.i/",
+    "examples": [
+      {"en": "He bought sliced turkey at the deli.", "es": "Él compró pavo en lonchas en la charcutería."},
+      {"en": "The deli makes fresh sandwiches.", "es": "La charcutería hace sándwiches frescos."},
+      {"en": "She ordered a quarter pound of cheese at the deli.", "es": "Ella pidió un cuarto de libra de queso en la charcutería."},
+      {"en": "The supermarket has a deli counter.", "es": "El supermercado tiene un mostrador de charcutería."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_169",
+    "english": "butcher",
+    "spanish": "carnicero",
+    "phonetic": "/ˈbʊtʃ.ɚ/",
+    "examples": [
+      {"en": "The butcher recommended a good cut of beef.", "es": "El carnicero recomendó un buen corte de carne."},
+      {"en": "She buys meat from the local butcher.", "es": "Ella compra carne del carnicero local."},
+      {"en": "He works as a butcher in the market.", "es": "Él trabaja como carnicero en el mercado."},
+      {"en": "The butcher shop has fresh sausages.", "es": "La carnicería tiene salchichas frescas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_170",
+    "english": "pharmacy",
+    "spanish": "farmacia",
+    "phonetic": "/ˈfɑːr.mə.si/",
+    "examples": [
+      {"en": "She picked up her prescription at the pharmacy.", "es": "Ella recogió su receta en la farmacia."},
+      {"en": "The pharmacy sells medicine and toiletries.", "es": "La farmacia vende medicinas y artículos de tocador."},
+      {"en": "He works as a pharmacist at the pharmacy.", "es": "Él trabaja como farmacéutico en la farmacia."},
+      {"en": "The pharmacy is open 24 hours.", "es": "La farmacia está abierta 24 horas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_171",
+    "english": "prescription",
+    "spanish": "receta médica",
+    "phonetic": "/prɪˈskrɪp.ʃən/",
+    "examples": [
+      {"en": "The doctor wrote a prescription for antibiotics.", "es": "El médico escribió una receta médica para antibióticos."},
+      {"en": "She dropped off her prescription at the pharmacy.", "es": "Ella dejó su receta médica en la farmacia."},
+      {"en": "He takes his prescription daily.", "es": "Él toma su receta médica diariamente."},
+      {"en": "Prescription drugs require a doctor’s note.", "es": "Los medicamentos con receta requieren una nota del médico."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_172",
+    "english": "over-the-counter",
+    "spanish": "sin receta",
+    "phonetic": "/ˌoʊ.vɚ.ðəˈkaʊn.tɚ/",
+    "examples": [
+      {"en": "You can buy pain relievers over-the-counter.", "es": "Puedes comprar analgésicos sin receta."},
+      {"en": "Over-the-counter medicine is in aisle 7.", "es": "Los medicamentos sin receta están en el pasillo 7."},
+      {"en": "She prefers over-the-counter allergy pills.", "es": "Ella prefiere pastillas para alergias sin receta."},
+      {"en": "Not all medicines are over-the-counter.", "es": "No todos los medicamentos son sin receta."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_173",
+    "english": "first aid",
+    "spanish": "primeros auxilios",
+    "phonetic": "/ˌfɝːst ˈeɪd/",
+    "examples": [
+      {"en": "The first aid kit is in the bathroom.", "es": "El botiquín de primeros auxilios está en el baño."},
+      {"en": "She bought bandages and antiseptic for first aid.", "es": "Ella compró vendas y antiséptico para primeros auxilios."},
+      {"en": "First aid supplies are in the camping section.", "es": "Los suministros de primeros auxilios están en la sección de campamento."},
+      {"en": "He took a first aid course.", "es": "Él tomó un curso de primeros auxilios."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_174",
+    "english": "pet store",
+    "spanish": "tienda para mascotas",
+    "phonetic": "/ˈpet stoʊr/",
+    "examples": [
+      {"en": "She bought dog food at the pet store.", "es": "Ella compró comida para perro en la tienda para mascotas."},
+      {"en": "The pet store sells fish and aquariums.", "es": "La tienda para mascotas vende peces y acuarios."},
+      {"en": "He adopted a kitten from the pet store.", "es": "Él adoptó un gatito de la tienda para mascotas."},
+      {"en": "Pet stores offer grooming services.", "es": "Las tiendas para mascotas ofrecen servicios de peluquería."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_175",
+    "english": "pet food",
+    "spanish": "comida para mascotas",
+    "phonetic": "/ˈpet fuːd/",
+    "examples": [
+      {"en": "He buys organic pet food for his dog.", "es": "Él compra comida orgánica para mascotas para su perro."},
+      {"en": "The pet food aisle has options for all animals.", "es": "El pasillo de comida para mascotas tiene opciones para todos los animales."},
+      {"en": "She compares ingredients in pet food.", "es": "Ella compara ingredientes en la comida para mascotas."},
+      {"en": "Wet and dry pet food are both available.", "es": "La comida húmeda y seca para mascotas están disponibles."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_176",
+    "english": "garden center",
+    "spanish": "centro de jardinería",
+    "phonetic": "/ˈɡɑːr.dən ˌsen.t̬ɚ/",
+    "examples": [
+      {"en": "She bought flowers at the garden center.", "es": "Ella compró flores en el centro de jardinería."},
+      {"en": "The garden center sells soil and tools.", "es": "El centro de jardinería vende tierra y herramientas."},
+      {"en": "He planted vegetables from the garden center.", "es": "Él plantó verduras del centro de jardinería."},
+      {"en": "Garden centers offer landscaping advice.", "es": "Los centros de jardinería ofrecen consejos de paisajismo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_177",
+    "english": "hardware store",
+    "spanish": "ferretería",
+    "phonetic": "/ˈhɑːr.dwer stoʊr/",
+    "examples": [
+      {"en": "He bought nails at the hardware store.", "es": "Él compró clavos en la ferretería."},
+      {"en": "The hardware store has paint and brushes.", "es": "La ferretería tiene pintura y pinceles."},
+      {"en": "She fixed the shelf with supplies from the hardware store.", "es": "Ella arregló la estantería con suministros de la ferretería."},
+      {"en": "Hardware stores sell tools and building materials.", "es": "Las ferreterías venden herramientas y materiales de construcción."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_178",
+    "english": "thrift store",
+    "spanish": "tienda de segunda mano",
+    "phonetic": "/θrɪft stoʊr/",
+    "examples": [
+      {"en": "She found a vintage dress at the thrift store.", "es": "Ella encontró un vestido vintage en la tienda de segunda mano."},
+      {"en": "Thrift stores sell used clothing and furniture.", "es": "Las tiendas de segunda mano venden ropa y muebles usados."},
+      {"en": "He buys affordable books at the thrift store.", "es": "Él compra libros asequibles en la tienda de segunda mano."},
+      {"en": "Shopping at thrift stores is eco-friendly.", "es": "Comprar en tiendas de segunda mano es ecológico."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_179",
+    "english": "consignment shop",
+    "spanish": "tienda de consignación",
+    "phonetic": "/kənˈsaɪn.mənt ʃɑːp/",
+    "examples": [
+      {"en": "She sold her designer bag at a consignment shop.", "es": "Ella vendió su bolso de diseñador en una tienda de consignación."},
+      {"en": "The consignment shop has high-end clothing.", "es": "La tienda de consignación tiene ropa de alta gama."},
+      {"en": "He bought a suit from a consignment shop.", "es": "Él compró un traje en una tienda de consignación."},
+      {"en": "Consigners get a percentage of the sale.", "es": "Los consignatarios reciben un porcentaje de la venta."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_180",
+    "english": "flea market",
+    "spanish": "mercado de pulgas",
+    "phonetic": "/ˈfliː ˌmɑːr.kɪt/",
+    "examples": [
+      {"en": "They found antiques at the flea market.", "es": "Ellos encontraron antigüedades en el mercado de pulgas."},
+      {"en": "The flea market is open on weekends.", "es": "El mercado de pulgas abre los fines de semana."},
+      {"en": "She bought handmade jewelry at the flea market.", "es": "Ella compró joyas hechas a mano en el mercado de pulgas."},
+      {"en": "Flea markets are great for bargain hunting.", "es": "Los mercados de pulgas son geniales para buscar gangas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_181",
+    "english": "farmer’s market",
+    "spanish": "mercado de agricultores",
+    "phonetic": "/ˈfɑːr.mɚz ˌmɑːr.kɪt/",
+    "examples": [
+      {"en": "She buys fresh vegetables at the farmer’s market.", "es": "Ella compra verduras frescas en el mercado de agricultores."},
+      {"en": "The farmer’s market has local honey and cheese.", "es": "El mercado de agricultores tiene miel y queso locales."},
+      {"en": "He visits the farmer’s market every Sunday.", "es": "Él visita el mercado de agricultores todos los domingos."},
+      {"en": "Farmer’s markets support local agriculture.", "es": "Los mercados de agricultores apoyan la agricultura local."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_182",
+    "english": "bazaar",
+    "spanish": "bazar",
+    "phonetic": "/bəˈzɑːr/",
+    "examples": [
+      {"en": "The charity bazaar raised $5,000.", "es": "El bazar benéfico recaudó $5,000."},
+      {"en": "She bought handmade crafts at the bazaar.", "es": "Ella compró artesanías hechas a mano en el bazar."},
+      {"en": "The school hosts an annual bazaar.", "es": "La escuela organiza un bazar anual."},
+      {"en": "Bazaars feature food, games, and shopping.", "es": "Los bazares ofrecen comida, juegos y compras."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_183",
+    "english": "pop-up shop",
+    "spanish": "tienda efímera",
+    "phonetic": "/ˈpɑː.pʌp ʃɑːp/",
+    "examples": [
+      {"en": "The brand opened a pop-up shop for the holidays.", "es": "La marca abrió una tienda efímera para las fiestas."},
+      {"en": "She bought limited-edition items at the pop-up shop.", "es": "Ella compró artículos de edición limitada en la tienda efímera."},
+      {"en": "Pop-up shops create buzz and urgency.", "es": "Las tiendas efímeras generan interés y urgencia."},
+      {"en": "The pop-up shop is only open for one week.", "es": "La tienda efímera solo abre por una semana."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_184",
+    "english": "warehouse club",
+    "spanish": "club mayorista",
+    "phonetic": "/ˈwer.haʊs klʌb/",
+    "examples": [
+      {"en": "He bought toilet paper in bulk at the warehouse club.", "es": "Él compró papel higiénico al por mayor en el club mayorista."},
+      {"en": "Warehouse clubs require a membership.", "es": "Los clubes mayoristas requieren una membresía."},
+      {"en": "She compares prices at the warehouse club.", "es": "Ella compara precios en el club mayorista."},
+      {"en": "Warehouse clubs sell large quantities at low prices.", "es": "Los clubes mayoristas venden grandes cantidades a precios bajos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_185",
+    "english": "duty-free shop",
+    "spanish": "tienda libre de impuestos",
+    "phonetic": "/ˌduː.ti ˈfriː ʃɑːp/",
+    "examples": [
+      {"en": "She bought perfume at the duty-free shop.", "es": "Ella compró perfume en la tienda libre de impuestos."},
+      {"en": "Duty-free shops are in airports.", "es": "Las tiendas libres de impuestos están en aeropuertos."},
+      {"en": "He saved money on alcohol at the duty-free shop.", "es": "Él ahorró dinero en alcohol en la tienda libre de impuestos."},
+      {"en": "Duty-free prices exclude import taxes.", "es": "Los precios libres de impuestos excluyen impuestos de importación."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_186",
+    "english": "convenience store",
+    "spanish": "tienda de conveniencia",
+    "phonetic": "/kənˈviː.ni.əns stoʊr/",
+    "examples": [
+      {"en": "He bought a soda at the convenience store.", "es": "Él compró un refresco en la tienda de conveniencia."},
+      {"en": "Convenience stores are open 24/7.", "es": "Las tiendas de conveniencia están abiertas 24/7."},
+      {"en": "She grabbed snacks from the convenience store.", "es": "Ella agarró bocadillos de la tienda de conveniencia."},
+      {"en": "Convenience stores have higher prices but are convenient.", "es": "Las tiendas de conveniencia tienen precios más altos pero son convenientes."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_187",
+    "english": "corner store",
+    "spanish": "tienda de la esquina",
+    "phonetic": "/ˈkɔːr.nɚ stoʊr/",
+    "examples": [
+      {"en": "He walks to the corner store for milk.", "es": "Él camina a la tienda de la esquina por leche."},
+      {"en": "The corner store knows all the neighbors.", "es": "La tienda de la esquina conoce a todos los vecinos."},
+      {"en": "She bought candy at the corner store.", "es": "Ella compró dulces en la tienda de la esquina."},
+      {"en": "Corner stores are small but convenient.", "es": "Las tiendas de la esquina son pequeñas pero convenientes."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_188",
+    "english": "discount store",
+    "spanish": "tienda de descuentos",
+    "phonetic": "/dɪsˈkaʊnt stoʊr/",
+    "examples": [
+      {"en": "She found brand-name clothes at the discount store.", "es": "Ella encontró ropa de marca en la tienda de descuentos."},
+      {"en": "Discount stores sell overstock and closeout items.", "es": "Las tiendas de descuentos venden artículos excedentes y de liquidación."},
+      {"en": "He bought school supplies at a discount store.", "es": "Él compró útiles escolares en una tienda de descuentos."},
+      {"en": "Discount stores offer lower prices year-round.", "es": "Las tiendas de descuentos ofrecen precios bajos todo el año."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_189",
+    "english": "outlet mall",
+    "spanish": "centro comercial de fábrica",
+    "phonetic": "/ˈaʊt.lɛt mæl/",
+    "examples": [
+      {"en": "They went to the outlet mall for deals.", "es": "Ellos fueron al centro comercial de fábrica por ofertas."},
+      {"en": "The outlet mall has brand-name stores with discounts.", "es": "El centro comercial de fábrica tiene tiendas de marca con descuentos."},
+      {"en": "She bought a designer bag at the outlet mall.", "es": "Ella compró un bolso de diseñador en el centro comercial de fábrica."},
+      {"en": "Outlet malls are usually outside the city.", "es": "Los centros comerciales de fábrica suelen estar fuera de la ciudad."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_190",
+    "english": "online marketplace",
+    "spanish": "mercado en línea",
+    "phonetic": "/ˌɑːn.laɪn ˈmɑːr.kɪt.pleɪs/",
+    "examples": [
+      {"en": "She sells handmade goods on an online marketplace.", "es": "Ella vende artículos hechos a mano en un mercado en línea."},
+      {"en": "The online marketplace connects buyers and sellers.", "es": "El mercado en línea conecta compradores y vendedores."},
+      {"en": "He found rare books on an online marketplace.", "es": "Él encontró libros raros en un mercado en línea."},
+      {"en": "Online marketplaces offer wide variety.", "es": "Los mercados en línea ofrecen una amplia variedad."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_191",
+    "english": "auction",
+    "spanish": "subasta",
+    "phonetic": "/ˈɔːk.ʃən/",
+    "examples": [
+      {"en": "He bid on a painting at the auction.", "es": "Él pujó por una pintura en la subasta."},
+      {"en": "The auction raised money for charity.", "es": "La subasta recaudó dinero para caridad."},
+      {"en": "She won the auction with a $500 bid.", "es": "Ella ganó la subasta con una puja de $500."},
+      {"en": "Online auctions are popular for collectibles.", "es": "Las subastas en línea son populares para artículos de colección."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_192",
+    "english": "bid",
+    "spanish": "puja",
+    "phonetic": "/bɪd/",
+    "examples": [
+      {"en": "She placed a bid of $200.", "es": "Ella hizo una puja de $200."},
+      {"en": "The highest bid wins the auction.", "es": "La puja más alta gana la subasta."},
+      {"en": "He increased his bid to $300.", "es": "Él aumentó su puja a $300."},
+      {"en": "Online bids are automatic or manual.", "es": "Las pujas en línea son automáticas o manuales."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_193",
+    "english": "classified ad",
+    "spanish": "anuncio clasificado",
+    "phonetic": "/ˈklæs.ə.faɪd æd/",
+    "examples": [
+      {"en": "He found a used bike in the classified ads.", "es": "Él encontró una bicicleta usada en los anuncios clasificados."},
+      {"en": "She placed a classified ad to sell her car.", "es": "Ella puso un anuncio clasificado para vender su coche."},
+      {"en": "Online classified ads are free or low-cost.", "es": "Los anuncios clasificados en línea son gratis o de bajo costo."},
+      {"en": "Classified ads include contact information.", "es": "Los anuncios clasificados incluyen información de contacto."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_194",
+    "english": "secondhand",
+    "spanish": "de segunda mano",
+    "phonetic": "/ˌsek.əndˈhænd/",
+    "examples": [
+      {"en": "She buys secondhand furniture to save money.", "es": "Ella compra muebles de segunda mano para ahorrar dinero."},
+      {"en": "Secondhand stores are eco-friendly.", "es": "Las tiendas de segunda mano son ecológicas."},
+      {"en": "He found a vintage jacket secondhand.", "es": "Él encontró una chaqueta vintage de segunda mano."},
+      {"en": "Secondhand items are often cheaper and unique.", "es": "Los artículos de segunda mano suelen ser más baratos y únicos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_195",
+    "english": "vintage",
+    "spanish": "vintage",
+    "phonetic": "/ˈvɪn.tɪdʒ/",
+    "examples": [
+      {"en": "She collects vintage clothing from the 1960s.", "es": "Ella colecciona ropa vintage de los años 60."},
+      {"en": "The vintage watch is worth a lot.", "es": "El reloj vintage vale mucho."},
+      {"en": "He bought a vintage record player.", "es": "Él compró un tocadiscos vintage."},
+      {"en": "Vintage items have historical value.", "es": "Los artículos vintage tienen valor histórico."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_196",
+    "english": "antique",
+    "spanish": "antigüedad",
+    "phonetic": "/ænˈtiːk/",
+    "examples": [
+      {"en": "The antique vase is 200 years old.", "es": "La antigüedad del jarrón tiene 200 años."},
+      {"en": "She inherited antique furniture.", "es": "Ella heredó muebles antiguos."},
+      {"en": "He collects antique coins.", "es": "Él colecciona monedas antiguas."},
+      {"en": "Antique shops are full of treasures.", "es": "Las tiendas de antigüedades están llenas de tesoros."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_197",
+    "english": "collectible",
+    "spanish": "artículo de colección",
+    "phonetic": "/kəˈlek.tə.bəl/",
+    "examples": [
+      {"en": "The comic book is a valuable collectible.", "es": "El cómic es un artículo de colección valioso."},
+      {"en": "She displays her collectibles in a glass case.", "es": "Ella exhibe sus artículos de colección en una vitrina."},
+      {"en": "He trades collectibles with friends.", "es": "Él intercambia artículos de colección con amigos."},
+      {"en": "Limited edition items become collectibles.", "es": "Los artículos de edición limitada se convierten en artículos de colección."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_198",
+    "english": "negotiate",
+    "spanish": "regatear",
+    "phonetic": "/nɪˈɡoʊ.ʃi.eɪt/",
+    "examples": [
+      {"en": "You can negotiate the price at flea markets.", "es": "Puedes regatear el precio en mercados de pulgas."},
+      {"en": "She negotiated a lower price for the car.", "es": "Ella regateó un precio más bajo para el coche."},
+      {"en": "He doesn’t like to negotiate.", "es": "Él no le gusta regatear."},
+      {"en": "Negotiating is common in some cultures.", "es": "Regatear es común en algunas culturas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_199",
+    "english": "bargain hunt",
+    "spanish": "buscar gangas",
+    "phonetic": "/ˈbɑːr.ɡən hʌnt/",
+    "examples": [
+      {"en": "She loves to bargain hunt on weekends.", "es": "A ella le encanta buscar gangas los fines de semana."},
+      {"en": "Bargain hunting saves money.", "es": "Buscar gangas ahorra dinero."},
+      {"en": "He went bargain hunting after the holidays.", "es": "Él fue a buscar gangas después de las fiestas."},
+      {"en": "Thrift stores are great for bargain hunting.", "es": "Las tiendas de segunda mano son geniales para buscar gangas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_200",
+    "english": "shopping spree",
+    "spanish": "compras compulsivas",
+    "phonetic": "/ˈʃɑː.pɪŋ spriː/",
+    "examples": [
+      {"en": "She went on a shopping spree after payday.", "es": "Ella hizo compras compulsivas después de cobrar."},
+      {"en": "He had a shopping spree in New York.", "es": "Él hizo compras compulsivas en Nueva York."},
+      {"en": "Shopping sprees can be fun but expensive.", "es": "Las compras compulsivas pueden ser divertidas pero caras."},
+      {"en": "They celebrated with a shopping spree.", "es": "Ellos celebraron con compras compulsivas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_201",
+    "english": "cashless",
+    "spanish": "sin efectivo",
+    "phonetic": "/ˈkæʃ.ləs/",
+    "examples": [
+      {"en": "This store is cashless—only cards accepted.", "es": "Esta tienda es sin efectivo: solo se aceptan tarjetas."},
+      {"en": "Cashless payments are faster and cleaner.", "es": "Los pagos sin efectivo son más rápidos y limpios."},
+      {"en": "He forgot his wallet but paid cashless with his phone.", "es": "Él olvidó su billetera pero pagó sin efectivo con su teléfono."},
+      {"en": "Many cities are becoming cashless.", "es": "Muchas ciudades se están volviendo sin efectivo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_202",
+    "english": "contactless payment",
+    "spanish": "pago sin contacto",
+    "phonetic": "/kənˈtækt.ləs ˈpeɪ.mənt/",
+    "examples": [
+      {"en": "She used contactless payment with her smartwatch.", "es": "Ella usó pago sin contacto con su reloj inteligente."},
+      {"en": "Contactless payment is secure and quick.", "es": "El pago sin contacto es seguro y rápido."},
+      {"en": "The terminal accepts contactless payment up to $100.", "es": "El terminal acepta pago sin contacto hasta $100."},
+      {"en": "He tapped his card for contactless payment.", "es": "Él tocó su tarjeta para el pago sin contacto."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_203",
+    "english": "digital wallet",
+    "spanish": "billetera digital",
+    "phonetic": "/ˈdɪdʒ.ɪ.t̬əl ˈwɑː.lɪt/",
+    "examples": [
+      {"en": "She stores her cards in a digital wallet.", "es": "Ella guarda sus tarjetas en una billetera digital."},
+      {"en": "Apple Pay is a popular digital wallet.", "es": "Apple Pay es una billetera digital popular."},
+      {"en": "He paid using his digital wallet at checkout.", "es": "Él pagó usando su billetera digital en la caja."},
+      {"en": "Digital wallets reduce the need for physical cards.", "es": "Las billeteras digitales reducen la necesidad de tarjetas físicas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_204",
+    "english": "buy now, pay later",
+    "spanish": "compra ahora, paga después",
+    "phonetic": "/ˌbaɪ naʊ ˌpeɪ ˈleɪ.t̬ɚ/",
+    "examples": [
+      {"en": "She used 'buy now, pay later' for her new laptop.", "es": "Ella usó 'compra ahora, paga después' para su nueva laptop."},
+      {"en": "Buy now, pay later services charge interest if late.", "es": "Los servicios de 'compra ahora, paga después' cobran intereses si hay retraso."},
+      {"en": "He split the payment into four installments with BNPL.", "es": "Él dividió el pago en cuatro cuotas con CNPD."},
+      {"en": "Buy now, pay later is popular with young shoppers.", "es": "Compra ahora, paga después es popular entre compradores jóvenes."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_205",
+    "english": "installment plan",
+    "spanish": "plan de pagos",
+    "phonetic": "/ɪnˈstɔːl.mənt plæn/",
+    "examples": [
+      {"en": "The phone costs $800, but she chose an installment plan.", "es": "El teléfono cuesta $800, pero ella eligió un plan de pagos."},
+      {"en": "The installment plan has no interest for 12 months.", "es": "El plan de pagos no tiene intereses durante 12 meses."},
+      {"en": "He pays $50 monthly under the installment plan.", "es": "Él paga $50 mensuales bajo el plan de pagos."},
+      {"en": "Furniture stores often offer installment plans.", "es": "Las tiendas de muebles suelen ofrecer planes de pagos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_206",
+    "english": "subscription box",
+    "spanish": "caja de suscripción",
+    "phonetic": "/səbˈskrɪp.ʃən bɑːks/",
+    "examples": [
+      {"en": "She gets a beauty subscription box every month.", "es": "Ella recibe una caja de suscripción de belleza cada mes."},
+      {"en": "The subscription box includes snacks from around the world.", "es": "La caja de suscripción incluye bocadillos de todo el mundo."},
+      {"en": "He canceled his subscription box after three months.", "es": "Él canceló su caja de suscripción después de tres meses."},
+      {"en": "Subscription boxes offer curated products.", "es": "Las cajas de suscripción ofrecen productos seleccionados."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_207",
+    "english": "curated",
+    "spanish": "seleccionado",
+    "phonetic": "/ˈkjʊr.eɪ.t̬ɪd/",
+    "examples": [
+      {"en": "The store sells curated vintage clothing.", "es": "La tienda vende ropa vintage seleccionada."},
+      {"en": "She received a curated box of organic teas.", "es": "Ella recibió una caja seleccionada de tés orgánicos."},
+      {"en": "His playlist is carefully curated.", "es": "Su lista de reproducción está cuidadosamente seleccionada."},
+      {"en": "Curated products reflect expert taste.", "es": "Los productos seleccionados reflejan el gusto de expertos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_208",
+    "english": "eco-friendly",
+    "spanish": "ecológico",
+    "phonetic": "/ˌiː.koʊ ˈfrend.li/",
+    "examples": [
+      {"en": "She only buys eco-friendly cleaning products.", "es": "Ella solo compra productos de limpieza ecológicos."},
+      {"en": "The brand uses eco-friendly packaging.", "es": "La marca usa empaques ecológicos."},
+      {"en": "Eco-friendly fashion is growing in popularity.", "es": "La moda ecológica está creciendo en popularidad."},
+      {"en": "He looks for eco-friendly alternatives to plastic.", "es": "Él busca alternativas ecológicas al plástico."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_209",
+    "english": "sustainable",
+    "spanish": "sostenible",
+    "phonetic": "/səˈsteɪ.nə.bəl/",
+    "examples": [
+      {"en": "Sustainable fashion uses organic cotton.", "es": "La moda sostenible usa algodón orgánico."},
+      {"en": "She supports sustainable brands.", "es": "Ella apoya marcas sostenibles."},
+      {"en": "Sustainable shopping reduces environmental impact.", "es": "Comprar de forma sostenible reduce el impacto ambiental."},
+      {"en": "He bought sustainable bamboo toothbrushes.", "es": "Él compró cepillos de dientes de bambú sostenibles."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_210",
+    "english": "zero waste",
+    "spanish": "cero residuos",
+    "phonetic": "/ˌzɪr.oʊ ˈweɪst/",
+    "examples": [
+      {"en": "The zero waste store sells products without packaging.", "es": "La tienda de cero residuos vende productos sin empaque."},
+      {"en": "She follows a zero waste lifestyle.", "es": "Ella sigue un estilo de vida de cero residuos."},
+      {"en": "Zero waste shopping uses reusable containers.", "es": "Comprar con cero residuos usa recipientes reutilizables."},
+      {"en": "He brought jars to the zero waste shop.", "es": "Él llevó frascos a la tienda de cero residuos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_211",
+    "english": "bulk",
+    "spanish": "al por mayor",
+    "phonetic": "/bʌlk/",
+    "examples": [
+      {"en": "She buys rice and beans in bulk to save money.", "es": "Ella compra arroz y frijoles al por mayor para ahorrar dinero."},
+      {"en": "The bulk section has nuts, grains, and spices.", "es": "La sección al por mayor tiene frutos secos, granos y especias."},
+      {"en": "Buying in bulk reduces packaging waste.", "es": "Comprar al por mayor reduce los residuos de empaque."},
+      {"en": "He filled his container from the bulk bin.", "es": "Él llenó su recipiente del contenedor al por mayor."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_212",
+    "english": "refill",
+    "spanish": "recarga",
+    "phonetic": "/rɪˈfɪl/",
+    "examples": [
+      {"en": "The store offers soap and shampoo refills.", "es": "La tienda ofrece recargas de jabón y champú."},
+      {"en": "She brought her bottle for a refill.", "es": "Ella trajo su botella para una recarga."},
+      {"en": "Refill stations are eco-friendly.", "es": "Las estaciones de recarga son ecológicas."},
+      {"en": "He saved money with a detergent refill.", "es": "Él ahorró dinero con una recarga de detergente."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_213",
+    "english": "minimalist",
+    "spanish": "minimalista",
+    "phonetic": "/ˈmɪn.ɪ.mə.lɪst/",
+    "examples": [
+      {"en": "She follows a minimalist shopping approach.", "es": "Ella sigue un enfoque de compra minimalista."},
+      {"en": "Minimalist wardrobes focus on quality over quantity.", "es": "Los armarios minimalistas se enfocan en la calidad sobre la cantidad."},
+      {"en": "He bought only what he needs—minimalist style.", "es": "Él compró solo lo que necesita: estilo minimalista."},
+      {"en": "Minimalist products have simple designs.", "es": "Los productos minimalistas tienen diseños simples."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_214",
+    "english": "capsule wardrobe",
+    "spanish": "armario cápsula",
+    "phonetic": "/ˈkæp.suːl ˈwɔːr.droʊb/",
+    "examples": [
+      {"en": "Her capsule wardrobe has 30 versatile pieces.", "es": "Su armario cápsula tiene 30 piezas versátiles."},
+      {"en": "A capsule wardrobe reduces decision fatigue.", "es": "Un armario cápsula reduce la fatiga de decidir."},
+      {"en": "He built a capsule wardrobe for travel.", "es": "Él creó un armario cápsula para viajar."},
+      {"en": "Capsule wardrobes promote sustainable fashion.", "es": "Los armarios cápsula promueven la moda sostenible."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_215",
+    "english": "fast fashion",
+    "spanish": "moda rápida",
+    "phonetic": "/ˌfæst ˈfæʃ.ən/",
+    "examples": [
+      {"en": "Fast fashion is cheap but harms the environment.", "es": "La moda rápida es barata pero daña el medio ambiente."},
+      {"en": "She stopped buying fast fashion brands.", "es": "Ella dejó de comprar marcas de moda rápida."},
+      {"en": "Fast fashion trends change weekly.", "es": "Las tendencias de moda rápida cambian semanalmente."},
+      {"en": "He prefers quality over fast fashion.", "es": "Él prefiere calidad sobre moda rápida."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_216",
+    "english": "slow fashion",
+    "spanish": "moda lenta",
+    "phonetic": "/ˌsloʊ ˈfæʃ.ən/",
+    "examples": [
+      {"en": "Slow fashion focuses on ethics and durability.", "es": "La moda lenta se enfoca en la ética y la durabilidad."},
+      {"en": "She supports slow fashion designers.", "es": "Ella apoya diseñadores de moda lenta."},
+      {"en": "Slow fashion is the opposite of fast fashion.", "es": "La moda lenta es lo opuesto a la moda rápida."},
+      {"en": "He invested in a slow fashion coat that lasts years.", "es": "Él invirtió en un abrigo de moda lenta que dura años."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_217",
+    "english": "ethical brand",
+    "spanish": "marca ética",
+    "phonetic": "/ˈeθ.ɪ.kəl brænd/",
+    "examples": [
+      {"en": "She only shops from ethical brands.", "es": "Ella solo compra de marcas éticas."},
+      {"en": "Ethical brands pay fair wages to workers.", "es": "Las marcas éticas pagan salarios justos a los trabajadores."},
+      {"en": "He researched the brand’s ethical practices.", "es": "Él investigó las prácticas éticas de la marca."},
+      {"en": "Ethical brands avoid child labor.", "es": "Las marcas éticas evitan el trabajo infantil."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_218",
+    "english": "fair trade",
+    "spanish": "comercio justo",
+    "phonetic": "/ˌfer ˈtreɪd/",
+    "examples": [
+      {"en": "She buys fair trade coffee and chocolate.", "es": "Ella compra café y chocolate de comercio justo."},
+      {"en": "Fair trade ensures farmers get fair prices.", "es": "El comercio justo asegura que los agricultores reciban precios justos."},
+      {"en": "The store has a fair trade section.", "es": "La tienda tiene una sección de comercio justo."},
+      {"en": "He supports fair trade to fight poverty.", "es": "Él apoya el comercio justo para combatir la pobreza."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_219",
+    "english": "organic",
+    "spanish": "orgánico",
+    "phonetic": "/ɔːrˈɡæn.ɪk/",
+    "examples": [
+      {"en": "She buys organic fruits and vegetables.", "es": "Ella compra frutas y verduras orgánicas."},
+      {"en": "Organic cotton is grown without pesticides.", "es": "El algodón orgánico se cultiva sin pesticidas."},
+      {"en": "The label says 'certified organic'.", "es": "La etiqueta dice 'orgánico certificado'."},
+      {"en": "He prefers organic baby products.", "es": "Él prefiere productos orgánicos para bebés."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_220",
+    "english": "non-toxic",
+    "spanish": "no tóxico",
+    "phonetic": "/ˌnɑːn ˈtɑːk.sɪk/",
+    "examples": [
+      {"en": "She uses non-toxic cleaning products at home.", "es": "Ella usa productos de limpieza no tóxicos en casa."},
+      {"en": "Non-toxic toys are safer for children.", "es": "Los juguetes no tóxicos son más seguros para los niños."},
+      {"en": "The paint is labeled non-toxic.", "es": "La pintura está etiquetada como no tóxica."},
+      {"en": "He checks ingredients for non-toxic cosmetics.", "es": "Él revisa ingredientes para cosméticos no tóxicos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_221",
+    "english": "biodegradable",
+    "spanish": "biodegradable",
+    "phonetic": "/ˌbaɪ.oʊ.dɪˈɡreɪ.də.bəl/",
+    "examples": [
+      {"en": "The bags are biodegradable and compostable.", "es": "Las bolsas son biodegradables y compostables."},
+      {"en": "She chooses biodegradable packaging.", "es": "Ella elige empaques biodegradables."},
+      {"en": "Biodegradable products break down naturally.", "es": "Los productos biodegradables se descomponen naturalmente."},
+      {"en": "He avoids plastic in favor of biodegradable options.", "es": "Él evita el plástico a favor de opciones biodegradables."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_222",
+    "english": "compostable",
+    "spanish": "compostable",
+    "phonetic": "/kəmˈpoʊs.tə.bəl/",
+    "examples": [
+      {"en": "The utensils are compostable after use.", "es": "Los utensilios son compostables después de usarlos."},
+      {"en": "She bought compostable trash bags.", "es": "Ella compró bolsas de basura compostables."},
+      {"en": "Compostable items go in the green bin.", "es": "Los artículos compostables van en el contenedor verde."},
+      {"en": "Not all 'compostable' items break down in home compost.", "es": "No todos los artículos 'compostables' se descomponen en compost casero."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_223",
+    "english": "carbon footprint",
+    "spanish": "huella de carbono",
+    "phonetic": "/ˈkɑːr.bən ˈfʊt.prɪnt/",
+    "examples": [
+      {"en": "She chooses local products to reduce her carbon footprint.", "es": "Ella elige productos locales para reducir su huella de carbono."},
+      {"en": "Online shopping can increase your carbon footprint.", "es": "Comprar en línea puede aumentar tu huella de carbono."},
+      {"en": "The brand offsets its carbon footprint.", "es": "La marca compensa su huella de carbono."},
+      {"en": "He calculates his carbon footprint annually.", "es": "Él calcula su huella de carbono anualmente."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_224",
+    "english": "local",
+    "spanish": "local",
+    "phonetic": "/ˈloʊ.kəl/",
+    "examples": [
+      {"en": "She shops at local businesses to support the community.", "es": "Ella compra en negocios locales para apoyar a la comunidad."},
+      {"en": "Local produce is fresher and tastier.", "es": "Los productos locales son más frescos y sabrosos."},
+      {"en": "He prefers local artisans over big brands.", "es": "Él prefiere artesanos locales sobre grandes marcas."},
+      {"en": "Buying local reduces transportation emissions.", "es": "Comprar local reduce las emisiones de transporte."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_225",
+    "english": "artisan",
+    "spanish": "artesano",
+    "phonetic": "/ˈɑːr.t̬ə.zən/",
+    "examples": [
+      {"en": "She bought cheese from a local artisan.", "es": "Ella compró queso de un artesano local."},
+      {"en": "Artisan bread is made by hand.", "es": "El pan artesano se hace a mano."},
+      {"en": "He collects artisan pottery.", "es": "Él colecciona cerámica artesanal."},
+      {"en": "Artisan products are unique and high-quality.", "es": "Los productos artesanales son únicos y de alta calidad."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_226",
+    "english": "handmade",
+    "spanish": "hecho a mano",
+    "phonetic": "/ˌhændˈmeɪd/",
+    "examples": [
+      {"en": "She sells handmade jewelry on Etsy.", "es": "Ella vende joyas hechas a mano en Etsy."},
+      {"en": "The scarf is handmade with love.", "es": "La bufanda está hecha a mano con amor."},
+      {"en": "He gifted her a handmade card.", "es": "Él le regaló una tarjeta hecha a mano."},
+      {"en": "Handmade items often cost more but are unique.", "es": "Los artículos hechos a mano suelen costar más pero son únicos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_227",
+    "english": "custom-made",
+    "spanish": "a medida",
+    "phonetic": "/ˌkʌs.təm ˈmeɪd/",
+    "examples": [
+      {"en": "She ordered a custom-made dress for the wedding.", "es": "Ella encargó un vestido a medida para la boda."},
+      {"en": "Custom-made suits fit perfectly.", "es": "Los trajes a medida quedan perfectos."},
+      {"en": "He bought custom-made shoes online.", "es": "Él compró zapatos a medida en línea."},
+      {"en": "Custom-made furniture matches your space exactly.", "es": "Los muebles a medida coinciden exactamente con tu espacio."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_228",
+    "english": "personalized",
+    "spanish": "personalizado",
+    "phonetic": "/ˈpɝː.sən.ə.laɪzd/",
+    "examples": [
+      {"en": "She gave him a personalized mug with his name.", "es": "Ella le dio una taza personalizada con su nombre."},
+      {"en": "Personalized gifts show extra thought.", "es": "Los regalos personalizados muestran un pensamiento adicional."},
+      {"en": "He ordered a personalized phone case.", "es": "Él pidió una funda de teléfono personalizada."},
+      {"en": "The website offers personalized recommendations.", "es": "El sitio web ofrece recomendaciones personalizadas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_229",
+    "english": "monogram",
+    "spanish": "monograma",
+    "phonetic": "/ˈmɑː.nə.ɡræm/",
+    "examples": [
+      {"en": "She added a monogram to her tote bag.", "es": "Ella añadió un monograma a su bolso de mano."},
+      {"en": "The towels have a gold monogram.", "es": "Las toallas tienen un monograma dorado."},
+      {"en": "He gifted her a monogrammed robe.", "es": "Él le regaló una bata con monograma."},
+      {"en": "Monogrammed items make elegant gifts.", "es": "Los artículos con monograma hacen regalos elegantes."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_230",
+    "english": "engraved",
+    "spanish": "grabado",
+    "phonetic": "/ɪnˈɡreɪvd/",
+    "examples": [
+      {"en": "She received an engraved watch for graduation.", "es": "Ella recibió un reloj grabado por su graduación."},
+      {"en": "The ring is engraved with their wedding date.", "es": "El anillo está grabado con su fecha de boda."},
+      {"en": "He bought an engraved pen as a gift.", "es": "Él compró una pluma grabada como regalo."},
+      {"en": "Engraved items are special keepsakes.", "es": "Los artículos grabados son recuerdos especiales."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_231",
+    "english": "wish list",
+    "spanish": "lista de deseos",
+    "phonetic": "/ˈwɪʃ lɪst/",
+    "examples": [
+      {"en": "She shared her wish list for her birthday.", "es": "Ella compartió su lista de deseos para su cumpleaños."},
+      {"en": "He added the game to his online wish list.", "es": "Él añadió el juego a su lista de deseos en línea."},
+      {"en": "The store lets you create a digital wish list.", "es": "La tienda te permite crear una lista de deseos digital."},
+      {"en": "Wish lists help others choose gifts for you.", "es": "Las listas de deseos ayudan a otros a elegir regalos para ti."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_232",
+    "english": "registry",
+    "spanish": "lista de registro",
+    "phonetic": "/ˈredʒ.ɪ.stri/",
+    "examples": [
+      {"en": "They created a wedding registry at the department store.", "es": "Ellos crearon una lista de registro de boda en la tienda por departamentos."},
+      {"en": "She checked their baby registry before buying a gift.", "es": "Ella revisó su lista de registro de bebé antes de comprar un regalo."},
+      {"en": "The registry includes everything they need.", "es": "La lista de registro incluye todo lo que necesitan."},
+      {"en": "Online registries are easy to share.", "es": "Las listas de registro en línea son fáciles de compartir."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_233",
+    "english": "gift wrapping",
+    "spanish": "envoltura de regalo",
+    "phonetic": "/ˈɡɪft ˈræp.ɪŋ/",
+    "examples": [
+      {"en": "The store offers free gift wrapping during the holidays.", "es": "La tienda ofrece envoltura de regalo gratis durante las fiestas."},
+      {"en": "She chose red gift wrapping with a bow.", "es": "Ella eligió envoltura de regalo roja con un lazo."},
+      {"en": "He paid extra for gift wrapping.", "es": "Él pagó extra por la envoltura de regalo."},
+      {"en": "Gift wrapping makes presents look special.", "es": "La envoltura de regalo hace que los regalos se vean especiales."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_234",
+    "english": "gift message",
+    "spanish": "mensaje de regalo",
+    "phonetic": "/ˈɡɪft ˈmes.ɪdʒ/",
+    "examples": [
+      {"en": "She included a gift message with her order.", "es": "Ella incluyó un mensaje de regalo con su pedido."},
+      {"en": "The gift message said 'Happy Birthday!'", "es": "El mensaje de regalo decía '¡Feliz cumpleaños!'"},
+      {"en": "He wrote a heartfelt gift message.", "es": "Él escribió un mensaje de regalo emotivo."},
+      {"en": "Online stores let you add a gift message at checkout.", "es": "Las tiendas en línea te permiten añadir un mensaje de regalo en la caja."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_235",
+    "english": "unboxing",
+    "spanish": "unboxing",
+    "phonetic": "/ʌnˈbɑːk.sɪŋ/",
+    "examples": [
+      {"en": "She watched an unboxing video before buying.", "es": "Ella vio un video de unboxing antes de comprar."},
+      {"en": "His unboxing video went viral.", "es": "Su video de unboxing se volvió viral."},
+      {"en": "Unboxing experiences influence purchases.", "es": "Las experiencias de unboxing influyen en las compras."},
+      {"en": "The brand designs packaging for great unboxing.", "es": "La marca diseña empaques para un gran unboxing."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_236",
+    "english": "haul",
+    "spanish": "compras (en video)",
+    "phonetic": "/hɔːl/",
+    "examples": [
+      {"en": "She posted a shopping haul on YouTube.", "es": "Ella publicó un video de compras en YouTube."},
+      {"en": "His fashion haul includes five new outfits.", "es": "Su haul de moda incluye cinco conjuntos nuevos."},
+      {"en": "Haul videos show what people bought.", "es": "Los videos de haul muestran lo que la gente compró."},
+      {"en": "She only does sustainable hauls now.", "es": "Ella solo hace hauls sostenibles ahora."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_237",
+    "english": "try before you buy",
+    "spanish": "prueba antes de comprar",
+    "phonetic": "/traɪ bɪˈfɔːr juː baɪ/",
+    "examples": [
+      {"en": "The service lets you try before you buy clothes.", "es": "El servicio te permite probar antes de comprar ropa."},
+      {"en": "She used 'try before you buy' for shoes.", "es": "Ella usó 'prueba antes de comprar' para zapatos."},
+      {"en": "Try before you buy reduces returns.", "es": "Probar antes de comprar reduce las devoluciones."},
+      {"en": "He kept three items and returned the rest.", "es": "Él se quedó con tres artículos y devolvió el resto."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_238",
+    "english": "virtual try-on",
+    "spanish": "prueba virtual",
+    "phonetic": "/ˈvɝː.tʃu.əl traɪ ɑːn/",
+    "examples": [
+      {"en": "She used virtual try-on for sunglasses.", "es": "Ella usó prueba virtual para gafas de sol."},
+      {"en": "The app offers virtual try-on for makeup.", "es": "La aplicación ofrece prueba virtual para maquillaje."},
+      {"en": "Virtual try-on uses your phone’s camera.", "es": "La prueba virtual usa la cámara de tu teléfono."},
+      {"en": "He tried a virtual try-on for eyeglasses.", "es": "Él probó una prueba virtual para anteojos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_239",
+    "english": "size guide",
+    "spanish": "guía de tallas",
+    "phonetic": "/saɪz ɡaɪd/",
+    "examples": [
+      {"en": "Check the size guide before ordering online.", "es": "Revisa la guía de tallas antes de pedir en línea."},
+      {"en": "The size guide includes measurements in inches and cm.", "es": "La guía de tallas incluye medidas en pulgadas y cm."},
+      {"en": "She followed the size guide and got the right fit.", "es": "Ella siguió la guía de tallas y obtuvo el ajuste correcto."},
+      {"en": "Size guides vary by brand.", "es": "Las guías de tallas varían según la marca."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_240",
+    "english": "fit guide",
+    "spanish": "guía de ajuste",
+    "phonetic": "/fɪt ɡaɪd/",
+    "examples": [
+      {"en": "The fit guide explains 'slim fit' vs 'regular fit'.", "es": "La guía de ajuste explica 'corte ajustado' vs 'corte regular'."},
+      {"en": "She checked the fit guide for jeans.", "es": "Ella revisó la guía de ajuste para vaqueros."},
+      {"en": "Fit guides help reduce returns.", "es": "Las guías de ajuste ayudan a reducir devoluciones."},
+      {"en": "The website has a detailed fit guide.", "es": "El sitio web tiene una guía de ajuste detallada."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_241",
+    "english": "model wears size",
+    "spanish": "la modelo usa talla",
+    "phonetic": "/ˈmɑː.dəl werz saɪz/",
+    "examples": [
+      {"en": "The model wears size small.", "es": "La modelo usa talla pequeña."},
+      {"en": "Check what size the model wears for reference.", "es": "Revisa qué talla usa la modelo como referencia."},
+      {"en": "The model wears size 8 and is 5'9\" tall.", "es": "La modelo usa talla 8 y mide 1.75 m."},
+      {"en": "Model wears size medium—she’s average height.", "es": "La modelo usa talla mediana: tiene altura promedio."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_242",
+    "english": "in stock",
+    "spanish": "en stock",
+    "phonetic": "/ɪn stɑːk/",
+    "examples": [
+      {"en": "The item is in stock and ready to ship.", "es": "El artículo está en stock y listo para enviar."},
+      {"en": "She was happy the shoes were in stock.", "es": "Ella se alegró de que los zapatos estuvieran en stock."},
+      {"en": "In stock items ship within 24 hours.", "es": "Los artículos en stock se envían en 24 horas."},
+      {"en": "Check online to see if it’s in stock.", "es": "Revisa en línea para ver si está en stock."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_243",
+    "english": "low stock",
+    "spanish": "poco stock",
+    "phonetic": "/loʊ stɑːk/",
+    "examples": [
+      {"en": "Only 2 left—low stock!", "es": "¡Solo quedan 2: poco stock!"},
+      {"en": "The website shows 'low stock' for this item.", "es": "El sitio web muestra 'poco stock' para este artículo."},
+      {"en": "She bought it quickly because of low stock.", "es": "Ella lo compró rápidamente por el poco stock."},
+      {"en": "Low stock items may sell out soon.", "es": "Los artículos con poco stock pueden agotarse pronto."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_244",
+    "english": "notify me",
+    "spanish": "avísame",
+    "phonetic": "/ˈnoʊ.tə.faɪ miː/",
+    "examples": [
+      {"en": "Click 'notify me' when it’s back in stock.", "es": "Haz clic en 'avísame' cuando esté de nuevo en stock."},
+      {"en": "She signed up to be notified when the sale starts.", "es": "Ella se registró para ser avisada cuando empiece la oferta."},
+      {"en": "The 'notify me' button saves your email.", "es": "El botón 'avísame' guarda tu correo electrónico."},
+      {"en": "He got an email: 'Your item is back—shop now!'", "es": "Él recibió un correo: '¡Tu artículo está de vuelta: compra ahora!'"}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_245",
+    "english": "waitlist",
+    "spanish": "lista de espera",
+    "phonetic": "/ˈweɪt.lɪst/",
+    "examples": [
+      {"en": "She joined the waitlist for the sold-out bag.", "es": "Ella se unió a la lista de espera para el bolso agotado."},
+      {"en": "The waitlist has 200 people.", "es": "La lista de espera tiene 200 personas."},
+      {"en": "He got an email when his turn came on the waitlist.", "es": "Él recibió un correo cuando le tocó en la lista de espera."},
+      {"en": "Waitlists help brands gauge demand.", "es": "Las listas de espera ayudan a las marcas a medir la demanda."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_246",
+    "english": "restock",
+    "spanish": "reabastecer",
+    "phonetic": "/ˌriːˈstɑːk/",
+    "examples": [
+      {"en": "The store will restock next week.", "es": "La tienda se reabastecerá la próxima semana."},
+      {"en": "She got an alert: 'We’ve restocked your item!'", "es": "Ella recibió una alerta: '¡Hemos reabastecido tu artículo!'"},
+      {"en": "Popular items restock quickly.", "es": "Los artículos populares se reabastecen rápidamente."},
+      {"en": "He checked daily for a restock.", "es": "Él revisó diariamente si se había reabastecido."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_247",
+    "english": "drop",
+    "spanish": "lanzamiento",
+    "phonetic": "/drɑːp/",
+    "examples": [
+      {"en": "The brand announced a new drop for Friday.", "es": "La marca anunció un nuevo lanzamiento para el viernes."},
+      {"en": "She waited online for the midnight drop.", "es": "Ella esperó en línea para el lanzamiento a medianoche."},
+      {"en": "Limited drops sell out in minutes.", "es": "Los lanzamientos limitados se agotan en minutos."},
+      {"en": "He missed the drop and is now on the waitlist.", "es": "Él se perdió el lanzamiento y ahora está en la lista de espera."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_248",
+    "english": "launch",
+    "spanish": "lanzamiento",
+    "phonetic": "/lɔːntʃ/",
+    "examples": [
+      {"en": "The product launch is next month.", "es": "El lanzamiento del producto es el próximo mes."},
+      {"en": "She attended the launch event in New York.", "es": "Ella asistió al evento de lanzamiento en Nueva York."},
+      {"en": "The launch includes exclusive colors.", "es": "El lanzamiento incluye colores exclusivos."},
+      {"en": "He pre-ordered during the launch window.", "es": "Él hizo un pedido anticipado durante la ventana de lanzamiento."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_249",
+    "english": "exclusive",
+    "spanish": "exclusivo",
+    "phonetic": "/ɪkˈskluː.sɪv/",
+    "examples": [
+      {"en": "This color is exclusive to the online store.", "es": "Este color es exclusivo de la tienda en línea."},
+      {"en": "She got an exclusive early access code.", "es": "Ella obtuvo un código exclusivo de acceso anticipado."},
+      {"en": "The collaboration is an exclusive release.", "es": "La colaboración es un lanzamiento exclusivo."},
+      {"en": "Exclusive items often sell out fast.", "es": "Los artículos exclusivos suelen agotarse rápido."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_250",
+    "english": "collaboration",
+    "spanish": "colaboración",
+    "phonetic": "/kəˌlæb.əˈreɪ.ʃən/",
+    "examples": [
+      {"en": "The Nike x Off-White collaboration sold out instantly.", "es": "La colaboración Nike x Off-White se agotó al instante."},
+      {"en": "She collects designer collaborations.", "es": "Ella colecciona colaboraciones de diseñadores."},
+      {"en": "The store promoted the new collaboration heavily.", "es": "La tienda promocionó mucho la nueva colaboración."},
+      {"en": "Collaborations blend two brands’ styles.", "es": "Las colaboraciones mezclan los estilos de dos marcas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_251",
+    "english": "resale",
+    "spanish": "reventa",
+    "phonetic": "/ˌriːˈseɪl/",
+    "examples": [
+      {"en": "He bought sneakers on a resale platform.", "es": "Él compró zapatillas en una plataforma de reventa."},
+      {"en": "Resale prices can be much higher than retail.", "es": "Los precios de reventa pueden ser mucho más altos que los minoristas."},
+      {"en": "She sells her clothes on a resale app.", "es": "Ella vende su ropa en una aplicación de reventa."},
+      {"en": "The resale market is growing fast.", "es": "El mercado de reventa está creciendo rápidamente."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_252",
+    "english": "authentic",
+    "spanish": "auténtico",
+    "phonetic": "/ɔːˈθen.tɪk/",
+    "examples": [
+      {"en": "She verified the bag is authentic before buying.", "es": "Ella verificó que el bolso es auténtico antes de comprar."},
+      {"en": "Authentic items come with certificates.", "es": "Los artículos auténticos vienen con certificados."},
+      {"en": "He avoids resale sites without authentication.", "es": "Él evita sitios de reventa sin autenticación."},
+      {"en": "Authentic vs. counterfeit is a big issue in fashion.", "es": "Auténtico vs. falsificado es un gran problema en la moda."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_253",
+    "english": "counterfeit",
+    "spanish": "falsificado",
+    "phonetic": "/ˈkaʊn.tɚ.fɪt/",
+    "examples": [
+      {"en": "The watch was counterfeit, not real.", "es": "El reloj era falsificado, no era real."},
+      {"en": "She accidentally bought counterfeit sunglasses.", "es": "Ella compró accidentalmente gafas de sol falsificadas."},
+      {"en": "Counterfeit goods harm brands and consumers.", "es": "Los artículos falsificados dañan a marcas y consumidores."},
+      {"en": "He reported the seller for counterfeit items.", "es": "Él denunció al vendedor por artículos falsificados."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_254",
+    "english": "authentication",
+    "spanish": "autenticación",
+    "phonetic": "/ɔːˌθen.tɪˈkeɪ.ʃən/",
+    "examples": [
+      {"en": "The platform offers expert authentication.", "es": "La plataforma ofrece autenticación experta."},
+      {"en": "She paid for authentication before selling.", "es": "Ella pagó por la autenticación antes de vender."},
+      {"en": "Authentication gives buyers peace of mind.", "es": "La autenticación da tranquilidad a los compradores."},
+      {"en": "Luxury resale requires strict authentication.", "es": "La reventa de lujo requiere autenticación estricta."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_255",
+    "english": "condition",
+    "spanish": "estado",
+    "phonetic": "/kənˈdɪʃ.ən/",
+    "examples": [
+      {"en": "The item is in like-new condition.", "es": "El artículo está en estado como nuevo."},
+      {"en": "She described the condition honestly in the listing.", "es": "Ella describió el estado honestamente en el anuncio."},
+      {"en": "Check the condition before buying used.", "es": "Revisa el estado antes de comprar usado."},
+      {"en": "Mint condition means never used.", "es": "Estado impecable significa nunca usado."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_256",
+    "english": "mint condition",
+    "spanish": "estado impecable",
+    "phonetic": "/mɪnt kənˈdɪʃ.ən/",
+    "examples": [
+      {"en": "The comic book is in mint condition.", "es": "El cómic está en estado impecable."},
+      {"en": "He sells vintage toys in mint condition.", "es": "Él vende juguetes vintage en estado impecable."},
+      {"en": "Mint condition items are rare and valuable.", "es": "Los artículos en estado impecable son raros y valiosos."},
+      {"en": "She kept her shoes in mint condition.", "es": "Ella mantuvo sus zapatos en estado impecable."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_257",
+    "english": "like new",
+    "spanish": "como nuevo",
+    "phonetic": "/laɪk nuː/",
+    "examples": [
+      {"en": "The jacket is like new—only worn once.", "es": "La chaqueta es como nueva: solo se usó una vez."},
+      {"en": "She sells clothes in 'like new' condition.", "es": "Ella vende ropa en estado 'como nuevo'."},
+      {"en": "Like new items are almost indistinguishable from new.", "es": "Los artículos como nuevos son casi indistinguibles de los nuevos."},
+      {"en": "He bought a 'like new' phone for half price.", "es": "Él compró un teléfono 'como nuevo' a mitad de precio."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_258",
+    "english": "gently used",
+    "spanish": "usado con cuidado",
+    "phonetic": "/ˈdʒen.t̬li juːzd/",
+    "examples": [
+      {"en": "The sofa is gently used and in great shape.", "es": "El sofá está usado con cuidado y en buen estado."},
+      {"en": "She prefers gently used books to save money.", "es": "Ella prefiere libros usados con cuidado para ahorrar dinero."},
+      {"en": "Gently used means minimal signs of wear.", "es": "Usado con cuidado significa signos mínimos de uso."},
+      {"en": "The store specializes in gently used children’s clothes.", "es": "La tienda se especializa en ropa infantil usada con cuidado."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_259",
+    "english": "well-loved",
+    "spanish": "muy usado",
+    "phonetic": "/ˌwel ˈlʌvd/",
+    "examples": [
+      {"en": "The teddy bear is well-loved but still cute.", "es": "El osito de peluche está muy usado pero sigue siendo lindo."},
+      {"en": "She describes her vintage coat as 'well-loved'.", "es": "Ella describe su abrigo vintage como 'muy usado'."},
+      {"en": "Well-loved items have character and history.", "es": "Los artículos muy usados tienen carácter e historia."},
+      {"en": "He bought a well-loved record for $5.", "es": "Él compró un disco muy usado por $5."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_260",
+    "english": "flaw",
+    "spanish": "defecto",
+    "phonetic": "/flɔː/",
+    "examples": [
+      {"en": "The vase has a small flaw near the base.", "es": "El jarrón tiene un pequeño defecto cerca de la base."},
+      {"en": "She disclosed all flaws in the listing.", "es": "Ella reveló todos los defectos en el anuncio."},
+      {"en": "Flaws can reduce the item’s value.", "es": "Los defectos pueden reducir el valor del artículo."},
+      {"en": "He accepted the flaw for a lower price.", "es": "Él aceptó el defecto por un precio más bajo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_261",
+    "english": "scratch",
+    "spanish": "rayón",
+    "phonetic": "/skrætʃ/",
+    "examples": [
+      {"en": "The phone has a scratch on the screen.", "es": "El teléfono tiene un rayón en la pantalla."},
+      {"en": "She sold the table with minor scratches.", "es": "Ella vendió la mesa con rayones menores."},
+      {"en": "Scratches are common on used furniture.", "es": "Los rayones son comunes en muebles usados."},
+      {"en": "He fixed the scratch with a repair kit.", "es": "Él arregló el rayón con un kit de reparación."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_262",
+    "english": "dent",
+    "spanish": "abolladura",
+    "phonetic": "/dent/",
+    "examples": [
+      {"en": "The car door has a small dent.", "es": "La puerta del coche tiene una pequeña abolladura."},
+      {"en": "She bought the can with a dent at a discount.", "es": "Ella compró la lata con una abolladura con descuento."},
+      {"en": "Dents can often be repaired.", "es": "Las abolladuras a menudo se pueden reparar."},
+      {"en": "He avoided the dented product.", "es": "Él evitó el producto abollado."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_263",
+    "english": "stain",
+    "spanish": "mancha",
+    "phonetic": "/steɪn/",
+    "examples": [
+      {"en": "The shirt has a coffee stain.", "es": "La camisa tiene una mancha de café."},
+      {"en": "She removed the stain with special soap.", "es": "Ella quitó la mancha con jabón especial."},
+      {"en": "Stains may affect the return policy.", "es": "Las manchas pueden afectar la política de devolución."},
+      {"en": "He returned the dress because of a stain.", "es": "Él devolvió el vestido por una mancha."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_264",
+    "english": "tag still attached",
+    "spanish": "etiqueta aún puesta",
+    "phonetic": "/tæɡ stɪl əˈtætʃt/",
+    "examples": [
+      {"en": "The dress is new with tag still attached.", "es": "El vestido es nuevo con la etiqueta aún puesta."},
+      {"en": "She bought it but never wore it—tag still attached.", "es": "Ella lo compró pero nunca lo usó: etiqueta aún puesta."},
+      {"en": "Items with tag still attached sell for more.", "es": "Los artículos con etiqueta aún puesta se venden por más."},
+      {"en": "He listed it as 'new with tags'.", "es": "Él lo listó como 'nuevo con etiquetas'."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_265",
+    "english": "new with tags",
+    "spanish": "nuevo con etiquetas",
+    "phonetic": "/nuː wɪð tæɡz/",
+    "examples": [
+      {"en": "She sells designer clothes new with tags.", "es": "Ella vende ropa de diseñador nueva con etiquetas."},
+      {"en": "The jacket is new with tags—never worn.", "es": "La chaqueta es nueva con etiquetas: nunca usada."},
+      {"en": "New with tags items are like retail but cheaper.", "es": "Los artículos nuevos con etiquetas son como en tienda pero más baratos."},
+      {"en": "He found a deal on new with tags sneakers.", "es": "Él encontró una oferta en zapatillas nuevas con etiquetas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_266",
+    "english": "deadstock",
+    "spanish": "stock muerto",
+    "phonetic": "/ˈded.stɑːk/",
+    "examples": [
+      {"en": "The sneakers are deadstock—never released.", "es": "Las zapatillas son stock muerto: nunca lanzadas."},
+      {"en": "Deadstock items are rare and valuable.", "es": "Los artículos de stock muerto son raros y valiosos."},
+      {"en": "She collects deadstock vintage clothing.", "es": "Ella colecciona ropa vintage de stock muerto."},
+      {"en": "Deadstock means new, unused, and often old inventory.", "es": "Stock muerto significa nuevo, sin usar y a menudo inventario antiguo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_267",
+    "english": "sample sale",
+    "spanish": "venta de muestras",
+    "phonetic": "/ˈsæm.pəl seɪl/",
+    "examples": [
+      {"en": "She scored designer dresses at the sample sale.", "es": "Ella consiguió vestidos de diseñador en la venta de muestras."},
+      {"en": "Sample sales offer huge discounts.", "es": "Las ventas de muestras ofrecen grandes descuentos."},
+      {"en": "The sample sale is invitation-only.", "es": "La venta de muestras es solo con invitación."},
+      {"en": "Samples may have minor flaws.", "es": "Las muestras pueden tener defectos menores."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_268",
+    "english": "private sale",
+    "spanish": "venta privada",
+    "phonetic": "/ˈpraɪ.vət seɪl/",
+    "examples": [
+      {"en": "She got early access to the private sale.", "es": "Ella obtuvo acceso anticipado a la venta privada."},
+      {"en": "Private sales are for loyalty members only.", "es": "Las ventas privadas son solo para miembros de fidelidad."},
+      {"en": "He bought a suit at 50% off in the private sale.", "es": "Él compró un traje con 50% de descuento en la venta privada."},
+      {"en": "Private sales create exclusivity and urgency.", "es": "Las ventas privadas crean exclusividad y urgencia."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_269",
+    "english": "flash sale",
+    "spanish": "oferta relámpago",
+    "phonetic": "/flæʃ seɪl/",
+    "examples": [
+      {"en": "The flash sale lasts only 24 hours.", "es": "La oferta relámpago dura solo 24 horas."},
+      {"en": "She set an alarm for the flash sale.", "es": "Ella puso una alarma para la oferta relámpago."},
+      {"en": "Flash sales offer deep discounts for a short time.", "es": "Las ofertas relámpago ofrecen grandes descuentos por poco tiempo."},
+      {"en": "He missed the flash sale and regretted it.", "es": "Él se perdió la oferta relámpago y lo lamentó."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_270",
+    "english": "doorbuster",
+    "spanish": "oferta de apertura",
+    "phonetic": "/ˈdɔːrˌbʌs.t̬ɚ/",
+    "examples": [
+      {"en": "The Black Friday doorbuster is a $100 TV.", "es": "La oferta de apertura del Viernes Negro es una TV de $100."},
+      {"en": "She waited in line for the doorbuster deal.", "es": "Ella hizo fila para la oferta de apertura."},
+      {"en": "Doorbusters are limited in quantity.", "es": "Las ofertas de apertura son limitadas en cantidad."},
+      {"en": "He got the last doorbuster item.", "es": "Él consiguió el último artículo de la oferta de apertura."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_271",
+    "english": "BOGO",
+    "spanish": "compra uno, lleva otro",
+    "phonetic": "/ˈboʊ.ɡoʊ/",
+    "examples": [
+      {"en": "The store has a BOGO deal on socks.", "es": "La tienda tiene una oferta de compra uno, lleva otro en calcetines."},
+      {"en": "She loves BOGO sales for toiletries.", "es": "A ella le encantan las ofertas de compra uno, lleva otro en artículos de tocador."},
+      {"en": "BOGO means 'buy one, get one free'.", "es": "BOGO significa 'compra uno, lleva otro gratis'."},
+      {"en": "He stocked up during the BOGO event.", "es": "Él hizo acopio durante el evento de compra uno, lleva otro."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_272",
+    "english": "bundle",
+    "spanish": "paquete",
+    "phonetic": "/ˈbʌn.dəl/",
+    "examples": [
+      {"en": "The bundle includes shampoo and conditioner.", "es": "El paquete incluye champú y acondicionador."},
+      {"en": "She saved money with the skincare bundle.", "es": "Ella ahorró dinero con el paquete de cuidado de la piel."},
+      {"en": "Bundles offer better value than buying separately.", "es": "Los paquetes ofrecen mejor valor que comprar por separado."},
+      {"en": "He bought a gaming bundle with extra controllers.", "es": "Él compró un paquete de juegos con controles extra."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_273",
+    "english": "value pack",
+    "spanish": "paquete económico",
+    "phonetic": "/ˈvæl.juː pæk/",
+    "examples": [
+      {"en": "The value pack has 24 rolls of toilet paper.", "es": "El paquete económico tiene 24 rollos de papel higiénico."},
+      {"en": "She buys value packs to save money long-term.", "es": "Ella compra paquetes económicos para ahorrar dinero a largo plazo."},
+      {"en": "Value packs are ideal for large families.", "es": "Los paquetes económicos son ideales para familias grandes."},
+      {"en": "He compared unit prices of value packs vs single items.", "es": "Él comparó precios unitarios de paquetes económicos vs artículos individuales."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_274",
+    "english": "unit price",
+    "spanish": "precio unitario",
+    "phonetic": "/ˈjuː.nɪt praɪs/",
+    "examples": [
+      {"en": "Check the unit price to compare value.", "es": "Revisa el precio unitario para comparar valor."},
+      {"en": "The unit price is $0.10 per ounce.", "es": "El precio unitario es $0.10 por onza."},
+      {"en": "She always calculates unit price at the grocery store.", "es": "Ella siempre calcula el precio unitario en el supermercado."},
+      {"en": "Larger packages often have a lower unit price.", "es": "Los paquetes más grandes suelen tener un precio unitario más bajo."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_275",
+    "english": "price per pound",
+    "spanish": "precio por libra",
+    "phonetic": "/praɪs pɚ paʊnd/",
+    "examples": [
+      {"en": "The cheese costs $8.99 per pound.", "es": "El queso cuesta $8.99 por libra."},
+      {"en": "She compared price per pound for different meats.", "es": "Ella comparó el precio por libra de diferentes carnes."},
+      {"en": "The scale shows price per pound automatically.", "es": "La báscula muestra el precio por libra automáticamente."},
+      {"en": "Price per pound helps you budget for groceries.", "es": "El precio por libra te ayuda a presupuestar comestibles."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_276",
+    "english": "loss leader",
+    "spanish": "artículo gancho",
+    "phonetic": "/ˈlɔːs ˌliː.dɚ/",
+    "examples": [
+      {"en": "The store sells milk as a loss leader to attract customers.", "es": "La tienda vende leche como artículo gancho para atraer clientes."},
+      {"en": "Loss leaders are priced below cost.", "es": "Los artículos gancho se venden por debajo del costo."},
+      {"en": "He came for the loss leader but bought other items too.", "es": "Él vino por el artículo gancho pero compró otros artículos también."},
+      {"en": "Black Friday ads are full of loss leaders.", "es": "Los anuncios del Viernes Negro están llenos de artículos gancho."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_277",
+    "english": "anchor pricing",
+    "spanish": "precios ancla",
+    "phonetic": "/ˈæŋ.kɚ ˈpraɪ.sɪŋ/",
+    "examples": [
+      {"en": "The original price is crossed out—anchor pricing.", "es": "El precio original está tachado: precios ancla."},
+      {"en": "Anchor pricing makes the sale price seem like a better deal.", "es": "Los precios ancla hacen que el precio de oferta parezca mejor."},
+      {"en": "She noticed the anchor pricing trick.", "es": "Ella notó el truco de precios ancla."},
+      {"en": "Retailers use anchor pricing to influence perception.", "es": "Los minoristas usan precios ancla para influir en la percepción."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_278",
+    "english": "psychological pricing",
+    "spanish": "precios psicológicos",
+    "phonetic": "/ˌsaɪ.kəˈlɑː.dʒɪ.kəl ˈpraɪ.sɪŋ/",
+    "examples": [
+      {"en": "Prices ending in .99 use psychological pricing.", "es": "Los precios que terminan en .99 usan precios psicológicos."},
+      {"en": "She feels $9.99 is much cheaper than $10.", "es": "Ella siente que $9.99 es mucho más barato que $10."},
+      {"en": "Psychological pricing affects buying decisions.", "es": "Los precios psicológicos afectan las decisiones de compra."},
+      {"en": "He avoids stores that use psychological pricing.", "es": "Él evita tiendas que usan precios psicológicos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_279",
+    "english": "dynamic pricing",
+    "spanish": "precios dinámicos",
+    "phonetic": "/daɪˈnæm.ɪk ˈpraɪ.sɪŋ/",
+    "examples": [
+      {"en": "Airlines use dynamic pricing based on demand.", "es": "Las aerolíneas usan precios dinámicos según la demanda."},
+      {"en": "She noticed the price changed hourly—dynamic pricing.", "es": "Ella notó que el precio cambiaba por hora: precios dinámicos."},
+      {"en": "Dynamic pricing can lead to higher costs at peak times.", "es": "Los precios dinámicos pueden llevar a costos más altos en horas pico."},
+      {"en": "He booked early to avoid dynamic pricing hikes.", "es": "Él reservó temprano para evitar aumentos por precios dinámicos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_280",
+    "english": "price gouging",
+    "spanish": "aumento abusivo de precios",
+    "phonetic": "/ˈpraɪs ˌɡaʊ.dʒɪŋ/",
+    "examples": [
+      {"en": "Price gouging is illegal during emergencies.", "es": "El aumento abusivo de precios es ilegal durante emergencias."},
+      {"en": "He reported the store for price gouging on water.", "es": "Él denunció a la tienda por aumento abusivo de precios en agua."},
+      {"en": "Price gouging exploits consumers in crisis.", "es": "El aumento abusivo de precios explota a los consumidores en crisis."},
+      {"en": "She avoided online sellers practicing price gouging.", "es": "Ella evitó vendedores en línea que practican aumento abusivo de precios."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_281",
+    "english": "price freeze",
+    "spanish": "congelación de precios",
+    "phonetic": "/ˈpraɪs friːz/",
+    "examples": [
+      {"en": "The government announced a price freeze on essentials.", "es": "El gobierno anunció una congelación de precios en artículos esenciales."},
+      {"en": "During the crisis, they implemented a price freeze.", "es": "Durante la crisis, implementaron una congelación de precios."},
+      {"en": "Price freeze helps control inflation.", "es": "La congelación de precios ayuda a controlar la inflación."},
+      {"en": "She welcomed the price freeze on groceries.", "es": "Ella celebró la congelación de precios en comestibles."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_282",
+    "english": "haggle",
+    "spanish": "regatear",
+    "phonetic": "/ˈhæɡ.əl/",
+    "examples": [
+      {"en": "You can haggle at flea markets and bazaars.", "es": "Puedes regatear en mercados de pulgas y bazares."},
+      {"en": "She haggled the price down by 20%.", "es": "Ella regateó el precio un 20% menos."},
+      {"en": "He doesn’t like to haggle—it feels uncomfortable.", "es": "Él no le gusta regatear: se siente incómodo."},
+      {"en": "Haggling is expected in some countries.", "es": "Regatear es esperado en algunos países."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_283",
+    "english": "final sale",
+    "spanish": "venta final",
+    "phonetic": "/ˈfaɪ.nəl seɪl/",
+    "examples": [
+      {"en": "All clearance items are final sale.", "es": "Todos los artículos de saldo son venta final."},
+      {"en": "She read the tag: 'final sale, no returns'.", "es": "Ella leyó la etiqueta: 'venta final, sin devoluciones'."},
+      {"en": "Final sale means no refunds or exchanges.", "es": "Venta final significa sin reembolsos ni cambios."},
+      {"en": "He bought it knowing it was final sale.", "es": "Él lo compró sabiendo que era venta final."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_284",
+    "english": "rain check",
+    "spanish": "vale para más tarde",
+    "phonetic": "/ˈreɪn tʃek/",
+    "examples": [
+      {"en": "The store gave her a rain check for the sold-out item.", "es": "La tienda le dio un vale para más tarde por el artículo agotado."},
+      {"en": "He used his rain check when the item restocked.", "es": "Él usó su vale para más tarde cuando el artículo se reabasteció."},
+      {"en": "Rain checks guarantee the sale price later.", "es": "Los vales para más tarde garantizan el precio de oferta después."},
+      {"en": "Not all stores offer rain checks.", "es": "No todas las tiendas ofrecen vales para más tarde."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_285",
+    "english": "price adjustment",
+    "spanish": "ajuste de precio",
+    "phonetic": "/ˈpraɪs əˌdʒʌs.mənt/",
+    "examples": [
+      {"en": "She got a price adjustment when the item went on sale.", "es": "Ella obtuvo un ajuste de precio cuando el artículo entró en oferta."},
+      {"en": "The store offers price adjustments within 14 days.", "es": "La tienda ofrece ajustes de precio dentro de 14 días."},
+      {"en": "He brought his receipt for a price adjustment.", "es": "Él llevó su recibo para un ajuste de precio."},
+      {"en": "Price adjustments protect early buyers.", "es": "Los ajustes de precio protegen a los compradores tempranos."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_286",
+    "english": "open box",
+    "spanish": "caja abierta",
+    "phonetic": "/ˈoʊ.pən bɑːks/",
+    "examples": [
+      {"en": "He bought an open box laptop for 20% off.", "es": "Él compró una laptop de caja abierta con 20% de descuento."},
+      {"en": "Open box items are tested and like new.", "es": "Los artículos de caja abierta están probados y como nuevos."},
+      {"en": "The store has an open box section.", "es": "La tienda tiene una sección de caja abierta."},
+      {"en": "Open box deals are great for budget shoppers.", "es": "Las ofertas de caja abierta son geniales para compradores con presupuesto."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_287",
+    "english": "refurbished",
+    "spanish": "remanufacturado",
+    "phonetic": "/ˌriːˈfɝː.bɪʃt/",
+    "examples": [
+      {"en": "She bought a refurbished iPhone to save money.", "es": "Ella compró un iPhone remanufacturado para ahorrar dinero."},
+      {"en": "Refurbished electronics come with a warranty.", "es": "Los electrónicos remanufacturados vienen con garantía."},
+      {"en": "He prefers certified refurbished products.", "es": "Él prefiere productos remanufacturados certificados."},
+      {"en": "Refurbished items are tested and repaired.", "es": "Los artículos remanufacturados se prueban y reparan."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_288",
+    "english": "certified refurbished",
+    "spanish": "remanufacturado certificado",
+    "phonetic": "/ˌsɝː.t̬ə.faɪd riːˈfɝː.bɪʃt/",
+    "examples": [
+      {"en": "The certified refurbished laptop looks brand new.", "es": "La laptop remanufacturada certificada se ve como nueva."},
+      {"en": "She trusts certified refurbished from the manufacturer.", "es": "Ella confía en remanufacturado certificado del fabricante."},
+      {"en": "Certified refurbished includes new battery and box.", "es": "Remanufacturado certificado incluye batería nueva y caja."},
+      {"en": "He saved $200 with certified refurbished.", "es": "Él ahorró $200 con remanufacturado certificado."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_289",
+    "english": "as-is",
+    "spanish": "tal como está",
+    "phonetic": "/æz ˈɪz/",
+    "examples": [
+      {"en": "The furniture is sold as-is, no returns.", "es": "Los muebles se venden tal como están, sin devoluciones."},
+      {"en": "She bought the car as-is from a private seller.", "es": "Ella compró el coche tal como está de un vendedor privado."},
+      {"en": "As-is items may have hidden flaws.", "es": "Los artículos tal como están pueden tener defectos ocultos."},
+      {"en": "He inspected it carefully before buying as-is.", "es": "Él lo inspeccionó cuidadosamente antes de comprarlo tal como está."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_290",
+    "english": "floor model",
+    "spanish": "modelo de exhibición",
+    "phonetic": "/ˈflɔːr ˌmɑː.dəl/",
+    "examples": [
+      {"en": "He bought the floor model sofa at a discount.", "es": "Él compró el sofá modelo de exhibición con descuento."},
+      {"en": "Floor models are used for display but work perfectly.", "es": "Los modelos de exhibición se usan para mostrar pero funcionan perfectamente."},
+      {"en": "She asked if they sell floor models.", "es": "Ella preguntó si venden modelos de exhibición."},
+      {"en": "Floor models may have minor wear.", "es": "Los modelos de exhibición pueden tener desgaste menor."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_291",
+    "english": "demo unit",
+    "spanish": "unidad de demostración",
+    "phonetic": "/ˈdem.oʊ ˌjuː.nɪt/",
+    "examples": [
+      {"en": "The demo unit TV was half price.", "es": "La unidad de demostración de TV costaba la mitad."},
+      {"en": "Demo units are tested by customers in-store.", "es": "Las unidades de demostración son probadas por clientes en la tienda."},
+      {"en": "She bought a demo unit laptop with full warranty.", "es": "Ella compró una unidad de demostración de laptop con garantía completa."},
+      {"en": "Demo units are cleaned and reset before sale.", "es": "Las unidades de demostración se limpian y reinician antes de la venta."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_292",
+    "english": "closeout",
+    "spanish": "liquidación final",
+    "phonetic": "/ˈkloʊz.aʊt/",
+    "examples": [
+      {"en": "The store is having a closeout sale before closing.", "es": "La tienda tiene una liquidación final antes de cerrar."},
+      {"en": "Closeout items are deeply discounted.", "es": "Los artículos de liquidación final tienen grandes descuentos."},
+      {"en": "She found designer shoes at closeout prices.", "es": "Ella encontró zapatos de diseñador a precios de liquidación final."},
+      {"en": "Closeout means no more stock will be ordered.", "es": "Liquidación final significa que no se pedirá más stock."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_293",
+    "english": "overstock",
+    "spanish": "exceso de inventario",
+    "phonetic": "/ˌoʊ.vɚˈstɑːk/",
+    "examples": [
+      {"en": "The overstock warehouse sells brand-name items cheap.", "es": "El almacén de exceso de inventario vende artículos de marca baratos."},
+      {"en": "She bought overstock towels for half price.", "es": "Ella compró toallas de exceso de inventario a mitad de precio."},
+      {"en": "Overstock items are new but excess inventory.", "es": "Los artículos de exceso de inventario son nuevos pero inventario sobrante."},
+      {"en": "He shops at overstock sites for deals.", "es": "Él compra en sitios de exceso de inventario para ofertas."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_294",
+    "english": "last chance",
+    "spanish": "última oportunidad",
+    "phonetic": "/ˈlæst tʃæns/",
+    "examples": [
+      {"en": "Last chance to buy—sale ends tonight!", "es": "¡Última oportunidad de comprar: la oferta termina esta noche!"},
+      {"en": "She grabbed the last chance deal on winter coats.", "es": "Ella aprovechó la oferta de última oportunidad en abrigos de invierno."},
+      {"en": "Last chance items are final sale.", "es": "Los artículos de última oportunidad son venta final."},
+      {"en": "He missed the last chance and regretted it.", "es": "Él se perdió la última oportunidad y lo lamentó."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_295",
+    "english": "clearance rack",
+    "spanish": "perchero de saldos",
+    "phonetic": "/ˈklɪr.əns ræk/",
+    "examples": [
+      {"en": "She found a dress for $5 on the clearance rack.", "es": "Ella encontró un vestido por $5 en el perchero de saldos."},
+      {"en": "The clearance rack is at the back of the store.", "es": "El perchero de saldos está al fondo de la tienda."},
+      {"en": "Clearance rack items are final sale.", "es": "Los artículos del perchero de saldos son venta final."},
+      {"en": "He checks the clearance rack every visit.", "es": "Él revisa el perchero de saldos en cada visita."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_296",
+    "english": "end-of-season sale",
+    "spanish": "liquidación de fin de temporada",
+    "phonetic": "/ˌend əv ˈsiː.zən seɪl/",
+    "examples": [
+      {"en": "The end-of-season sale has 70% off winter coats.", "es": "La liquidación de fin de temporada tiene 70% de descuento en abrigos de invierno."},
+      {"en": "She stocks up on swimwear during summer end-of-season sales.", "es": "Ella hace acopio de trajes de baño durante las liquidaciones de fin de verano."},
+      {"en": "End-of-season sales clear inventory for new arrivals.", "es": "Las liquidaciones de fin de temporada despejan inventario para novedades."},
+      {"en": "He bought boots in the fall end-of-season sale.", "es": "Él compró botas en la liquidación de fin de otoño."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_297",
+    "english": "seasonal sale",
+    "spanish": "oferta de temporada",
+    "phonetic": "/ˈsiː.zən.əl seɪl/",
+    "examples": [
+      {"en": "The seasonal sale includes holiday decorations.", "es": "La oferta de temporada incluye decoraciones navideñas."},
+      {"en": "She waits for seasonal sales to buy gifts.", "es": "Ella espera ofertas de temporada para comprar regalos."},
+      {"en": "Seasonal sales happen around major holidays.", "es": "Las ofertas de temporada ocurren alrededor de días festivos importantes."},
+      {"en": "He got a great deal in the back-to-school seasonal sale.", "es": "Él consiguió una gran oferta en la oferta de temporada de regreso a clases."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_298",
+    "english": "mid-season sale",
+    "spanish": "oferta de mitad de temporada",
+    "phonetic": "/ˌmɪd ˈsiː.zən seɪl/",
+    "examples": [
+      {"en": "The mid-season sale refreshes slow-moving inventory.", "es": "La oferta de mitad de temporada renueva el inventario de movimiento lento."},
+      {"en": "She found spring dresses on mid-season sale.", "es": "Ella encontró vestidos de primavera en oferta de mitad de temporada."},
+      {"en": "Mid-season sales are smaller than end-of-season.", "es": "Las ofertas de mitad de temporada son más pequeñas que las de fin de temporada."},
+      {"en": "He bought sandals in the summer mid-season sale.", "es": "Él compró sandalias en la oferta de mitad de verano."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_299",
+    "english": "white sale",
+    "spanish": "liquidación blanca",
+    "phonetic": "/ˈwaɪt seɪl/",
+    "examples": [
+      {"en": "The white sale offers discounts on bedding and towels.", "es": "La liquidación blanca ofrece descuentos en ropa de cama y toallas."},
+      {"en": "She shops the white sale every January.", "es": "Ella compra en la liquidación blanca cada enero."},
+      {"en": "White sales started in the 1800s for linens.", "es": "Las liquidaciones blancas comenzaron en los 1800s para ropa blanca."},
+      {"en": "He bought sheets during the white sale.", "es": "Él compró sábanas durante la liquidación blanca."}
+    ],
+    "category": "Shopping"
+  },
+  {
+    "id": "shop_300",
+    "english": "green Monday",
+    "spanish": "lunes verde",
+    "phonetic": "/ˌɡriːn ˈmʌn.deɪ/",
+    "examples": [
+      {"en": "Green Monday is the second-biggest online shopping day.", "es": "El lunes verde es el segundo día más grande de compras en línea."},
+      {"en": "She waits for Green Monday for tech deals.", "es": "Ella espera el lunes verde para ofertas de tecnología."},
+      {"en": "Green Monday falls on the second Monday of December.", "es": "El lunes verde cae el segundo lunes de diciembre."},
+      {"en": "He got free shipping on Green Monday.", "es": "Él obtuvo envío gratis el lunes verde."}
+    ],
+    "category": "Shopping"
+  }
+]

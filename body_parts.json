@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "body_1",
+    "english": "hand",
+    "spanish": "mano",
+    "phonetic": "/hænd/",
+    "examples": [
+      {"en": "Raise your hand if you know the answer.", "es": "Levanta la mano si sabes la respuesta."},
+      {"en": "He shook my hand firmly.", "es": "Él me estrechó la mano firmemente."},
+      {"en": "Wash your hands before eating.", "es": "Lávate las manos antes de comer."},
+      {"en": "She has soft hands.", "es": "Ella tiene manos suaves."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_2",
+    "english": "arm",
+    "spanish": "brazo",
+    "phonetic": "/ɑːrm/",
+    "examples": [
+      {"en": "He broke his arm playing soccer.", "es": "Él se rompió el brazo jugando fútbol."},
+      {"en": "She has a tattoo on her arm.", "es": "Ella tiene un tatuaje en el brazo."},
+      {"en": "Lift your arms above your head.", "es": "Levanta los brazos por encima de tu cabeza."},
+      {"en": "His arms are very strong.", "es": "Sus brazos son muy fuertes."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_3",
+    "english": "elbow",
+    "spanish": "codo",
+    "phonetic": "/ˈelboʊ/",
+    "examples": [
+      {"en": "He hit his elbow on the table.", "es": "Él se golpeó el codo en la mesa."},
+      {"en": "Rest your elbows on the desk.", "es": "Apoya los codos en el escritorio."},
+      {"en": "She has a bruise on her elbow.", "es": "Ella tiene un moretón en el codo."},
+      {"en": "The elbow joint is flexible.", "es": "La articulación del codo es flexible."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_4",
+    "english": "wrist",
+    "spanish": "muñeca",
+    "phonetic": "/rɪst/",
+    "examples": [
+      {"en": "She wears a bracelet on her wrist.", "es": "Ella lleva una pulsera en la muñeca."},
+      {"en": "He sprained his wrist.", "es": "Él se torció la muñeca."},
+      {"en": "Check your pulse at the wrist.", "es": "Revisa tu pulso en la muñeca."},
+      {"en": "The watch fits snugly on his wrist.", "es": "El reloj le queda ajustado en la muñeca."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_5",
+    "english": "finger",
+    "spanish": "dedo (de la mano)",
+    "phonetic": "/ˈfɪŋɡər/",
+    "examples": [
+      {"en": "She has a ring on her finger.", "es": "Ella tiene un anillo en el dedo."},
+      {"en": "He cut his finger while cooking.", "es": "Él se cortó el dedo mientras cocinaba."},
+      {"en": "Count on your fingers.", "es": "Cuenta con los dedos."},
+      {"en": "My fingers are cold.", "es": "Mis dedos están fríos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_6",
+    "english": "thumb",
+    "spanish": "pulgar",
+    "phonetic": "/θʌm/",
+    "examples": [
+      {"en": "He gave a thumbs-up.", "es": "Él hizo un gesto de aprobación con el pulgar."},
+      {"en": "She hurt her thumb with a hammer.", "es": "Ella se lastimó el pulgar con un martillo."},
+      {"en": "The thumb is the strongest finger.", "es": "El pulgar es el dedo más fuerte."},
+      {"en": "He has a callus on his thumb.", "es": "Él tiene una callosidad en el pulgar."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_7",
+    "english": "nail",
+    "spanish": "uña",
+    "phonetic": "/neɪl/",
+    "examples": [
+      {"en": "She painted her nails red.", "es": "Ella se pintó las uñas de rojo."},
+      {"en": "Keep your nails clean and short.", "es": "Mantén las uñas limpias y cortas."},
+      {"en": "He broke a nail.", "es": "Él se rompió una uña."},
+      {"en": "Fingernails grow slowly.", "es": "Las uñas de los dedos crecen lentamente."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_8",
+    "english": "leg",
+    "spanish": "pierna",
+    "phonetic": "/leɡ/",
+    "examples": [
+      {"en": "He has long legs.", "es": "Él tiene piernas largas."},
+      {"en": "She injured her leg in the accident.", "es": "Ella se lesionó la pierna en el accidente."},
+      {"en": "Cross your legs when you sit.", "es": "Cruza las piernas cuando te sientes."},
+      {"en": "My legs are tired after running.", "es": "Mis piernas están cansadas después de correr."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_9",
+    "english": "knee",
+    "spanish": "rodilla",
+    "phonetic": "/niː/",
+    "examples": [
+      {"en": "He fell and hurt his knee.", "es": "Él se cayó y se lastimó la rodilla."},
+      {"en": "She has a scar on her knee.", "es": "Ella tiene una cicatriz en la rodilla."},
+      {"en": "Bend your knees when you jump.", "es": "Dobla las rodillas cuando saltes."},
+      {"en": "The knee is a complex joint.", "es": "La rodilla es una articulación compleja."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_10",
+    "english": "ankle",
+    "spanish": "tobillo",
+    "phonetic": "/ˈæŋkl/",
+    "examples": [
+      {"en": "She twisted her ankle walking.", "es": "Ella se torció el tobillo caminando."},
+      {"en": "He wears an ankle bracelet.", "es": "Él lleva una pulsera en el tobillo."},
+      {"en": "The ankle connects the foot and leg.", "es": "El tobillo conecta el pie y la pierna."},
+      {"en": "My ankle still hurts.", "es": "Mi tobillo todavía duele."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_11",
+    "english": "foot",
+    "spanish": "pie",
+    "phonetic": "/fʊt/",
+    "examples": [
+      {"en": "Wash your feet every day.", "es": "Lávate los pies todos los días."},
+      {"en": "He has big feet.", "es": "Él tiene pies grandes."},
+      {"en": "She stepped on a sharp rock with her foot.", "es": "Ella pisó una roca afilada con el pie."},
+      {"en": "My feet are cold.", "es": "Mis pies están fríos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_12",
+    "english": "toe",
+    "spanish": "dedo (del pie)",
+    "phonetic": "/toʊ/",
+    "examples": [
+      {"en": "He stubbed his toe on the table.", "es": "Él se golpeó el dedo del pie con la mesa."},
+      {"en": "She painted her toenails blue.", "es": "Ella se pintó las uñas de los pies de azul."},
+      {"en": "My little toe hurts.", "es": "Mi dedo meñique del pie duele."},
+      {"en": "Wiggle your toes.", "es": "Mueve los dedos de los pies."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_13",
+    "english": "head",
+    "spanish": "cabeza",
+    "phonetic": "/hed/",
+    "examples": [
+      {"en": "She has a headache.", "es": "Ella tiene dolor de cabeza."},
+      {"en": "He nodded his head yes.", "es": "Él asintió con la cabeza."},
+      {"en": "Keep your head up.", "es": "Mantén la cabeza en alto."},
+      {"en": "My head is spinning.", "es": "Me da vueltas la cabeza."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_14",
+    "english": "hair",
+    "spanish": "cabello",
+    "phonetic": "/her/",
+    "examples": [
+      {"en": "She has long black hair.", "es": "Ella tiene cabello negro largo."},
+      {"en": "He combed his hair this morning.", "es": "Él se peinó el cabello esta mañana."},
+      {"en": "Don’t pull my hair!", "es": "¡No me jales el cabello!"},
+      {"en": "Her hair is curly.", "es": "Su cabello es rizado."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_15",
+    "english": "forehead",
+    "spanish": "frente",
+    "phonetic": "/ˈfɔːrhed/",
+    "examples": [
+      {"en": "He wiped sweat from his forehead.", "es": "Él se secó el sudor de la frente."},
+      {"en": "She has a bump on her forehead.", "es": "Ella tiene un chichón en la frente."},
+      {"en": "The baby has a warm forehead.", "es": "El bebé tiene la frente caliente."},
+      {"en": "He frowned, wrinkling his forehead.", "es": "Él frunció el ceño, arrugando la frente."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_16",
+    "english": "eyebrow",
+    "spanish": "ceja",
+    "phonetic": "/ˈaɪbraʊ/",
+    "examples": [
+      {"en": "She plucked her eyebrows.", "es": "Ella se depiló las cejas."},
+      {"en": "He raised his eyebrows in surprise.", "es": "Él levantó las cejas sorprendido."},
+      {"en": "Her eyebrows are very dark.", "es": "Sus cejas son muy oscuras."},
+      {"en": "The scar goes through his eyebrow.", "es": "La cicatriz atraviesa su ceja."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_17",
+    "english": "eye",
+    "spanish": "ojo",
+    "phonetic": "/aɪ/",
+    "examples": [
+      {"en": "She has green eyes.", "es": "Ella tiene ojos verdes."},
+      {"en": "He closed his eyes to sleep.", "es": "Él cerró los ojos para dormir."},
+      {"en": "Look me in the eye.", "es": "Mírame a los ojos."},
+      {"en": "My eyes hurt from the screen.", "es": "Me duelen los ojos por la pantalla."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_18",
+    "english": "eyelash",
+    "spanish": "pestaña",
+    "phonetic": "/ˈaɪlæʃ/",
+    "examples": [
+      {"en": "She has long eyelashes.", "es": "Ella tiene pestañas largas."},
+      {"en": "He got dust in his eyelashes.", "es": "Él tuvo polvo en las pestañas."},
+      {"en": "She applied mascara to her eyelashes.", "es": "Ella se aplicó rímel en las pestañas."},
+      {"en": "Eyelashes protect the eyes.", "es": "Las pestañas protegen los ojos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_19",
+    "english": "eyelid",
+    "spanish": "párpado",
+    "phonetic": "/ˈaɪlɪd/",
+    "examples": [
+      {"en": "She has swollen eyelids.", "es": "Ella tiene párpados hinchados."},
+      {"en": "He blinked his eyelids slowly.", "es": "Él parpadeó lentamente."},
+      {"en": "My eyelid is twitching.", "es": "Me tiembla el párpado."},
+      {"en": "Eyelids close when we sleep.", "es": "Los párpados se cierran cuando dormimos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_20",
+    "english": "pupil",
+    "spanish": "pupila",
+    "phonetic": "/ˈpjuːpl/",
+    "examples": [
+      {"en": "The pupil gets bigger in the dark.", "es": "La pupila se agranda en la oscuridad."},
+      {"en": "The doctor checked his pupils.", "es": "El médico le revisó las pupilas."},
+      {"en": "Her pupils dilated with fear.", "es": "Sus pupilas se dilataron de miedo."},
+      {"en": "Light affects the size of the pupil.", "es": "La luz afecta el tamaño de la pupila."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_21",
+    "english": "iris",
+    "spanish": "iris",
+    "phonetic": "/ˈaɪrɪs/",
+    "examples": [
+      {"en": "The iris gives the eye its color.", "es": "El iris le da color al ojo."},
+      {"en": "Her iris is blue.", "es": "Su iris es azul."},
+      {"en": "The iris controls how much light enters.", "es": "El iris controla cuánta luz entra."},
+      {"en": "Iris scanners are used for security.", "es": "Los escáneres de iris se usan para seguridad."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_22",
+    "english": "ear",
+    "spanish": "oreja",
+    "phonetic": "/ɪr/",
+    "examples": [
+      {"en": "She has pierced ears.", "es": "Ella tiene orejas perforadas."},
+      {"en": "He whispered in her ear.", "es": "Él le susurró al oído."},
+      {"en": "My ears are ringing.", "es": "Me zumban las orejas."},
+      {"en": "Cover your ears from the noise.", "es": "Tápate las orejas del ruido."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_23",
+    "english": "earlobe",
+    "spanish": "lóbulo de la oreja",
+    "phonetic": "/ˈɪrloʊb/",
+    "examples": [
+      {"en": "She wears earrings on her earlobes.", "es": "Ella lleva aretes en los lóbulos de las orejas."},
+      {"en": "His earlobes are attached.", "es": "Sus lóbulos de oreja están adheridos."},
+      {"en": "The earlobe is soft and fleshy.", "es": "El lóbulo de la oreja es suave y carnoso."},
+      {"en": "She stretched her earlobes with plugs.", "es": "Ella estiró sus lóbulos con tapones."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_24",
+    "english": "nose",
+    "spanish": "nariz",
+    "phonetic": "/noʊz/",
+    "examples": [
+      {"en": "He has a big nose.", "es": "Él tiene una nariz grande."},
+      {"en": "She wiped her nose with a tissue.", "es": "Ella se limpió la nariz con un pañuelo."},
+      {"en": "My nose is running.", "es": "Me está goteando la nariz."},
+      {"en": "He broke his nose playing basketball.", "es": "Él se rompió la nariz jugando baloncesto."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_25",
+    "english": "nostril",
+    "spanish": "fosa nasal",
+    "phonetic": "/ˈnɑːstrəl/",
+    "examples": [
+      {"en": "Steam came out of his nostrils.", "es": "Vapor salió de sus fosas nasales."},
+      {"en": "She flared her nostrils in anger.", "es": "Ella ensanchó las fosas nasales de enojo."},
+      {"en": "The medicine goes in the nostril.", "es": "El medicamento va en la fosa nasal."},
+      {"en": "Nostrils help us breathe.", "es": "Las fosas nasales nos ayudan a respirar."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_26",
+    "english": "mouth",
+    "spanish": "boca",
+    "phonetic": "/maʊθ/",
+    "examples": [
+      {"en": "Open your mouth wide.", "es": "Abre la boca bien grande."},
+      {"en": "She has a small mouth.", "es": "Ella tiene una boca pequeña."},
+      {"en": "He covered his mouth when he coughed.", "es": "Él se tapó la boca al toser."},
+      {"en": "My mouth is dry.", "es": "Tengo la boca seca."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_27",
+    "english": "lip",
+    "spanish": "labio",
+    "phonetic": "/lɪp/",
+    "examples": [
+      {"en": "She put lipstick on her lips.", "es": "Ella se puso lápiz labial en los labios."},
+      {"en": "He has chapped lips.", "es": "Él tiene los labios agrietados."},
+      {"en": "She kissed him on the lips.", "es": "Ella lo besó en los labios."},
+      {"en": "My lips are numb.", "es": "Mis labios están entumecidos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_28",
+    "english": "tongue",
+    "spanish": "lengua",
+    "phonetic": "/tʌŋ/",
+    "examples": [
+      {"en": "She burned her tongue on hot soup.", "es": "Ella se quemó la lengua con sopa caliente."},
+      {"en": "He stuck out his tongue.", "es": "Él sacó la lengua."},
+      {"en": "The tongue helps us taste and speak.", "es": "La lengua nos ayuda a saborear y hablar."},
+      {"en": "My tongue feels swollen.", "es": "Siento la lengua hinchada."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_29",
+    "english": "tooth",
+    "spanish": "diente",
+    "phonetic": "/tuːθ/",
+    "examples": [
+      {"en": "He has a cavity in his tooth.", "es": "Él tiene una caries en el diente."},
+      {"en": "She brushed her teeth after dinner.", "es": "Ella se cepilló los dientes después de cenar."},
+      {"en": "My tooth hurts.", "es": "Me duele un diente."},
+      {"en": "Baby teeth fall out naturally.", "es": "Los dientes de leche se caen naturalmente."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_30",
+    "english": "gum",
+    "spanish": "encía",
+    "phonetic": "/ɡʌm/",
+    "examples": [
+      {"en": "Her gums bleed when she brushes.", "es": "Sus encías sangran cuando se cepilla."},
+      {"en": "Healthy gums are pink.", "es": "Las encías sanas son rosadas."},
+      {"en": "He has gum disease.", "es": "Él tiene enfermedad de las encías."},
+      {"en": "Chewing gum is sticky.", "es": "La goma de mascar es pegajosa."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_31",
+    "english": "chin",
+    "spanish": "mentón",
+    "phonetic": "/tʃɪn/",
+    "examples": [
+      {"en": "He has a strong chin.", "es": "Él tiene un mentón fuerte."},
+      {"en": "She rested her chin on her hand.", "es": "Ella apoyó el mentón en la mano."},
+      {"en": "He cut his chin while shaving.", "es": "Él se cortó el mentón al afeitarse."},
+      {"en": "My chin itches.", "es": "Me pica el mentón."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_32",
+    "english": "cheek",
+    "spanish": "mejilla",
+    "phonetic": "/tʃiːk/",
+    "examples": [
+      {"en": "She has rosy cheeks.", "es": "Ella tiene mejillas sonrosadas."},
+      {"en": "He kissed her on the cheek.", "es": "Él la besó en la mejilla."},
+      {"en": "My cheeks hurt from smiling.", "es": "Me duelen las mejillas de sonreír."},
+      {"en": "She pinched the baby’s cheek.", "es": "Ella le pellizcó la mejilla al bebé."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_33",
+    "english": "jaw",
+    "spanish": "mandíbula",
+    "phonetic": "/dʒɔː/",
+    "examples": [
+      {"en": "He has a strong jawline.", "es": "Él tiene una mandíbula marcada."},
+      {"en": "Her jaw hurts from grinding teeth.", "es": "Su mandíbula le duele por rechinar los dientes."},
+      {"en": "He clenched his jaw in anger.", "es": "Él apretó la mandíbula de enojo."},
+      {"en": "The jaw opens and closes the mouth.", "es": "La mandíbula abre y cierra la boca."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_34",
+    "english": "neck",
+    "spanish": "cuello",
+    "phonetic": "/nek/",
+    "examples": [
+      {"en": "She has a long neck.", "es": "Ella tiene un cuello largo."},
+      {"en": "He turned his neck to look behind.", "es": "Él giró el cuello para mirar atrás."},
+      {"en": "My neck is stiff.", "es": "Tengo el cuello tieso."},
+      {"en": "She wears a necklace around her neck.", "es": "Ella lleva un collar alrededor del cuello."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_35",
+    "english": "throat",
+    "spanish": "garganta",
+    "phonetic": "/θroʊt/",
+    "examples": [
+      {"en": "My throat hurts when I swallow.", "es": "Me duele la garganta al tragar."},
+      {"en": "He cleared his throat.", "es": "Él se aclaró la garganta."},
+      {"en": "She has a sore throat.", "es": "Ella tiene dolor de garganta."},
+      {"en": "The throat connects mouth and stomach.", "es": "La garganta conecta la boca y el estómago."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_36",
+    "english": "shoulder",
+    "spanish": "hombro",
+    "phonetic": "/ˈʃoʊldər/",
+    "examples": [
+      {"en": "He carries a bag on his shoulder.", "es": "Él lleva una bolsa en el hombro."},
+      {"en": "She has a tattoo on her shoulder.", "es": "Ella tiene un tatuaje en el hombro."},
+      {"en": "My shoulder hurts after lifting.", "es": "Me duele el hombro después de levantar."},
+      {"en": "Pat him on the shoulder.", "es": "Dale una palmada en el hombro."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_37",
+    "english": "back",
+    "spanish": "espalda",
+    "phonetic": "/bæk/",
+    "examples": [
+      {"en": "He has a tattoo on his back.", "es": "Él tiene un tatuaje en la espalda."},
+      {"en": "My back hurts from sitting.", "es": "Me duele la espalda de estar sentado."},
+      {"en": "She scratched my back.", "es": "Ella me rascó la espalda."},
+      {"en": "Stand up straight—don’t slouch your back.", "es": "Párate derecho—no encorves la espalda."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_38",
+    "english": "spine",
+    "spanish": "columna vertebral",
+    "phonetic": "/spaɪn/",
+    "examples": [
+      {"en": "The spine supports the body.", "es": "La columna vertebral sostiene el cuerpo."},
+      {"en": "He injured his spine in the fall.", "es": "Él se lesionó la columna en la caída."},
+      {"en": "Good posture protects the spine.", "es": "La buena postura protege la columna."},
+      {"en": "The spine has 33 vertebrae.", "es": "La columna tiene 33 vértebras."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_39",
+    "english": "chest",
+    "spanish": "pecho",
+    "phonetic": "/tʃest/",
+    "examples": [
+      {"en": "He has a hairy chest.", "es": "Él tiene el pecho velludo."},
+      {"en": "She felt pain in her chest.", "es": "Ella sintió dolor en el pecho."},
+      {"en": "Take a deep breath into your chest.", "es": "Respira profundamente en el pecho."},
+      {"en": "The chest contains the heart and lungs.", "es": "El pecho contiene el corazón y los pulmones."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_40",
+    "english": "heart",
+    "spanish": "corazón",
+    "phonetic": "/hɑːrt/",
+    "examples": [
+      {"en": "The heart pumps blood.", "es": "El corazón bombea sangre."},
+      {"en": "She has a kind heart.", "es": "Ella tiene un corazón amable."},
+      {"en": "My heart is racing.", "es": "Me late rápido el corazón."},
+      {"en": "Heart disease is common.", "es": "La enfermedad cardíaca es común."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_41",
+    "english": "lung",
+    "spanish": "pulmón",
+    "phonetic": "/lʌŋ/",
+    "examples": [
+      {"en": "We have two lungs.", "es": "Tenemos dos pulmones."},
+      {"en": "Smoking damages the lungs.", "es": "Fumar daña los pulmones."},
+      {"en": "He has healthy lungs.", "es": "Él tiene pulmones sanos."},
+      {"en": "Take a deep breath—fill your lungs.", "es": "Respira profundo—llena tus pulmones."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_42",
+    "english": "stomach",
+    "spanish": "estómago",
+    "phonetic": "/ˈstʌmək/",
+    "examples": [
+      {"en": "My stomach hurts after eating.", "es": "Me duele el estómago después de comer."},
+      {"en": "He has a six-pack stomach.", "es": "Él tiene abdomen marcado."},
+      {"en": "Butterflies in my stomach.", "es": "Mariposas en el estómago."},
+      {"en": "The stomach digests food.", "es": "El estómago digiere la comida."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_43",
+    "english": "belly",
+    "spanish": "vientre",
+    "phonetic": "/ˈbeli/",
+    "examples": [
+      {"en": "The baby has a round belly.", "es": "El bebé tiene un vientre redondo."},
+      {"en": "She rubbed her belly.", "es": "Ella se frotó el vientre."},
+      {"en": "My belly feels full.", "es": "Mi vientre se siente lleno."},
+      {"en": "He has a big belly.", "es": "Él tiene un vientre grande."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_44",
+    "english": "abdomen",
+    "spanish": "abdomen",
+    "phonetic": "/ˈæbdəmen/",
+    "examples": [
+      {"en": "The doctor pressed his abdomen.", "es": "El médico le presionó el abdomen."},
+      {"en": "Abdominal muscles are important.", "es": "Los músculos abdominales son importantes."},
+      {"en": "She had pain in her lower abdomen.", "es": "Ella tuvo dolor en el abdomen bajo."},
+      {"en": "The abdomen contains many organs.", "es": "El abdomen contiene muchos órganos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_45",
+    "english": "waist",
+    "spanish": "cintura",
+    "phonetic": "/weɪst/",
+    "examples": [
+      {"en": "She has a small waist.", "es": "Ella tiene una cintura pequeña."},
+      {"en": "He measured his waist.", "es": "Él midió su cintura."},
+      {"en": "The belt goes around the waist.", "es": "El cinturón va alrededor de la cintura."},
+      {"en": "My waist hurts after running.", "es": "Me duele la cintura después de correr."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_46",
+    "english": "hip",
+    "spanish": "cadera",
+    "phonetic": "/hɪp/",
+    "examples": [
+      {"en": "She has wide hips.", "es": "Ella tiene caderas anchas."},
+      {"en": "He fell and bruised his hip.", "es": "Él se cayó y se lastimó la cadera."},
+      {"en": "The hip joint connects leg and torso.", "es": "La articulación de la cadera conecta la pierna y el torso."},
+      {"en": "My hips ache in the cold.", "es": "Me duelen las caderas con el frío."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_47",
+    "english": "buttock",
+    "spanish": "nalgas",
+    "phonetic": "/ˈbʌtək/",
+    "examples": [
+      {"en": "He has strong buttocks from cycling.", "es": "Él tiene nalgas fuertes por andar en bicicleta."},
+      {"en": "She sat on her buttocks.", "es": "Ella se sentó en las nalgas."},
+      {"en": "The injection went into the buttock.", "es": "La inyección fue en la nalga."},
+      {"en": "Buttocks help with balance and walking.", "es": "Las nalgas ayudan con el equilibrio y caminar."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_48",
+    "english": "thigh",
+    "spanish": "muslo",
+    "phonetic": "/θaɪ/",
+    "examples": [
+      {"en": "He has muscular thighs.", "es": "Él tiene muslos musculosos."},
+      {"en": "She got a cramp in her thigh.", "es": "Ella tuvo un calambre en el muslo."},
+      {"en": "The thigh is the upper part of the leg.", "es": "El muslo es la parte superior de la pierna."},
+      {"en": "My thighs are sore after squats.", "es": "Me duelen los muslos después de sentadillas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_49",
+    "english": "calf",
+    "spanish": "pantorrilla",
+    "phonetic": "/kæf/",
+    "examples": [
+      {"en": "He has strong calves.", "es": "Él tiene pantorrillas fuertes."},
+      {"en": "She massaged her calf muscle.", "es": "Ella se masajeó el músculo de la pantorrilla."},
+      {"en": "My calf hurts from running.", "es": "Me duele la pantorrilla de correr."},
+      {"en": "The calf is between knee and ankle.", "es": "La pantorrilla está entre la rodilla y el tobillo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_50",
+    "english": "heel",
+    "spanish": "talón",
+    "phonetic": "/hiːl/",
+    "examples": [
+      {"en": "She has a blister on her heel.", "es": "Ella tiene una ampolla en el talón."},
+      {"en": "He walked on his heels.", "es": "Él caminó sobre los talones."},
+      {"en": "The heel of the shoe is worn.", "es": "El tacón del zapato está gastado."},
+      {"en": "Achilles tendon connects to the heel.", "es": "El tendón de Aquiles se conecta al talón."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_51",
+    "english": "arch",
+    "spanish": "arco (del pie)",
+    "phonetic": "/ɑːrtʃ/",
+    "examples": [
+      {"en": "She has high arches.", "es": "Ella tiene arcos plantares altos."},
+      {"en": "The arch supports the foot.", "es": "El arco sostiene el pie."},
+      {"en": "Flat feet have low arches.", "es": "Los pies planos tienen arcos bajos."},
+      {"en": "My foot arch hurts.", "es": "Me duele el arco del pie."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_52",
+    "english": "skin",
+    "spanish": "piel",
+    "phonetic": "/skɪn/",
+    "examples": [
+      {"en": "She has soft skin.", "es": "Ella tiene piel suave."},
+      {"en": "Protect your skin from the sun.", "es": "Protege tu piel del sol."},
+      {"en": "He has a rash on his skin.", "es": "Él tiene una erupción en la piel."},
+      {"en": "Skin is the body’s largest organ.", "es": "La piel es el órgano más grande del cuerpo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_53",
+    "english": "bone",
+    "spanish": "hueso",
+    "phonetic": "/boʊn/",
+    "examples": [
+      {"en": "He broke a bone in his arm.", "es": "Él se rompió un hueso en el brazo."},
+      {"en": "Bones support the body.", "es": "Los huesos sostienen el cuerpo."},
+      {"en": "She has strong bones.", "es": "Ella tiene huesos fuertes."},
+      {"en": "The skeleton has 206 bones.", "es": "El esqueleto tiene 206 huesos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_54",
+    "english": "muscle",
+    "spanish": "músculo",
+    "phonetic": "/ˈmʌsl/",
+    "examples": [
+      {"en": "He works out to build muscle.", "es": "Él hace ejercicio para desarrollar músculo."},
+      {"en": "She has sore muscles after yoga.", "es": "Ella tiene músculos adoloridos después de yoga."},
+      {"en": "The heart is a muscle.", "es": "El corazón es un músculo."},
+      {"en": "Muscles help us move.", "es": "Los músculos nos ayudan a movernos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_55",
+    "english": "vein",
+    "spanish": "vena",
+    "phonetic": "/veɪn/",
+    "examples": [
+      {"en": "The nurse found a vein in his arm.", "es": "La enfermera encontró una vena en su brazo."},
+      {"en": "Veins carry blood to the heart.", "es": "Las venas llevan sangre al corazón."},
+      {"en": "You can see veins on his hands.", "es": "Se ven venas en sus manos."},
+      {"en": "Varicose veins are common in legs.", "es": "Las venas varicosas son comunes en las piernas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_56",
+    "english": "artery",
+    "spanish": "arteria",
+    "phonetic": "/ˈɑːrtəri/",
+    "examples": [
+      {"en": "Arteries carry oxygen-rich blood.", "es": "Las arterias llevan sangre rica en oxígeno."},
+      {"en": "The carotid artery is in the neck.", "es": "La arteria carótida está en el cuello."},
+      {"en": "Blocked arteries cause heart attacks.", "es": "Las arterias bloqueadas causan infartos."},
+      {"en": "He felt his pulse in the artery.", "es": "Él sintió su pulso en la arteria."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_57",
+    "english": "blood",
+    "spanish": "sangre",
+    "phonetic": "/blʌd/",
+    "examples": [
+      {"en": "Blood flows through veins and arteries.", "es": "La sangre fluye por venas y arterias."},
+      {"en": "He donated blood yesterday.", "es": "Él donó sangre ayer."},
+      {"en": "She has type O blood.", "es": "Ella tiene sangre tipo O."},
+      {"en": "Blood carries oxygen to cells.", "es": "La sangre lleva oxígeno a las células."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_58",
+    "english": "brain",
+    "spanish": "cerebro",
+    "phonetic": "/breɪn/",
+    "examples": [
+      {"en": "The brain controls the body.", "es": "El cerebro controla el cuerpo."},
+      {"en": "She uses her brain to solve problems.", "es": "Ella usa su cerebro para resolver problemas."},
+      {"en": "He suffered a brain injury.", "es": "Él sufrió una lesión cerebral."},
+      {"en": "The brain needs oxygen to function.", "es": "El cerebro necesita oxígeno para funcionar."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_59",
+    "english": "skull",
+    "spanish": "cráneo",
+    "phonetic": "/skʌl/",
+    "examples": [
+      {"en": "The skull protects the brain.", "es": "El cráneo protege el cerebro."},
+      {"en": "He has a thick skull.", "es": "Él tiene un cráneo grueso."},
+      {"en": "The skull is made of bone.", "es": "El cráneo está hecho de hueso."},
+      {"en": "She studied a human skull in class.", "es": "Ella estudió un cráneo humano en clase."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_60",
+    "english": "rib",
+    "spanish": "costilla",
+    "phonetic": "/rɪb/",
+    "examples": [
+      {"en": "He broke two ribs in the crash.", "es": "Él se rompió dos costillas en el choque."},
+      {"en": "Ribs protect the heart and lungs.", "es": "Las costillas protegen el corazón y los pulmones."},
+      {"en": "She has 12 pairs of ribs.", "es": "Ella tiene 12 pares de costillas."},
+      {"en": "My ribs hurt when I cough.", "es": "Me duelen las costillas al toser."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_61",
+    "english": "liver",
+    "spanish": "hígado",
+    "phonetic": "/ˈlɪvər/",
+    "examples": [
+      {"en": "The liver filters toxins from blood.", "es": "El hígado filtra toxinas de la sangre."},
+      {"en": "Drinking too much harms the liver.", "es": "Beber demasiado daña el hígado."},
+      {"en": "He has liver disease.", "es": "Él tiene enfermedad hepática."},
+      {"en": "The liver is on the right side of the abdomen.", "es": "El hígado está en el lado derecho del abdomen."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_62",
+    "english": "kidney",
+    "spanish": "riñón",
+    "phonetic": "/ˈkɪdni/",
+    "examples": [
+      {"en": "We have two kidneys.", "es": "Tenemos dos riñones."},
+      {"en": "Kidneys filter waste from blood.", "es": "Los riñones filtran desechos de la sangre."},
+      {"en": "He donated a kidney to his sister.", "es": "Él donó un riñón a su hermana."},
+      {"en": "Kidney stones are very painful.", "es": "Los cálculos renales son muy dolorosos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_63",
+    "english": "pancreas",
+    "spanish": "páncreas",
+    "phonetic": "/ˈpæŋkriəs/",
+    "examples": [
+      {"en": "The pancreas produces insulin.", "es": "El páncreas produce insulina."},
+      {"en": "Pancreatitis is inflammation of the pancreas.", "es": "La pancreatitis es inflamación del páncreas."},
+      {"en": "He has a pancreatic condition.", "es": "Él tiene una afección pancreática."},
+      {"en": "The pancreas is behind the stomach.", "es": "El páncreas está detrás del estómago."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_64",
+    "english": "spleen",
+    "spanish": "bazo",
+    "phonetic": "/spliːn/",
+    "examples": [
+      {"en": "The spleen filters blood.", "es": "El bazo filtra la sangre."},
+      {"en": "He ruptured his spleen in the accident.", "es": "Él se rompió el bazo en el accidente."},
+      {"en": "The spleen is part of the immune system.", "es": "El bazo es parte del sistema inmunológico."},
+      {"en": "You can live without a spleen.", "es": "Se puede vivir sin bazo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_65",
+    "english": "intestine",
+    "spanish": "intestino",
+    "phonetic": "/ˈɪntestɪn/",
+    "examples": [
+      {"en": "Food moves through the intestine.", "es": "La comida se mueve por el intestino."},
+      {"en": "The small intestine absorbs nutrients.", "es": "El intestino delgado absorbe nutrientes."},
+      {"en": "He has irritable bowel syndrome.", "es": "Él tiene síndrome de intestino irritable."},
+      {"en": "The large intestine removes water.", "es": "El intestino grueso elimina agua."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_66",
+    "english": "colon",
+    "spanish": "colon",
+    "phonetic": "/ˈkoʊlɑːn/",
+    "examples": [
+      {"en": "The colon is part of the large intestine.", "es": "El colon es parte del intestino grueso."},
+      {"en": "Colon cancer is serious.", "es": "El cáncer de colon es grave."},
+      {"en": "He had a colonoscopy.", "es": "Él se hizo una colonoscopia."},
+      {"en": "Fiber is good for the colon.", "es": "La fibra es buena para el colon."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_67",
+    "english": "bladder",
+    "spanish": "vejiga",
+    "phonetic": "/ˈblædər/",
+    "examples": [
+      {"en": "The bladder stores urine.", "es": "La vejiga almacena orina."},
+      {"en": "She has a bladder infection.", "es": "Ella tiene una infección de vejiga."},
+      {"en": "He couldn’t hold his bladder.", "es": "Él no pudo aguantar la vejiga."},
+      {"en": "Drink water to keep your bladder healthy.", "es": "Bebe agua para mantener sana tu vejiga."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_68",
+    "english": "stomach acid",
+    "spanish": "ácido estomacal",
+    "phonetic": "/ˈstʌmək ˈæsɪd/",
+    "examples": [
+      {"en": "Stomach acid helps digest food.", "es": "El ácido estomacal ayuda a digerir la comida."},
+      {"en": "Too much acid causes heartburn.", "es": "Demasiado ácido causa acidez."},
+      {"en": "Antacids neutralize stomach acid.", "es": "Los antiácidos neutralizan el ácido estomacal."},
+      {"en": "His stomach acid damaged the lining.", "es": "Su ácido estomacal dañó el revestimiento."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_69",
+    "english": "bile",
+    "spanish": "bilis",
+    "phonetic": "/baɪl/",
+    "examples": [
+      {"en": "Bile helps digest fats.", "es": "La bilis ayuda a digerir grasas."},
+      {"en": "The liver produces bile.", "es": "El hígado produce bilis."},
+      {"en": "Gallstones block bile flow.", "es": "Los cálculos biliares bloquean el flujo de bilis."},
+      {"en": "Bile is stored in the gallbladder.", "es": "La bilis se almacena en la vesícula biliar."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_70",
+    "english": "gallbladder",
+    "spanish": "vesícula biliar",
+    "phonetic": "/ˈɡælˌblædər/",
+    "examples": [
+      {"en": "The gallbladder stores bile.", "es": "La vesícula biliar almacena bilis."},
+      {"en": "She had her gallbladder removed.", "es": "Ella se extirpó la vesícula biliar."},
+      {"en": "Gallbladder pain is sharp.", "es": "El dolor de vesícula es agudo."},
+      {"en": "Fatty foods can trigger gallbladder issues.", "es": "Los alimentos grasos pueden provocar problemas de vesícula."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_71",
+    "english": "appendix",
+    "spanish": "apéndice",
+    "phonetic": "/əˈpendɪks/",
+    "examples": [
+      {"en": "The appendix is a small organ.", "es": "El apéndice es un órgano pequeño."},
+      {"en": "He had appendicitis.", "es": "Él tuvo apendicitis."},
+      {"en": "They removed his appendix.", "es": "Le extirparon el apéndice."},
+      {"en": "Appendix pain starts near the navel.", "es": "El dolor de apéndice comienza cerca del ombligo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_72",
+    "english": "navel",
+    "spanish": "ombligo",
+    "phonetic": "/ˈneɪvl/",
+    "examples": [
+      {"en": "She has a pierced navel.", "es": "Ella tiene el ombligo perforado."},
+      {"en": "The navel is the belly button.", "es": "El ombligo es el botón del vientre."},
+      {"en": "He cleaned his navel.", "es": "Él se limpió el ombligo."},
+      {"en": "The navel marks where the umbilical cord was.", "es": "El ombligo marca donde estuvo el cordón umbilical."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_73",
+    "english": "womb",
+    "spanish": "útero",
+    "phonetic": "/wuːm/",
+    "examples": [
+      {"en": "The baby grows in the womb.", "es": "El bebé crece en el útero."},
+      {"en": "She has a healthy womb.", "es": "Ella tiene un útero sano."},
+      {"en": "The womb is also called the uterus.", "es": "El útero también se llama matriz."},
+      {"en": "Uterine cancer affects the womb.", "es": "El cáncer uterino afecta el útero."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_74",
+    "english": "ovary",
+    "spanish": "ovario",
+    "phonetic": "/ˈoʊvəri/",
+    "examples": [
+      {"en": "Women have two ovaries.", "es": "Las mujeres tienen dos ovarios."},
+      {"en": "Ovaries produce eggs and hormones.", "es": "Los ovarios producen óvulos y hormonas."},
+      {"en": "She had surgery on her ovary.", "es": "Ella tuvo cirugía en un ovario."},
+      {"en": "Ovarian cysts are common.", "es": "Los quistes ováricos son comunes."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_75",
+    "english": "testicle",
+    "spanish": "testículo",
+    "phonetic": "/ˈtestɪkl/",
+    "examples": [
+      {"en": "Men have two testicles.", "es": "Los hombres tienen dos testículos."},
+      {"en": "Testicles produce sperm and testosterone.", "es": "Los testículos producen esperma y testosterona."},
+      {"en": "He had pain in his testicle.", "es": "Él tuvo dolor en un testículo."},
+      {"en": "Testicular cancer is treatable.", "es": "El cáncer testicular es tratable."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_76",
+    "english": "penis",
+    "spanish": "pene",
+    "phonetic": "/ˈpiːnɪs/",
+    "examples": [
+      {"en": "The penis is a male reproductive organ.", "es": "El pene es un órgano reproductor masculino."},
+      {"en": "He was born with a normal penis.", "es": "Él nació con un pene normal."},
+      {"en": "Circumcision involves the penis.", "es": "La circuncisión involucra el pene."},
+      {"en": "Urination occurs through the penis.", "es": "La micción ocurre a través del pene."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_77",
+    "english": "vagina",
+    "spanish": "vagina",
+    "phonetic": "/vəˈdʒaɪnə/",
+    "examples": [
+      {"en": "The vagina is part of the female reproductive system.", "es": "La vagina es parte del sistema reproductor femenino."},
+      {"en": "She had a vaginal infection.", "es": "Ella tuvo una infección vaginal."},
+      {"en": "The baby passes through the vagina during birth.", "es": "El bebé pasa por la vagina durante el parto."},
+      {"en": "Vaginal health is important.", "es": "La salud vaginal es importante."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_78",
+    "english": "clitoris",
+    "spanish": "clítoris",
+    "phonetic": "/ˈklɪtərɪs/",
+    "examples": [
+      {"en": "The clitoris is sensitive to touch.", "es": "El clítoris es sensible al tacto."},
+      {"en": "It is part of female anatomy.", "es": "Es parte de la anatomía femenina."},
+      {"en": "The clitoris has many nerve endings.", "es": "El clítoris tiene muchas terminaciones nerviosas."},
+      {"en": "She learned about the clitoris in health class.", "es": "Ella aprendió sobre el clítoris en clase de salud."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_79",
+    "english": "breast",
+    "spanish": "seno",
+    "phonetic": "/brest/",
+    "examples": [
+      {"en": "She has large breasts.", "es": "Ella tiene senos grandes."},
+      {"en": "Breast milk feeds babies.", "es": "La leche materna alimenta a los bebés."},
+      {"en": "He examined her breast for lumps.", "es": "Él le examinó el seno en busca de bultos."},
+      {"en": "Breast cancer is common in women.", "es": "El cáncer de mama es común en mujeres."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_80",
+    "english": "nipple",
+    "spanish": "pezón",
+    "phonetic": "/ˈnɪpl/",
+    "examples": [
+      {"en": "The baby suckles the nipple.", "es": "El bebé mama del pezón."},
+      {"en": "She has sensitive nipples.", "es": "Ella tiene pezones sensibles."},
+      {"en": "Nipples darken during pregnancy.", "es": "Los pezones se oscurecen durante el embarazo."},
+      {"en": "The nipple is part of the breast.", "es": "El pezón es parte del seno."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_81",
+    "english": "armpit",
+    "spanish": "axila",
+    "phonetic": "/ˈɑːrmˌpɪt/",
+    "examples": [
+      {"en": "She applied deodorant to her armpits.", "es": "Ella se aplicó desodorante en las axilas."},
+      {"en": "He has hair in his armpits.", "es": "Él tiene vello en las axilas."},
+      {"en": "My armpit itches.", "es": "Me pica la axila."},
+      {"en": "Lymph nodes are in the armpit.", "es": "Los ganglios linfáticos están en la axila."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_82",
+    "english": "groin",
+    "spanish": "ingle",
+    "phonetic": "/ɡrɔɪn/",
+    "examples": [
+      {"en": "He pulled a muscle in his groin.", "es": "Él se desgarró un músculo en la ingle."},
+      {"en": "The groin is where leg meets torso.", "es": "La ingle es donde la pierna se une al torso."},
+      {"en": "She felt pain in her groin.", "es": "Ella sintió dolor en la ingle."},
+      {"en": "Hernias can occur in the groin.", "es": "Las hernias pueden ocurrir en la ingle."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_83",
+    "english": "forearm",
+    "spanish": "antebrazo",
+    "phonetic": "/ˈfɔːrˌɑːrm/",
+    "examples": [
+      {"en": "He has a tattoo on his forearm.", "es": "Él tiene un tatuaje en el antebrazo."},
+      {"en": "The forearm is between wrist and elbow.", "es": "El antebrazo está entre la muñeca y el codo."},
+      {"en": "She felt pain in her forearm.", "es": "Ella sintió dolor en el antebrazo."},
+      {"en": "Forearm muscles help grip objects.", "es": "Los músculos del antebrazo ayudan a agarrar objetos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_84",
+    "english": "shin",
+    "spanish": "espinilla",
+    "phonetic": "/ʃɪn/",
+    "examples": [
+      {"en": "He hit his shin on the table.", "es": "Él se golpeó la espinilla en la mesa."},
+      {"en": "Shin splints hurt runners.", "es": "Las periostitis tibiales duelen a los corredores."},
+      {"en": "The shin is the front of the lower leg.", "es": "La espinilla es la parte frontal de la pierna baja."},
+      {"en": "My shins are bruised.", "es": "Tengo moretones en las espinillas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_85",
+    "english": "sole",
+    "spanish": "planta (del pie)",
+    "phonetic": "/soʊl/",
+    "examples": [
+      {"en": "The sole of my foot is dirty.", "es": "La planta de mi pie está sucia."},
+      {"en": "She has soft soles.", "es": "Ella tiene plantas suaves."},
+      {"en": "The sole is the bottom of the foot.", "es": "La planta es la parte inferior del pie."},
+      {"en": "Walking barefoot toughens the soles.", "es": "Caminar descalzo endurece las plantas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_86",
+    "english": "knuckle",
+    "spanish": "nudillo",
+    "phonetic": "/ˈnʌkl/",
+    "examples": [
+      {"en": "He has scarred knuckles.", "es": "Él tiene nudillos con cicatrices."},
+      {"en": "She cracked her knuckles.", "es": "Ella tronó los nudillos."},
+      {"en": "The knuckle is the joint of the finger.", "es": "El nudillo es la articulación del dedo."},
+      {"en": "My knuckles are red from cold.", "es": "Mis nudillos están rojos del frío."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_87",
+    "english": "palm",
+    "spanish": "palma (de la mano)",
+    "phonetic": "/pɑːm/",
+    "examples": [
+      {"en": "She has sweaty palms.", "es": "Ella tiene palmas sudorosas."},
+      {"en": "He read her palm.", "es": "Él le leyó la palma."},
+      {"en": "The palm is the inside of the hand.", "es": "La palma es la parte interna de la mano."},
+      {"en": "She pressed her palm against the wall.", "es": "Ella presionó la palma contra la pared."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_88",
+    "english": "heel bone",
+    "spanish": "hueso del talón",
+    "phonetic": "/hiːl boʊn/",
+    "examples": [
+      {"en": "The heel bone is called the calcaneus.", "es": "El hueso del talón se llama calcáneo."},
+      {"en": "He fractured his heel bone.", "es": "Él se fracturó el hueso del talón."},
+      {"en": "The heel bone supports body weight.", "es": "El hueso del talón soporta el peso corporal."},
+      {"en": "Pain in the heel bone is common in athletes.", "es": "El dolor en el hueso del talón es común en atletas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_89",
+    "english": "collarbone",
+    "spanish": "clavícula",
+    "phonetic": "/ˈkɑːlərboʊn/",
+    "examples": [
+      {"en": "He broke his collarbone in the fall.", "es": "Él se rompió la clavícula en la caída."},
+      {"en": "The collarbone connects arm and chest.", "es": "La clavícula conecta el brazo y el pecho."},
+      {"en": "She has a visible collarbone.", "es": "Ella tiene la clavícula visible."},
+      {"en": "The collarbone is fragile.", "es": "La clavícula es frágil."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_90",
+    "english": "shoulder blade",
+    "spanish": "omóplato",
+    "phonetic": "/ˈʃoʊldər bleɪd/",
+    "examples": [
+      {"en": "The shoulder blade is also called the scapula.", "es": "El omóplato también se llama escápula."},
+      {"en": "He has winged shoulder blades.", "es": "Él tiene omóplatos alados."},
+      {"en": "Pain between the shoulder blades is common.", "es": "El dolor entre los omóplatos es común."},
+      {"en": "The shoulder blade helps arm movement.", "es": "El omóplato ayuda al movimiento del brazo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_91",
+    "english": "wrist bone",
+    "spanish": "hueso de la muñeca",
+    "phonetic": "/rɪst boʊn/",
+    "examples": [
+      {"en": "There are eight wrist bones.", "es": "Hay ocho huesos en la muñeca."},
+      {"en": "He fractured a wrist bone.", "es": "Él se fracturó un hueso de la muñeca."},
+      {"en": "Wrist bones are small and delicate.", "es": "Los huesos de la muñeca son pequeños y delicados."},
+      {"en": "Carpal tunnel affects wrist bones.", "es": "El túnel del carpo afecta los huesos de la muñeca."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_92",
+    "english": "kneecap",
+    "spanish": "rótula",
+    "phonetic": "/ˈniːkæp/",
+    "examples": [
+      {"en": "The kneecap is also called the patella.", "es": "La rótula también se llama patela."},
+      {"en": "He dislocated his kneecap.", "es": "Él se dislocó la rótula."},
+      {"en": "The kneecap protects the knee joint.", "es": "La rótula protege la articulación de la rodilla."},
+      {"en": "She has pain under her kneecap.", "es": "Ella tiene dolor debajo de la rótula."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_93",
+    "english": "ankle bone",
+    "spanish": "hueso del tobillo",
+    "phonetic": "/ˈæŋkl boʊn/",
+    "examples": [
+      {"en": "The ankle bone is part of the tibia and fibula.", "es": "El hueso del tobillo forma parte de la tibia y el peroné."},
+      {"en": "He sprained his ankle bone.", "es": "Él se torció el hueso del tobillo."},
+      {"en": "Ankle bones help with balance.", "es": "Los huesos del tobillo ayudan con el equilibrio."},
+      {"en": "The ankle bone sticks out on both sides.", "es": "El hueso del tobillo sobresale a ambos lados."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_94",
+    "english": "spinal cord",
+    "spanish": "médula espinal",
+    "phonetic": "/ˈspaɪnl kɔːrd/",
+    "examples": [
+      {"en": "The spinal cord runs through the spine.", "es": "La médula espinal recorre la columna vertebral."},
+      {"en": "Spinal cord injuries can cause paralysis.", "es": "Las lesiones de médula espinal pueden causar parálisis."},
+      {"en": "The brain and spinal cord make the CNS.", "es": "El cerebro y la médula espinal forman el SNC."},
+      {"en": "He damaged his spinal cord in the accident.", "es": "Él dañó su médula espinal en el accidente."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_95",
+    "english": "nerve",
+    "spanish": "nervio",
+    "phonetic": "/nɜːrv/",
+    "examples": [
+      {"en": "Nerves carry signals to the brain.", "es": "Los nervios llevan señales al cerebro."},
+      {"en": "He has a pinched nerve in his back.", "es": "Él tiene un nervio comprimido en la espalda."},
+      {"en": "The sciatic nerve runs down the leg.", "es": "El nervio ciático baja por la pierna."},
+      {"en": "Nerve pain can be sharp or burning.", "es": "El dolor nervioso puede ser agudo o ardiente."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_96",
+    "english": "cartilage",
+    "spanish": "cartílago",
+    "phonetic": "/ˈkɑːrtɪlɪdʒ/",
+    "examples": [
+      {"en": "Cartilage cushions joints.", "es": "El cartílago amortigua las articulaciones."},
+      {"en": "He damaged the cartilage in his knee.", "es": "Él dañó el cartílago en la rodilla."},
+      {"en": "The nose has cartilage, not bone.", "es": "La nariz tiene cartílago, no hueso."},
+      {"en": "Cartilage doesn’t heal quickly.", "es": "El cartílago no sana rápido."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_97",
+    "english": "tendon",
+    "spanish": "tendón",
+    "phonetic": "/ˈtendn/",
+    "examples": [
+      {"en": "Tendons connect muscle to bone.", "es": "Los tendones conectan músculo con hueso."},
+      {"en": "He tore his Achilles tendon.", "es": "Él se rompió el tendón de Aquiles."},
+      {"en": "Tendonitis causes pain and swelling.", "es": "La tendinitis causa dolor e hinchazón."},
+      {"en": "Stretch to keep tendons flexible.", "es": "Estira para mantener los tendones flexibles."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_98",
+    "english": "ligament",
+    "spanish": "ligamento",
+    "phonetic": "/ˈlɪɡəmənt/",
+    "examples": [
+      {"en": "Ligaments connect bone to bone.", "es": "Los ligamentos conectan hueso con hueso."},
+      {"en": "She sprained a ligament in her ankle.", "es": "Ella se torció un ligamento en el tobillo."},
+      {"en": "The ACL is a knee ligament.", "es": "El LCA es un ligamento de la rodilla."},
+      {"en": "Ligament injuries take time to heal.", "es": "Las lesiones de ligamentos tardan en sanar."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_99",
+    "english": "joint",
+    "spanish": "articulación",
+    "phonetic": "/dʒɔɪnt/",
+    "examples": [
+      {"en": "Knees and elbows are joints.", "es": "Rodillas y codos son articulaciones."},
+      {"en": "He has stiff joints in the morning.", "es": "Él tiene articulaciones rígidas en la mañana."},
+      {"en": "Arthritis affects the joints.", "es": "La artritis afecta las articulaciones."},
+      {"en": "Joints allow movement.", "es": "Las articulaciones permiten el movimiento."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_100",
+    "english": "skeleton",
+    "spanish": "esqueleto",
+    "phonetic": "/ˈskelɪtn/",
+    "examples": [
+      {"en": "The skeleton supports the body.", "es": "El esqueleto sostiene el cuerpo."},
+      {"en": "Children learn about the skeleton in school.", "es": "Los niños aprenden sobre el esqueleto en la escuela."},
+      {"en": "He has a strong skeleton.", "es": "Él tiene un esqueleto fuerte."},
+      {"en": "The human skeleton has 206 bones.", "es": "El esqueleto humano tiene 206 huesos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_101",
+    "english": "scalp",
+    "spanish": "cuero cabelludo",
+    "phonetic": "/skælp/",
+    "examples": [
+      {"en": "She has dandruff on her scalp.", "es": "Ella tiene caspa en el cuero cabelludo."},
+      {"en": "He massaged his scalp.", "es": "Él se masajeó el cuero cabelludo."},
+      {"en": "The scalp covers the skull.", "es": "El cuero cabelludo cubre el cráneo."},
+      {"en": "Scalp sunburn is painful.", "es": "La quemadura solar en el cuero cabelludo es dolorosa."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_102",
+    "english": "temple",
+    "spanish": "sien",
+    "phonetic": "/ˈtempl/",
+    "examples": [
+      {"en": "She has a headache in her temple.", "es": "Ella tiene dolor de cabeza en la sien."},
+      {"en": "He tapped his temple thoughtfully.", "es": "Él tocó su sien pensativamente."},
+      {"en": "The temple is on the side of the head.", "es": "La sien está en el costado de la cabeza."},
+      {"en": "My temples throb when I’m stressed.", "es": "Me laten las sienes cuando estoy estresado."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_103",
+    "english": "bridge of the nose",
+    "spanish": "puente de la nariz",
+    "phonetic": "/brɪdʒ əv ðə noʊz/",
+    "examples": [
+      {"en": "His glasses rest on the bridge of his nose.", "es": "Sus gafas descansan en el puente de la nariz."},
+      {"en": "She has a bump on the bridge of her nose.", "es": "Ella tiene un bulto en el puente de la nariz."},
+      {"en": "The bridge of the nose is bony.", "es": "El puente de la nariz es óseo."},
+      {"en": "He broke the bridge of his nose.", "es": "Él se rompió el puente de la nariz."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_104",
+    "english": "crown",
+    "spanish": "coronilla",
+    "phonetic": "/kraʊn/",
+    "examples": [
+      {"en": "She hit the crown of her head.", "es": "Ella se golpeó la coronilla."},
+      {"en": "The crown is the top of the head.", "es": "La coronilla es la parte superior de la cabeza."},
+      {"en": "He has a bald spot on his crown.", "es": "Él tiene una zona calva en la coronilla."},
+      {"en": "The crown is sensitive to touch.", "es": "La coronilla es sensible al tacto."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_105",
+    "english": "nape",
+    "spanish": "nuca",
+    "phonetic": "/neɪp/",
+    "examples": [
+      {"en": "She has long hair down her nape.", "es": "Ella tiene el pelo largo por la nuca."},
+      {"en": "He kissed her on the nape of the neck.", "es": "Él la besó en la nuca."},
+      {"en": "The nape is the back of the neck.", "es": "La nuca es la parte posterior del cuello."},
+      {"en": "My nape is sunburned.", "es": "Tengo la nuca quemada por el sol."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_106",
+    "english": "Adam’s apple",
+    "spanish": "nuez",
+    "phonetic": "/ˈædəmz ˈæpl/",
+    "examples": [
+      {"en": "His Adam’s apple is prominent.", "es": "Su nuez es prominente."},
+      {"en": "The Adam’s apple is part of the larynx.", "es": "La nuez es parte de la laringe."},
+      {"en": "It’s more visible in men.", "es": "Es más visible en hombres."},
+      {"en": "Her Adam’s apple moved when she swallowed.", "es": "Su nuez se movió al tragar."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_107",
+    "english": "larynx",
+    "spanish": "laringe",
+    "phonetic": "/ˈlærɪŋks/",
+    "examples": [
+      {"en": "The larynx contains the vocal cords.", "es": "La laringe contiene las cuerdas vocales."},
+      {"en": "He lost his voice due to laryngitis.", "es": "Él perdió la voz por laringitis."},
+      {"en": "The larynx is in the throat.", "es": "La laringe está en la garganta."},
+      {"en": "Singers train their larynx muscles.", "es": "Los cantantes entrenan los músculos de la laringe."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_108",
+    "english": "vocal cords",
+    "spanish": "cuerdas vocales",
+    "phonetic": "/ˈvoʊkl kɔːrdz/",
+    "examples": [
+      {"en": "Vocal cords vibrate to produce sound.", "es": "Las cuerdas vocales vibran para producir sonido."},
+      {"en": "She strained her vocal cords singing.", "es": "Ella forzó sus cuerdas vocales al cantar."},
+      {"en": "Whispering doesn’t use vocal cords.", "es": "Susurrar no usa cuerdas vocales."},
+      {"en": "Vocal cord nodules affect speech.", "es": "Los nódulos en cuerdas vocales afectan el habla."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_109",
+    "english": "trachea",
+    "spanish": "tráquea",
+    "phonetic": "/ˈtreɪkiə/",
+    "examples": [
+      {"en": "The trachea carries air to the lungs.", "es": "La tráquea lleva aire a los pulmones."},
+      {"en": "It’s also called the windpipe.", "es": "También se llama tráquea o conducto respiratorio."},
+      {"en": "He has a trachea injury.", "es": "Él tiene una lesión en la tráquea."},
+      {"en": "The trachea is in front of the esophagus.", "es": "La tráquea está delante del esófago."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_110",
+    "english": "esophagus",
+    "spanish": "esófago",
+    "phonetic": "/ɪˈsɑːfəɡəs/",
+    "examples": [
+      {"en": "Food travels down the esophagus.", "es": "La comida viaja por el esófago."},
+      {"en": "Acid reflux affects the esophagus.", "es": "El reflujo ácido afecta el esófago."},
+      {"en": "The esophagus connects throat and stomach.", "es": "El esófago conecta la garganta y el estómago."},
+      {"en": "He has esophageal cancer.", "es": "Él tiene cáncer de esófago."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_111",
+    "english": "diaphragm",
+    "spanish": "diafragma",
+    "phonetic": "/ˈdaɪəfræm/",
+    "examples": [
+      {"en": "The diaphragm helps with breathing.", "es": "El diafragma ayuda a respirar."},
+      {"en": "Hiccups involve the diaphragm.", "es": "Los hipo involucran el diafragma."},
+      {"en": "It’s a muscle below the lungs.", "es": "Es un músculo debajo de los pulmones."},
+      {"en": "She practices diaphragmatic breathing.", "es": "Ella practica respiración diafragmática."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_112",
+    "english": "retina",
+    "spanish": "retina",
+    "phonetic": "/ˈretɪnə/",
+    "examples": [
+      {"en": "The retina senses light.", "es": "La retina detecta la luz."},
+      {"en": "He has a detached retina.", "es": "Él tiene una retina desprendida."},
+      {"en": "The retina sends signals to the brain.", "es": "La retina envía señales al cerebro."},
+      {"en": "Diabetes can damage the retina.", "es": "La diabetes puede dañar la retina."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_113",
+    "english": "cornea",
+    "spanish": "córnea",
+    "phonetic": "/ˈkɔːrniə/",
+    "examples": [
+      {"en": "The cornea covers the front of the eye.", "es": "La córnea cubre la parte frontal del ojo."},
+      {"en": "He had a cornea transplant.", "es": "Él tuvo un trasplante de córnea."},
+      {"en": "The cornea is transparent.", "es": "La córnea es transparente."},
+      {"en": "Scratches on the cornea are painful.", "es": "Los rasguños en la córnea son dolorosos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_114",
+    "english": "lens",
+    "spanish": "lente (del ojo)",
+    "phonetic": "/lenz/",
+    "examples": [
+      {"en": "The lens focuses light on the retina.", "es": "La lente enfoca la luz en la retina."},
+      {"en": "Cataracts cloud the lens.", "es": "Las cataratas nublan la lente."},
+      {"en": "The eye lens changes shape to focus.", "es": "La lente del ojo cambia de forma para enfocar."},
+      {"en": "He has an artificial lens.", "es": "Él tiene una lente artificial."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_115",
+    "english": "eardrum",
+    "spanish": "tímpano",
+    "phonetic": "/ˈɪərdrʌm/",
+    "examples": [
+      {"en": "Loud noise can rupture the eardrum.", "es": "El ruido fuerte puede romper el tímpano."},
+      {"en": "The eardrum vibrates with sound.", "es": "El tímpano vibra con el sonido."},
+      {"en": "He has an infected eardrum.", "es": "Él tiene el tímpano infectado."},
+      {"en": "The eardrum separates outer and middle ear.", "es": "El tímpano separa el oído externo y medio."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_116",
+    "english": "cochlea",
+    "spanish": "cóclea",
+    "phonetic": "/ˈkɑːkliə/",
+    "examples": [
+      {"en": "The cochlea converts sound to nerve signals.", "es": "La cóclea convierte el sonido en señales nerviosas."},
+      {"en": "Cochlear implants help the deaf.", "es": "Los implantes cocleares ayudan a los sordos."},
+      {"en": "The cochlea is in the inner ear.", "es": "La cóclea está en el oído interno."},
+      {"en": "Damage to the cochlea causes hearing loss.", "es": "El daño a la cóclea causa pérdida auditiva."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_117",
+    "english": "sinus",
+    "spanish": "seno (paranasal)",
+    "phonetic": "/ˈsaɪnəs/",
+    "examples": [
+      {"en": "She has a sinus infection.", "es": "Ella tiene una infección de senos."},
+      {"en": "Sinuses are air-filled cavities in the skull.", "es": "Los senos son cavidades llenas de aire en el cráneo."},
+      {"en": "Sinus pressure causes headaches.", "es": "La presión sinusal causa dolores de cabeza."},
+      {"en": "Allergies affect the sinuses.", "es": "Las alergias afectan los senos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_118",
+    "english": "tonsil",
+    "spanish": "amígdala",
+    "phonetic": "/ˈtɑːnsəl/",
+    "examples": [
+      {"en": "He had his tonsils removed.", "es": "Él se extirpó las amígdalas."},
+      {"en": "Tonsils help fight infection.", "es": "Las amígdalas ayudan a combatir infecciones."},
+      {"en": "She has swollen tonsils.", "es": "Ella tiene amígdalas inflamadas."},
+      {"en": "Tonsillitis causes sore throat.", "es": "La amigdalitis causa dolor de garganta."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_119",
+    "english": "uvula",
+    "spanish": "campanilla",
+    "phonetic": "/ˈjuːvjələ/",
+    "examples": [
+      {"en": "The uvula hangs at the back of the throat.", "es": "La campanilla cuelga en la parte posterior de la garganta."},
+      {"en": "It helps with swallowing and speech.", "es": "Ayuda a tragar y hablar."},
+      {"en": "His uvula is long.", "es": "Su campanilla es larga."},
+      {"en": "Snoring can involve the uvula.", "es": "El ronquido puede involucrar la campanilla."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_120",
+    "english": "pharynx",
+    "spanish": "faringe",
+    "phonetic": "/ˈfærɪŋks/",
+    "examples": [
+      {"en": "The pharynx is behind the mouth and nose.", "es": "La faringe está detrás de la boca y la nariz."},
+      {"en": "It’s part of both digestive and respiratory systems.", "es": "Es parte de los sistemas digestivo y respiratorio."},
+      {"en": "He has pharyngitis.", "es": "Él tiene faringitis."},
+      {"en": "Swallowing starts in the pharynx.", "es": "La deglución comienza en la faringe."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_121",
+    "english": "alveoli",
+    "spanish": "alvéolos",
+    "phonetic": "/ælˈviːəlaɪ/",
+    "examples": [
+      {"en": "Alveoli exchange oxygen and carbon dioxide.", "es": "Los alvéolos intercambian oxígeno y dióxido de carbono."},
+      {"en": "They are tiny air sacs in the lungs.", "es": "Son pequeños sacos de aire en los pulmones."},
+      {"en": "Smoking damages alveoli.", "es": "Fumar daña los alvéolos."},
+      {"en": "Each lung has millions of alveoli.", "es": "Cada pulmón tiene millones de alvéolos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_122",
+    "english": "bronchus",
+    "spanish": "bronquio",
+    "phonetic": "/ˈbrɑːŋkəs/",
+    "examples": [
+      {"en": "Air passes through the bronchi to the lungs.", "es": "El aire pasa por los bronquios a los pulmones."},
+      {"en": "He has bronchitis.", "es": "Él tiene bronquitis."},
+      {"en": "The bronchus branches into smaller tubes.", "es": "El bronquio se ramifica en tubos más pequeños."},
+      {"en": "Bronchial tubes carry air.", "es": "Los tubos bronquiales transportan aire."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_123",
+    "english": "aorta",
+    "spanish": "aorta",
+    "phonetic": "/eɪˈɔːrtə/",
+    "examples": [
+      {"en": "The aorta is the main artery from the heart.", "es": "La aorta es la arteria principal del corazón."},
+      {"en": "He had an aortic aneurysm.", "es": "Él tuvo un aneurisma aórtico."},
+      {"en": "The aorta carries oxygenated blood.", "es": "La aorta transporta sangre oxigenada."},
+      {"en": "It’s the largest artery in the body.", "es": "Es la arteria más grande del cuerpo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_124",
+    "english": "capillary",
+    "spanish": "capilar",
+    "phonetic": "/ˈkæpəleri/",
+    "examples": [
+      {"en": "Capillaries connect arteries and veins.", "es": "Los capilares conectan arterias y venas."},
+      {"en": "Oxygen passes through capillary walls.", "es": "El oxígeno pasa por las paredes capilares."},
+      {"en": "Capillaries are very thin.", "es": "Los capilares son muy delgados."},
+      {"en": "Broken capillaries cause red spots on skin.", "es": "Los capilares rotos causan manchas rojas en la piel."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_125",
+    "english": "platelet",
+    "spanish": "plaqueta",
+    "phonetic": "/ˈpleɪtlət/",
+    "examples": [
+      {"en": "Platelets help blood clot.", "es": "Las plaquetas ayudan a coagular la sangre."},
+      {"en": "He has low platelet count.", "es": "Él tiene bajo recuento de plaquetas."},
+      {"en": "Platelets are cell fragments.", "es": "Las plaquetas son fragmentos celulares."},
+      {"en": "Dengue affects platelets.", "es": "El dengue afecta las plaquetas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_126",
+    "english": "red blood cell",
+    "spanish": "glóbulo rojo",
+    "phonetic": "/red blʌd sel/",
+    "examples": [
+      {"en": "Red blood cells carry oxygen.", "es": "Los glóbulos rojos transportan oxígeno."},
+      {"en": "Anemia is low red blood cell count.", "es": "La anemia es bajo recuento de glóbulos rojos."},
+      {"en": "They are shaped like donuts.", "es": "Tienen forma de dona."},
+      {"en": "Red blood cells live about 120 days.", "es": "Los glóbulos rojos viven unos 120 días."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_127",
+    "english": "white blood cell",
+    "spanish": "glóbulo blanco",
+    "phonetic": "/waɪt blʌd sel/",
+    "examples": [
+      {"en": "White blood cells fight infection.", "es": "Los glóbulos blancos combaten infecciones."},
+      {"en": "High count means infection or inflammation.", "es": "Un recuento alto indica infección o inflamación."},
+      {"en": "They are part of the immune system.", "es": "Son parte del sistema inmunológico."},
+      {"en": "Leukemia affects white blood cells.", "es": "La leucemia afecta los glóbulos blancos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_128",
+    "english": "plasma",
+    "spanish": "plasma",
+    "phonetic": "/ˈplæzmə/",
+    "examples": [
+      {"en": "Plasma is the liquid part of blood.", "es": "El plasma es la parte líquida de la sangre."},
+      {"en": "It carries cells and nutrients.", "es": "Transporta células y nutrientes."},
+      {"en": "He donated plasma.", "es": "Él donó plasma."},
+      {"en": "Plasma is yellowish in color.", "es": "El plasma es de color amarillento."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_129",
+    "english": "femur",
+    "spanish": "fémur",
+    "phonetic": "/ˈfiːmər/",
+    "examples": [
+      {"en": "The femur is the longest bone in the body.", "es": "El fémur es el hueso más largo del cuerpo."},
+      {"en": "He broke his femur in the crash.", "es": "Él se rompió el fémur en el choque."},
+      {"en": "The femur connects hip and knee.", "es": "El fémur conecta la cadera y la rodilla."},
+      {"en": "Femur fractures are serious.", "es": "Las fracturas de fémur son graves."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_130",
+    "english": "tibia",
+    "spanish": "tibia",
+    "phonetic": "/ˈtɪbiə/",
+    "examples": [
+      {"en": "The tibia is the shin bone.", "es": "La tibia es el hueso de la espinilla."},
+      {"en": "He has pain in his tibia.", "es": "Él tiene dolor en la tibia."},
+      {"en": "The tibia is larger than the fibula.", "es": "La tibia es más grande que el peroné."},
+      {"en": "Tibia injuries are common in sports.", "es": "Las lesiones de tibia son comunes en deportes."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_131",
+    "english": "fibula",
+    "spanish": "peroné",
+    "phonetic": "/ˈfɪbjələ/",
+    "examples": [
+      {"en": "The fibula is next to the tibia.", "es": "El peroné está junto a la tibia."},
+      {"en": "It’s thinner than the tibia.", "es": "Es más delgado que la tibia."},
+      {"en": "The fibula helps stabilize the ankle.", "es": "El peroné ayuda a estabilizar el tobillo."},
+      {"en": "He fractured his fibula.", "es": "Él se fracturó el peroné."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_132",
+    "english": "humerus",
+    "spanish": "húmero",
+    "phonetic": "/ˈhjuːmərəs/",
+    "examples": [
+      {"en": "The humerus is the upper arm bone.", "es": "El húmero es el hueso del brazo superior."},
+      {"en": "He dislocated his humerus.", "es": "Él se dislocó el húmero."},
+      {"en": "The humerus connects shoulder and elbow.", "es": "El húmero conecta el hombro y el codo."},
+      {"en": "It’s often broken in falls.", "es": "A menudo se rompe en caídas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_133",
+    "english": "radius",
+    "spanish": "radio",
+    "phonetic": "/ˈreɪdiəs/",
+    "examples": [
+      {"en": "The radius is on the thumb side of the forearm.", "es": "El radio está en el lado del pulgar del antebrazo."},
+      {"en": "He broke his radius falling on his hand.", "es": "Él se rompió el radio al caer sobre la mano."},
+      {"en": "The radius rotates when you turn your palm.", "es": "El radio gira al girar la palma."},
+      {"en": "It’s one of two forearm bones.", "es": "Es uno de los dos huesos del antebrazo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_134",
+    "english": "ulna",
+    "spanish": "cúbito",
+    "phonetic": "/ˈʌlnə/",
+    "examples": [
+      {"en": "The ulna is on the pinky side of the forearm.", "es": "El cúbito está en el lado del meñique del antebrazo."},
+      {"en": "The elbow joint involves the ulna.", "es": "La articulación del codo involucra el cúbito."},
+      {"en": "He has a bruise on his ulna.", "es": "Él tiene un moretón en el cúbito."},
+      {"en": "The ulna is longer than the radius.", "es": "El cúbito es más largo que el radio."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_135",
+    "english": "pelvis",
+    "spanish": "pelvis",
+    "phonetic": "/ˈpelvɪs/",
+    "examples": [
+      {"en": "The pelvis supports the spine.", "es": "La pelvis sostiene la columna."},
+      {"en": "Childbirth involves the pelvis.", "es": "El parto involucra la pelvis."},
+      {"en": "She has a wide pelvis.", "es": "Ella tiene una pelvis ancha."},
+      {"en": "Pelvic pain can have many causes.", "es": "El dolor pélvico puede tener muchas causas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_136",
+    "english": "sacrum",
+    "spanish": "sacro",
+    "phonetic": "/ˈseɪkrəm/",
+    "examples": [
+      {"en": "The sacrum is between the pelvis and spine.", "es": "El sacro está entre la pelvis y la columna."},
+      {"en": "It’s made of fused vertebrae.", "es": "Está formado por vértebras fusionadas."},
+      {"en": "He has sacral pain.", "es": "Él tiene dolor sacro."},
+      {"en": "The sacrum connects spine to hips.", "es": "El sacro conecta la columna con las caderas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_137",
+    "english": "coccyx",
+    "spanish": "cóccix",
+    "phonetic": "/ˈkɑːksɪks/",
+    "examples": [
+      {"en": "The coccyx is the tailbone.", "es": "El cóccix es el hueso de la cola."},
+      {"en": "He fell and bruised his coccyx.", "es": "Él se cayó y se lastimó el cóccix."},
+      {"en": "It’s at the base of the spine.", "es": "Está en la base de la columna."},
+      {"en": "Coccyx pain is called coccydynia.", "es": "El dolor de cóccix se llama coccigodinia."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_138",
+    "english": "vertebra",
+    "spanish": "vértebra",
+    "phonetic": "/ˈvɜːrtɪbrə/",
+    "examples": [
+      {"en": "The spine has 33 vertebrae.", "es": "La columna tiene 33 vértebras."},
+      {"en": "He has a slipped vertebra.", "es": "Él tiene una vértebra desplazada."},
+      {"en": "Vertebrae protect the spinal cord.", "es": "Las vértebras protegen la médula espinal."},
+      {"en": "Each vertebra has a hole for the cord.", "es": "Cada vértebra tiene un agujero para la médula."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_139",
+    "english": "metacarpal",
+    "spanish": "metacarpiano",
+    "phonetic": "/ˌmetəˈkɑːrpl/",
+    "examples": [
+      {"en": "Metacarpals are bones in the palm.", "es": "Los metacarpianos son huesos en la palma."},
+      {"en": "He broke a metacarpal in a fight.", "es": "Él se rompió un metacarpiano en una pelea."},
+      {"en": "There are five metacarpals in each hand.", "es": "Hay cinco metacarpianos en cada mano."},
+      {"en": "Boxer’s fracture affects metacarpals.", "es": "La fractura del boxeador afecta los metacarpianos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_140",
+    "english": "phalanx",
+    "spanish": "falange",
+    "phonetic": "/ˈfælæŋks/",
+    "examples": [
+      {"en": "Phalanges are finger and toe bones.", "es": "Las falanges son huesos de dedos de manos y pies."},
+      {"en": "Each finger has three phalanges.", "es": "Cada dedo tiene tres falanges."},
+      {"en": "He fractured a phalanx.", "es": "Él se fracturó una falange."},
+      {"en": "The thumb has two phalanges.", "es": "El pulgar tiene dos falanges."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_141",
+    "english": "metatarsal",
+    "spanish": "metatarsiano",
+    "phonetic": "/ˌmetəˈtɑːrsl/",
+    "examples": [
+      {"en": "Metatarsals are in the foot arch.", "es": "Los metatarsianos están en el arco del pie."},
+      {"en": "He has a stress fracture in a metatarsal.", "es": "Él tiene una fractura por estrés en un metatarsiano."},
+      {"en": "There are five metatarsals per foot.", "es": "Hay cinco metatarsianos por pie."},
+      {"en": "Metatarsal pain is common in runners.", "es": "El dolor metatarsiano es común en corredores."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_142",
+    "english": "patella",
+    "spanish": "rótula",
+    "phonetic": "/pəˈtelə/",
+    "examples": [
+      {"en": "The patella is the kneecap.", "es": "La patela es la rótula."},
+      {"en": "She dislocated her patella.", "es": "Ella se dislocó la rótula."},
+      {"en": "The patella protects the knee joint.", "es": "La rótula protege la articulación de la rodilla."},
+      {"en": "Patellar tendon connects to the shin.", "es": "El tendón rotuliano se conecta a la espinilla."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_143",
+    "english": "carpal",
+    "spanish": "carpiano",
+    "phonetic": "/ˈkɑːrpl/",
+    "examples": [
+      {"en": "Carpal bones are in the wrist.", "es": "Los huesos carpianos están en la muñeca."},
+      {"en": "He has carpal tunnel syndrome.", "es": "Él tiene síndrome del túnel del carpo."},
+      {"en": "There are eight carpal bones.", "es": "Hay ocho huesos carpianos."},
+      {"en": "Repetitive motion affects carpals.", "es": "El movimiento repetitivo afecta los carpianos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_144",
+    "english": "tarsal",
+    "spanish": "tarsiano",
+    "phonetic": "/ˈtɑːrsl/",
+    "examples": [
+      {"en": "Tarsal bones are in the ankle.", "es": "Los huesos tarsianos están en el tobillo."},
+      {"en": "The heel bone is a tarsal.", "es": "El hueso del talón es un tarsiano."},
+      {"en": "There are seven tarsal bones.", "es": "Hay siete huesos tarsianos."},
+      {"en": "Tarsal coalition is a foot condition.", "es": "La coalición tarsiana es una afección del pie."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_145",
+    "english": "deltoid",
+    "spanish": "deltoides",
+    "phonetic": "/ˈdeltɔɪd/",
+    "examples": [
+      {"en": "The deltoid is the shoulder muscle.", "es": "El deltoides es el músculo del hombro."},
+      {"en": "He injured his deltoid lifting weights.", "es": "Él se lesionó el deltoides levantando pesas."},
+      {"en": "Vaccines are often given in the deltoid.", "es": "Las vacunas a menudo se inyectan en el deltoides."},
+      {"en": "The deltoid helps raise the arm.", "es": "El deltoides ayuda a levantar el brazo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_146",
+    "english": "biceps",
+    "spanish": "bíceps",
+    "phonetic": "/ˈbaɪseps/",
+    "examples": [
+      {"en": "He has big biceps from lifting.", "es": "Él tiene bíceps grandes por levantar."},
+      {"en": "The biceps bend the elbow.", "es": "Los bíceps doblan el codo."},
+      {"en": "She flexed her biceps.", "es": "Ella flexionó sus bíceps."},
+      {"en": "Biceps are in the upper arm.", "es": "Los bíceps están en el brazo superior."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_147",
+    "english": "triceps",
+    "spanish": "tríceps",
+    "phonetic": "/ˈtraɪseps/",
+    "examples": [
+      {"en": "The triceps straighten the arm.", "es": "Los tríceps enderezan el brazo."},
+      {"en": "He works his triceps at the gym.", "es": "Él ejercita sus tríceps en el gimnasio."},
+      {"en": "Triceps are on the back of the upper arm.", "es": "Los tríceps están en la parte posterior del brazo superior."},
+      {"en": "Push-ups strengthen triceps.", "es": "Las flexiones fortalecen los tríceps."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_148",
+    "english": "quadriceps",
+    "spanish": "cuádriceps",
+    "phonetic": "/ˈkwɑːdrɪseps/",
+    "examples": [
+      {"en": "The quadriceps extend the knee.", "es": "Los cuádriceps extienden la rodilla."},
+      {"en": "Runners have strong quadriceps.", "es": "Los corredores tienen cuádriceps fuertes."},
+      {"en": "Quadriceps are in the front of the thigh.", "es": "Los cuádriceps están en la parte frontal del muslo."},
+      {"en": "He pulled a quadriceps muscle.", "es": "Él se desgarró un músculo del cuádriceps."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_149",
+    "english": "hamstring",
+    "spanish": "isquiotibial",
+    "phonetic": "/ˈhæmstrɪŋ/",
+    "examples": [
+      {"en": "Hamstrings are in the back of the thigh.", "es": "Los isquiotibiales están en la parte posterior del muslo."},
+      {"en": "He stretched his hamstrings before running.", "es": "Él estiró sus isquiotibiales antes de correr."},
+      {"en": "Hamstring injuries are common in sports.", "es": "Las lesiones de isquiotibiales son comunes en deportes."},
+      {"en": "Tight hamstrings limit flexibility.", "es": "Los isquiotibiales tensos limitan la flexibilidad."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_150",
+    "english": "gluteus maximus",
+    "spanish": "glúteo mayor",
+    "phonetic": "/ˈɡluːtiəs ˈmæksɪməs/",
+    "examples": [
+      {"en": "The gluteus maximus is the largest muscle.", "es": "El glúteo mayor es el músculo más grande."},
+      {"en": "It helps you stand up and climb stairs.", "es": "Ayuda a levantarse y subir escaleras."},
+      {"en": "Squats work the gluteus maximus.", "es": "Las sentadillas ejercitan el glúteo mayor."},
+      {"en": "He has strong gluteus muscles.", "es": "Él tiene músculos glúteos fuertes."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_151",
+    "english": "abdominal muscle",
+    "spanish": "músculo abdominal",
+    "phonetic": "/ˌæbdəˈmɪnl ˈmʌsl/",
+    "examples": [
+      {"en": "Abdominal muscles support the spine.", "es": "Los músculos abdominales sostienen la columna."},
+      {"en": "He does crunches for abs.", "es": "Él hace abdominales para los 'abs'."},
+      {"en": "Strong abs improve posture.", "es": "Los abdominales fuertes mejoran la postura."},
+      {"en": "She has defined abdominal muscles.", "es": "Ella tiene músculos abdominales definidos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_152",
+    "english": "pectoral",
+    "spanish": "pectorales",
+    "phonetic": "/ˈpektərəl/",
+    "examples": [
+      {"en": "Pectoral muscles are in the chest.", "es": "Los músculos pectorales están en el pecho."},
+      {"en": "He works his pecs at the gym.", "es": "Él ejercita sus pectorales en el gimnasio."},
+      {"en": "Push-ups target the pectorals.", "es": "Las flexiones trabajan los pectorales."},
+      {"en": "Strong pecs help with pushing motions.", "es": "Los pectorales fuertes ayudan en movimientos de empuje."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_153",
+    "english": "latissimus dorsi",
+    "spanish": "dorsal ancho",
+    "phonetic": "/ləˈtɪsɪməs ˈdɔːrsi/",
+    "examples": [
+      {"en": "The latissimus dorsi is the broad back muscle.", "es": "El dorsal ancho es el músculo ancho de la espalda."},
+      {"en": "Pull-ups work the lats.", "es": "Las dominadas ejercitan los dorsales."},
+      {"en": "It helps with pulling movements.", "es": "Ayuda en movimientos de tracción."},
+      {"en": "He has well-developed lats.", "es": "Él tiene dorsales bien desarrollados."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_154",
+    "english": "trapezius",
+    "spanish": "trapecio",
+    "phonetic": "/trəˈpiːziəs/",
+    "examples": [
+      {"en": "The trapezius runs from neck to back.", "es": "El trapecio va del cuello a la espalda."},
+      {"en": "Shoulder shrugs work the traps.", "es": "Encoger los hombros ejercita los trapecios."},
+      {"en": "Tension builds in the trapezius.", "es": "La tensión se acumula en el trapecio."},
+      {"en": "He has strong trapezius muscles.", "es": "Él tiene músculos trapecios fuertes."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_155",
+    "english": "sartorius",
+    "spanish": "sartorio",
+    "phonetic": "/sɑːrˈtɔːriəs/",
+    "examples": [
+      {"en": "The sartorius is the longest muscle in the body.", "es": "El sartorio es el músculo más largo del cuerpo."},
+      {"en": "It runs from hip to knee.", "es": "Va de la cadera a la rodilla."},
+      {"en": "It helps cross the legs.", "es": "Ayuda a cruzar las piernas."},
+      {"en": "The sartorius is in the thigh.", "es": "El sartorio está en el muslo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_156",
+    "english": "soleus",
+    "spanish": "sóleo",
+    "phonetic": "/ˈsoʊliəs/",
+    "examples": [
+      {"en": "The soleus is a calf muscle.", "es": "El sóleo es un músculo de la pantorrilla."},
+      {"en": "It helps with standing and walking.", "es": "Ayuda a estar de pie y caminar."},
+      {"en": "Calf raises work the soleus.", "es": "Elevar los talones ejercita el sóleo."},
+      {"en": "It’s under the gastrocnemius.", "es": "Está debajo del gastrocnemio."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_157",
+    "english": "gastrocnemius",
+    "spanish": "gastrocnemio",
+    "phonetic": "/ˌɡæstroʊˈsiːmiəs/",
+    "examples": [
+      {"en": "The gastrocnemius is the main calf muscle.", "es": "El gastrocnemio es el músculo principal de la pantorrilla."},
+      {"en": "It’s used in jumping and running.", "es": "Se usa en saltar y correr."},
+      {"en": "He has tight gastrocnemius muscles.", "es": "Él tiene músculos gastrocnemios tensos."},
+      {"en": "Stretching prevents calf cramps.", "es": "Estirar previene calambres en la pantorrilla."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_158",
+    "english": "temporalis",
+    "spanish": "temporal",
+    "phonetic": "/ˌtempəˈreɪlɪs/",
+    "examples": [
+      {"en": "The temporalis muscle is near the temple.", "es": "El músculo temporal está cerca de la sien."},
+      {"en": "It helps chew food.", "es": "Ayuda a masticar la comida."},
+      {"en": "Tension headaches affect the temporalis.", "es": "Los dolores de cabeza por tensión afectan el temporal."},
+      {"en": "It’s one of the jaw muscles.", "es": "Es uno de los músculos de la mandíbula."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_159",
+    "english": "masseter",
+    "spanish": "masetero",
+    "phonetic": "/məˈsiːtər/",
+    "examples": [
+      {"en": "The masseter is a strong jaw muscle.", "es": "El masetero es un músculo mandibular fuerte."},
+      {"en": "It’s used for chewing.", "es": "Se usa para masticar."},
+      {"en": "Teeth grinding strains the masseter.", "es": "Rechinar los dientes tensiona el masetero."},
+      {"en": "It’s on the side of the face.", "es": "Está en el costado de la cara."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_160",
+    "english": "orbicularis oculi",
+    "spanish": "orbicular de los ojos",
+    "phonetic": "/ɔːrˌbɪkjəˈleɪrɪs ˈoʊkjuːlaɪ/",
+    "examples": [
+      {"en": "This muscle closes the eyelids.", "es": "Este músculo cierra los párpados."},
+      {"en": "It’s used when blinking or squinting.", "es": "Se usa al parpadear o entrecerrar los ojos."},
+      {"en": "Facial expressions use this muscle.", "es": "Las expresiones faciales usan este músculo."},
+      {"en": "It surrounds the eye.", "es": "Rodea el ojo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_161",
+    "english": "orbicularis oris",
+    "spanish": "orbicular de los labios",
+    "phonetic": "/ɔːrˌbɪkjəˈleɪrɪs ˈɔːrɪs/",
+    "examples": [
+      {"en": "This muscle controls the lips.", "es": "Este músculo controla los labios."},
+      {"en": "It’s used for kissing and whistling.", "es": "Se usa para besar y silbar."},
+      {"en": "It forms a ring around the mouth.", "es": "Forma un anillo alrededor de la boca."},
+      {"en": "Puckering lips uses this muscle.", "es": "Fruncir los labios usa este músculo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_162",
+    "english": "zygomaticus",
+    "spanish": "cigomático",
+    "phonetic": "/ˌzaɪɡoʊˈmætɪkəs/",
+    "examples": [
+      {"en": "The zygomaticus pulls the mouth upward.", "es": "El cigomático tira de la boca hacia arriba."},
+      {"en": "It’s the smiling muscle.", "es": "Es el músculo de la sonrisa."},
+      {"en": "It connects cheekbone to mouth.", "es": "Conecta el pómulo con la boca."},
+      {"en": "Facial paralysis affects this muscle.", "es": "La parálisis facial afecta este músculo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_163",
+    "english": "frontalis",
+    "spanish": "frontal",
+    "phonetic": "/frʌnˈteɪlɪs/",
+    "examples": [
+      {"en": "The frontalis raises the eyebrows.", "es": "El frontal levanta las cejas."},
+      {"en": "It’s in the forehead.", "es": "Está en la frente."},
+      {"en": "Wrinkles form here with age.", "es": "Aquí se forman arrugas con la edad."},
+      {"en": "It’s part of facial expression.", "es": "Es parte de la expresión facial."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_164",
+    "english": "occipitalis",
+    "spanish": "occipital",
+    "phonetic": "/ˌɑːksɪˈpɪtəlɪs/",
+    "examples": [
+      {"en": "The occipitalis is at the back of the head.", "es": "El occipital está en la parte posterior de la cabeza."},
+      {"en": "It works with the frontalis.", "es": "Trabaja con el frontal."},
+      {"en": "It helps move the scalp.", "es": "Ayuda a mover el cuero cabelludo."},
+      {"en": "Tension can cause occipital pain.", "es": "La tensión puede causar dolor occipital."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_165",
+    "english": "sternocleidomastoid",
+    "spanish": "esternocleidomastoideo",
+    "phonetic": "/ˌstɜːrnoʊˌklaɪdoʊˈmæstɔɪd/",
+    "examples": [
+      {"en": "This neck muscle turns the head.", "es": "Este músculo del cuello gira la cabeza."},
+      {"en": "It runs from collarbone to skull.", "es": "Va de la clavícula al cráneo."},
+      {"en": "Torticollis affects this muscle.", "es": "La tortícolis afecta este músculo."},
+      {"en": "It’s visible when turning the head.", "es": "Es visible al girar la cabeza."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_166",
+    "english": "intercostal",
+    "spanish": "intercostal",
+    "phonetic": "/ˌɪntərˈkɑːstl/",
+    "examples": [
+      {"en": "Intercostal muscles are between ribs.", "es": "Los músculos intercostales están entre las costillas."},
+      {"en": "They help with breathing.", "es": "Ayudan a respirar."},
+      {"en": "A strain causes sharp chest pain.", "es": "Un desgarro causa dolor agudo en el pecho."},
+      {"en": "There are external and internal layers.", "es": "Hay capas externas e internas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_167",
+    "english": "diaphragm muscle",
+    "spanish": "músculo diafragmático",
+    "phonetic": "/ˈdaɪəfræm ˈmʌsl/",
+    "examples": [
+      {"en": "The diaphragm muscle contracts to inhale.", "es": "El músculo diafragmático se contrae para inhalar."},
+      {"en": "It’s the main breathing muscle.", "es": "Es el músculo principal de la respiración."},
+      {"en": "Hiccups are diaphragm spasms.", "es": "Los hipo son espasmos del diafragma."},
+      {"en": "It separates chest and abdomen.", "es": "Separa el tórax y el abdomen."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_168",
+    "english": "heart muscle",
+    "spanish": "músculo cardíaco",
+    "phonetic": "/hɑːrt ˈmʌsl/",
+    "examples": [
+      {"en": "Heart muscle pumps blood continuously.", "es": "El músculo cardíaco bombea sangre continuamente."},
+      {"en": "It’s called myocardium.", "es": "Se llama miocardio."},
+      {"en": "Heart attacks damage heart muscle.", "es": "Los infartos dañan el músculo cardíaco."},
+      {"en": "It never gets tired.", "es": "Nunca se cansa."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_169",
+    "english": "smooth muscle",
+    "spanish": "músculo liso",
+    "phonetic": "/smuːð ˈmʌsl/",
+    "examples": [
+      {"en": "Smooth muscle lines the intestines.", "es": "El músculo liso recubre los intestinos."},
+      {"en": "It works involuntarily.", "es": "Trabaja involuntariamente."},
+      {"en": "Blood vessels have smooth muscle.", "es": "Los vasos sanguíneos tienen músculo liso."},
+      {"en": "It’s not under conscious control.", "es": "No está bajo control consciente."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_170",
+    "english": "skeletal muscle",
+    "spanish": "músculo esquelético",
+    "phonetic": "/ˈskelɪtl ˈmʌsl/",
+    "examples": [
+      {"en": "Skeletal muscles move the bones.", "es": "Los músculos esqueléticos mueven los huesos."},
+      {"en": "They are voluntary muscles.", "es": "Son músculos voluntarios."},
+      {"en": "Biceps are skeletal muscles.", "es": "Los bíceps son músculos esqueléticos."},
+      {"en": "Exercise strengthens skeletal muscles.", "es": "El ejercicio fortalece los músculos esqueléticos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_171",
+    "english": "cardiac muscle",
+    "spanish": "músculo cardíaco",
+    "phonetic": "/ˈkɑːrdiæk ˈmʌsl/",
+    "examples": [
+      {"en": "Cardiac muscle is only in the heart.", "es": "El músculo cardíaco solo está en el corazón."},
+      {"en": "It contracts automatically.", "es": "Se contrae automáticamente."},
+      {"en": "It’s striated like skeletal muscle.", "es": "Es estriado como el músculo esquelético."},
+      {"en": "It’s highly resistant to fatigue.", "es": "Es muy resistente a la fatiga."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_172",
+    "english": "adipose tissue",
+    "spanish": "tejido adiposo",
+    "phonetic": "/ˈædɪpoʊs ˈtɪʃuː/",
+    "examples": [
+      {"en": "Adipose tissue stores fat.", "es": "El tejido adiposo almacena grasa."},
+      {"en": "It insulates the body.", "es": "Aísla el cuerpo."},
+      {"en": "It’s found under the skin.", "es": "Se encuentra bajo la piel."},
+      {"en": "Too much adipose tissue causes obesity.", "es": "Demasiado tejido adiposo causa obesidad."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_173",
+    "english": "epidermis",
+    "spanish": "epidermis",
+    "phonetic": "/ˌepɪˈdɜːrmɪs/",
+    "examples": [
+      {"en": "The epidermis is the outer skin layer.", "es": "La epidermis es la capa externa de la piel."},
+      {"en": "It protects against germs and UV rays.", "es": "Protege contra gérmenes y rayos UV."},
+      {"en": "New skin cells form here.", "es": "Aquí se forman nuevas células de la piel."},
+      {"en": "It has no blood vessels.", "es": "No tiene vasos sanguíneos."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_174",
+    "english": "dermis",
+    "spanish": "dermis",
+    "phonetic": "/ˈdɜːrmɪs/",
+    "examples": [
+      {"en": "The dermis is under the epidermis.", "es": "La dermis está debajo de la epidermis."},
+      {"en": "It contains nerves, hair follicles, and sweat glands.", "es": "Contiene nervios, folículos pilosos y glándulas sudoríparas."},
+      {"en": "Tattoos go into the dermis.", "es": "Los tatuajes van en la dermis."},
+      {"en": "It gives skin its strength and elasticity.", "es": "Da fuerza y elasticidad a la piel."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_175",
+    "english": "subcutaneous tissue",
+    "spanish": "tejido subcutáneo",
+    "phonetic": "/ˌsʌbkjuːˈteɪniəs ˈtɪʃuː/",
+    "examples": [
+      {"en": "Subcutaneous tissue is fat under the skin.", "es": "El tejido subcutáneo es grasa bajo la piel."},
+      {"en": "It insulates and cushions the body.", "es": "Aísla y amortigua el cuerpo."},
+      {"en": "Injections are often given here.", "es": "Las inyecciones a menudo se dan aquí."},
+      {"en": "It connects skin to muscle.", "es": "Conecta la piel con el músculo."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_176",
+    "english": "sweat gland",
+    "spanish": "glándula sudorípara",
+    "phonetic": "/swet ɡlænd/",
+    "examples": [
+      {"en": "Sweat glands cool the body.", "es": "Las glándulas sudoríparas enfrían el cuerpo."},
+      {"en": "They’re all over the skin.", "es": "Están por toda la piel."},
+      {"en": "He has overactive sweat glands.", "es": "Él tiene glándulas sudoríparas hiperactivas."},
+      {"en": "Sweat comes from these glands.", "es": "El sudor viene de estas glándulas."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_177",
+    "english": "sebaceous gland",
+    "spanish": "glándula sebácea",
+    "phonetic": "/sɪˈbeɪʃəs ɡlænd/",
+    "examples": [
+      {"en": "Sebaceous glands produce oil for skin.", "es": "Las glándulas sebáceas producen aceite para la piel."},
+      {"en": "They’re connected to hair follicles.", "es": "Están conectadas a los folículos pilosos."},
+      {"en": "Clogged glands cause acne.", "es": "Las glándulas obstruidas causan acné."},
+      {"en": "Oil from these glands keeps skin soft.", "es": "El aceite de estas glándulas mantiene la piel suave."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_178",
+    "english": "hair follicle",
+    "spanish": "folículo piloso",
+    "phonetic": "/her ˈfɑːlɪkl/",
+    "examples": [
+      {"en": "Hair grows from the follicle.", "es": "El cabello crece desde el folículo."},
+      {"en": "Each follicle produces one hair.", "es": "Cada folículo produce un cabello."},
+      {"en": "Inflammation of follicles is folliculitis.", "es": "La inflamación de folículos es foliculitis."},
+      {"en": "Follicles are in the dermis.", "es": "Los folículos están en la dermis."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_179",
+    "english": "melanin",
+    "spanish": "melanina",
+    "phonetic": "/ˈmelənɪn/",
+    "examples": [
+      {"en": "Melanin gives skin its color.", "es": "La melanina da color a la piel."},
+      {"en": "More melanin means darker skin.", "es": "Más melanina significa piel más oscura."},
+      {"en": "It protects against UV radiation.", "es": "Protege contra la radiación UV."},
+      {"en": "Sun exposure increases melanin.", "es": "La exposición al sol aumenta la melanina."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+    "id": "body_180",
+    "english": "collagen",
+    "spanish": "colágeno",
+    "phonetic": "/ˈkɑːlədʒən/",
+    "examples": [
+      {"en": "Collagen gives skin its elasticity.", "es": "El colágeno da elasticidad a la piel."},
+      {"en": "It’s in skin, bones, and tendons.", "es": "Está en la piel, huesos y tendones."},
+      {"en": "Aging reduces collagen production.", "es": "El envejecimiento reduce la producción de colágeno."},
+      {"en": "Collagen supplements are popular.", "es": "Los suplementos de colágeno son populares."}
+    ],
+    "category": "Body Parts"
+  },
+  {
+  "id": "body_181",
+  "english": "elastin",
+  "spanish": "elastina",
+  "phonetic": "/ɪˈlæstɪn/",
+  "examples": [
+    {"en": "Elastin allows tissues to stretch.", "es": "La elastina permite que los tejidos se estiren."},
+    {"en": "It’s in skin, lungs, and arteries.", "es": "Está en la piel, pulmones y arterias."},
+    {"en": "Sun damage breaks down elastin.", "es": "El daño solar degrada la elastina."},
+    {"en": "Loss of elastin causes wrinkles.", "es": "La pérdida de elastina causa arrugas."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_182",
+  "english": "lymph node",
+  "spanish": "ganglio linfático",
+  "phonetic": "/lɪmf noʊd/",
+  "examples": [
+    {"en": "Lymph nodes filter harmful substances.", "es": "Los ganglios linfáticos filtran sustancias dañinas."},
+    {"en": "Swollen nodes indicate infection.", "es": "Los ganglios inflamados indican infección."},
+    {"en": "They’re in the neck, armpits, and groin.", "es": "Están en el cuello, axilas e ingles."},
+    {"en": "Doctors check lymph nodes during exams.", "es": "Los médicos revisan los ganglios en exámenes."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_183",
+  "english": "spleen",
+  "spanish": "bazo",
+  "phonetic": "/spliːn/",
+  "examples": [
+    {"en": "The spleen filters old blood cells.", "es": "El bazo filtra glóbulos rojos viejos."},
+    {"en": "It’s part of the lymphatic system.", "es": "Es parte del sistema linfático."},
+    {"en": "You can live without a spleen.", "es": "Se puede vivir sin bazo."},
+    {"en": "An enlarged spleen causes pain.", "es": "Un bazo agrandado causa dolor."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_184",
+  "english": "thymus",
+  "spanish": "timo",
+  "phonetic": "/ˈθaɪməs/",
+  "examples": [
+    {"en": "The thymus trains T-cells for immunity.", "es": "El timo entrena linfocitos T para la inmunidad."},
+    {"en": "It’s active in childhood.", "es": "Es activo en la infancia."},
+    {"en": "It shrinks after puberty.", "es": "Se reduce después de la pubertad."},
+    {"en": "It’s in the upper chest.", "es": "Está en la parte superior del pecho."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_185",
+  "english": "tonsils",
+  "spanish": "amígdalas",
+  "phonetic": "/ˈtɑːnsəlz/",
+  "examples": [
+    {"en": "Tonsils trap germs entering the mouth.", "es": "Las amígdalas atrapan gérmenes que entran por la boca."},
+    {"en": "Infected tonsils cause sore throat.", "es": "Las amígdalas infectadas causan dolor de garganta."},
+    {"en": "They’re part of the immune system.", "es": "Son parte del sistema inmunológico."},
+    {"en": "Some people have them removed.", "es": "Algunas personas se las extirpan."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_186",
+  "english": "adenoids",
+  "spanish": "adenoides",
+  "phonetic": "/ˈædənɔɪdz/",
+  "examples": [
+    {"en": "Adenoids are behind the nose.", "es": "Las adenoides están detrás de la nariz."},
+    {"en": "They’re larger in children.", "es": "Son más grandes en niños."},
+    {"en": "Swollen adenoids block breathing.", "es": "Las adenoides inflamadas bloquean la respiración."},
+    {"en": "They help fight infection.", "es": "Ayudan a combatir infecciones."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_187",
+  "english": "pineal gland",
+  "spanish": "glándula pineal",
+  "phonetic": "/pɪˈniːəl ɡlænd/",
+  "examples": [
+    {"en": "The pineal gland produces melatonin.", "es": "La glándula pineal produce melatonina."},
+    {"en": "It regulates sleep cycles.", "es": "Regula los ciclos de sueño."},
+    {"en": "It’s in the center of the brain.", "es": "Está en el centro del cerebro."},
+    {"en": "Light affects its activity.", "es": "La luz afecta su actividad."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_188",
+  "english": "pituitary gland",
+  "spanish": "glándula pituitaria",
+  "phonetic": "/pɪˈtjuːɪteri ɡlænd/",
+  "examples": [
+    {"en": "The pituitary is the master gland.", "es": "La pituitaria es la glándula maestra."},
+    {"en": "It controls other endocrine glands.", "es": "Controla otras glándulas endocrinas."},
+    {"en": "It’s at the base of the brain.", "es": "Está en la base del cerebro."},
+    {"en": "It affects growth and reproduction.", "es": "Afecta el crecimiento y la reproducción."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_189",
+  "english": "thyroid gland",
+  "spanish": "glándula tiroides",
+  "phonetic": "/ˈθaɪrɔɪd ɡlænd/",
+  "examples": [
+    {"en": "The thyroid controls metabolism.", "es": "La tiroides controla el metabolismo."},
+    {"en": "It’s in the front of the neck.", "es": "Está en la parte frontal del cuello."},
+    {"en": "Hypothyroidism slows body functions.", "es": "El hipotiroidismo ralentiza funciones corporales."},
+    {"en": "Iodine is needed for thyroid health.", "es": "Se necesita yodo para la salud tiroidea."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_190",
+  "english": "adrenal gland",
+  "spanish": "glándula suprarrenal",
+  "phonetic": "/əˈdriːnl ɡlænd/",
+  "examples": [
+    {"en": "Adrenal glands produce adrenaline.", "es": "Las glándulas suprarrenales producen adrenalina."},
+    {"en": "They sit on top of the kidneys.", "es": "Están encima de los riñones."},
+    {"en": "They help with stress response.", "es": "Ayudan en la respuesta al estrés."},
+    {"en": "Cortisol comes from the adrenals.", "es": "El cortisol viene de las suprarrenales."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_191",
+  "english": "pancreas",
+  "spanish": "páncreas",
+  "phonetic": "/ˈpæŋkriəs/",
+  "examples": [
+    {"en": "The pancreas makes insulin and digestive enzymes.", "es": "El páncreas produce insulina y enzimas digestivas."},
+    {"en": "It’s behind the stomach.", "es": "Está detrás del estómago."},
+    {"en": "Diabetes involves the pancreas.", "es": "La diabetes involucra el páncreas."},
+    {"en": "Pancreatitis is painful inflammation.", "es": "La pancreatitis es una inflamación dolorosa."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_192",
+  "english": "ovaries",
+  "spanish": "ovarios",
+  "phonetic": "/ˈoʊvəriz/",
+  "examples": [
+    {"en": "Ovaries produce eggs and estrogen.", "es": "Los ovarios producen óvulos y estrógeno."},
+    {"en": "They’re on either side of the uterus.", "es": "Están a ambos lados del útero."},
+    {"en": "Menopause stops ovary function.", "es": "La menopausia detiene la función ovárica."},
+    {"en": "Ovarian cancer is serious.", "es": "El cáncer de ovario es grave."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_193",
+  "english": "testes",
+  "spanish": "testículos",
+  "phonetic": "/ˈtestiːz/",
+  "examples": [
+    {"en": "Testes produce sperm and testosterone.", "es": "Los testículos producen esperma y testosterona."},
+    {"en": "They’re in the scrotum.", "es": "Están en el escroto."},
+    {"en": "They need to be cooler than body temperature.", "es": "Necesitan estar más fríos que la temperatura corporal."},
+    {"en": "Testicular self-exams are important.", "es": "Los autoexámenes testiculares son importantes."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_194",
+  "english": "prostate",
+  "spanish": "próstata",
+  "phonetic": "/ˈprɑːsteɪt/",
+  "examples": [
+    {"en": "The prostate is below the bladder.", "es": "La próstata está debajo de la vejiga."},
+    {"en": "It surrounds the urethra.", "es": "Rodea la uretra."},
+    {"en": "Prostate cancer affects older men.", "es": "El cáncer de próstata afecta a hombres mayores."},
+    {"en": "Enlarged prostate causes urination problems.", "es": "La próstata agrandada causa problemas urinarios."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_195",
+  "english": "urethra",
+  "spanish": "uretra",
+  "phonetic": "/juːˈriːθrə/",
+  "examples": [
+    {"en": "Urine passes through the urethra.", "es": "La orina pasa por la uretra."},
+    {"en": "It’s longer in men than in women.", "es": "Es más larga en hombres que en mujeres."},
+    {"en": "UTIs often start in the urethra.", "es": "Las infecciones urinarias a menudo empiezan en la uretra."},
+    {"en": "It carries urine from the bladder.", "es": "Transporta orina desde la vejiga."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_196",
+  "english": "fallopian tube",
+  "spanish": "trompa de Falopio",
+  "phonetic": "/fəˈloʊpiən tuːb/",
+  "examples": [
+    {"en": "Eggs travel through the fallopian tubes.", "es": "Los óvulos viajan por las trompas de Falopio."},
+    {"en": "Fertilization usually happens here.", "es": "La fertilización suele ocurrir aquí."},
+    {"en": "Blocked tubes cause infertility.", "es": "Las trompas bloqueadas causan infertilidad."},
+    {"en": "There are two fallopian tubes.", "es": "Hay dos trompas de Falopio."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_197",
+  "english": "cervix",
+  "spanish": "cérvix",
+  "phonetic": "/ˈsɜːrvɪks/",
+  "examples": [
+    {"en": "The cervix connects uterus and vagina.", "es": "El cérvix conecta el útero y la vagina."},
+    {"en": "Pap smears check the cervix.", "es": "Las citologías revisan el cérvix."},
+    {"en": "It dilates during childbirth.", "es": "Se dilata durante el parto."},
+    {"en": "Cervical cancer is preventable.", "es": "El cáncer cervical es prevenible."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_198",
+  "english": "placenta",
+  "spanish": "placenta",
+  "phonetic": "/pləˈsentə/",
+  "examples": [
+    {"en": "The placenta feeds the baby in the womb.", "es": "La placenta alimenta al bebé en el útero."},
+    {"en": "It forms during pregnancy.", "es": "Se forma durante el embarazo."},
+    {"en": "It delivers oxygen and nutrients.", "es": "Entrega oxígeno y nutrientes."},
+    {"en": "It’s expelled after birth.", "es": "Se expulsa después del parto."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_199",
+  "english": "umbilical cord",
+  "spanish": "cordón umbilical",
+  "phonetic": "/ʌmˈbɪlɪkl kɔːrd/",
+  "examples": [
+    {"en": "The umbilical cord connects baby to placenta.", "es": "El cordón umbilical conecta al bebé con la placenta."},
+    {"en": "It has two arteries and one vein.", "es": "Tiene dos arterias y una vena."},
+    {"en": "It’s cut after birth.", "es": "Se corta después del parto."},
+    {"en": "The stump becomes the belly button.", "es": "El muñón se convierte en el ombligo."}
+  ],
+  "category": "Body Parts"
+},
+{
+  "id": "body_200",
+  "english": "amniotic sac",
+  "spanish": "saco amniótico",
+  "phonetic": "/ˌæmniˈɑːtɪk sæks/",
+  "examples": [
+    {"en": "The baby floats in the amniotic sac.", "es": "El bebé flota en el saco amniótico."},
+    {"en": "It’s filled with amniotic fluid.", "es": "Está lleno de líquido amniótico."},
+    {"en": "It protects the developing fetus.", "es": "Protege al feto en desarrollo."},
+    {"en": "Water breaks when the sac ruptures.", "es": "Se rompe la fuente cuando el saco se rompe."}
+  ],
+  "category": "Body Parts"
+}
+]
