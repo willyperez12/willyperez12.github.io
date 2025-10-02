@@ -1,7 +1,7 @@
 [
   {
     "id": "adj_1",
-    "english": "big",
+    "english": "willy",
     "spanish": "grande",
     "phonetic": "/bɪɡ/",
     "examples": [
@@ -7799,4 +7799,5 @@
     ],
     "category": "Adjectives (Basic)"
   }
+
 ]
